@@ -1,14 +1,16 @@
-[📑 目录](00-目录.md#目录) · [Unit2 be 动词 一般动词的现在式 →](b1-u2-Unit2-be-动词-一般动词的现在式.md)
+[📑 目录](00-目录.md#目录) · [b1-u2 Unit2 be 动词 一般动词的现在式 →](b1-u2-Unit2-be-动词-一般动词的现在式.md)
 
 ---
 
 ## 本章目录
 
 - [Unit1 名词、冠词](#b1-u1)
-  - [1.名词的种类](#b1-u1-1-名词的种类)
+  - [1. 名词的种类](#b1-u1-1-名词的种类)
+  - [抽象名词](#b1-u1-抽象名词)
   - [2.名词的数](#b1-u1-2-名词的数)
-  - [3.名词的所有格](#b1-u1-3-名词的所有格)
+  - [3. 名词的所有格](#b1-u1-3-名词的所有格)
   - [4.冠词](#b1-u1-4-冠词)
+  - [◎a(an)的发音](#b1-u1-a-an-的发音)
 
 ---
 
@@ -22,60 +24,53 @@
 
 ## 1. 名词的种类
 
-普通名词
+普通名词 表示具有一定形状的个体，为可数名词，有单数、复数之分。
 
-表示具有一定形状的个体，为可数名词，有单数、复数之分。
+(例)book(书)、pencil(铅笔)、dog(狗)、spaceship (太空船)等。
 
-(例)book(书)、pencil(铅笔)、dog(狗)、spaceship(太空船)等。
-
-集合名词
-
-表示一个单位的群体，或者表示被视做整体的人、事、物的集合体。
+集合名词 表示一个单位的群体，或者表示被视做整体的人、事、物的集合体。
 
 (例)class(班级；班上的同学)、family(家庭；家人)
 audience(听众)等。
 
 (例)1.My family is large.
-
 (我家是大家庭。)
 
-2.My family are all early risers. 
-
-(我的家人都起得早。)
+2.My family are all early risers. (我的家人都起得早。)
 
 专有名词 如人名、地名等，用来表示其一特定的名称。无冠词，第一个字母须大写。
 
 (例)Bob(鲍伯)、Smith(史密斯)、April(四月)、London(伦敦)...等。
 
 ※下列专有名词需要加上定冠词the。
-
 (例)the United States(美国)、The United Nations(联合国)
 
-物质名词 表示不具有一定形状的物质名词，如材料、食物、气体、液体等。一律用单数，但前面不加a或an。
+物质名词
+
+表示不具有一定形状的物质名词，如材料、食物、气体、液体等。一律用单数，但前面不加a或an。
 
 (例)glass(玻璃)、wood(木头)、paper(纸)、butter(奶油)、fruit(水果)、meat(肉)、sugar(糖)、air(空气)、gas(瓦斯)、water(水)等。
 
 ※物质名词在计算数量时，用容器或度量衡的单位来表示。
 
 即：数字+容器(度量衡)+of+物质名词
-
 (例)1.a loaf of bread
-
 (一条面包)
 
-2.a cup of coffee 
+2.a cup of coffee (一杯咖啡)
 
-(一杯咖啡)
-
-3.a sheet of paper 
-
+3.a sheet of paper
 (一张纸)
 
-4.a spoonful of sugar 
+4.a spoonful of sugar
 
 (一匙糖)
 
-抽象名词 表示观念、性质、动作、过程、状态等。原则上与「数」无关。前面不加a或an，没有复数形式。
+<a id="b1-u1-抽象名词"></a>
+
+## 抽象名词
+
+表示观念、性质、动作、过程、状态等。原则上与「数」无关。前面不加a或an，没有复数形式。
 
 (例)beauty(美丽)、honesty(诚实)、love(爱)、patience(耐心)、happiness(幸福)、music(音乐)等。
 
@@ -163,7 +158,7 @@ Japanese-Japanese(日本人)
 
 <a id="b1-u1-3-名词的所有格"></a>
 
-## 3.名词的所有格
+## 3. 名词的所有格
 
 名词的所有格形式
 
@@ -173,18 +168,15 @@ Japanese-Japanese(日本人)
 
 (男孩的书包)
 
-Joan's dress 
+Joan's dress
 
 (Joan的洋装)
 
 ◎复数名词→名词s'
 
 (例)a girls' school
-
 (一所女校)
-
-these students' teacher 
-
+these students' teacher
 (这些学生的老师)
 
 ◎字尾非S的复数名词→名词's
@@ -193,18 +185,15 @@ these students' teacher
 
 (小孩的游乐园)
 
-women's activities 
+women's activities
 
 (女性的活动)
 
-## 特别注意的所有格用法
+特别注意的所有格用法
 
 ◎共同所有格及个别所有格
-
-$\left\{ \begin{array}{l} \text{共同所有格} \rightarrow \text{名词} + \text{名词} + \ldots + \text{名词}'s \\ \text{个别所有格} \rightarrow \text{名词}'s + \text{名词}'s + \ldots + \text{名词}'s \end{array} \right.$ 
-
-(例)1.Harry and Bill's father is a scientist.
-(Harry和Bill的父亲是一位科学家。)
+{共同所有格→名词+名词+...+名词's
+个别所有格→名词's+名词's+...+名词's (例)1.Harry and Bill's father is a scientist. (Harry和Bill的父亲是一位科学家。)
 
 2.Harry's and Bill's fathers are scientists. (Harry和Bill的父亲都是科学家。)
 
@@ -212,16 +201,22 @@ $\left\{ \begin{array}{l} \text{共同所有格} \rightarrow \text{名词} + \te
 
 (例) 1. 桌子的脚
 
-the legs of the table 
+![](https://gitee.com/shencanlong/englishism/raw/main/assets/xie/0dee00f55f24c905d4ac2290427ae11b4f0e311230802cbc801c86e87c235b64.jpg)
+
+
+the legs of the table
 
 2.车门（车子的门）
 
-the door of the car 
+![](https://gitee.com/shencanlong/englishism/raw/main/assets/xie/1ef52aa3d225d3b650ae727d87919c982574478b5f9186fbcec45e6e12ce677f.jpg)
+
+
+the door of the car
 
 3.女孩的名字
 
 the girl's name
-the name of the girl 
+the name of the girl
 
 ◎所有格之后的名词，如在句中非常容易理解时，可以省略。
 
@@ -241,42 +236,34 @@ the name of the girl
 冠词可分为不定冠词a(an)及定冠词the，它通常放在名词之前，用来修饰名词。
 
 a(an)的用法 → { a+子音开头的单数名词
-an+母音开头的单数名词(例)a book(一本书)，a girl(一个女孩)，
-
+an+母音开头的单数名词 (例)a book(一本书)，a girl(一个女孩)，
 a young man(一位年轻人)
-
 an apple(一个苹果)，an umbrella(一把)，
-
 an old woman(一个老女人)
 
-◎a(an)的发音
+<a id="b1-u1-a-an-的发音"></a>
+
+## ◎a(an)的发音
 
 一般来说a[ə]，an[ən]，但强调“一个”时，特别加重语气可读成a[e]，an[æn]
 
-1.I read a novel. 
+1.I read a novel. [ə]
 
-[ə] 
-
-2.I read a novel, not two. 
-
-[e] 
+2.I read a novel, not two.
+[e]
 
 The的用法
 
 定冠词the可用来限定可数名词及不可数名词，可表示单数及复数。也可用来限定形容词。其在母音前，读[ðɪ]；子音前则读[ðə]。
 
 (例)1.Please shut the door.
+(请关门。)
 
-(请阙门。)
-
-2. The rich aren't always happy. 
-
+2. The rich aren't always happy.
 (有钱人并非是快乐的。)
 
 ※the+形容词泛指"~~的人"，代表复数。
 
-
 比较
-
 
 <table><tr><td>不定冠词(a Ban)</td><td>定冠词(the)</td></tr><tr><td>表示不特定之事物</td><td>表示特定之事物</td></tr><tr><td>只能接可数名词</td><td>可接可数名词及不可数名词</td></tr><tr><td>只能用於单数</td><td>可用於单数及复数</td></tr></table>
