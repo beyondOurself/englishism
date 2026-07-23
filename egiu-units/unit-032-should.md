@@ -52,7 +52,7 @@ B: Yes, I think you should.
 
 □ Do you think I should buy this hat?
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/460bf1485210fcac.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/460bf1485210fcac.jpg)
 
 
 □ What time do you think we should go home?
@@ -85,7 +85,7 @@ eat go take visit watch wear
 
 ## 32.2 用 He/She shouldn't ... so ... 句式写出图片中人物的情况。
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/932aa38104a6c8dc.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/932aa38104a6c8dc.jpg)
 
 
 ## 32.3 假设在下列情形下，你向一位朋友请教。用 Do you think I should ... ?句式写出你的问题。
@@ -116,7 +116,7 @@ You ask your friend: ....
 4 I don't think
 5 I think I should
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/8a95d8484e56238a.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/8a95d8484e56238a.jpg)
 
 
 I have to (do something) 表示 “我必须或有义务（做某事）”：

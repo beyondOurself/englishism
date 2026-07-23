@@ -10,14 +10,14 @@
 
 ## look at ...
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/9a06e0a36022c6dd.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/9a06e0a36022c6dd.jpg)
 
 
 look for ...
 
 (寻找)
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/d07ce5a56cc2e32c.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/d07ce5a56cc2e32c.jpg)
 
 
 (照顾，看管)
@@ -62,7 +62,7 @@ wait → Unit 54 介词 + -ing → Unit 112
 
 ## 113.1 看图并用介词 to/for/at 等完成句子。
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/b14e3c6873550613.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/b14e3c6873550613.jpg)
 
 
 1 She's looking at her watch. 4 Paul is talking Jane.

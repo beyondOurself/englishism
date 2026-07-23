@@ -23,7 +23,7 @@ the centre / the station / the airport / the town hall 等 (of a town)
 
 □ I'd like to speak to the manager, please. (= the manager of this shop 等)
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/d458ace06cf65a23.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/d458ace06cf65a23.jpg)
 
 
 ## 69.1 用 a/an 或 the 填空。
@@ -56,7 +56,7 @@ B: Yes, that's ____ good idea.
 
 airport cup dictionary door floor picture
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/5b9781df269194a5.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/5b9781df269194a5.jpg)
 
 
 ## 69.3 改正下列错句，在必要处填入 a/an 或 the。

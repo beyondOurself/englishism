@@ -6,7 +6,7 @@
 
 ## every
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/962d6b4d331421da.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/962d6b4d331421da.jpg)
 
 
 Every house in the street is the same.
@@ -43,7 +43,7 @@ every day 表示 “每天”
 
 how often?
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/c7bc867736fac0dc.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/c7bc867736fac0dc.jpg)
 
 
 all day 表示 “一整天”
@@ -52,7 +52,7 @@ EVERY DAY
 
 ☐ It rained every day last week.
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/18d7a359110999a4.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/18d7a359110999a4.jpg)
 
 
 □ Bill watches TV for about two hours every evening. (= on all evenings)
@@ -178,4 +178,4 @@ the children / the money / these books 等（特指）:
 
 ## most / most of ..., some / some of ... 等
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/5a78dd564035000c.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/5a78dd564035000c.jpg)

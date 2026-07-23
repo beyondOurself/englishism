@@ -51,22 +51,22 @@ by → Units 21, 63, 109 at/on → Units 103, 106–107 介词 + -ing → Unit 1
 
 ## 66.2 看图完成句子。
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/48aa0da8e162282a.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/48aa0da8e162282a.jpg)
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/1765d41ec3318815.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/1765d41ec3318815.jpg)
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/44bc376330cbda8c.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/44bc376330cbda8c.jpg)
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/e04271b5177028fc.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/e04271b5177028fc.jpg)
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/889d97e88d9ff2c4.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/889d97e88d9ff2c4.jpg)
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/fdd53f17bc2a9370.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/fdd53f17bc2a9370.jpg)
 
 
 ## 66.3 判断下列句子的对错。如有错误，请改正。

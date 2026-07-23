@@ -66,4 +66,4 @@ B: No, but Sandra ____ . She went there on holiday last year.
 
 I'm writing a book.
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/fe501949ac0fdde0.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/fe501949ac0fdde0.jpg)

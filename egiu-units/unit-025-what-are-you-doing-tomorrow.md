@@ -6,7 +6,7 @@
 
 ## What are you doing tomorrow?
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/7d5753d512fc9efa.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/7d5753d512fc9efa.jpg)
 
 
 They are playing tennis (now).
@@ -15,7 +15,7 @@ today is Sunday
 
 I'm playing tennis tomorrow.
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/8315fddaf98fd92f.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/8315fddaf98fd92f.jpg)
 
 
 He is playing tennis tomorrow.
@@ -43,7 +43,7 @@ I am doing something tomorrow 表示 “我已安排好明天要做某事 / 我�
 
 也可说 I'm going to do something (参见 Unit 26)。
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/53845679abecb364.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/53845679abecb364.jpg)
 
 
 要注意，不用一般现在时 (I stay / do you go 等) 表示计划与安排：
@@ -78,7 +78,7 @@ I am doing something tomorrow 表示 “我已安排好明天要做某事 / 我�
 
 25.1 下图中的这些人下周五将做些什么？
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/f3d84352cafb8ecc.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/f3d84352cafb8ecc.jpg)
 
 
 1 Andrew is playing tennis on Friday.

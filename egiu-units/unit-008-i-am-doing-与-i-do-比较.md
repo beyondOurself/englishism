@@ -10,10 +10,10 @@
 
 8.1 根据图片回答问题。
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/0c46e314032f7cd9.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/0c46e314032f7cd9.jpg)
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/2a6b232bab70702c.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/2a6b232bab70702c.jpg)
 
 
 Does he take photographs? Yes, he does.
@@ -23,14 +23,14 @@ He's having a bath.
 
 Is she driving a bus? .. Does she drive a bus? What is she doing?
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/1805b5192dec5306.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/1805b5192dec5306.jpg)
 
 
 Does he clean windows? .....
 Is he cleaning a window? .....
 What is he doing?
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/1d134efdf28b862f.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/1d134efdf28b862f.jpg)
 
 
 Are they teaching?

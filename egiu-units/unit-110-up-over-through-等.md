@@ -8,19 +8,19 @@
 
 ## up, over, through 等
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/06135c844e315c65.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/06135c844e315c65.jpg)
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/4001cd0760b2f855.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/4001cd0760b2f855.jpg)
 
 
 into (in)
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/dd9137037a523346.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/dd9137037a523346.jpg)
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/dd0a95bda793d02f.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/dd0a95bda793d02f.jpg)
 
 
 □ Jane is going to France next week.
@@ -33,7 +33,7 @@ into (in)
 
 □ A man came out of the house and got into a car.
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/783036a0be8001c0.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/783036a0be8001c0.jpg)
 
 
 out of
@@ -51,34 +51,34 @@ out of
 □ Be careful! Don't fall off your bicycle.
 □ We got on the bus in Princes Street.
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/e64e90ee358592b3.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/e64e90ee358592b3.jpg)
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/11a8bec1df356f3d.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/11a8bec1df356f3d.jpg)
 
 
 □ We walked up the hill to the house.
 □ Be careful! Don't fall down the stairs.
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/252da92d3a2e131f.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/252da92d3a2e131f.jpg)
 
 
 □ The plane flew over the mountains.
 
 □ I jumped over the wall into the garden.
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/73ac4651575e7943.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/73ac4651575e7943.jpg)
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/9629686adcf2af9c.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/9629686adcf2af9c.jpg)
 
 
 ☐ Some people say it is unlucky to walk under a ladder.
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/0d0c47972d36de67.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/0d0c47972d36de67.jpg)
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/de0ed4d74ff8c8dd.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/de0ed4d74ff8c8dd.jpg)
 
 
 □ A bird flew into the room through a window.
@@ -87,12 +87,12 @@ out of
 
 ☐ The new road goes round the village.
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/1c386e51bc13ddb4.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/1c386e51bc13ddb4.jpg)
 
 
 ☐ The bus stop is just round the corner.
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/6368b4e1acee47fb.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/6368b4e1acee47fb.jpg)
 
 
 ☐ I walked round the town and took some photographs.
@@ -100,12 +100,12 @@ out of
 也可以用 around 代替 round:
 □ We walked around the town.
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/2b122c22225c651f.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/2b122c22225c651f.jpg)
 
 
 □ I was walking along the road with my dog.
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/087531a2b3cae39b.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/087531a2b3cae39b.jpg)
 
 
 □ Let's go for a walk along the river.
@@ -122,20 +122,20 @@ round the town
 
 B: Go along this road, past the cinema, under the bridge and the hospital is on the left.
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/2a47234c26daf61a.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/2a47234c26daf61a.jpg)
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/909f3d28da8db699.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/909f3d28da8db699.jpg)
 
 
 110.1 有人向你问路。根据下列图片，用 Go ... 句式为他指路。
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/e8b2e847e128bbba.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/e8b2e847e128bbba.jpg)
 
 
 ## 110.2 看图并用介词完成句子。
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/e131b3d5af459d92.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/e131b3d5af459d92.jpg)
 
 
 1 The dog swam across the river. 6 Suddenly a car came the corner.

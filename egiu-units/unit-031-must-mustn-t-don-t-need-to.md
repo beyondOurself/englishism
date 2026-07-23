@@ -120,4 +120,4 @@ E We don't need to stay until the end.
 
 You shouldn't watch TV so much.
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/5755e09720fc273a.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/5755e09720fc273a.jpg)

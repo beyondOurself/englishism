@@ -14,7 +14,7 @@
 
 I can't either / neither can I → Unit 42
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/adf2f06e7022a209.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/adf2f06e7022a209.jpg)
 
 
 ## Exercises
@@ -54,10 +54,10 @@ B: ____. It doesn't matter which one.
 
 ## 82.3 下图中的两个人对问题的回答是相同的。根据他们的回答，用 Both/Neither of them ... 句式造句。
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/e52f93b9729346b2.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/e52f93b9729346b2.jpg)
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/683a93eab5e4ddd7.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/683a93eab5e4ddd7.jpg)
 
 
 1 Are you married? No No →
@@ -78,22 +78,22 @@ B: ____. It doesn't matter which one.
 
 9 Are you interested in No No sport?
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/598a3eb3b010342c.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/598a3eb3b010342c.jpg)
 
 
 a lot of money
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/3e4bd1d59bcd87d4.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/3e4bd1d59bcd87d4.jpg)
 
 
 not much money
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/8592904b5cca45ee.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/8592904b5cca45ee.jpg)
 
 
 a lot of books
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/1b2420435c8bc7a4.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/1b2420435c8bc7a4.jpg)
 
 
 not many books

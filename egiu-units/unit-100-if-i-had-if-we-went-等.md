@@ -10,7 +10,7 @@ if I have / if it is 等
 
 □ I must go and see Helen.
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/936ff60c57cce423.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/936ff60c57cce423.jpg)
 
 
 If I have time, I will go today.

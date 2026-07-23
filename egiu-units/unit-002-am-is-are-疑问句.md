@@ -10,7 +10,7 @@
 
 <table><tr><td>I</td><td>am</td></tr><tr><td>he she it</td><td>is</td></tr><tr><td>we you they</td><td>are</td></tr></table>
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/023667158b4926b3.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/023667158b4926b3.jpg)
 
 
 <table><tr><td>am</td><td>I?</td></tr><tr><td>is</td><td>he?she?</td></tr><tr><td>are</td><td>we?you?they?</td></tr></table>
@@ -54,7 +54,7 @@ what's = what is who's = who is how's = how is where's = where is
 
 □ 'Are you tired?' 'Yes, I am.'
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/7cd46f174a7b2528.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/7cd46f174a7b2528.jpg)
 
 
 □ 'Are you hungry?' 'No, I'm not, but I'm thirsty.'
@@ -131,10 +131,10 @@ Black.
 8 (her name?)
 9 (how old?)
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/c131b5950451417c.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/c131b5950451417c.jpg)
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/5d7ae7e5f9b6f91a.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/5d7ae7e5f9b6f91a.jpg)
 
 
 Paul.

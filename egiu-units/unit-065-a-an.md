@@ -6,7 +6,7 @@
 
 ## friend's 与 friends' 比较：
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/00dc6f5c77aeebf0.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/00dc6f5c77aeebf0.jpg)
 
 
 my friend's house 一个朋友的房子 (= his house or her house)
@@ -16,7 +16,7 @@ my friend's house 一个朋友的房子 (= his house or her house)
 my mother's car (母亲一个人)
 my father's car (父亲一个人)
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/cc27522b22c0faa9.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/cc27522b22c0faa9.jpg)
 
 
 my friends' house 两个或多个朋友的房子 (= their house)
@@ -38,7 +38,7 @@ of ... 用于物体、地点等：
 
 ## 64.1 请看下面的家族世系图。写写这个家庭中的成员的情况。
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/18d92c07873fc3ae.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/18d92c07873fc3ae.jpg)
 
 
 They have a son, James, and a daughter, Sarah.
@@ -71,7 +71,7 @@ Sarah and Paul have a son, Daniel.
 
 ## 64.2 看图回答问题。要求只用一个单词。
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/ff135c3773625374.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/ff135c3773625374.jpg)
 
 
 ## 64.3 判断下列句子的对错。如有错误，请改正。
@@ -106,18 +106,18 @@ my sister's house
 
 14 The manager of the hotel is not here at the moment.
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/42f87bcc2dd9a5d8.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/42f87bcc2dd9a5d8.jpg)
 
 
 He's got a camera.
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/35b243cb3c0dde22.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/35b243cb3c0dde22.jpg)
 
 
 She's waiting for a taxi.
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/5b2c352322512122.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/5b2c352322512122.jpg)
 
 
 It's a beautiful day.
@@ -157,7 +157,7 @@ B: I'm a dentist. (而不用 I'm dentist)
 □ Picasso was a famous painter.
 □ Are you a student?
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/8f475a0b997e0f84.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/8f475a0b997e0f84.jpg)
 
 
 ## Exercises
@@ -182,7 +182,7 @@ bird fruit mountain river musical instrument flower game planet tool vegetable
 
 architect dentist shop assistant photographer electrician nurse taxi driver
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/3d73c88f89c6f74e.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/3d73c88f89c6f74e.jpg)
 
 
 ## 65.4 从下列两个方框中选择词语并造句，必要时用上 a/an。
@@ -206,13 +206,13 @@ a nice place → some nice places
 
 this student → these students
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/f6575c7f6fa1b745.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/f6575c7f6fa1b745.jpg)
 
 
 a flower
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/9e3ad409b686dcbe.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/9e3ad409b686dcbe.jpg)
 
 
 some flowers
@@ -250,19 +250,19 @@ wife → wives
 
 ## 在英语中，下列物品以复数形式出现：
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/032930c570e81ea0.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/032930c570e81ea0.jpg)
 
 
 scissors
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/e97b6019abbb3110.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/e97b6019abbb3110.jpg)
 
 
 glasses
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/6e28543d843243de.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/6e28543d843243de.jpg)
 
 
 □ Do you wear glasses?
@@ -271,13 +271,13 @@ glasses
 trousers
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/2196f5e90870c7d6.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/2196f5e90870c7d6.jpg)
 
 
 jeans
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/a1769597e8dc8cc2.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/a1769597e8dc8cc2.jpg)
 
 
 shorts
@@ -286,13 +286,13 @@ shorts
 tights
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/8dceeb10174618bc.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/8dceeb10174618bc.jpg)
 
 
 pyjamas
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/296171298253c570.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/296171298253c570.jpg)
 
 
 □ Where are the scissors? I need them.

@@ -14,7 +14,7 @@
 □ Corsica is an island in the Mediterranean.
 □ Peru is in South America.
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/5959c7fbbe6a4cd7.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/5959c7fbbe6a4cd7.jpg)
 
 
 但 the 与带 republic / states / kingdom 等词的国名连用：
@@ -22,7 +22,7 @@ the Czech Republic
 the United States of America (the USA)
 the United Kingdom (the UK)
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/2e2e12e9334df7d3.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/2e2e12e9334df7d3.jpg)
 
 
 the -s (复数名词)
@@ -31,7 +31,7 @@ the 与国家、岛屿、山脉等名称的复数形式连用：
 the Netherlands the Canary Islands
 the Philippines the Alps
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/b67ddfa3cb40c8e8.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/b67ddfa3cb40c8e8.jpg)
 
 
 ## 海洋、河流等
@@ -40,7 +40,7 @@ the Philippines the Alps
 the Atlantic (Ocean) the Mediterranean (Sea) the Amazon
 the (River) Nile the Suez Canal the Black Sea
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/c50c0476257883ce.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/c50c0476257883ce.jpg)
 
 
 城镇中的地点（街道、建筑等）
@@ -50,14 +50,14 @@ the (River) Nile the Suez Canal the Black Sea
 □ Where is Highfield Road, please?
 □ Times Square is in New York.
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/e8d3c91bf14d5318.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/e8d3c91bf14d5318.jpg)
 
 
 机场、车站、大学、城堡等重要建筑物的名称前不用 the:
 Kennedy Airport Westminster Abbey London Zoo
 Victoria Station Cambridge University Edinburgh Castle
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/16f122d3c97438d1.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/16f122d3c97438d1.jpg)
 
 
 但通常宾馆、影院、戏院、博物馆的名称前要用 the: the Regent Hotel the National Theatre the Science Museum the Odeon (Cinema)
@@ -70,7 +70,7 @@ the Great Wall of China the Tower of London
 
 也可以说 the north / the south / the east / the west (of ...): □ I've been to the north of Italy, but not to the south.
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/2eea0c1c1a68d318.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/2eea0c1c1a68d318.jpg)
 
 
 ## Exercises

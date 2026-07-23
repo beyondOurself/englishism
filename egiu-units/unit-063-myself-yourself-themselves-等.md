@@ -6,10 +6,10 @@
 
 ## myself/yourself/themselves 等
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/f85d457ff6e82eb4.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/f85d457ff6e82eb4.jpg)
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/8a965e8ca9bff53e.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/8a965e8ca9bff53e.jpg)
 
 
 ## He's looking at himself.
@@ -32,7 +32,7 @@ ourselves
 
 they → them → themselves
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/1d6d924739f7c68d.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/1d6d924739f7c68d.jpg)
 
 
 They're enjoying themselves.
@@ -56,7 +56,7 @@ They're enjoying themselves.
 
 ## me/him/them 等
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/f3cbf6712077f988.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/f3cbf6712077f988.jpg)
 
 
 ## She is looking at him.
@@ -67,7 +67,7 @@ They're enjoying themselves.
 
 □ I didn't pay for them.
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/ad8b4d69852bcfc2.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/ad8b4d69852bcfc2.jpg)
 
 
 □ I'm sorry. Did I hurt you?
@@ -76,12 +76,12 @@ They're enjoying themselves.
 
 He is looking at himself.
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/890240685bd9b0eb.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/890240685bd9b0eb.jpg)
 
 
 同一个人
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/dcf075b1d360ce37.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/dcf075b1d360ce37.jpg)
 
 
 □ Sometimes I talk to myself.
@@ -106,17 +106,17 @@ He is looking at himself.
 
 ## 请比较 each other 与 -selves:
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/7d26069bf6c17440.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/7d26069bf6c17440.jpg)
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/fd41d683de120d29.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/fd41d683de120d29.jpg)
 
 
 □ Tim and Sue looked at each other.
 
 (= he looked at her, she looked at him)
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/95e882464ec8939d.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/95e882464ec8939d.jpg)
 
 
 SUE
@@ -159,7 +159,7 @@ SUE
 
 ## 63.3 用 each other 造句。
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/b6999f8e6511ea1c.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/b6999f8e6511ea1c.jpg)
 
 
 ## 63.4 用 each other, ourselves/yourselves/themselves 或 us/them 完成句子。

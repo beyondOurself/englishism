@@ -14,7 +14,7 @@ for 与 since 可用来表示多久：
 
 for + 一段时间 (three days / two years 等):
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/37c826dd8cbaa0b4.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/37c826dd8cbaa0b4.jpg)
 
 
 过去

@@ -6,7 +6,7 @@
 
 ## Have you ever ... ? (现在完成时 3)
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/de12ddf700b639ac.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/de12ddf700b639ac.jpg)
 
 
 Have you ever been to Japan?
@@ -45,7 +45,7 @@ Mary is an interesting person. She has had many different jobs and has lived in 
 
 ## gone 与 been 比较：
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/0dfd971080dfe194.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/0dfd971080dfe194.jpg)
 
 
 ## 请比较：
@@ -95,7 +95,7 @@ Have
 
 5 (New York) I
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/51aa1e05cd3fe22b.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/51aa1e05cd3fe22b.jpg)
 
 
 Helen
@@ -118,7 +118,7 @@ Yes, once.
 
 ## 17.3 玛丽65岁了，她的生活一直过得很有趣。她都做过些什么？
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/8aedd75c9593b2f7.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/8aedd75c9593b2f7.jpg)
 
 
 Mary

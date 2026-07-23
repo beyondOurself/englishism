@@ -10,7 +10,7 @@
 
 ## I hate exams
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/5a5649c501fa458e.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/5a5649c501fa458e.jpg)
 
 
 表示泛指时不用 the:
@@ -30,7 +30,7 @@
 
 □ I'm not very good at writing letters.
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/a5ddc396db992c0f.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/a5ddc396db992c0f.jpg)
 
 
 体育活动前不用 the:
@@ -72,7 +72,7 @@ garden)
 
 The flowers are beautiful.
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/09cf982410a29901.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/09cf982410a29901.jpg)
 
 
 ## Exercises

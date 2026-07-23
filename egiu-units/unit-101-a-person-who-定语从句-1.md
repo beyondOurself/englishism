@@ -6,10 +6,10 @@
 
 ## a person who ... (定语从句 1)
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/7bbc5fcd3d0c40c7.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/7bbc5fcd3d0c40c7.jpg)
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/20839ffd0453ed3e.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/20839ffd0453ed3e.jpg)
 
 
 I met a woman. She can speak six languages.

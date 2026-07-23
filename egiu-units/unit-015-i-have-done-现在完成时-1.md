@@ -8,35 +8,35 @@
 
 ## I have done (现在完成时 1)
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/d03f44c9e7648848.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/d03f44c9e7648848.jpg)
 
 
 His shoes are dirty.
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/38a5c1a5ae08b152.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/38a5c1a5ae08b152.jpg)
 
 
 He is cleaning his shoes.
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/008c0d300f37b6c2.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/008c0d300f37b6c2.jpg)
 
 
 He has cleaned his shoes. (= his shoes are clean now)
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/26635f1b3476ef49.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/26635f1b3476ef49.jpg)
 
 
 They are at home.
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/72d3011c4ce8c464.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/72d3011c4ce8c464.jpg)
 
 
 They are going out.
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/f6b5aa0b3baab870.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/f6b5aa0b3baab870.jpg)
 
 
 They have gone out.
@@ -77,7 +77,7 @@ buy → I bought / I have bought have → he had / he has had
 
 go to bed clean his shoes stop raining close the door fall down have a shower
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/a8589383ac819bd1.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/a8589383ac819bd1.jpg)
 
 
 ## 15.2 用方框中的动词完成句子。

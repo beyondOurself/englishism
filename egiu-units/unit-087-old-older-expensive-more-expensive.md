@@ -84,7 +84,7 @@ interesting → more interesting
 
 37.1 看图并写出比较级 (older / more interesting 等)。
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/3c15963551073667.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/3c15963551073667.jpg)
 
 
 87.2 写出下列单词的比较级。
@@ -121,7 +121,7 @@ interesting → more interesting
 15 People today aren't very polite. In the past they were
 16 The weather isn't too bad today. Often it is much
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/98ea0853b1f51178.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/98ea0853b1f51178.jpg)
 
 
 ## I'm taller than you.
@@ -174,15 +174,15 @@ B: No, more than that. (= more than £50)
 
 □ You go out more than me.
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/0ffc234931e97057.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/0ffc234931e97057.jpg)
 
 
 ## a bit older / much older 等
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/525c1502d44f3467.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/525c1502d44f3467.jpg)
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/758bc782ac78271b.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/758bc782ac78271b.jpg)
 
 
 Box A is a bit bigger than Box B.

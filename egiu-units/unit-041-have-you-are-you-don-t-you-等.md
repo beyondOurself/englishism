@@ -40,7 +40,7 @@ have you? / is it? / can't she? 等
 
 It's a beautiful day, isn't it?
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/d5cc938cb1ff5899.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/d5cc938cb1ff5899.jpg)
 
 
 Yes, it's perfect.

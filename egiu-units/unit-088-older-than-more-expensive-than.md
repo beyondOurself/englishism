@@ -6,10 +6,10 @@
 
 <table><tr><td>a bit much</td><td>bigger older better more difficult more expensive</td><td>than ...</td></tr></table>
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/e275a9a64a291bb5.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/e275a9a64a291bb5.jpg)
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/499fcce59de0f1de.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/499fcce59de0f1de.jpg)
 
 
 Box C is much bigger than Box D.
@@ -26,7 +26,7 @@ Box C is much bigger than Box D.
 
 88.1 根据莉兹与本的情况，用 than 造句。
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/f12e3e5b7d1ff42e.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/f12e3e5b7d1ff42e.jpg)
 
 
 Liz
@@ -58,7 +58,7 @@ Liz
 
 Ben
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/9e7f27b3307a3ba7.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/9e7f27b3307a3ba7.jpg)
 
 
 1 I'm 24.

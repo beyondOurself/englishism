@@ -10,7 +10,7 @@
 
 ## an hour ago
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/46257c11357fc26e.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/46257c11357fc26e.jpg)
 
 
 An hour ago it was raining.
@@ -22,7 +22,7 @@ hasn't stopped
 
 ## now
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/4d0e91f1924cd5b2.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/4d0e91f1924cd5b2.jpg)
 
 
 It is still raining now.
@@ -40,13 +40,13 @@ It is still raining now.
 
 ## 20 minutes ago
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/125695b121797b98.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/125695b121797b98.jpg)
 
 
 Twenty minutes ago they were waiting for Bill.
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/023bfdc5f9e8136d.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/023bfdc5f9e8136d.jpg)
 
 
 They are still waiting for Bill. Bill hasn't come yet.
@@ -88,21 +88,21 @@ B: No, I'm still reading it.
 
 95.1 你上次见到蒂娜是在两年前，现在你用 still 问她一些问题。
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/fe885fb378631c30.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/fe885fb378631c30.jpg)
 
 
 95.2 仿照示例，为每个情景写三句话。
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/14952e77e5725ed9.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/14952e77e5725ed9.jpg)
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/9f865bb6f0a8dfe7.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/9f865bb6f0a8dfe7.jpg)
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/f5bf3b9a5d133283.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/f5bf3b9a5d133283.jpg)
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/dd44226e0fe8e5a1.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/dd44226e0fe8e5a1.jpg)
 
 
 (before) They were waiting for the bus.
@@ -113,20 +113,20 @@ B: No, I'm still reading it.
 (still) He .....
 (yet) .... yet.
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/71f0786c58319db8.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/71f0786c58319db8.jpg)
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/0fbbcc3ea58eff29.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/0fbbcc3ea58eff29.jpg)
 
 
 (before) She ....asleep.
 (still) ......
 (yet) ....
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/a77486a371e28667.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/a77486a371e28667.jpg)
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/1da52d8e88444e48.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/1da52d8e88444e48.jpg)
 
 
 (before) They .....

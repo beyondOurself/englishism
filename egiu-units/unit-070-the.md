@@ -33,7 +33,7 @@ the police / the fire brigade / the army (of a city, country 等)
 □ My brother is a soldier. He's in the army.
 □ What do you think of the police? Do they do a good job?
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/668621e596d4d824.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/668621e596d4d824.jpg)
 
 
 the top / the end / the middle / the left 等
@@ -61,17 +61,17 @@ middle
 
 the bottom
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/e68f65ae8f30c5ff.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/e68f65ae8f30c5ff.jpg)
 
 
 the Internet
 
 □ Do you use the Internet much?
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/5794d51040ce80e7.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/5794d51040ce80e7.jpg)
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/7dbab685c1c8a250.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/7dbab685c1c8a250.jpg)
 
 
 下列词语前不用 the:
@@ -89,7 +89,7 @@ breakfast / lunch / dinner
 □ What did you have for breakfast? (而不用 the breakfast)
 □ Dinner is ready!
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/00dfa7b9addf05a4.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/00dfa7b9addf05a4.jpg)
 
 
 next / last + week/month/year/summer/Monday 等
@@ -147,7 +147,7 @@ age colour problem street time
 
 ## 70.3 看图完成句子。在必要处用上 the。
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/63745aa30f5f38ea.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/63745aa30f5f38ea.jpg)
 
 
 1 The sun is shining. 4 He's watching

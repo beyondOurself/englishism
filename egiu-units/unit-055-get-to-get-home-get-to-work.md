@@ -22,7 +22,7 @@
 
 go to
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/521ff4d6d4becc9a.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/521ff4d6d4becc9a.jpg)
 
 
 ## go to sleep 表示 “入睡”
@@ -74,7 +74,7 @@ go home (不带 to) 表示 “回家”：
 
 □ I went jogging before breakfast this morning.
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/a5a8f5f63e44467c.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/a5a8f5f63e44467c.jpg)
 
 
 ## Exercises
@@ -113,7 +113,7 @@ go home (不带 to) 表示 “回家”：
 
 ## 55.2 根据图片，用 go/goes/going/went + -ing 形式完成句子。
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/925837e145f33302.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/925837e145f33302.jpg)
 
 
 1 Richard has a boat. He often goes sailing
@@ -198,7 +198,7 @@ get lost（迷路）
 get here/there (不带 to):
 □ How did you get here? By bus?
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/8d5394bf312f5c4a.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/8d5394bf312f5c4a.jpg)
 
 
 get home (不带 to) 表示 “到家”：

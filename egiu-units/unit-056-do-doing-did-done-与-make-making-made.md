@@ -6,7 +6,7 @@
 
 ## get in/out/on/off
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/1963e404039014ac.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/1963e404039014ac.jpg)
 
 
 get in (a car)

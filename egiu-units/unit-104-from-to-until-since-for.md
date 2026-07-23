@@ -103,7 +103,7 @@ for (而不用 since) + 某一段时间 (three days / ten years 等):
 
 ## ALEX
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/5033284c90503ed5.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/5033284c90503ed5.jpg)
 
 
 ## KAREN
@@ -114,7 +114,7 @@ before.
 I came to England in
 1999.
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/4d3f3d5e785aebec.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/4d3f3d5e785aebec.jpg)
 
 
 I live in Switzerland now.
@@ -125,7 +125,7 @@ I came to Switzerland in 2003.
 CLARE
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/57646d97825b382e.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/57646d97825b382e.jpg)
 
 
 I work in a restaurant now.
@@ -135,7 +135,7 @@ restaurant in 2001.
 
 ## ADAM
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/ac6fd60f1b58dc34.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/ac6fd60f1b58dc34.jpg)
 
 
 I'm a journalist now.

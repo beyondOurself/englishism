@@ -8,22 +8,22 @@
 
 ## Whose is this? It's mine/yours/hers 等
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/344c5eb433d2f837.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/344c5eb433d2f837.jpg)
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/d6ec943d0e5ec9a9.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/d6ec943d0e5ec9a9.jpg)
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/1f83d0217727d19c.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/1f83d0217727d19c.jpg)
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/e820c5694c0a20ec.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/e820c5694c0a20ec.jpg)
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/5a6c3b26261e9e61.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/5a6c3b26261e9e61.jpg)
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/277a541c7cc850db.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/277a541c7cc850db.jpg)
 
 
 I → my → mine
@@ -102,7 +102,7 @@ They're John's.
 
 NOTEBOOK
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/6ae8c973ff1f7281.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/6ae8c973ff1f7281.jpg)
 
 
 61.1 用 mine/yours 等完成句子。
@@ -131,12 +131,12 @@ NOTEBOOK
 
 61.4 根据图片写出对话内容。
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/dd91af5aa5c1d69c.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/dd91af5aa5c1d69c.jpg)
 
 
 ## I/me/my/mine
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/9ec484f45de3beff.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/9ec484f45de3beff.jpg)
 
 
-<table><tr><td></td><td>I等(参见 Unit 59)</td><td>me等(参见 Unit 59)</td><td>my等(参见 Unit 60)</td><td>mine等(参见 Unit 61)</td></tr><tr><td><img src="https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/c7bf34fc63b8086e.jpg"/></td><td>I know Tom.</td><td>Tom knows me.</td><td>It's my car.</td><td>It's mine.</td></tr><tr><td><img src="https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/15f796d752ad7dd4.jpg"/></td><td>We know Tom.</td><td>Tom knows us.</td><td>It's our car.</td><td>It's ours.</td></tr><tr><td><img src="https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/27a2e7f43ba1b285.jpg"/></td><td>You know Tom.</td><td>Tom knows you.</td><td>It's your car.</td><td>It's yours.</td></tr><tr><td><img src="https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/57b17587878a7314.jpg"/></td><td>He knows Tom.</td><td>Tom knows him.</td><td>It's his car.</td><td>It's his.</td></tr><tr><td><img src="https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/d3aa40b8422cefef.jpg"/></td><td>She knows Tom.</td><td>Tom knows her.</td><td>It's her car.</td><td>It's hers.</td></tr><tr><td><img src="https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/c65e96f2fa2c94fb.jpg"/></td><td>They know Tom.</td><td>Tom knows them.</td><td>It's their car.</td><td>It's theirs.</td></tr></table>
+<table><tr><td></td><td>I等(参见 Unit 59)</td><td>me等(参见 Unit 59)</td><td>my等(参见 Unit 60)</td><td>mine等(参见 Unit 61)</td></tr><tr><td><img src="https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/c7bf34fc63b8086e.jpg"/></td><td>I know Tom.</td><td>Tom knows me.</td><td>It's my car.</td><td>It's mine.</td></tr><tr><td><img src="https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/15f796d752ad7dd4.jpg"/></td><td>We know Tom.</td><td>Tom knows us.</td><td>It's our car.</td><td>It's ours.</td></tr><tr><td><img src="https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/27a2e7f43ba1b285.jpg"/></td><td>You know Tom.</td><td>Tom knows you.</td><td>It's your car.</td><td>It's yours.</td></tr><tr><td><img src="https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/57b17587878a7314.jpg"/></td><td>He knows Tom.</td><td>Tom knows him.</td><td>It's his car.</td><td>It's his.</td></tr><tr><td><img src="https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/d3aa40b8422cefef.jpg"/></td><td>She knows Tom.</td><td>Tom knows her.</td><td>It's her car.</td><td>It's hers.</td></tr><tr><td><img src="https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/c65e96f2fa2c94fb.jpg"/></td><td>They know Tom.</td><td>Tom knows them.</td><td>It's their car.</td><td>It's theirs.</td></tr></table>

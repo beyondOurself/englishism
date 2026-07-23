@@ -34,7 +34,7 @@
 
 ## 103.3 根据莉萨下周的日程安排，完成下列句子。
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/7e937bbbf5e57a7d.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/7e937bbbf5e57a7d.jpg)
 
 
 1 Lisa is going to the cinema on Wednesday evening

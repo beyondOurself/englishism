@@ -14,7 +14,7 @@ a/an + 可数名词单数形式 (car/apple/shoe 等):
 
 □ Would you like an apple?
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/b08f757d30b9eea7.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/b08f757d30b9eea7.jpg)
 
 
 an apple
@@ -25,7 +25,7 @@ some + 可数名词复数形式 (cars/apples/shoes 等):
 
 □ Would you like some apples?
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/a863ce84a8321d0d.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/a863ce84a8321d0d.jpg)
 
 
 some apples
@@ -37,7 +37,7 @@ some + 不可数名词 (water/money/music 等):
 □ Would you like some cheese?
 (或 Would you like a piece of cheese?)
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/f4dfe56ada11b6d9.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/f4dfe56ada11b6d9.jpg)
 
 
 some cheese 或
@@ -51,37 +51,37 @@ a piece of cheese
 
 ## 很多名词有时可数，而有时又不可数：
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/b8bbef14c87c43f8.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/b8bbef14c87c43f8.jpg)
 
 
 a cake
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/249a645b3b10b9d7.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/249a645b3b10b9d7.jpg)
 
 
 some cakes
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/c21a3601a06d466c.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/c21a3601a06d466c.jpg)
 
 
 some cake 或 a piece of cake
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/581099a4454087f4.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/581099a4454087f4.jpg)
 
 
 a chicken
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/ad6f65eb6a15b0fe.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/ad6f65eb6a15b0fe.jpg)
 
 
 some chickens
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/cfb25b4f5fe018e2.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/cfb25b4f5fe018e2.jpg)
 
 
 some chicken 或 a piece of chicken
@@ -122,7 +122,7 @@ advice bread furniture hair information news weather work
 
 68.1 你买了些什么？根据图片，用 I bought ... 句式造句。
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/132fbba0f24f7a6f.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/132fbba0f24f7a6f.jpg)
 
 
 1 I bought some perfume, a hat and some shoes.
@@ -131,7 +131,7 @@ advice bread furniture hair information news weather work
 
 ## 68.2 用 Would you like a ... ? 或 Would you like some ... ? 句式造句。
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/5b99cc63c27a8a1f.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/5b99cc63c27a8a1f.jpg)
 
 
 1 Would you like some cheese?
@@ -180,7 +180,7 @@ advice bread furniture hair information news weather work
 
 ## a/an
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/6c7ef06bd3783259.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/6c7ef06bd3783259.jpg)
 
 
 有三扇窗户，a window 可指其中任意一扇。
@@ -199,7 +199,7 @@ advice bread furniture hair information news weather work
 
 ## the
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/7150ab72ca7123b8.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/7150ab72ca7123b8.jpg)
 
 
 只有一扇窗户，用 the window。

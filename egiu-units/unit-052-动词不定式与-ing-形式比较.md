@@ -46,7 +46,7 @@ suggest
 
 I enjoy dancing.
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/49ec41c31319917d.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/49ec41c31319917d.jpg)
 
 
 ## 动词 + -ing 形式或不定式
@@ -144,7 +144,7 @@ here on time. (be)
 6
 7
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/2ddbbc66cc0c013d.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/2ddbbc66cc0c013d.jpg)
 
 
 Do you usually get up early?

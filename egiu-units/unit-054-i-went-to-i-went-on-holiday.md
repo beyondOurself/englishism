@@ -19,12 +19,12 @@ To get a newspaper.
 
 She went to the shop to get a newspaper.
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/66fff11159ad9b2e.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/66fff11159ad9b2e.jpg)
 
 
 to ... (to get / to see 等) 表示某人为什么做某事:
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/67a091e33d3f67b5.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/67a091e33d3f67b5.jpg)
 
 
 ## NEWSPAPERS
@@ -86,7 +86,7 @@ wait for (somebody/something) to ...:
 
 I can't go out yet. I'm waiting for John to phone.
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/b9780fed8784ecb5.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/b9780fed8784ecb5.jpg)
 
 
 ## Exercises

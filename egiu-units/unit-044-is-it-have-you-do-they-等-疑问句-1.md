@@ -65,7 +65,7 @@ Why isn't ...? / Why don't ...? 等 (Why + 否定式):
 5
 6
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/3d83dfb6fe4d153b.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/3d83dfb6fe4d153b.jpg)
 
 
 Yes, I have.

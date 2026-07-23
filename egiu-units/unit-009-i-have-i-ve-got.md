@@ -8,7 +8,7 @@
 
 <table><tr><td>Iweyouthey</td><td>have</td><td rowspan="2">或</td><td>Iweyouthey</td><td>have got</td><td>(I’ve got)(we’ve got)(you’ve got)(they’ve got)</td></tr><tr><td>hesheit</td><td>has</td><td>hesheit</td><td>has got</td><td>(he’s got)(she’s got)(it’s got)</td></tr></table>
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/3d207e94d1d88247.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/3d207e94d1d88247.jpg)
 
 
 □ I have blue eyes. 或 I've got blue eyes.
@@ -125,7 +125,7 @@ a garden much time a key
 
 ## last night
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/2532248f7f534bb0.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/2532248f7f534bb0.jpg)
 
 
 Now Robert is at work.

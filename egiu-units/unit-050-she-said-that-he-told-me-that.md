@@ -10,12 +10,12 @@
 
 你今天遇到了保罗，对他说了聚会的事。如下是你向保罗转述朋友们所说的话：
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/049ac0433131fe3c.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/049ac0433131fe3c.jpg)
 
 
 <table><tr><td colspan="2">say 与 tell 比较:</td></tr><tr><td>say (→ said)□ He said that he was tired.(而不用 He said me)□ What did she say to you?(而不用 say you)可以说 he said to me, I said to Ann 等,但不可以说 he said me, I said Ann。</td><td>tell (→ told)□ He told me that he was tired.(而不用 He told that)□ What did she tell you?(而不用 tell to you)可以说 he told me, I told Ann 等,但不可以说 he told to me, I told to Ann。</td></tr></table>
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/9d2451cbe54dac95.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/9d2451cbe54dac95.jpg)
 
 
 ## Exercises
@@ -24,68 +24,68 @@
 
 1
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/c73396c84e802968.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/c73396c84e802968.jpg)
 
 
 6
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/509d75a0323b699f.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/509d75a0323b699f.jpg)
 
 
 He said he had lost his watch.
 
 2
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/aa65c1afce7baac0.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/aa65c1afce7baac0.jpg)
 
 
 I'm very busy.
 
 7
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/348df3fd42b32ebb.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/348df3fd42b32ebb.jpg)
 
 
 We'll be home late.
 
 3
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/67e7d73eda862bea.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/67e7d73eda862bea.jpg)
 
 
 I can't go to the party.
 
 8
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/ffdb02a3fc92e802.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/ffdb02a3fc92e802.jpg)
 
 
 I've just come back from holiday.
 
 4
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/e5fed2405c0e28c9.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/e5fed2405c0e28c9.jpg)
 
 
 I have to go out.
 
 5
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/c068d881cab5ea97.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/c068d881cab5ea97.jpg)
 
 
 I'm learning Russian.
 
 9
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/1509554334239248.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/1509554334239248.jpg)
 
 
 I'm going to buy a new computer.
 
 10
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/2255ff9a36b91711.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/2255ff9a36b91711.jpg)
 
 
 We haven't got a key.

@@ -26,26 +26,26 @@ myself/yourself 等 → Unit 63 Give me that book! / Give it to me! → Unit 96
 
 ## 62.1 仿照示例，回答问题。
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/9421f1206dfc7eaf.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/9421f1206dfc7eaf.jpg)
 
 
 Yes, I know him, but I can't remember his name.
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/609dd081e155538e.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/609dd081e155538e.jpg)
 
 
 Yes, I know ____, but I can't remember ____.
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/157d85cb20866ca6.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/157d85cb20866ca6.jpg)
 
 
 Yes, I ......., but
 I ....... names.
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/b9bed5edbff44bae.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/b9bed5edbff44bae.jpg)
 
 
 Yes, I ......., but

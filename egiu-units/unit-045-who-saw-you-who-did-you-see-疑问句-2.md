@@ -8,7 +8,7 @@
 
 ## Who saw you? Who did you see? (疑问句 2)
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/fa87606b58e36a83.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/fa87606b58e36a83.jpg)
 
 
 在下列疑问句中，who/what 是主语：

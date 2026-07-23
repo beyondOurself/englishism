@@ -53,7 +53,7 @@ A: Yes. I ____ (meet) her at a party last week. She's very nice.
 
 ## → 补充练习 19-23，29-31（第261-263页，第266-268页）
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/c94adba592384048.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/c94adba592384048.jpg)
 
 
 The office is cleaned every day.

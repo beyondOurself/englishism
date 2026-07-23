@@ -65,7 +65,7 @@ B: No, not yet. We're still waiting for them.
 
 □ A: Has Nicole started her new job yet?
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/4ae43b33bff2f25e.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/4ae43b33bff2f25e.jpg)
 
 
 They have just arrived.
@@ -77,10 +77,10 @@ B: No, she starts next week.
 
 B: Oh, it's nice. Have you worn it yet?
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/9f84bfe9b0c138df.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/9f84bfe9b0c138df.jpg)
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/7f049e782906be51.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/7f049e782906be51.jpg)
 
 
 The film hasn't started yet.
@@ -89,17 +89,17 @@ This is my new dress.
 
 Oh, it's nice. Have you worn it yet?
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/bf5cfc4e584d5dcb.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/bf5cfc4e584d5dcb.jpg)
 
 
 ## Exercises
 
 ## 16.1 根据下列图片，用 just 造句。
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/b4de617bd3920e70.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/b4de617bd3920e70.jpg)
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/866d8d24a6be98fa.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/866d8d24a6be98fa.jpg)
 
 
 1 They've just arrived.
@@ -108,14 +108,14 @@ Oh, it's nice. Have you worn it yet?
 
 This is our new car.
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/4f47bf7b44abffe3.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/4f47bf7b44abffe3.jpg)
 
 
 3 They.
 
 4 The race
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/bd42bf781f5bf67b.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/bd42bf781f5bf67b.jpg)
 
 
 ## 16.2 用 already 和现在完成时完成句子。
@@ -151,14 +151,14 @@ She
 
 ## 16.3 用 just 写出肯定句（They've just ... / She's just ... 等），或者用 yet 写出否定句（They haven't ... yet / She hasn't ... yet 等）。
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/7e3dde4ce7f30fb0.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/7e3dde4ce7f30fb0.jpg)
 
 
 (she / go / out)
 She hasn't gone out yet.
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/a26a0ac7fa68dc6c.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/a26a0ac7fa68dc6c.jpg)
 
 
 (the bus / go)
@@ -168,13 +168,13 @@ The bus ....
 (the train / leave)
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/c88003e8da7e6166.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/c88003e8da7e6166.jpg)
 
 
 5 a few minutes ago
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/a0864db2a079e7ac.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/a0864db2a079e7ac.jpg)
 
 
 (they / finish / their dinner)
@@ -182,7 +182,7 @@ The bus ....
 
 6 a few minutes
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/1aada43b08864611.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/1aada43b08864611.jpg)
 
 
 (it / stop / raining)

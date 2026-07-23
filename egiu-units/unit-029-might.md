@@ -120,7 +120,7 @@ I might.
 Yes, I am.
 Perhaps.
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/d5263b45261c132a.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/d5263b45261c132a.jpg)
 
 
 Bill
@@ -134,12 +134,12 @@ Bill
 
 ## 29.4 写出你明天可能做的三件事情。
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/dba98320ea6db8d0.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/dba98320ea6db8d0.jpg)
 
 
 He can play the piano.
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/3dc01ef4a30cb88f.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/3dc01ef4a30cb88f.jpg)
 
 
 can + 动词原形 (can do / can play / can come 等):

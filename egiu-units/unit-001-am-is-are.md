@@ -6,7 +6,7 @@
 
 ## am/is/are
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/b8949a9c48aabe70.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/b8949a9c48aabe70.jpg)
 
 
 ## 肯定式
@@ -47,10 +47,10 @@ Tom isn't interested in politics. He's interested in music.
 
 I'm afraid of dogs.
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/7ca71933ba14f3aa.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/7ca71933ba14f3aa.jpg)
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/17dd990ac6efbca9.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/17dd990ac6efbca9.jpg)
 
 
 ## Exercises
@@ -105,22 +105,22 @@ I'm afraid of dogs.
 
 ## afraid angry cold hot hungry thirsty
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/7a21aa38cc34bbbf.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/7a21aa38cc34bbbf.jpg)
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/00d30c40252f9568.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/00d30c40252f9568.jpg)
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/152b0123583261a2.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/152b0123583261a2.jpg)
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/2e946db4be14cb91.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/2e946db4be14cb91.jpg)
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/6ea1ccebbd30e87a.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/6ea1ccebbd30e87a.jpg)
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/f893032d756a4729.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/f893032d756a4729.jpg)
 
 
 2 They 4 6

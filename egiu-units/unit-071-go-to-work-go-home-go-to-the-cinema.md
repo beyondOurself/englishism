@@ -6,19 +6,19 @@
 
 ## go to work go home go to the cinema
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/770bb3dc8090be49.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/770bb3dc8090be49.jpg)
 
 
 She's at work.
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/fe4e6079bdb72eef.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/fe4e6079bdb72eef.jpg)
 
 
 They're going to school.
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/dffe34b589f5b6c2.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/dffe34b589f5b6c2.jpg)
 
 
 He's in bed.
@@ -41,7 +41,7 @@ He's in bed.
 (go) to hospital, (be) in hospital
 □ Jack had an accident. He had to go to hospital.
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/bcbba9db2528718a.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/bcbba9db2528718a.jpg)
 
 
 (go) to prison, (be) in prison
@@ -72,7 +72,7 @@ He's in bed.
 
 □ You're not well. Why don't you go to the doctor?
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/898ed36ee13256c2.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/898ed36ee13256c2.jpg)
 
 
 □ I have to go to the dentist tomorrow.
@@ -81,7 +81,7 @@ He's in bed.
 
 71.1 下列图片中的人物在哪儿？完成句子，有时需要用 the。
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/c8f43eea19b38972.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/c8f43eea19b38972.jpg)
 
 
 1 He's in bed. 3 She's in. 5 They're at.

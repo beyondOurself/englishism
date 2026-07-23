@@ -10,7 +10,7 @@
 
 4 o'clock
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/1dc3e8e250e4e7f1.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/1dc3e8e250e4e7f1.jpg)
 
 
 It is 6 o'clock now.
@@ -28,16 +28,16 @@ He was at the sports club.
 
 He was swimming in the pool. He wasn't watching television.
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/6b5763b954ed6906.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/6b5763b954ed6906.jpg)
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/ab2ffc9226e828b7.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/ab2ffc9226e828b7.jpg)
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/275072494796ba26.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/275072494796ba26.jpg)
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/7781a399f2c0c4a6.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/7781a399f2c0c4a6.jpg)
 
 
 was/were + -ing 为过去进行时结构：
@@ -82,14 +82,14 @@ am/is/are + -ing (现在) → was/were + -ing (过去):
 5
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/efd982288512ddfc.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/efd982288512ddfc.jpg)
 
 
 ## Exercises
 
 ## 13.1 昨天下午3点钟时，下列图片
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/fa106d787e474e30.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/fa106d787e474e30.jpg)
 
 
 RACHEL
@@ -99,7 +99,7 @@ at home
 watch TV
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/3517fb58452f03c3.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/3517fb58452f03c3.jpg)
 
 
 JACK KATE
@@ -107,7 +107,7 @@ at the cinema
 watch a film
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/6104224a9ee9f1bc.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/6104224a9ee9f1bc.jpg)
 
 
 in his car
@@ -116,7 +116,7 @@ drive
 
 ## E在做什么？就每幅图片写两句话。
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/b59db61e407fa0ad.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/b59db61e407fa0ad.jpg)
 
 
 TRACEY
@@ -124,7 +124,7 @@ at the station
 wait for a train
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/e47fe0d5c25efeff.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/e47fe0d5c25efeff.jpg)
 
 
 MR AND MRS HALL
@@ -196,7 +196,7 @@ No, a T-shirt and jeans.
 
 ## 13.4 昨天下午你在街上看到乔，他当时正在做什么？根据下图，写出肯定句或否定句。
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/98d09027d8a61ff1.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/98d09027d8a61ff1.jpg)
 
 
 1 (wear / a jacket) He wasn't wearing a jacket.
@@ -215,4 +215,4 @@ No, a T-shirt and jeans.
 
 8 (ride / a bicycle)
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/161e0c311eda63d6.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/161e0c311eda63d6.jpg)

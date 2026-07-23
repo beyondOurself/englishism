@@ -10,7 +10,7 @@
 
 96.1 马克把一些不想要的东西分送给了别人。
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/34276f1aa65eb195.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/34276f1aa65eb195.jpg)
 
 
 用 He gave ... 句式造句。
@@ -29,24 +29,24 @@
 
 ## 96.2 你想给朋友们送礼物。根据图片内容，就每个人写一句话。
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/a5c37ddebdabfef7.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/a5c37ddebdabfef7.jpg)
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/d2e54f6a3dd95bc7.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/d2e54f6a3dd95bc7.jpg)
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/1e4ad9b8da0aeacd.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/1e4ad9b8da0aeacd.jpg)
 
 
 1 I gave Paul a book. 4
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/9658268c28ba8975.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/9658268c28ba8975.jpg)
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/7e185b3a3b5108ea.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/7e185b3a3b5108ea.jpg)
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/7faa833451965178.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/7faa833451965178.jpg)
 
 
 2 I gave 5

@@ -78,4 +78,4 @@ clean damage find give invite make make show steal take
 4 (you / ???) I
 5 (your mother / ???)
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/ae289ff7de7f4b75.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/ae289ff7de7f4b75.jpg)

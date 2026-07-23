@@ -16,16 +16,16 @@
 
 put on your coat
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/d4e545a3f8baf44a.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/d4e545a3f8baf44a.jpg)
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/3ca2c5644ccb93e1.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/3ca2c5644ccb93e1.jpg)
 
 
 或 put your coat on动词 宾语
 take off your shoes
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/afbedecaa0687be9.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/afbedecaa0687be9.jpg)
 
 
 可以说：take off your shoes或 take your shoes off
@@ -63,7 +63,7 @@ pick up / put down:
 
 (或 put down my book)
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/f21636ec8ddcfc74.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/f21636ec8ddcfc74.jpg)
 
 
 ☐ I took my new sweater back to the shop. It was too small for me.
@@ -78,13 +78,13 @@ OFF
 
 bring back / take back / give back / put back:
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/b5b2e64e2cbe2a0b.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/b5b2e64e2cbe2a0b.jpg)
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/de3faa87a69417cb.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/de3faa87a69417cb.jpg)
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/6f4fa39c6392d1b9.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/6f4fa39c6392d1b9.jpg)
 
 
 ## 115.1 下列图片中的人物做了什么动作？

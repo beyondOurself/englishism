@@ -23,7 +23,7 @@
 6 Three days ago in Munich.
 7 At the end of her trip very tired.
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/64c59bbe89e4f502.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/64c59bbe89e4f502.jpg)
 
 
 ## 27.2 在下列时间点你会在哪儿？用所给句式写写你自己的情况。
@@ -69,7 +69,7 @@
 9 A: What are your plans for the weekend?
 B: Some friends will come / are coming to stay with us.
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/00a5cc3a8f449b27.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/00a5cc3a8f449b27.jpg)
 
 
 I'll (I will) ... 可表示提议或决定做某事：

@@ -6,12 +6,12 @@
 
 ## I do/work/like 等（一般现在时）
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/2387db552bb6373f.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/2387db552bb6373f.jpg)
 
 
 They're looking at their books. They read a lot.
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/0dacb1c023bd0e4b.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/0dacb1c023bd0e4b.jpg)
 
 
 He's eating an ice-cream. He likes ice-cream.
@@ -62,7 +62,7 @@ I don't ...（否定式）→ Unit 6 Do you ...? （疑问式）→ Unit 7 I am 
 
 eat go live play play sleep
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/52997cb4bbed91bf.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/52997cb4bbed91bf.jpg)
 
 
 1 He plays the piano. 4 tennis.

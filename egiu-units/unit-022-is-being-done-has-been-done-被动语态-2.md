@@ -8,7 +8,7 @@
 
 ## is/are being ... (现在进行时的被动语态)
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/8ab8fe1caeed6e22.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/8ab8fe1caeed6e22.jpg)
 
 
 Somebody is painting the door. (主动)
@@ -54,16 +54,16 @@ The room was cleaned yesterday. (一般过去时)
 
 ## 22.1 正在发生什么事情？
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/73a221e34e698584.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/73a221e34e698584.jpg)
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/de402bb7d5f472fc.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/de402bb7d5f472fc.jpg)
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/db37bce3634c090d.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/db37bce3634c090d.jpg)
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/7f09c716e35ef387.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/7f09c716e35ef387.jpg)
 
 
 1 The car is being repaired. 3 The windows
@@ -71,7 +71,7 @@ The room was cleaned yesterday. (一般过去时)
 
 ## 22.2 根据下列图片，用现在进行时（is/are being ...) 或现在完成时（has/have been ...），说说正在发生或已经发生的事情。
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/0e7d55fefa689bce.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/0e7d55fefa689bce.jpg)
 
 
 1 (the office / clean) The office is being cleaned.

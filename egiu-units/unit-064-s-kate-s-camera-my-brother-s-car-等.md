@@ -6,19 +6,19 @@
 
 ## -'s (Kate's camera / my brother's car 等)
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/dc906ce19633df36.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/dc906ce19633df36.jpg)
 
 
 Kate's camera (her camera)
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/d846ad4c0ea13b5c.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/d846ad4c0ea13b5c.jpg)
 
 
 my brother's car (his car)
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/861ac1844dfdf946.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/861ac1844dfdf946.jpg)
 
 
 the manager's office (his 或 her office)

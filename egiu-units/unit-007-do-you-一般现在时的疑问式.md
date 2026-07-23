@@ -16,7 +16,7 @@
 
 Do you play the guitar?
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/097d7e5ee6a30a19.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/097d7e5ee6a30a19.jpg)
 
 
 ## 请看一般现在时疑问式的词序：

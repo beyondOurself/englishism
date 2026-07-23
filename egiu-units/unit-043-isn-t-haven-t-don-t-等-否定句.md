@@ -65,7 +65,7 @@ do 有时可用作主动词，如 don't do / doesn't do / didn't do:
 
 Gary
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/327932388e0066c7.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/327932388e0066c7.jpg)
 
 
 <table><tr><td rowspan="12">Are you married?Do you live in London?Were you born in London?Do you like London?Would you like to live in the country?Can you drive?Have you got a car?Do you read newspapers?Are you interested in politics?Do you watch TV most evenings?Did you watch TV last night?Did you go out last night?</td><td>No.</td><td>1</td><td>He isn't married.</td></tr><tr><td>Yes.</td><td>2</td><td>He lives in London.</td></tr><tr><td>No.</td><td>3</td><td></td></tr><tr><td>No.</td><td>4</td><td></td></tr><tr><td>Yes.</td><td>5</td><td></td></tr><tr><td>Yes.</td><td>6</td><td></td></tr><tr><td>No.</td><td>7</td><td></td></tr><tr><td>No.</td><td>8</td><td></td></tr><tr><td>No.</td><td>9</td><td></td></tr><tr><td>Yes.</td><td>10</td><td></td></tr><tr><td>No.</td><td>11</td><td></td></tr><tr><td>Yes.</td><td>12</td><td></td></tr></table>

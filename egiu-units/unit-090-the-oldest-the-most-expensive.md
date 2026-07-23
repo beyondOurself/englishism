@@ -8,7 +8,7 @@
 
 90.1 用比较级（older 等）或最高级（the oldest 等）造句。
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/edf32554dfe48930.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/edf32554dfe48930.jpg)
 
 
 A____A
@@ -16,10 +16,10 @@ B____B
 C____C
 D____D
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/45f617847e72ad09.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/45f617847e72ad09.jpg)
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/485d506616a72b93.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/485d506616a72b93.jpg)
 
 
 RESTAURANT A excellent

@@ -86,7 +86,7 @@ I looked out.
 
 ## 97.2 根据图片，用 and/but/so/because 完成句子。
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/287f1b749e148375.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/287f1b749e148375.jpg)
 
 
 1 It was very hot, so he opened the window.
@@ -105,4 +105,4 @@ I looked out.
 5 (so)
 6 (because)
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/53c4f99961d5bd88.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/53c4f99961d5bd88.jpg)

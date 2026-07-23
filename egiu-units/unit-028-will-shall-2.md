@@ -8,7 +8,7 @@
 
 No, it's OK. I'll answer it.
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/cf3a930ac0be264f.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/cf3a930ac0be264f.jpg)
 
 
 Shall I / Shall we ... ? 表示 “你认为……好吗？/ 你认为……是个好办法吗？”
@@ -71,7 +71,7 @@ OK,
 OK,
 OK,
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/7c28b59e5b3e23db.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/7c28b59e5b3e23db.jpg)
 
 
 He might go to New York. It might rain. (= it is possible that he will go to New York) (= it is possible that it will rain)

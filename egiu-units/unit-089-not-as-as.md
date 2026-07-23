@@ -6,13 +6,13 @@
 
 ## not as ... as
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/4efb2e4235a003ca.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/4efb2e4235a003ca.jpg)
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/6fdf32bd3da39357.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/6fdf32bd3da39357.jpg)
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/b9234655e5e47e39.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/b9234655e5e47e39.jpg)
 
 
 She's old, but she's not as old as he is. Box A isn't as big as Box B.
@@ -67,19 +67,19 @@ I've got $3000.
 
 89.1 根据下列各图中 A、B、C 的情况造句。
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/9dac8db891bd3cbe.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/9dac8db891bd3cbe.jpg)
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/203d7a231087c0e4.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/203d7a231087c0e4.jpg)
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/71a591b6bfe616ab.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/71a591b6bfe616ab.jpg)
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/fc456c2ce7e71d2a.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/fc456c2ce7e71d2a.jpg)
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/aa5181f7e007eacc.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/aa5181f7e007eacc.jpg)
 
 
 I don't work very hard.
@@ -89,7 +89,7 @@ I work
 very hard.
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/03585e0e6323cc9d.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/03585e0e6323cc9d.jpg)
 
 
 1 A is bigger than C, but not as big as B
@@ -131,7 +131,7 @@ very hard.
 
 ## 89.4 根据下图有关朱莉娅、安迪和劳拉的信息，用 the same age / the same street 等完成句子。
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/85f82b08d33ce8a1.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/85f82b08d33ce8a1.jpg)
 
 
 Julia
@@ -140,7 +140,7 @@ Julia
 I'm 22. I live in Hill Street. I got up at 7.15. I haven't got a car.
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/5b23da692256e2fb.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/5b23da692256e2fb.jpg)
 
 
 Andy
@@ -152,7 +152,7 @@ I got up at 7.15.
 My car is dark blue.
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/ca17976b8d0a3ff8.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/ca17976b8d0a3ff8.jpg)
 
 
 I'm 24.

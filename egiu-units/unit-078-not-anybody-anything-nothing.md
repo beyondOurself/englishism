@@ -12,7 +12,7 @@ nobody/no-one
 
 (表示人)
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/f5d5d63f6900977e.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/f5d5d63f6900977e.jpg)
 
 
 ☐ There isn't{anybody} in the room.
@@ -37,7 +37,7 @@ nobody = not + anybody no-one = not + anyone □ I'm lonely. I've got nobody to 
 
 (表示物)
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/10fc88847c1d91ad.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/10fc88847c1d91ad.jpg)
 
 
 □ There isn't anything in the bag.

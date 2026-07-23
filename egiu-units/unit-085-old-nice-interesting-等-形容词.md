@@ -40,22 +40,22 @@ smell(s)
 sound(s)
 taste(s)
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/9943f9f4f56f8c35.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/9943f9f4f56f8c35.jpg)
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/606d5e0d7c69e7cd.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/606d5e0d7c69e7cd.jpg)
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/d993569622938f95.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/d993569622938f95.jpg)
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/b0bb2cb229e03a4f.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/b0bb2cb229e03a4f.jpg)
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/eb2aad2077fe07f4.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/eb2aad2077fe07f4.jpg)
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/a5c0d46346a7f26b.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/a5c0d46346a7f26b.jpg)
 
 
 ## 85.4 A 与 B 想法不一致。用 feel/look 等完成 B 所说的话。
@@ -76,10 +76,10 @@ Maybe, but it (taste)
 
 # quickly/badly/suddenly 等（副词）
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/b853d989c84208e1.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/b853d989c84208e1.jpg)
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/24db719f684d8832.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/24db719f684d8832.jpg)
 
 
 He ate his dinner very quickly.
@@ -122,7 +122,7 @@ heavily 等
 
 □ I understand you perfectly.
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/55a1a258b91d86cd.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/55a1a258b91d86cd.jpg)
 
 
 It's raining heavily.

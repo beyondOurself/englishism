@@ -20,25 +20,25 @@ BEN
 
 10.1 昨天下午3点钟时，下列图片中的人在哪里？
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/4d75093b7808f77e.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/4d75093b7808f77e.jpg)
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/f3464d9ffa0462ab.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/f3464d9ffa0462ab.jpg)
 
 
 JACK KATE
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/54aed787abf4d806.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/54aed787abf4d806.jpg)
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/a9b0c2cb484a3c00.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/a9b0c2cb484a3c00.jpg)
 
 
 MR AND MRS HALL
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/a29cb7613f880171.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/a29cb7613f880171.jpg)
 
 
 1 Gary was in bed.

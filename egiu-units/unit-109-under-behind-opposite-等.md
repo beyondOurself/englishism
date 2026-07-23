@@ -6,22 +6,22 @@
 
 ## above 与 below 比较
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/f22e7800174dfa62.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/f22e7800174dfa62.jpg)
 
 
 A is above the line. (= higher than the line)
 
 B
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/5944836537e0fc7d.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/5944836537e0fc7d.jpg)
 
 
 B is below the line. (= lower than the line)
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/17d23b7fc561802f.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/17d23b7fc561802f.jpg)
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/5af8f6cd2879e9dd.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/5af8f6cd2879e9dd.jpg)
 
 
 The pictures are above the shelves.
@@ -31,7 +31,7 @@ The shelves are below the pictures.
 
 109.1 图中的人物分别在什么位置？完成下列句子。
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/ded28db850c954b5.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/ded28db850c954b5.jpg)
 
 
 DONNA EMMA FRANK
@@ -57,22 +57,22 @@ DONNA EMMA FRANK
 
 ## 109.2 看图完成句子。
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/926bbce51656dd3c.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/926bbce51656dd3c.jpg)
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/c9dd0acdfe21770c.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/c9dd0acdfe21770c.jpg)
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/7d0020c99c0a43bf.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/7d0020c99c0a43bf.jpg)
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/c80a5488d4b9c31d.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/c80a5488d4b9c31d.jpg)
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/1ac96162a55d43c0.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/1ac96162a55d43c0.jpg)
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/096f929193b10ddb.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/096f929193b10ddb.jpg)
 
 
 1 The cat is ....under.... the table.
@@ -82,27 +82,27 @@ DONNA EMMA FRANK
 5 The cinema is ....the right.
 6 She's sitting ....the phone.
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/543229d380a498fe.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/543229d380a498fe.jpg)
 
 
 ## 109.3 根据下图，用括号中的词语造句。
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/1300fb174103ab5e.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/1300fb174103ab5e.jpg)
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/0a9fc9f011c35365.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/0a9fc9f011c35365.jpg)
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/63ee79d73403ad32.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/63ee79d73403ad32.jpg)
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/d736170ac7bd52d6.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/d736170ac7bd52d6.jpg)
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/4b381153b304554c.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/4b381153b304554c.jpg)
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/f5dee4ebedce019a.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/f5dee4ebedce019a.jpg)
 
 
 7 The switch is ____ the window.

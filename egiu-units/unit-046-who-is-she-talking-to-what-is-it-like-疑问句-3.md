@@ -6,7 +6,7 @@
 
 ## Who is she talking to? What is it like? (疑问句 3)
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/0184c01a2604ced7.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/0184c01a2604ced7.jpg)
 
 
 Julia is talking to somebody.
@@ -29,7 +29,7 @@ Who is she talking to?
 
 ## What's it like? / What are they like? 等
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/9fab7442fba528d2.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/9fab7442fba528d2.jpg)
 
 
 What's it like? = What is it like?
@@ -80,7 +80,7 @@ The book was written by XXXXX.
 
 go listen look talk talk wait
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/c46788530bc18237.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/c46788530bc18237.jpg)
 
 
 1 Who is she talking to?

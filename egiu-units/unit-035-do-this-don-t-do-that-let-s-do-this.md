@@ -12,7 +12,7 @@
 
 Do you like ... ? / I like ...
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/0761a1a2c1b0f0a1.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/0761a1a2c1b0f0a1.jpg)
 
 
 B: Yes, I'd love to.
@@ -34,7 +34,7 @@ B: Yes, I go to the cinema a lot.
 
 34.1 图中的人物在说些什么？要求使用 Would you like ... ?句式。
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/931b3bf93dab01c8.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/931b3bf93dab01c8.jpg)
 
 
 34.2 在下列情况下你会对休说什么？要求用上 Would you like to ... ?句式。
@@ -73,7 +73,7 @@ B: Yes, I go to the cinema a lot.
 
 12 'What kind of music do you like / would you like?' 'All kinds.'
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/d682be740f758a09.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/d682be740f758a09.jpg)
 
 
 come/look/go/wait/do/be 等可用来命令或吩咐某人做某事：
@@ -107,7 +107,7 @@ B: No, I'm tired. Let's stay at home.
 
 否定形式为 let's not ...:
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/54a59c9567926f0d.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/54a59c9567926f0d.jpg)
 
 
 □ It's cold. Let's not go out. Let's stay at home.
@@ -126,33 +126,33 @@ Are you ready? Let's go.
 
 be buy come drink drop forget have sit sleep smile
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/6d9e2525da87809e.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/6d9e2525da87809e.jpg)
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/68a10b0a18cf5c69.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/68a10b0a18cf5c69.jpg)
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/0c161d082881313e.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/0c161d082881313e.jpg)
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/3c0d0cdafbc24409.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/3c0d0cdafbc24409.jpg)
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/4c0ddc7c4bc1e409.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/4c0ddc7c4bc1e409.jpg)
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/471da5bb81b3a3ba.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/471da5bb81b3a3ba.jpg)
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/e15022145c5a2648.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/e15022145c5a2648.jpg)
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/2b672ce59f4dd32e.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/2b672ce59f4dd32e.jpg)
 
 
 ...... careful with that vase. .... it!
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/03249fcca7cf4d8f.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/03249fcca7cf4d8f.jpg)
 
 
 ## 35.2 用 let's 和下列短语完成句子。
@@ -210,7 +210,7 @@ Do you want me to turn on the light?
 
 Shall we go by bus?
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/41161bbe6d3baea6.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/41161bbe6d3baea6.jpg)
 
 
 Dave used to work in a factory. Now he works in a supermarket.
@@ -233,4 +233,4 @@ Dave used to work in a factory 表示戴夫以前在工厂工作，但现在不�
 
 □ Helen used to have a piano, but she sold it a few years ago.
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/22db8917f275ce6d.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/22db8917f275ce6d.jpg)

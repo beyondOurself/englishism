@@ -19,7 +19,7 @@ B: Yes, please.
 □ A: What would you like, tea or coffee?
 B: Tea, please.
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/a984a79daee59c23.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/a984a79daee59c23.jpg)
 
 
 ## Would you like to ...? 可用来表示邀请某人:
@@ -44,4 +44,4 @@ I'd like ... 是 I want ... 的礼貌说法。I'd like = I would like:
 
 Would you like ... ? / I'd like ...
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/990d6a84e4a81e9f.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/990d6a84e4a81e9f.jpg)

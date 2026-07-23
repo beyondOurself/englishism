@@ -6,18 +6,18 @@
 
 ## too 与 either 比较
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/7264f9833f5f6ba9.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/7264f9833f5f6ba9.jpg)
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/3e2c9a35f8a4c701.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/3e2c9a35f8a4c701.jpg)
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/41c07101e6da00f0.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/41c07101e6da00f0.jpg)
 
 
 I'm not happy either.
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/e127a1301d8d7324.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/e127a1301d8d7324.jpg)
 
 
 ## too 与 either 用于句尾。
@@ -49,14 +49,14 @@ B: I can't either. (而不用 I can't too)
 
 ## so am I / neither do I 等
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/3e2e6e535edb8314.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/3e2e6e535edb8314.jpg)
 
 
 <table><tr><td>so neither</td><td>am/is/are ... was/were ... do/does ... did ... have/has ... can ... will ... would ...</td></tr></table>
 
 ## so am I = I am too
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/bc3bf18ce9618a11.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/bc3bf18ce9618a11.jpg)
 
 
 so have I = I have too 等:

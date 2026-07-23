@@ -8,16 +8,16 @@
 
 ## before, during 与 after 比较:
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/fbdfe5121febad02.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/fbdfe5121febad02.jpg)
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/90ed4fee8a91318f.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/90ed4fee8a91318f.jpg)
 
 
 during the film
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/276d033896ce8679.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/276d033896ce8679.jpg)
 
 
 after the film
@@ -31,19 +31,19 @@ after the film
 
 ## before, while 与 after 比较
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/1c93fb6149108185.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/1c93fb6149108185.jpg)
 
 
 before we played
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/cb7a33c130afdb87.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/cb7a33c130afdb87.jpg)
 
 
 while we were playing
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/351aaf623d5dac19.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/351aaf623d5dac19.jpg)
 
 
 after we played
@@ -158,7 +158,7 @@ After ____
 
 5 Let's have a cup of coffee. Then we'll go out. Let's ____
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/44f454840d9eba30.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/44f454840d9eba30.jpg)
 
 
 in a room
@@ -169,7 +169,7 @@ in a car
 
 in the water
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/0fdb0398a1fbd40a.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/0fdb0398a1fbd40a.jpg)
 
 
 in a garden

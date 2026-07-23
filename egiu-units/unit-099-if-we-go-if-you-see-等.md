@@ -8,7 +8,7 @@
 
 ## if you see ... 等
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/52bb6cc473f567eb.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/52bb6cc473f567eb.jpg)
 
 
 ## if 用于句首或句中：
@@ -142,7 +142,7 @@ had 常表示过去，但在此句中不是这样。
 
 If I had the money ...
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/88a8fedc700965a6.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/88a8fedc700965a6.jpg)
 
 
 <table><tr><td>If</td><td>Iyouitthey等</td><td>had / knew / lived / went (等) ..., didn't have / didn't know (等) ..., were ..., could ...,</td><td>Iyouitthey等</td><td>would(n't)could(n't)</td><td>buy ...be ...have ...go ...等</td></tr></table>

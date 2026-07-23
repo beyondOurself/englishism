@@ -8,7 +8,7 @@
 
 □ When I went out, it was raining. 或 It was raining when I went out.
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/650a5024800295ad.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/650a5024800295ad.jpg)
 
 
 Before you cross the road, always look both ways.

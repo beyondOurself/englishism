@@ -116,7 +116,7 @@ get home / arrive home (不带介词):
 
 ## next to / beside / between / in front of / behind
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/2a3daa9424c4dc3a.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/2a3daa9424c4dc3a.jpg)
 
 
 A is next to B. 或 A is beside B.
@@ -131,7 +131,7 @@ B is in the middle (of the group).
 
 ## opposite / in front of
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/3d2cc57ae8116266.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/3d2cc57ae8116266.jpg)
 
 
 A is sitting in front of B.
@@ -140,7 +140,7 @@ C is sitting opposite A.
 
 ## by (= next to / beside)
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/93604e734a86a799.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/93604e734a86a799.jpg)
 
 
 by the window
@@ -153,12 +153,12 @@ by the window
 
 ## under
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/e85bd619e193d296.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/e85bd619e193d296.jpg)
 
 
 under the table
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/048381d385093a14.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/048381d385093a14.jpg)
 
 
 under a tree

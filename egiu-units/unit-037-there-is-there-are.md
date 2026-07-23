@@ -6,7 +6,7 @@
 
 ## there is
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/7374b6e2b0c2bcbc.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/7374b6e2b0c2bcbc.jpg)
 
 
 There's a book on the table.
@@ -15,7 +15,7 @@ There's a book on the table.
 
 it is
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/0ab02fdbb16c8568.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/0ab02fdbb16c8568.jpg)
 
 
 I like this book. It's interesting. (It = this book)
@@ -101,4 +101,4 @@ a rugby team the English alphabet
 6 'What's that building?' 'a school.'
 7 'a restaurant in this hotel?' 'No, I'm afraid not.'
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/25a89cd2dcfe83eb.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/25a89cd2dcfe83eb.jpg)

@@ -20,17 +20,17 @@ used to ... 仅用于表示过去。不能用 I use to ... 表示现在：
 
 ## 36.1 根据下列图片，用 used to ... 完成句子。
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/dd701ef74c0fd155.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/dd701ef74c0fd155.jpg)
 
 
 2
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/f40c062acb3190cc.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/f40c062acb3190cc.jpg)
 
 
 3
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/1c7c381d8e48e8ca.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/1c7c381d8e48e8ca.jpg)
 
 
 4
@@ -38,7 +38,7 @@ used to ... 仅用于表示过去。不能用 I use to ... 表示现在：
 He .....
 football.
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/6f881462805e1383.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/6f881462805e1383.jpg)
 
 
 in the country.
@@ -47,12 +47,12 @@ in the country.
 
 This is me 20 years ago. I never wear glasses now.
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/0e9b9a7eb79a744a.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/0e9b9a7eb79a744a.jpg)
 
 
 a taxi driver.
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/2ff33a1fd6d15dcf.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/2ff33a1fd6d15dcf.jpg)
 
 
 ## 36.2 卡伦现在努力工作，几乎没有空闲时间。这与几年前的情况有所不同。
@@ -77,7 +77,7 @@ Do you travel much?
 
 Yes, I read a lot.
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/8bdff0697aa34d44.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/8bdff0697aa34d44.jpg)
 
 
 Yes, I go away two or three times a year.
@@ -114,13 +114,13 @@ I work very hard in my job. I don't have any free time.
 
 10 What games .... you .... when you were a child?
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/0ab5f6b72967c6ed.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/0ab5f6b72967c6ed.jpg)
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/d763a3be38eb09b9.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/d763a3be38eb09b9.jpg)
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/d846a2bf93dde125.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/d846a2bf93dde125.jpg)
 
 
 SUNDAY

@@ -14,7 +14,7 @@
 
 <table><tr><td>am</td><td>I</td><td rowspan="3">doing?working?going?staying?等</td></tr><tr><td>is</td><td>hesheit</td></tr><tr><td>are</td><td>weyouthey</td></tr></table>
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/a1f9ccd8b3706206.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/a1f9ccd8b3706206.jpg)
 
 
 □ 'Are you feeling OK?' 'Yes, I'm fine, thanks.'
@@ -56,12 +56,12 @@ is/are + 主语 + -ing
 
 ## 4.1 看图提问。
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/b8ba019fb63c4b49.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/b8ba019fb63c4b49.jpg)
 
 
 ## 4.2 根据图片内容，用下列词语完成问句。
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/9b271ee5bd7a5a6c.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/9b271ee5bd7a5a6c.jpg)
 
 
 ## 4.3 将下列词语正确排序，组成问句。

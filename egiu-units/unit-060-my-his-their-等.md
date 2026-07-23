@@ -6,7 +6,7 @@
 
 ## my/his/their 等
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/0099eff9fbf6cbd3.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/0099eff9fbf6cbd3.jpg)
 
 
 my umbrella
@@ -67,39 +67,39 @@ their room
 
 DONNA
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/4e5ca72db73f4a23.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/4e5ca72db73f4a23.jpg)
 
 
 ANDY
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/eae790182bee3646.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/eae790182bee3646.jpg)
 
 
 MR AND
 
 MRS LEE
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/68853ffb95d081fe.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/68853ffb95d081fe.jpg)
 
 
 her car
 
 (= Donna's car)
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/b1760f082da96fce.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/b1760f082da96fce.jpg)
 
 
 his bicycle
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/8e9f4c9245428a18.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/8e9f4c9245428a18.jpg)
 
 
 their son
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/767a1cdb0888b745.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/767a1cdb0888b745.jpg)
 
 
 her husband
@@ -107,33 +107,33 @@ her husband
 
 husband)
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/139887d2fa3d0012.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/139887d2fa3d0012.jpg)
 
 
 his sister
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/1c4c0b95d8b489c5.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/1c4c0b95d8b489c5.jpg)
 
 
 their daughter
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/eaa198ead82fb2f0.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/eaa198ead82fb2f0.jpg)
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/76f71df38981def1.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/76f71df38981def1.jpg)
 
 
 his parents
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/05a0578d2bcbb233.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/05a0578d2bcbb233.jpg)
 
 
 their children
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/ca3339ebec0d504e.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/ca3339ebec0d504e.jpg)
 
 
 ## its 与 it's 比较
@@ -164,7 +164,7 @@ it's (= it is) I like Oxford. It's a nice place. (= It is a nice place.)
 
 ## 50.3 请看下面的家族世系图，并用 his/her/their 完成句子。
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/e709823864fb0793.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/e709823864fb0793.jpg)
 
 
 GARY TIM LAURA = STEVE

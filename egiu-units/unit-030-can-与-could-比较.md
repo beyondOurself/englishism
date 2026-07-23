@@ -46,12 +46,12 @@ Can I ... ? 或 Could I ... ? 用于向对方征询意见：
 
 □ (on the phone) Hello, can I speak to Gary, please? 或 ... could I speak ...?
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/6b7b3a77631ff9d8.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/6b7b3a77631ff9d8.jpg)
 
 
 30.1 问问史蒂夫能否做下列事情。
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/485acd530d273f15.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/485acd530d273f15.jpg)
 
 
 你能做这些事情吗？用 I can 或 I can't 写写你自己的情况。
@@ -92,10 +92,10 @@ come find hear see speak
 
 ## 30.4 在下列情形中你会说些什么？要求用上 can 或 could 以及括号中的词语。
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/3e643b8ac9bcdcbf.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/3e643b8ac9bcdcbf.jpg)
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/3f6c0e7f12ba9ec2.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/3f6c0e7f12ba9ec2.jpg)
 
 
 It's a fantastic film. You must see it.
@@ -134,4 +134,4 @@ I mustn't (do something) 表示 “我一定不要，千万不要（做某事）
 
 You mustn't touch the pictures.
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/4ab0ea179d501c76.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/4ab0ea179d501c76.jpg)

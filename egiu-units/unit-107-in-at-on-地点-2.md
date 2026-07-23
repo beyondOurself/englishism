@@ -49,19 +49,19 @@ in 或 at 可用于建筑物（宾馆、餐馆等）之前：
 
 ## on
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/86fe2f6c908a1a32.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/86fe2f6c908a1a32.jpg)
 
 
 on a bus
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/2e2a375a1fbc4414.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/2e2a375a1fbc4414.jpg)
 
 
 on the first floor
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/81bc4864e17c7b33.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/81bc4864e17c7b33.jpg)
 
 
 on the way from A to B
@@ -82,7 +82,7 @@ on the way (to ...) / on the way home
 
 107.1 根据下列图片，用 in/at/on + 括号中的词语回答问题。
 
-<table><tr><td><img src="https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/c4add849ad3646ca.jpg"/></td><td>2 (the airport)<img src="https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/a4595f80f7bc1394.jpg"/></td><td>3 (bed)<img src="https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/e5345b35a3c26657.jpg"/></td><td><img src="https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/334661a352ce06b6.jpg"/></td></tr><tr><td>5 (the sky)<img src="https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/c30bbce223e185ee.jpg"/></td><td>6 (a party)<img src="https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/559988c8599d057c.jpg"/></td><td>7 (the doctor's)<img src="https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/fe4e651d7a63985b.jpg"/></td><td>8 (the second floor)<img src="https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/6e85b0d45175aa53.jpg"/></td></tr><tr><td>9 (work)<img src="https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/cb3914bc76cb8224.jpg"/></td><td>10 (a plane)<img src="https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/40e672f2f866269e.jpg"/></td><td>11 (a taxi)<img src="https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/0877d563a06ab08c.jpg"/></td><td><img src="https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/18629ac516a50242.jpg"/></td></tr></table>
+<table><tr><td><img src="https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/c4add849ad3646ca.jpg"/></td><td>2 (the airport)<img src="https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/a4595f80f7bc1394.jpg"/></td><td>3 (bed)<img src="https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/e5345b35a3c26657.jpg"/></td><td><img src="https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/334661a352ce06b6.jpg"/></td></tr><tr><td>5 (the sky)<img src="https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/c30bbce223e185ee.jpg"/></td><td>6 (a party)<img src="https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/559988c8599d057c.jpg"/></td><td>7 (the doctor's)<img src="https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/fe4e651d7a63985b.jpg"/></td><td>8 (the second floor)<img src="https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/6e85b0d45175aa53.jpg"/></td></tr><tr><td>9 (work)<img src="https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/cb3914bc76cb8224.jpg"/></td><td>10 (a plane)<img src="https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/40e672f2f866269e.jpg"/></td><td>11 (a taxi)<img src="https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/0877d563a06ab08c.jpg"/></td><td><img src="https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/18629ac516a50242.jpg"/></td></tr></table>
 
 1 Where is she? In hospital. 7 Where is Steve?
 
@@ -128,7 +128,7 @@ on the way (to ...) / on the way home
 
 15 I walked to work, but I came home .... the bus.
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/55312ad6f1ca8642.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/55312ad6f1ca8642.jpg)
 
 
 ## go/come/return/walk (等) to ...
@@ -143,7 +143,7 @@ to London
 
 □ What time do you go to bed?
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/8fdcd9156e84c79a.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/8fdcd9156e84c79a.jpg)
 
 
 □ The bus is going to the airport.
@@ -168,7 +168,7 @@ go/come/walk (等) home (不带 to):
 
 ## be/stay/do something (等) in ...
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/df302c74b4613114.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/df302c74b4613114.jpg)
 
 
 □ Piccadilly Circus is in London.
@@ -181,7 +181,7 @@ go/come/walk (等) home (不带 to):
 
 ## be/stay/do something (等) at ...
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/80ce736949de4fbc.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/80ce736949de4fbc.jpg)
 
 
 □ The bus is at the airport.

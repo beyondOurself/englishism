@@ -6,10 +6,10 @@
 
 # the people we met the hotel you stayed at (定语从句 2)
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/70053b012644963e.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/70053b012644963e.jpg)
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/a3c34ddfdc4af740.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/a3c34ddfdc4af740.jpg)
 
 
 The man is carrying a bag.
@@ -118,7 +118,7 @@ Did you like ____ the hotel where you stayed ____
 
 at
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/aaf37e1b7b4ad3d9.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/aaf37e1b7b4ad3d9.jpg)
 
 
 at
@@ -131,7 +131,7 @@ midnight 等
 
 on
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/6204201f221f559c.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/6204201f221f559c.jpg)
 
 
 Sunday(s) / Monday(s) 等
@@ -144,7 +144,7 @@ New Year's Day 等
 
 in
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/dee40f458206ee0b.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/dee40f458206ee0b.jpg)
 
 
 April/June 等
@@ -225,7 +225,7 @@ Last summer we went to Canada.
 
 ## in five minutes / in a few days / in six weeks / in two years 等
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/d05e17935b83cd7c.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/d05e17935b83cd7c.jpg)
 
 
 now

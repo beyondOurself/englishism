@@ -14,7 +14,7 @@
 □ Sue reads a newspaper every day.
 (而不用 Sue reads every day a newspaper)
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/e249203f36aa558b.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/e249203f36aa558b.jpg)
 
 
 SUE (主语) A NEWSPAPER (宾语)

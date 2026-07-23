@@ -24,7 +24,7 @@ What do you do? 表示询问对方的职业：
 
 ## make 表示 “生产 / 制作”：
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/944e0898c787c7e7.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/944e0898c787c7e7.jpg)
 
 
 She's making coffee. He has made a cake. They make umbrellas. It was made in China.
@@ -87,7 +87,7 @@ B: I make clothes. I make dresses and jackets. I also make toys for my children.
 
 ## 57.2 下列图片中的人物正在做什么？
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/71803cd938613128.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/71803cd938613128.jpg)
 
 
 ## 57.3 用 make 或 do 的适当形式填空。

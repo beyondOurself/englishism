@@ -12,7 +12,7 @@
 
 ## 时间
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/8e26cf29cb065356.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/8e26cf29cb065356.jpg)
 
 
 □ What time is it?
@@ -25,7 +25,7 @@
 
 ## 日期
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/3edd359198a5013f.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/3edd359198a5013f.jpg)
 
 
 □ What day is it?
@@ -38,7 +38,7 @@
 
 ## 距离
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/053f23827f5b2c22.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/053f23827f5b2c22.jpg)
 
 
 天气
@@ -54,7 +54,7 @@
 far 用于疑问句 (is it far?) 与否定句 (it isn't far) 中。
 a long way 用于肯定句 (it's a long way) 中。
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/fd10820eeaf8c878.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/fd10820eeaf8c878.jpg)
 
 
 □ It's raining. It isn't raining. Is it snowing?
@@ -91,7 +91,7 @@ There was a strong wind yesterday.
 
 39.1 用 It's ... 句式写出图片中的天气情况。
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/2dbc23c73ead68e1.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/2dbc23c73ead68e1.jpg)
 
 
 1 It's raining.
@@ -152,12 +152,12 @@ There was a strong wind yesterday.
 
 5 I like travelling.
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/9e5ae5d551ccf4d1.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/9e5ae5d551ccf4d1.jpg)
 
 
 She isn't tired, but he is.
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/372ac505b5e971a6.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/372ac505b5e971a6.jpg)
 
 
 (he is = he is tired)

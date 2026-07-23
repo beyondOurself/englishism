@@ -8,34 +8,34 @@
 
 ## 人称
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/bb3bf048f719a747.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/bb3bf048f719a747.jpg)
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/7785b7cb61185b0f.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/7785b7cb61185b0f.jpg)
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/f6da9728a88b7059.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/f6da9728a88b7059.jpg)
 
 
 you
 you
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/e521aba070bb10c8.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/e521aba070bb10c8.jpg)
 
 
 he
 him
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/3a29dda15a795fe3.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/3a29dda15a795fe3.jpg)
 
 
 she
 her
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/8fdf58e2647a7f75.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/8fdf58e2647a7f75.jpg)
 
 
 they them
@@ -60,7 +60,7 @@ Tom knows them. them
 
 It's nice. I like it.
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/90c887d686020adb.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/90c887d686020adb.jpg)
 
 
 They're nice. I like them.

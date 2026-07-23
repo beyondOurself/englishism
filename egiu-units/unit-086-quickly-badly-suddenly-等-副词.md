@@ -24,7 +24,7 @@
 
 angrily badly dangerously fast heavily quietly
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/e09ef88d3a59abe6.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/e09ef88d3a59abe6.jpg)
 
 
 1 It's raining heavily. 4 She shouted at me
@@ -91,4 +91,4 @@ angrily badly dangerously fast heavily quietly
 
 6 Did you have a .... holiday? Was the weather .... ?
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/f579a13f5fb804df.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/f579a13f5fb804df.jpg)

@@ -6,24 +6,24 @@
 
 ## I was doing（过去进行时）与 I did（一般过去时）比较
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/3a5fa9832f3cb5ef.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/3a5fa9832f3cb5ef.jpg)
 
 
 Jack was reading a book.
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/ab6a0be1d838c98a.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/ab6a0be1d838c98a.jpg)
 
 
 The phone rang.
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/67e3af9f3ec77e37.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/67e3af9f3ec77e37.jpg)
 
 
 He stopped reading.
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/5e7e93ec41a24432.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/5e7e93ec41a24432.jpg)
 
 
 He answered the phone.
@@ -81,13 +81,13 @@ B: We were playing tennis.
 
 14.1 根据下列图片，用动词的过去进行时或一般过去时形式填空。
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/08136f0298ecffbc.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/08136f0298ecffbc.jpg)
 
 
 Lucy broke (break) her arm last week.
 It (happen) when she (paint) her room. She (fall) off the ladder.
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/6127cb9c4ce34397.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/6127cb9c4ce34397.jpg)
 
 
 The train ..... (arrive)
@@ -96,7 +96,7 @@ at the station and Paula .....
 Rachel, ..... (wait) to
 meet her.
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/dcad0e6797b2b4ac.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/dcad0e6797b2b4ac.jpg)
 
 
 Yesterday Sue (walk) along the road when she (meet) James. He (go) to the station to catch a train and he (carry) a bag. They (stop) to talk for a few minutes.

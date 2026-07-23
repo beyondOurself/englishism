@@ -8,7 +8,7 @@
 
 ## I want you to
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/5c23fff98d8855f4.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/5c23fff98d8855f4.jpg)
 
 
 The woman wants to go.
@@ -37,10 +37,10 @@ The man doesn't want the woman to go. He wants her to stay.
 
 Wait for me.
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/11b043764d3c4cd8.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/11b043764d3c4cd8.jpg)
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/06f8649d5e1a797a.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/06f8649d5e1a797a.jpg)
 
 
 ME
@@ -50,13 +50,13 @@ ME
 
 Don't wait for me.
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/1b40cb2553f6afbb.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/1b40cb2553f6afbb.jpg)
 
 
 PAUL
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/da16ef9978031a08.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/da16ef9978031a08.jpg)
 
 
 SUE
@@ -101,7 +101,7 @@ Let's ... → Unit 35 He told me that ... → Unit 50
 
 ## 53.2 看图完成句子。
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/e903c7b5408bb81b.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/e903c7b5408bb81b.jpg)
 
 
 1 Dan persuaded me to go to the cinema.

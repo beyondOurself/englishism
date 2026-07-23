@@ -57,7 +57,7 @@ Which way shall we go?
 ☐ There are four umbrellas here.
 Which is yours?
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/e469dd8a1fea8f8d.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/e469dd8a1fea8f8d.jpg)
 
 
 what 表示的范围则更广：
@@ -105,7 +105,7 @@ I've got a new TV set. I want a job. I've got a new sweater. I got up early this
 
 ## 47.2 用 Which ... ? 句式完成问题。
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/d5d209671d0612f5.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/d5d209671d0612f5.jpg)
 
 
 ## 47.3 用 what/which/who 填空。
@@ -114,7 +114,7 @@ I've got a new TV set. I want a job. I've got a new sweater. I got up early this
 
 2 Which way shall we go? Left or right?
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/ad8356635c189823.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/ad8356635c189823.jpg)
 
 
 3 You can have tea or coffee. do you prefer?

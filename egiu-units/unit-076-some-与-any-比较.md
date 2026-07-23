@@ -8,7 +8,7 @@
 
 ## some
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/6109ac139753ddfa.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/6109ac139753ddfa.jpg)
 
 
 some 用于肯定句中：
@@ -19,7 +19,7 @@ some 用于肯定句中：
 
 □ We made some mistakes.
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/e4ad61f526b63c83.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/e4ad61f526b63c83.jpg)
 
 
 any 用于否定句中：
@@ -60,7 +60,7 @@ B: Sure. How much do you need?
 
 Have you got any money?
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/b48b8ebb46cbab8a.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/b48b8ebb46cbab8a.jpg)
 
 
 Would you like some coffee?

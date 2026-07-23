@@ -10,32 +10,32 @@ this (单数)
 
 Do you like this picture?
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/117cfde32a982e90.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/117cfde32a982e90.jpg)
 
 
 these (复数)
 
 These flowers are for you.
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/11859f0b5514c028.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/11859f0b5514c028.jpg)
 
 
 that (单数)
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/59040fb0994f5456.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/59040fb0994f5456.jpg)
 
 
 those (复数)
 
 Who are those people?
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/d705844dc3c17c30.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/d705844dc3c17c30.jpg)
 
 
 this
 these this picture
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/5d9ae4b021ef8b7b.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/5d9ae4b021ef8b7b.jpg)
 
 
 (这幅画)
@@ -47,7 +47,7 @@ these flowers
 that
 those that picture
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/29f2bed3f10b1eb1.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/29f2bed3f10b1eb1.jpg)
 
 
 (那幅画)
@@ -109,7 +109,7 @@ B: Hello, Chris – nice to meet you.
 
 c: Hi.
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/4b23cb1fba9f038f.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/4b23cb1fba9f038f.jpg)
 
 
 Hi Sarah,
@@ -119,30 +119,30 @@ this is David.
 
 birds house plates postcards seat shoes
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/76701cc7ef2ccff2.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/76701cc7ef2ccff2.jpg)
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/5dd56bcf59834f39.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/5dd56bcf59834f39.jpg)
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/8f9e956a6ea195eb.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/8f9e956a6ea195eb.jpg)
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/677ca29397578388.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/677ca29397578388.jpg)
 
 
 Excuse me, is .... free?
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/64f28c36ad95a202.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/64f28c36ad95a202.jpg)
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/9acebfaff2922a01.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/9acebfaff2922a01.jpg)
 
 
 ## 74.2 用 Is this/that your ... ? 或 Are these/those your ... ? 句式提问。
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/1c5619cc7d762006.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/1c5619cc7d762006.jpg)
 
 
 ## 74.3 用 this is, that's 或 that 完成句子。

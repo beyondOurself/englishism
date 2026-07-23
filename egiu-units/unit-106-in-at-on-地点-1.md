@@ -6,25 +6,25 @@
 
 ## at
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/a9797b01e9a1a141.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/a9797b01e9a1a141.jpg)
 
 
 at the bus stop
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/24b2fbf431c0c86c.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/24b2fbf431c0c86c.jpg)
 
 
 at the door
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/177377bcf9f86a2a.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/177377bcf9f86a2a.jpg)
 
 
 at the traffic lights
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/be9de8c8f2e9ef02.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/be9de8c8f2e9ef02.jpg)
 
 
 at her desk
@@ -42,7 +42,7 @@ at the top / at the bottom / at the end (of ...):
 
 □ Write your name at the top of the page.
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/f2137b0e510013ba.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/f2137b0e510013ba.jpg)
 
 
 □ My house is at the end of the street.
@@ -51,7 +51,7 @@ at the bottom (of the page)
 
 on
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/5b61886499bf2687.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/5b61886499bf2687.jpg)
 
 
 on a shelf
@@ -67,7 +67,7 @@ on the floor
 
 等
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/274da2dc288db032.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/274da2dc288db032.jpg)
 
 
 on a wall
@@ -88,14 +88,14 @@ on the ceiling
 
 □ Who is that man on the motorbike?
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/302497e5a18a9c20.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/302497e5a18a9c20.jpg)
 
 
 the top / the bottom 等 → Unit 70 at/on/in（时间）→ Unit 103 in/at/on（地点2）→ Unit 107
 
 106.1 根据下列图片，用 in/at/on + 括号内的词语回答问题。
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/6b99fede03aa51ec.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/6b99fede03aa51ec.jpg)
 
 
 1 Where is he? In the kitchen.

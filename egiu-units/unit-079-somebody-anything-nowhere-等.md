@@ -6,7 +6,7 @@
 
 ## somebody/anything/nowhere 等
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/5f660f5e76bdb805.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/5f660f5e76bdb805.jpg)
 
 
 Somebody (或 Someone) has broken the window.
@@ -14,14 +14,14 @@ Somebody (或 Someone) has broken the window.
 somebody/someone
 指某人，但我们不知道是谁。
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/8e6b3297cc4c1879.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/8e6b3297cc4c1879.jpg)
 
 
 She has got something in her mouth.
 
 something 指某物，但我们不知道是什么。
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/822f77bffb88ed80.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/822f77bffb88ed80.jpg)
 
 
 Tom lives somewhere near London.
@@ -104,7 +104,7 @@ Where are you going?
 What do you want?
 Who are you looking for?
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/79c69a635b0bedb3.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/79c69a635b0bedb3.jpg)
 
 
 现在用完整的句子回答上述问题。要求用上 not + anybody/anything/anywhere。
@@ -134,7 +134,7 @@ Who are you looking for?
 
 <table><tr><td>something</td><td>anything</td><td>nothing</td></tr><tr><td>something</td><td>anywhere</td><td>nowhere</td></tr><tr><td>somewhere</td><td></td><td>nowhere</td></tr></table>
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/b2daaf065a81dcc5.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/b2daaf065a81dcc5.jpg)
 
 
 1 We don't go out very much because there's ____nowhere to go

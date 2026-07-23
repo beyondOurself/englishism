@@ -8,7 +8,7 @@
 
 ## one (= a ...)
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/d15548ab0069d5ae.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/d15548ab0069d5ae.jpg)
 
 
 Would you like one?
@@ -27,12 +27,12 @@ B: Yes, there's one at the end of this street. (one = a bank)
 
 ## one (单数)
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/7b119a427d1bc4f8.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/7b119a427d1bc4f8.jpg)
 
 
 Which one? = Which hat?
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/dc6232fec6fd2940.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/dc6232fec6fd2940.jpg)
 
 
 ## one = hat/car/girl 等

@@ -7,19 +7,19 @@
 all
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/852730b141513fc0.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/852730b141513fc0.jpg)
 
 
 most
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/dac234c8e1e02aaf.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/dac234c8e1e02aaf.jpg)
 
 
 some
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/f676a7da3474866f.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/f676a7da3474866f.jpg)
 
 
 any
@@ -27,7 +27,7 @@ any
 
 most/some 等 + 名词：
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/f53f6bffa97bf262.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/f53f6bffa97bf262.jpg)
 
 
 no / none / not + any
@@ -127,7 +127,7 @@ the ... (children / the children 等) → Unit 72 some 与 any 比较 → Unit 7
 
 ## 81.2 根据图片，用 all/most/some/none + of them / of it 回答问题。
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/a9a7c1bc2a79f354.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/a9a7c1bc2a79f354.jpg)
 
 
 1 How many of the people are women? .... Most of them.
@@ -154,19 +154,19 @@ the ... (children / the children 等) → Unit 72 some 与 any 比较 → Unit 7
 
 both/either/neither 可用来谈论两个物或人：
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/a15211b372640a54.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/a15211b372640a54.jpg)
 
 
 both
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/274274331458db0e.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/274274331458db0e.jpg)
 
 
 或
 
 either
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/c123aef3ad529d2d.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/c123aef3ad529d2d.jpg)
 
 
 neither (not + either)
@@ -208,7 +208,7 @@ both of ... / either of ... / neither of ...
 
 可以说 both of the/those/my ... 或
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/d8a8b5ec9d483f08.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/d8a8b5ec9d483f08.jpg)
 
 
 both the/those/my ... (用不用 of 均可):

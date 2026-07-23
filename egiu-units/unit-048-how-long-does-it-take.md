@@ -6,7 +6,7 @@
 
 ## How long does it take from ... to ... ?
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/e7530c3aaae149e3.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/e7530c3aaae149e3.jpg)
 
 
 How long does it take by plane from New York to Washington?
@@ -31,7 +31,7 @@ It takes an hour.
 
 ## How long does it take you to do something?
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/88f2c5aab1ab2aa6.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/88f2c5aab1ab2aa6.jpg)
 
 
 <table><tr><td>How long</td><td>doesdidwill</td><td>it take</td><td>youTomthem</td><td>to ... ?</td></tr></table>
@@ -52,16 +52,16 @@ It took me three days to read it.
 
 48.1 根据下列图片，用 How long ... ? 句式提问。
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/701d9e3e0a861c94.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/701d9e3e0a861c94.jpg)
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/bbc16719964a4aa9.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/bbc16719964a4aa9.jpg)
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/24f9146366f83c62.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/24f9146366f83c62.jpg)
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/42d84b43e86f22f6.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/42d84b43e86f22f6.jpg)
 
 
 1 How long does it take by plane from London to Amsterdam?

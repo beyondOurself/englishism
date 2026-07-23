@@ -8,12 +8,12 @@
 
 ## 一般现在时的否定式为 don't/doesn't + 动词：
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/3f3da5526a15b560.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/3f3da5526a15b560.jpg)
 
 
 She doesn't drink coffee.
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/6936d0c9d36144bf.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/6936d0c9d36144bf.jpg)
 
 
 He doesn't like his job.
@@ -79,7 +79,7 @@ he/she/it doesn't ... □ He doesn't like football.
 Do you
 like ... ?
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/54047a63284db63e.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/54047a63284db63e.jpg)
 
 
 BEN AND

@@ -44,7 +44,7 @@ There were 550 rooms.
 
 ## there has been / there have been (现在完成时)
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/535d33cd333104a7.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/535d33cd333104a7.jpg)
 
 
 □ Look! There's been an accident.
@@ -61,7 +61,7 @@ There were 550 rooms.
 
 ## there will be (一般将来时)
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/8161e57263b7e7ae.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/8161e57263b7e7ae.jpg)
 
 
 关于一般过去时与现在完成时比较，参见 Unit 20。
@@ -85,10 +85,10 @@ some flowers
 three pictures a sofa
 a small table
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/91f2e7e20ed16304.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/91f2e7e20ed16304.jpg)
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/12a4f55803e2e694.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/12a4f55803e2e694.jpg)
 
 
 There was a clock on the wall near the window.

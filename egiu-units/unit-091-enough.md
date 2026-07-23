@@ -8,14 +8,14 @@
 
 I've only got three pounds - not enough for a taxi.
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/f2b69c01b144cc1f.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/f2b69c01b144cc1f.jpg)
 
 
 She isn't going to take a taxi.
 
 She hasn't got enough money.
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/86341d7a94a980e1.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/86341d7a94a980e1.jpg)
 
 
 He can't reach the shelf.
@@ -85,7 +85,7 @@ enough for somebody/something to do something
 
 chairs money paint wind
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/65d0e9c44b4e73b6.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/65d0e9c44b4e73b6.jpg)
 
 
 1 She hasn't got enough money. 3 She hasn't got
@@ -95,16 +95,16 @@ chairs money paint wind
 
 big long strong tall
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/ed61e8a16d0265ee.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/ed61e8a16d0265ee.jpg)
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/920cad33cf46723b.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/920cad33cf46723b.jpg)
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/7e324896b2c56b3c.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/7e324896b2c56b3c.jpg)
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/9bba316fcbb06101.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/9bba316fcbb06101.jpg)
 
 
 1 He isn't tall enough . 3 His legs aren't

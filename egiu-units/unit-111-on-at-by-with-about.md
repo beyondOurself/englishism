@@ -55,7 +55,7 @@ by car / by bus / by plane / by bike 等：
 
 a book by ... / a painting by ... / a piece of music by ... 等:
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/876fb65316008d8f.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/876fb65316008d8f.jpg)
 
 
 ## by bus
@@ -70,7 +70,7 @@ by
 
 by 用于被动语态之后 (参见 Unit 21):
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/c200c4242f949d8f.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/c200c4242f949d8f.jpg)
 
 
 □ I was bitten by a dog.
@@ -86,14 +86,14 @@ by 用于被动语态之后 (参见 Unit 21):
 □ Do you know that man with the beard?
 □ I'd like to have a house with a big garden.
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/e9611362e4011dc0.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/e9611362e4011dc0.jpg)
 
 
 a man
 with a beard
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/918cd16194a96268.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/918cd16194a96268.jpg)
 
 
 a woman
@@ -132,7 +132,7 @@ holiday the phone the radio television time
 
 ## 111.2 根据图片，用介词 at/by/with 等完成句子。
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/9551b7787db11855.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/9551b7787db11855.jpg)
 
 
 1 I cut the paper ____ with ____ a pair of scissors.

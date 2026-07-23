@@ -13,7 +13,7 @@ watched 为 watch 的过去式:
 
 <table><tr><td>I/we/you/they he/she/it</td><td>watched</td></tr></table>
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/342885e099a60c2f.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/342885e099a60c2f.jpg)
 
 
 ## 过去式通常为 -ed 形式（指规则动词）。例如：
@@ -80,7 +80,7 @@ plan → planned
 
 11.3 根据莉萨马德里之行的情况，用所给动词的适当形式填空。
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/aceea7c3404d2871.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/aceea7c3404d2871.jpg)
 
 
 Last Tuesday Lisa (1) ..... from London to Madrid. She (2) .... up at 6 o'clock in the morning and (3) ..... a cup of coffee. At 6.30 she (4) ..... home and (5) ..... to the airport. When she (6) ..... there, she (7) ..... the car, (8) ..... to the airport building, and (9) ..... in. Then she (10) ..... breakfast at a café and (11) ..... for her flight. The plane (12) ..... on time and (13) ..... in Madrid two hours later. Finally she (14) ..... a taxi from the airport to her hotel in the centre of Madrid.

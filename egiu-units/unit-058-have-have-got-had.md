@@ -85,7 +85,7 @@ B: He's having a shower. (= he's washing now)
 
 □ Can I have a look at your newspaper?
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/54a44c90073908a6.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/54a44c90073908a6.jpg)
 
 
 ## Exercises
@@ -112,24 +112,24 @@ B: He's having a shower. (= he's washing now)
 
 a bath breakfast a cup of tea dinner a good time a rest
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/1209e6d36b020958.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/1209e6d36b020958.jpg)
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/ddf848cb2b54f3cd.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/ddf848cb2b54f3cd.jpg)
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/a4d812bb79bd881d.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/a4d812bb79bd881d.jpg)
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/3042b0abe0e90f20.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/3042b0abe0e90f20.jpg)
 
 
 1 They're having breakfast. 4 They
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/c0d9eb45994b7319.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/c0d9eb45994b7319.jpg)
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/68a60c25d1d3570c.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/68a60c25d1d3570c.jpg)
 
 
 2 She

@@ -8,7 +8,7 @@
 
 ## afraid of ... / good at ... 等（形容词 + 介词）
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/68dc68a749034b72.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/68dc68a749034b72.jpg)
 
 
 angry with somebody
@@ -68,7 +68,7 @@ be/feel sorry for somebody
 
 112.1 看图并用介词 of/with/in 等完成句子。
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/c44988a7daa34aff.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/c44988a7daa34aff.jpg)
 
 
 1 He's afraid of dogs.

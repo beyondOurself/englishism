@@ -6,7 +6,7 @@
 
 ## not + any no none
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/1e4d6c51b3d60b78.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/1e4d6c51b3d60b78.jpg)
 
 
 The car park is empty.

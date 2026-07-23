@@ -22,7 +22,7 @@ B: She's just gone out. (She's = She has)
 
 □ My friends have all gone to the cinema.
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/e87161942024b14e.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/e87161942024b14e.jpg)
 
 
 94.1 根据保罗的回答，用 often/never 等造句。
@@ -34,7 +34,7 @@ B: She's just gone out. (She's = She has)
 5
 6
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/22a6d2bee3b4db72.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/22a6d2bee3b4db72.jpg)
 
 
 Do you ever play tennis? Do you get up early? Are you ever late for work? Do you ever get angry? Do you ever go swimming? Are you at home in the evenings?
@@ -108,7 +108,7 @@ Yes,
 
 ## 94.4 用 both 或 all 造句。
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/38d01367343d6eac.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/38d01367343d6eac.jpg)
 
 
 I live in London.
@@ -117,7 +117,7 @@ I'm a student.
 I've got a car.
 
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/24e224c03a14c6c0.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/24e224c03a14c6c0.jpg)
 
 
 I live in London.
@@ -132,7 +132,7 @@ They football. students cars.
 
 I'm married. I was born in England. I live in New York.
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/49120b4f48757d64.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/49120b4f48757d64.jpg)
 
 
 2 They .... married.

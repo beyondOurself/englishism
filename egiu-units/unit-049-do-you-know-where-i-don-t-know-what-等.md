@@ -9,7 +9,7 @@
 Do you know
 where Paula is?
 
-![image](https://raw.githubusercontent.com/beyondOurself/englishism/main/assets/egiu/e69594f6d05a9025.jpg)
+![image](https://gitee.com/shencanlong/englishism/raw/main/assets/egiu/e69594f6d05a9025.jpg)
 
 
 可以说： Where is Paula?
