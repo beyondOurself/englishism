@@ -1,0 +1,7339 @@
+## 注意：
+
+使用定语从句化简法应注意的事项： 
+
+a. 非限定修饰的定语从句（即关系代词之前有逗号）通常不得化简为分词短语。 
+
+```txt
+例: I like Tom, who is talking to Mary. (√)
+但: I like Tom, who is talking to Mary.
+(being)
+→ I like Tom, talking to Mary. (×) 
+```
+
+b. 不过非限定修饰的定语从句结构若为 “关系代词 + be + 名词” 时，则仍可化简，而形成同位语。 
+
+```txt
+注意
+形成同位语时，可置于主语之前或之后。故本句亦可改为：
+A good friend of mine, John studies hard.
+主语同位语 主语 
+```
+
+```txt
+例: He studies hard, which is a fact that is known to all of us.
+→ He studies hard, which is a fact that is known to all of us.
+(being) (being)
+= He studies hard, a fact known to all of us. (√)
+(他用功是众人皆知的事实。) 
+```
+
+## 8. 测验站：
+
+由于我们在第 5、6、7 项为同学们所介绍的分词结构实在很重要，因此赖老师特别出了下列几个翻译题，请同学们用分词结构翻译出来，以测验自己的了解程度。
+试译下列各句： 
+
+a. 我不知道如何处理（deal with）这个问题，就向他请教（consult）。 
+
+## c. 他光着脚（barefooted）走进屋子里。
+
+d. 他挥手向她道别。 
+
+示范译句： 
+
+a. Not knowing how to deal with the problem, I consulted him. 
+
+b. As I entered the room, I found books scattered around. 
+
+c. He came into the room (being) barefooted. 
+
+d. He said goodbye to her, waving his hand. 
+
+## 9. 分词结构——状语从句化简法：
+
+once、when、while、if、unless、though 等连词所引导的状语从句中，若主语与主句中的主语相同时，亦可化简为分词结构，法则与单句化简法完全相同。 
+
+## 例: If /aɪn/ free, I'll go with you.
+
+In those days, when he didn't know how to proceed in an emergency, he not knowing 
+
+= In those days, when not knowing how to proceed in an emergency, he would consult his father. 
+
+（在那段日子里，当他不知道如何处理紧急状况时，都会请教他父亲。） 
+
+```txt
+Though he was seriously injured, he was not at all daunted.
+(being)
+= Though seriously injured, he was not at all daunted.
+(虽然受伤很重，他一点都不畏惧。)
+Once I am available, I'll let you know.
+(being)
+= Once available, I'll let you know.
+(一旦我有空，我会让你知道。) 
+```
+
+## 注意
+
+上列六个连词中，once、if、unless 所引导的状语从句若化简为分词短语，多限于“主语 + be + 分词/形容词”的结构；而 when、while、though 则不受此限制。 
+
+```txt
+例: Once I have money, I'll buy a car. (√)
+(我一旦有钱，就会买车。)
+
+→ Once having money, I'll buy a car. (×)
+但 Once I'm rich, I'll buy a car. (√)
+be adj.
+
+= Once rich, I'll buy a car. (√)
+(我一旦有钱，就会买车。)
+
+Though I have money, I won't buy a car. (√)
+(我虽然有钱，却不会买车。)
+
+= Though having money, I won't buy a car.
+Though I am rich, I won't buy a car. (√)
+be adj.
+
+= Though rich, I won't buy a car.
+(我虽然有钱，却不会买车。)
+
+表身体组织的名词可变成过去分词当形容词用：
+例: The girl has big eyes.
+→ I love the big-eyed girl.
+(我喜欢这个大眼睛的女孩。)
+
+She has red hair.
+
+→ Do you see the red-haired girl there?
+(你看见那边的红发女孩吗？)
+
+The soldier has only one leg.
+
+→ The one-legged soldier was a hero.
+(那个独腿士兵是个英雄。) 
+```
+
+<table><tr><td colspan="2">类例用法:</td></tr><tr><td>a broken-hearted man</td><td>一个心碎的人</td></tr><tr><td>a bare-footed boy</td><td>一个赤脚的男孩</td></tr><tr><td>a black-skinned guy</td><td>一个黑皮肤的人</td></tr><tr><td>a two-headed snake</td><td>一条双头蛇</td></tr></table>
+
+## 11. 少数现在分词可当介词使用：
+
+```txt
+including （包括）
+excluding （除外）
+considering （考虑）
+regarding （关于）
+concerning （关于）
+a. including / excluding
+例: Everyone likes the movie, | excluding | John. (√)
+including
+→ Everyone likes the movie, John is (being) | excluded. |
+included.
+→ Everyone likes the movie, John | excluded.
+included.
+= Everyone likes the movie, | exclusive of | John. (√)
+inclusive of
+（每一个人都喜欢这部电影，除了/包括约翰。） 
+```
+
+## b. considering
+
+例: Considering his performance, he can be a good teacher. (√)
+介词
+→ His performance is considered, he can be a good teacher.
+(being)
+= His performance considered, he can be a good teacher. (√)
+(从他的表现看来，他可以当个好老师。) 
+
+c. regarding / concerning
+例: He wrote an article | regarding | environmental pollution.
+concerning
+about
+on
+介词
+（他写了篇有关环境污染的文章。） 
+
+## 12. 独立分词短语：
+
+某些独立分词短语有副词的功能，通常置于句首，修饰整个句子。
+例: Generally speaking, men are physically stronger than women.
+(一般而言，男人比女人强壮。)
+Strictly speaking, he is not good enough.
+(严格说来，他不够好。)
+Frankly speaking, he is not the man I want.
+(老实说，他不是我所要的人。)
+Judging from his appearance, he seems to be rich.
+(从他的外表看来，他似乎很有钱。)
+Talking of novels, have you read his works?
+(谈到小说，你是否读过他的作品？)
+According to John, the fire broke out at ten in the morning.
+(根据约翰的说法，火灾是在早上10点发生的。)
+Seeing that you have no time, I'll have Peter replace you.
+(既然你没时间，我会叫彼得代替你。) 
+
+## 13. 与使役动词有关的重要分词短语：
+
+例: I started the ball rolling.
+(我给那件事开了个头。)
+The news set my heart throbbing.
+(这个消息使我心悸不已。)
+I am sorry to have kept you waiting.
+(我很抱歉让你等候。)
+I couldn't make myself understood.
+(我无法让别人听懂我的话。)
+I had my shoes repaired.
+(我把我的鞋拿去修好了。) 
+
+He got a new suit made. 
+
+(他订做了一套新西装。) 
+
+You should leave it unsaid. 
+
+(你应该别提这事。) 
+
+I like my eggs half boiled. 
+
+(我喜欢煮得半熟的蛋。) 
+
+I had my watch stolen. 
+
+(我的表被偷了。) 
+
+# 第三节 动名词
+
+## 概说
+
+![](file://C:/Users/admin/MinerU/赖氏经典英语语法新版.pdf-0133667d-4265-45f6-a507-70d7b5826b31/images/0f80033b71ff61012ef86a37337648b096436be120937108673810bb68a93218.jpg)
+
+
+动名词的形态与现在分词完全一样。 
+
+```txt
+例: He is dancing.
+现在分词
+(他正在跳舞。)
+His hobby is dancing.
+动名词
+(他的爱好是跳舞。)
+Not knowing what to do, he felt embarrassed.
+现在分词
+(不知道该做什么，他觉得很尴尬。)
+Not knowing what to do was an embarrassment for him.
+动名词
+(不知道该做什么，对他来说是件尴尬之事。) 
+```
+
+由于动名词与现在分词的形态完全相同，因此同学们往往将之混为一谈，以致在从事英语翻译时，造成意思的偏差，同学们不可不慎。破解此一难题的秘诀，就是要牢记一个观念：动名词具有名词的性质，名词在句中可作主语、宾语及表语；同样地，动名词在句中亦可作主语、宾语及表语。我们分项叙述如下： 
+
+1. 动名词的第一功能——主语： 
+
+```txt
+例: Working with him is fun.
+主语 动词
+(和他一起工作很有趣。)
+Seeing is believing.
+主语 动词
+(眼见为实。)
+Losing his fortune drove him mad.
+主语 动词
+(失去财富使他发疯了。) 
+```
+
+```txt
+Not knowing what to do was an embarrassment for him.
+主语 动词
+(不知道该做什么，对他是件尴尬之事。) 
+```
+
+## 注意：
+
+a. 上述各例中，Working、Seeing、Losing 以及 Not knowing 均作主语，故为动名词。 
+
+b. 动名词作主语时，仍有动词的意味，若该动名词原为及物动词，之后仍须加宾语。宾语即使为复数，所形成的动名词短语仍视为单数，之后接单数动词。 
+
+```txt
+例: Helping others give me great pleasure. (×)
+动名词短语 复数动词
+→ Helping others gives me great pleasure. (√)
+单数动词
+(帮助别人使我很愉快。) 
+```
+
+理由:
+本句并非 others 作主语，而是整个帮助别人的动作作主语，故之后动词用单数。 
+
+c. 动名词短语作主语时，亦可被形式主语 it 代替，而将该动名词短语移至句尾，改变成不定式短语。
+故上列例句可改写为：
+It gives me great pleasure to help others. 
+
+```txt
+注意：
+只有在 It is no use 的结构中，真正主语仍应为动名词。
+例: It is no use crying over spilt milk. (√)
+形式主语 真正主语
+(覆水难收。)
+It is no use to cry over spilt milk. (×)
+这是习惯用法，同学们宜牢记。 
+```
+
+```txt
+例: It is no use reasoning with such a stubborn man.
+= It is | of no use | to reason with such a stubborn man.
+    useless
+= There is | no use | in reasoning with such a stubborn man.
+    no sense
+    no point
+（和这样固执的人讲理是没有用的。） 
+```
+
+```txt
+2. 动名词的第二功能——be 动词后的表语：
+例: Seeing is believing.
+表语
+(眼见为实。)
+His hobby is collecting stamps.
+表语
+(他的爱好是集邮。) 
+```
+
+## 注意：
+
+a. be 动词之后可用不定式或动名词作表语。但赖老师稍早提过，用不定式作表语时，通常表示一种意愿、目的、计划或未完成的事；用动名词作表语时，则表示一种经历或已知的事。 
+
+ambition 表 “野心、企图”，为尚未完成的事，故用不定式短语作表语为佳。 
+
+例: My favorite sport is skating. 
+
+(我最喜爱的运动是滑冰。) 
+
+## 注意：
+
+我最喜爱的运动是已知的事，故使用动名词 skating 作表语。 
+
+## 理由：
+
+```txt
+b. 有时 be 动词之后的 V-ing 可能为动名词，亦可能为现在分词。
+例: She is dancing.
+现在分词
+(她在跳舞。)
+Her hobby is dancing.
+动名词
+(她的爱好是跳舞。) 
+```
+
+由于动名词与主语均具有名词的性质，故有“A is B = B is A”的逻辑特性。因此我们只需将 V-ing 与主语换位，如果语意顺畅，即可断定该 V-ing 是动名词，否则必为分词。 
+
+```txt
+例: Her hobby is dancing.
+主语
+(她的爱好是跳舞。)
+换位:
+Dancing is her hobby.
+(跳舞是她的爱好。)
+判断：语意顺畅，得知 dancing 为动名词。
+She is dancing.
+主语
+(她在跳舞。)
+换位:
+Dancing is she. (×)
+(跳舞就是她。)
+判断：跳舞是动作而非人，故 dancing 不可为现在分词。 
+```
+
+be 动词之后的现在分词有两种特性。一种为纯作形容词用的分词，可译成“……的”；另一种则为动词的进行时，分析结构时，要将之前的 be 动词视为一体，译成“正在……”。 
+
+```txt
+例: She is charming.
+主语 be 动词 形容词（译成“令人着迷的”，作表语）
+（她很迷人。） 
+```
+
+```txt
+consider（考虑）、contemplate（意图）、imagine（想象）、fancy（想）、avoid（避免）、risk（冒险）、escape（逃掉）、deny（否认）、admit（承认）、stop（停止）、quit（停止、戒）、suggest（建议）、recommend（建议）、mind（介意）、remember（记得曾）、finish（完成）、practice（练习）、anticipate（预期）。
+例：I've considered traveling abroad next year.
+(我已考虑明年出国旅游。)
+He recommended doing it soon.
+(他建议快点做此事。)
+You must quit smoking right away.
+(你必须立即戒烟。)
+He denied stealing the money.
+(他否认曾偷这笔钱。) 
+```
+
+```txt
+She is dancing.
+主语 不及物动词 dance 的现在进行时（译成“正在跳舞”）
+（她正在跳舞。）
+That question is interesting.
+主语 be 动词 形容词（译成“令人感兴趣的”，作表语）
+（那问题很有趣。）
+John was writing a letter.
+主语 及物动词 write 的过去进行时（译成“正在写”）
+（约翰正在写信。） 
+```
+
+## 3. 动名词的第三功能——动词的宾语：
+
+```txt
+例: He detests gambling.
+vt. 0.
+(他憎恨赌博。)
+Some people do not enjoy smoking.
+vt. 0.
+(有些人不喜欢吸烟。)
+I remember seeing him.
+vt. 0.
+(我记得见过他。) 
+```
+
+## * 下列及物动词习惯上均用动名词作宾语：
+
+```txt
+He practiced playing the piano every day.
+(他每天练习弹钢琴。)
+
+注意:
+a. anticipate V-ing    期望……
+= expect to V
+
+例: I anticipate cooperating with him.
+= I expect to cooperate with him.
+(我期望与他合作。)
+
+b. stop V-ing    停止从事……
+= quit V-ing
+= cease V-ing
+= cease to V
+
+例: He | stopped | writing when he saw me.
+quit
+ceased
+
+= He ceased to write when he saw me.
+(当他看见我时，他就停止写字。)
+stop to V    停下原来的工作而去做……
+
+例: He stopped to talk to me when he saw me.
+(当他看见我时就停下来和我说话。)
+
+c. allow（允许）、permit（准许）、forbid（禁止）
+
+例: He | allowed | me to smoke.
+permitted | o. 不定式短语（作宾语补语）
+(他允许我吸烟。)
+
+He | allowed | smoking.
+permitted | o.
+(他准许吸烟。)
+
+He forbade me to smoke.
+o. 不定式短语（作宾语补语）
+(他禁止我吸烟。)
+
+He forbade smoking.
+o.
+(他禁止吸烟。) 
+```
+
+```txt
+d. remember、forget、regret 的用法：
+1) 表追述过去已发生的事物时：
+| remember（记得曾） | + 动名词
+forget（忘记曾）
+regret（后悔曾）
+
+例: I remember | seeing her before.
+having seen her before.
+(我记得曾见过她。)
+I forgot | mailing that letter.
+having mailed that letter.
+(我忘记我已寄了那封信。)
+I regret | doing it.
+having done it.
+(我后悔做了此事。)
+2) 表以后要做或未完成的事物时：
+| remember（记得要） | + to V
+forget（忘记要）
+regret（遗憾要）
+
+例: I'll remember to see him tomorrow.
+(我会记得明天去看他。)
+I forgot to mail this letter.
+(我忘了寄这封信。)
+I regret to tell you the bad news.
+= I'm sorry to tell you the bad news.
+(我很遗憾要告诉你这个坏消息。) 
+```
+
+e. 下列动词可用不定式或动名词作宾语，意思不变。 
+
+```txt
+I like（喜欢） to do it. dislike（不喜欢） doing it. love（爱） hate（恨） continued（继续） began（开始） started（开始） 
+```
+
+```txt
+4. 动名词的第四功能——介词的宾语：
+例: He is fond of taking a walk.
+prep. o.
+(他喜欢散步。)
+His illness prevented us from starting our own business.
+prep. o.
+(他的病使得我们无法开展我们的事业。)
+None would have dreamed of there being such a place.
+prep. o.
+(做梦也没人想到会有这样一个地方。)
+The book is worth reading.
+prep. o.
+(这本书值得看。) 
+```
+
+注意
+比较 worth、worthy、worthwhile 的用法。 
+
+a. worth prep. 值得
+worth 视为介词，置于 be 动词之后，可接动名词或名词作其宾语。
+例: The issue is worth paying attention to.
+(这个议题值得注意。)
+The car is worth a fortune.
+(这部车值不少钱。) 
+
+b. worthy adj. 值得的（与 of 连用）
+be worthy of + 名词 值得……
+例: The issue is worthy of everyone's attention.
+(这个议题值得每个人的注意。) 
+
+```txt
+c. worthwhile adj. 值得的（置于名词前，亦可置于 It is 之后，形成下列结构）
+例: That's a worthwhile book to read.
+(那是一本值得看的书。)
+It is worthwhile to read that book.
+= It pays to read that book.
+(那本书值得看。) 
+```
+
+```txt
+I believe that he works hard.
+vt. 0.
+(我相信他工作努力。) 
+```
+
+## 5. 所有格与动名词的关系：
+
+a. 本书第一章中，我们曾提到 that 引导的名词性从句可作主语。 
+
+例: That he teaches well is something that pleases me. (√)
+主语 
+
+(他教得很好是件让我高兴的事。) 
+
+此时亦可将 that 从句化成动名词短语，仍作句中的主语。 
+
+第一步：去除 that； 
+
+第二步：将 that 从句中的主语变成所有格； 
+
+第三步：将 that 从句中的动词变成动名词。 
+
+故：That he teaches well is something that pleases me. (His teaching) $\rightarrow$ His teaching well is something that pleases me. 主语 
+
+例: That John refused to do his homework made his father angry.
+主语 
+
+= John's refusing to do his homework made his father angry.
+(约翰不肯做功课使得他父亲生气。)
+That he didn't finish the work on time disappointed me.
+主语 
+
+= His not finishing the work on time disappointed me. 
+
+(他未能准时做完工作使我失望。) 
+
+That they had helped John with the work won our great admiration. (√)
+主语 
+
+= Their having helped John with the work won our great admiration. (√) (他们帮约翰做这件工作赢得了我们的赞许。) 
+
+b. 稍早我们也谈过，that 引导的名词性从句可作表认知的及物动词（think、feel、find、believe...）以及表意愿的及物动词（hope、wish、expect、desire...）的宾语。 
+
+但并非所有的及物动词均可用 that 从句作宾语。表示喜欢、厌恶、在乎之意的及物动词，如 like、dislike（不喜欢）、enjoy、mind 等就不可接 that 从句作宾语。 
+
+## 注意
+
+that 从句亦不可直接作介词的宾语。 
+
+此时，亦须将 that 从句变成 “所有格 + 动名词” 的短语。 
+
+```txt
+例: I am curious about that he stays up late every night. (×)
+prep. his staying
+→ I am curious about his staying up late every night. (√)
+prep.
+(我对他每晚熬夜很好奇。)
+In spite of that helped him, he failed. (×)
+prep. my helping
+→ In spite of my helping him, he failed. (√)
+prep.
+(尽管我帮助了他，他还是失败了。) 
+```
+
+但若 that 从句中的主语是物而非人时，就不用所有格，而直接将主语作宾语，之后接现在分词。 
+
+口语中，that 从句中的主语即使是人，亦可采用本结构。 
+
+6. 动名词亦可与名词连用，形成复合名词： 
+
+```txt
+例: a sleeping car 火车的卧铺车厢
+a dining room 饭厅
+a walking stick 手杖
+a laughing stock 笑柄 
+```
+
+a writing pad 便条纸  
+a starting point 起点  
+a sewing machine 缝纫机  
+a visiting card 名片  
+drinking water 饮用水 
+
+## 注意：
+
+动名词与作形容词用的现在分词均可置于名词前。分辨的方法如下： 
+
+动词
+(手杖——用来走路的棍子)
+a sleeping car
+动名词
+(卧铺车厢——用来睡觉的车厢)
+a dining room
+动名词
+(饭厅——用来吃饭的房间) 
+
+b. 若为 “现在分词 + 名词”，则后者有前者的性质，即现在分词有 “正在……” 或 “会……” 之意。 
+
+```txt
+例: a walking dictionary
+现在分词
+(活字典或识字很多的人——会走路的字典/非用来走路的字典。)
+a sleeping baby
+现在分词
+(睡觉中的婴儿——正在睡觉的婴儿/非用来睡觉的婴儿。)
+a barking dog
+现在分词
+(正在叫的狗/非用来叫的狗。) 
+```
+
+```txt
+7. “动名词 + 宾语”作主语的变化：
+例: Writing letters is a trying job for me. (佳)
+= The writing of letters is a trying job for me. (可)
+(对我而言，写信是件苦差事。) 
+```
+
+```txt
+Shooting birds is forbidden here. (佳)
+= The shooting of birds is forbidden here. (可)
+(在此射鸟是被禁止的/此处禁止射鸟。)
+
+8. 有些动名词亦可作可数的普通名词用:
+例: As an old saying goes, "Honesty is the best policy."
+(俗语有云: “诚实为上策。”)
+A knocking at the door was heard.
+(敲门声被听见。)
+He has a good understanding of the problem.
+(他对此问题很了解。)
+Don't forget to take your belongings (恒用复数) with you.
+(别忘了带你的东西。)
+
+9. 常用的动名词惯用语:
+a. There is no V-ing    不可能……
+= It is impossible to V
+例: There is no reasoning with such a stubborn man.
+= It is impossible to reason with such a stubborn man.
+(和这么固执的人理论是不可能的。)
+
+b. It is no use V-ing    ……是无用的
+= It is of no use to V
+例: It is no use trying to escape.
+= It is of no use to try to escape.
+(想逃走是没有用的。)
+
+c. cannot help
+    resist
+    refrain from
+    stop
+= cannot but V
+= cannot help but V
+例: He couldn't help crying when he saw her.
+= He couldn't but cry when he saw her.
+(当他看见她时，忍不住就哭了。) 
+```
+
+d. on V-ing 
+
+例： 
+
+hearing it, he cried. 
+
+Upon 
+
+= 
+
+As soon as 
+
+he heard it, he cried. 
+
+Once 
+
+The moment 
+
+The instant 
+
+= He had 
+
+no sooner heard it than 
+
+he cried. 
+
+hardly heard it when 
+
+scarcely heard it when 
+
+= 
+
+No sooner had he heard it than 
+
+he cried. 
+
+Hardly had he heard it when 
+
+Scarcely had he heard it when 
+
+(一听到那件事他就哭了。) 
+
+# EXERCISE
+
+## 1. 请选出一个正确的非谓语动词：
+
+1. They don't allow people ____ here.
+(A) smoke (B) to smoke (C) smoking (D) to smoking 
+
+2. ____ on the sofa, my father was reading the newspaper.
+(A) Sat (B) Seat (C) To sit (D) Sitting 
+
+3. Peter is, ____, a walking dictionary.
+(A) so to tell (B) to say so (C) so to speak (D) so to talk 
+
+4. I won't consider ____ my job at this time.
+(A) quit (B) to quit (C) quitting (D) to quitting 
+
+5. You'd better have that bad tooth ____ out.
+(A) pull (B) to pull (C) to be pulled (D) pulled 
+
+6. It is necessary ____ that work today.
+(A) to him to do (B) of him to do (C) for him to do (D) of him doing 
+
+7. It is very kind ____ so.
+(A) for you to do
+(B) of you to do
+(C) to you to do
+(D) for you doing 
+
+8. Strictly ____, your writing is poor.
+(A) speak (B) to speak (C) speaking (D) spoken 
+
+9. ____ with his sister's grades, his grades are not so good.
+(A) Compare
+(B) Compared
+(C) Comparing
+(D) By comparing 
+
+10. I meant ____ you, but I forgot.
+(A) to say (B) saying (C) to tell (D) telling 
+
+11. Your idea, although quite good, needs ____ out.
+(A) try (B) to try (C) trying (D) being tried 
+
+12. The boy stood ____ at the sight of blood.
+(A) horrified (B) horrible (C) to horrify (D) horrifying 
+
+13. Does anyone ____ Mark live here?
+(A) call (B) called (C) to call (D) calling 
+
+14. She knelt down before him, with tears ____ down her face.
+(A) streaming (B) to streaming (C) stream (D) streamed 
+
+15. Do you understand the language ____ on that island?
+(A) to speak (B) speaking (C) is spoken (D) spoken 
+
+## II. 请选出一个正确的答案：
+
+16. John was never heard ____ the Taiwan dialect.
+(A) to speak (B) speak
+(C) to have been spoken (D) spoke 
+
+17. You were opposed to ____ to go with us to the library, weren't you?
+(A) our inviting her (B) us invite her
+(C) that we invite her (D) we inviting her 
+
+18. Walking along the river, _. (A) I met several groups of hikers (B) the river met several groups of hikers (C) it was several groups of hikers (D) we met by several groups of hikers 
+
+19. He asked me if John had the ability _. (A) to do that (B) to doing (C) of doing that (D) do that 
+
+20. Asked if he could come to the party that night, _. (A) nothing was said from anyone (B) they did not get an answer from him (C) nothing was said by him (D) John nodded his head and left the room 
+
+21. It is sometimes difficult ____ you have just met.
+(A) to make pleasant conversation at people
+(B) making pleasant conversation on people
+(C) making pleasant conversation for people
+(D) to make pleasant conversation with people 
+
+22. The same thing, ____, would have been disastrous.
+(A) had it happened in crowded places
+(B) if happened in crowded places
+(C) if had happened in crowded places
+(D) if has happened in crowded places 
+
+23. Because of greatly reduced air pollution, this city is still _. (A) a good place where to live (B) lived as a good place (C) a good place to live in (D) living in as a good place 
+
+24. The meeting is to be adjourned, everything ____ undecided.
+(A) left (B) to leave (C) leaving (D) leaves 
+
+25. I never know ____ when I go on a trip.
+(A) what clothes should take (B) what clothes to take
+(C) what clothes will I take (D) I take what clothes 
+
+## III. 请选出错误的画线部分：
+
+26. Medical researchers have not yet been able to have developed an effective vaccine against influenza.
+(A)
+(B)
+(C)
+(D) 
+
+27. Last week I boarded the ordinary train, which, as I expected, was crowded (A) (B) (C) and there was no seat left, so I had to keep stood for more than two hours. (D) 
+
+28. I didn't know how to get to your house, so I stopped asking the way.
+(A) (B) (C) (D) 
+
+29. Strange to say, she takes to play baseball.
+(A) (B) (C) (D) 
+
+30. Her mother did not approve of her to go to the party without dressing (A) (B) (C) formally. (D) 
+
+## 标准答案
+
+![](file://C:/Users/admin/MinerU/赖氏经典英语语法新版.pdf-0133667d-4265-45f6-a507-70d7b5826b31/images/65840a5e17947687c120428b13b084002e75dae3d54725392396e487e64582de.jpg)
+
+
+1. (B) 2. (D) 3. (C) 4. (C) 5. (D) 6. (C) 7. (B) 8. (C) 9. (B) 10. (C) 
+
+11.(C) 12.(A) 13.(B) 14.(A) 15.(D) 16.(A) 17.(A) 18.(A) 19.(A) 20.(D) 
+
+21. (D) 22. (A) 23. (C) 24. (A) 25. (B) 26. (B) 27. (D) 28. (D) 29. (D) 30. (B) 
+
+## 习题解说
+
+![](file://C:/Users/admin/MinerU/赖氏经典英语语法新版.pdf-0133667d-4265-45f6-a507-70d7b5826b31/images/73b2053c4631c2c54cdc83d3bf867f470aaa8bed307ebc640605e10ce7461ceb.jpg)
+
+
+1. allow sb to V 允许某人从事…… 
+
+2. 本句原为 My father sat on the sofa, my father was reading..., 因两句无连词连接，而将前句化为分词结构，即：删除相同的主语 My father，之后的动词 sat 变成现在分词 Sitting，故 (D) 应为正选。 
+
+3. so to speak 可以说是
+此为独立短语，可置于句首或句中修饰全句。 
+
+4. consider + V-ing 考虑要…… 
+
+5. 使役动词 have 可用原形动词或过去分词作宾语补语，但拔牙是让人拔，因此用表被动语态的过去分词 pulled。 
+
+6. necessary 修饰整个不定式短语，故用 for him to do。 
+
+7. kind 是修饰不定式短语中的 you，故用 of you to do。 
+
+8. strictly speaking 严格说来
+此为独立的分词短语，常置于句首，作副词，修饰全句。 
+
+9. Compared with his sister, he is... 
+
+= If he is compared with his sister, he is... 
+
+10. mean to V 有意要…… 
+
+11. need V-ing 需要被…… 
+
+= need to be p.p.
+That car needs repairing. 
+
+= That car needs to be repaired.
+(那辆车需要修理了。) 
+
+12. stand、lie、sit 等动词之后可接分词作补语，此处的 horrified 表 “感到恐惧的”，为过去分词作形容词。 
+
+13. Does any one called Mark live here? 
+
+= Does any one who is called Mark live here? 
+
+14. “with + 宾语 + 分词” 结构，此处因表主动语态，故用现在分词 streaming 作宾语补语。 
+
+15. 本题的 spoken 为过去分词，由 which is spoken 化简而来。 
+
+16. 在被动语态中，知觉动词（hear、see、feel...）之后的不定式短语不可将 to 省略。 
+
+17. a. be opposed to V-ing 反对……
+b. our inviting her 系从 we invite her 变化而成。 
+
+18. 空格前有分词短语 “Walking along the river” （沿着河走），故主语必须是人，人才有走路的能力，(A) 应为正选；(D) 应删除 by。 
+
+19. ability 之后必须用 to V 来修饰，不可用 of V-ing。 
+
+20. (Being) asked if... 
+
+= When John was asked if... 
+
+21. a. 以 it 作形式主语时，真正主语必须为不定式短语，不可用动名词。
+b. make conversation with 和……谈话 
+
+22. had it happened in crowded places 
+
+= if it had happened in crowded places 
+
+23. to live in 为不定式作形容词用，修饰 place。 
+
+24. ...everything left undecided. 
+
+= ...and everything is left undecided. 
+
+25. “what + 名词 + to V” 形成名词短语。
+what clothes to take
+= what clothes I will take 
+
+26. be able to 之后不可用不定式的完成时，故 to have developed 应改为 to develop。 
+
+27. “keep + V-ing” 表 “持续从事……”， keep stood 应改为 keep standing（表持续站着）。 
+
+28. stop V-ing 停止做某事
+stop to V 停下来去做某事
+按照语意，(D)中的asking应改为to ask。 
+
+29. | take to enjoy | V-ing 喜欢…… 
+
+30. her to go 应改为 her going，作 approve of（赞同）的宾语。 
+
+# 第五章 助动词及易用错的动词
+
+## 第一节 助动词
+
+![](file://C:/Users/admin/MinerU/赖氏经典英语语法新版.pdf-0133667d-4265-45f6-a507-70d7b5826b31/images/b9dcbf48b2d4a13af707cafb0038aaabbc5cf7c7a0fd64f900466e979ed0fa99.jpg)
+
+
+## 说
+
+## 1. 助动词的定义：
+
+助动词顾名思义就是一种帮助动词的词类，英语称作 helping verb 或 auxiliary。使用时置于动词前，使动词能表现出时态、语态、否定句、疑问句等变化。 
+
+```txt
+例: I must go at once.
+(我必须立刻走。)
+He used to live in Taiwan.
+(他以前住在台湾。)
+May I go home now?
+(我现在可以回家了吗？)
+You need not do it.
+(你不必做这件事。) 
+```
+
+## 2. 助动词的种类：
+
+be (am、is、are、was、were、have / has / had been)、have (has、had)、do (does、did)、shall (should)、will (would)、can (could)、may (might)、must、ought to、need、dare、used to。 
+
+为方便同学们透彻了解它们的功能及用法，赖老师特别分项叙述如下： 
+
+## 第一种 be 动词
+
+1. be 动词原为不完全不及物动词，译成“是”此时要用名词或形容词作表语。 
+
+```txt
+例: He is handsome.
+主语 不完全 vi. adj. 作表语
+(他很英俊。)
+They are good students.
+主语 不完全 vi. n. 作表语
+(他们是好学生。) 
+```
+
+2. 但 be 动词之后亦可接现在分词或过去分词表进行时或被动语态，此时 be 动词就称为助动词。 
+
+```txt
+a. be + 现在分词 = 进行时
+例: He is reading a book.
+助动词 现在分词
+(他正在念书。) 
+```
+
+```txt
+b. be + 及物动词的过去分词 = 被动语态
+例: He was elected chairman.
+助动词 过去分词
+(他当选为主席。) 
+```
+
+有关进行时被动语态的用法，我们在时态和语态一章再详加讨论。 
+
+```txt
+第二种 have
+have、has、had + 过去分词 已经……
+以上结构构成动词的完成时态，have 为助动词，译成“已经”。
+例: He has written the letter. (现在完成时)
+(他已把信写好了。)
+I had finished the task before he came. (过去完成时)
+(在他来之前我已完成此工作。) 
+```
+
+有关完成时的用法，我们在时态一章再详加讨论。 
+
+## 第三种 do
+
+do、does、did 等助动词可用以形成下列结构： 
+
+```txt
+1. do + not + 原形动词
+does
+did
+例: I didn't know what to do.
+(我不知要怎么做。)
+He did not see me.
+(他没看见我。) 
+```
+
+## 注意：
+
+a. 任何动词与 not 连用，形成否定时，一定要靠 do、does、did 再加上 not 协助，不可造这样的句子： 
+
+```txt
+2. 疑问句：
+例: Did you understand it?
+(你懂吗？)
+Where does he live?
+(他住哪儿？) 
+```
+
+```txt
+例: I not love him. (×)
+→ I don't love him. (√)
+(我不爱他。)
+He not lives here. (×)
+→ He doesn't live here. (√)
+(他不住在这儿。) 
+```
+
+```txt
+b. 动词前若置 not 以外的否定副词，如：
+never（从未）、seldom（不常）、rarely（很少）、hardly（几乎不）、scarcely（几乎不/非常少）等，则不须与 do、does、did 连用。
+例: He did never live here. (×)
+→ He never lived here. (√)
+(他从未住过这儿。)
+He does seldom sing. (×)
+→ He seldom sings. (√)
+(他很少唱歌。) 
+```
+
+## 2. 疑问句：
+
+## 3. 强势语气：
+
+即在肯定句的动词前，按时态、人称置入 do、does 或 did，再将动词改为原形，此时 do、does、did 均译成“的确”。 
+
+```txt
+例: He worked hard.
+一般过去时
+(他很用功。)
+→ He did work hard.
+(他真的很用功。)
+He loves to do it.
+一般现在时
+(他喜欢做这事。) 
+```
+
+## → He does love to do it. (他的确喜欢做这事。)
+
+## 注意
+
+有时祈使句（即一开头就是原形动词的句子），前面亦可加 Do，造成强势语气，Do 译成“务必”。 
+
+```txt
+例: Be quiet.
+(安静。)
+→ Do be quiet.
+= Be sure to be quiet.
+(务必要安静。)
+Study hard.
+(用功。)
+→ Do study hard.
+= Be sure to study hard.
+(务必要用功。) 
+```
+
+## 4. 否定倒装句：
+
+例: Never did I know that he was so stupid.
+(我从不知道他这么笨。)
+* 容赖老师在倒装结构一章中，再为诸位慢慢道来。 
+
+```txt
+5. 代动词（pro-verb）：
+此种助动词用以代替句中已出现过的动词及其后的其他词类。
+例: Did you read this book?
+Yes, I did (= read this book).
+(你读过这本书吗？)
+(是的，我读过这本书。)
+I work as hard as he does (= works).
+(我工作和他一样辛苦。) 
+```
+
+## 第四种 shall、will
+
+1. shall、will 表 “将要”，之后接原形动词。 
+
+2. 传统的语法常在 shall 及 will 二词上做文章，谓第一人称 I 之后须用 shall，we 之后可用 shall 或 will，you 之后须用 shall... 等。现在的英语可没有如此的用法。而且英美人士多已用 will 取代 shall 表单纯的一般将来时。因此赖老师建议你只须使用 will 就好，既口语化，又是常态用法。 
+
+```txt
+例: I will tell you the truth tomorrow.
+(我明天会告诉你事实真相。)
+He will be twenty the day after tomorrow.
+(后天他就20岁了。)
+Will you be here tomorrow?
+(你明天会在这儿吗？)
+*上列结构中，不论主语为第几人称均可用will。 
+```
+
+## 3. 但在下列结构中，则仍习惯用 shall 代替 will:
+
+```txt
+a. 征求对方意见时：
+Shall I...? 要不要我……?
+例: Shall I open the door?
+= Would you like me to open the door?
+(要不要我开门呢？) 
+```
+
+```txt
+b. 请求对方合作时：
+Shall we...? 我们……好吗？
+例: Shall we go for a walk?
+= Let's go for a walk, shall we?
+(我们散个步，好吗？) 
+```
+
+```txt
+C. 命令对方时：
+You shall... 你必须……
+= You must...
+例: You shall obey the law.
+(你必须遵守法律。) 
+```
+
+## 注意:
+
+条约中尤其出现此类用法：
+例: Article One: You (或 One) shall wash your (或 one's) hands after using the toilet.
+（第一条：如厕后要洗手。） 
+
+```txt
+d. 向对方保证某种承诺时：
+You shall... 你一定会……
+例: You shall have the present.
+= I promise that you will have the present.
+(我保证你会得到礼物的。) 
+```
+
+## 第五种 should
+
+1. should 之后接原形动词。 
+
+```txt
+2. should 的主要功能就是表示一种义务，译为“应当”，此时等于 ought to。
+例: We (You、One、A man) should be kind to others.
+(吾人应善待他人。) 
+```
+
+3. 但在下列结构时，习惯上亦用 should，有其不同的意思： 
+
+```txt
+a. It is | natural | that...should ……会…
+    proper
+    right
+    advisable
+    desirable
+    no wonder
+
+乃自然的、适当的、正当的、恰当的、较好的、无疑的。
+例: It is natural that he should get angry.
+（他会生气是很自然的事。）
+It is proper that one who works hard should be successful.
+（努力的人会成功，这是合理的。）
+It is no wonder that such a naughty boy should be punished. (罕)
+= No wonder such a naughty boy should be punished. (常用)
+（这样顽皮的孩子受到处罚，也就不足为奇了。） 
+```
+
+```txt
+b. It is | necessary | that...should (应当)... ……应当……是有必要的。
+imperative
+essential
+important
+urgent
+
+例: It is necessary that he (should) finish the work before leaving.
+(他必须在走之前完成工作。) 
+```
+
+注意
+在本结构中的 should 通常予以省略，而保留其后的原形动词。 
+
+```txt
+例: It is important that he finish the job before leaving.
+(重要的是，他必须在走之前完成工作。)
+It is imperative that he do the work now.
+(他现在应该赶紧做这事。)
+
+c. It is | surprising | that...should (居然)... 令人惊异的是……居然……
+amazing
+
+例: It is surprising that he should be so kind.
+(令人惊讶的是，他竟然这么仁慈。)
+
+d. It is | a pity | that...should (居然)... 令人遗憾的是……居然……
+a regret
+regrettable
+
+例: It is a pity that he should be so rude.
+(他这么粗鲁，真令人遗憾。)
+*见虚拟语气一章。 
+```
+
+4. 意志动词如表“建议”（propose、recommend、suggest）、“要求”（ask、demand、desire、require、insist、request）、“命令”（order、command）、“规定”（rule、regulate）等，之后若有 that 从句作宾语时，that 从句中亦使用 should，而 should 往往亦予以省略。
+例: He suggested that we (should) leave at once.
+（他建议我们立刻离去。）
+They demanded that he (should) be quiet.
+（他们要求他安静。） 
+
+5. lest 表 “以免”，为副词连词，所引导的从句亦使用 should，而 should 亦可予以省略。
+例: He came early lest he (should) be late.
+= He came early for fear that he might be late. (might 不可省略)
+(他怕迟到而来得很早。)
+* 见虚拟语气一章。 
+
+6. If 从句若表示与将来状况相反时，应使用 should，表 “万一” 之意。
+例: If you should be late again, you will spoil the plan.
+（你万一再迟到，就会破坏这个计划。）
+* 见虚拟语气一章。 
+
+7. 在一般过去时中，要用 should 代替 shall。
+I said to him, "I shall be at home this evening."
+(我告诉他：“今晚我会在家。”)
+I told him that I should be at home that evening.
+(我告诉他那天晚上我会在家。) 
+
+## 8. should have + 过去分词
+
+a. 表示与过去事实相反的虚拟语气，译成“早应……”。例: If you had not helped me, I should have died.
+（你当时要是没救我，我就死了。）
+You should have done it earlier.
+（你应该早点儿做好的。）
+It was such a fine sight. You should have seen it.
+（这么好的景色，你当时真该看看的。） 
+
+```txt
+b. 表示“居然已经”，往往出现在下列结构中：
+例: It is surprising that he should have passed the examination.
+(令人惊讶的是他居然已通过了考试。)
+It is a pity that he should have done such a stupid thing.
+(真遗憾他竟然做了这么愚蠢的事。) 
+```
+
+## 第六种 would
+
+```txt
+1. would 是 will（将要）的过去式，用以表示过去将来时。
+例: He said, "I will try again."
+(他说：“我会再试试。”)
+He said that he would try again.
+(他说他会再试试。)
+Did you know when he would come?
+(你当时知道他何时会来吗？) 
+```
+
+## 注意：
+
+新闻英语中，常出现 will 与一般过去时动词连用的现象。 
+
+例: He said that he will visit the country sometime in July. 
+
+一般过去时 vt. 一般将来时 vt. 
+
+（他说七月份要找个时间造访该国。） 
+
+## 注意：
+
+本句暗示 He said 虽为过去状态，但 he will visit...in July 则表示作者写本句时是七月前写的，七月尚未到来，故用 will。换言之，will 用于尚未到来的时间，而 would 则用于过去的时间。为了方便了解，赖老师特编下列两段对话： 
+
+## 会话一：
+
+A: I saw John a few days ago. 
+
+B: What did he say? 
+
+A: He said that he would call on you yesterday. 
+
+B: But he didn't show up yesterday. 
+
+A：几天前我看到约翰。  
+B：他说了些什么？  
+A：他说昨天要拜访你。  
+B：但他昨天并没有出现。 
+
+## 会话二：
+
+A: I saw John a few days ago. 
+
+B: What did he say? 
+
+A: He said that he will call on you tomorrow. 
+
+B: I'll be expecting him then. 
+
+A：几天前我看到约翰。  
+B：他说了些什么？  
+A：他说明天要去拜访你。  
+B：到时候我会等他的。 
+
+2. would + 原形动词 （如果……）就会…… 
+
+would have + 过去分词 
+
+本句型属虚拟语气，分别表与现在和过去事实相反。 
+
+a. 与现在事实相反：
+例: If I had money now, I would buy a car. (But I don't have money now.)
+(如果我现在有钱，我会买部车——但我现在没钱。) 
+
+```txt
+4. I would rather + (that) 从句 我多么希望…… 
+```
+
+```txt
+例: I would rather (that) he had been here yesterday.
+= I wish (that) he had been here yesterday. (But he wasn't here.)
+(我多么希望他昨天就在这里。) 
+```
+
+例: If I had had money then, I would have bought a car. (But I didn't have money then.) 
+
+*见虚拟语气一章。 
+
+```txt
+3. would rather + 原形动词 宁愿……
+例: I would rather go than stay here.
+= I would sooner go than stay here.
+= I would as soon go as stay here.
+(我宁愿走也不要留在这儿。) 
+```
+
+本句型属虚拟语气，若与现在事实相反，that 从句用一般过去时；若与过去事实相反，则用过去完成时。 
+
+```txt
+例: I would rather (that) he were here.
+= I wish (that) he were here.
+(我多么希望他现在在这里。) 
+```
+
+```txt
+5. Would you mind + | V-ing | ? 您介不介意……?
+= Do you mind + | V-ing | ?
+例: Would you mind | doing it for me? |
+if you did it for me?
+= Do you mind | doing it for me? |
+if you do it for me?
+(请您帮我做这事好吗？) 
+```
+
+```txt
+注意：
+a. Would you mind 的口气要比 Do you mind 客气。
+同理：
+“Would you please do it for me?” 要比
+“Will you please do it for me?” 语气客气得多。
+（请您帮我做这事好吗？）
+b. Would you mind 之后 if 从句中，动词使用一般过去时，以便与一般过去时的助动词 Would 配合。Do you mind 之后的 if 从句中，动词要使用一般现在时，以便与一般现在时的助动词 Do 配合。 
+```
+
+```txt
+1. 表 “能力”（= be able to），译成 “能够”。例: He can cope with the problem.
+= He is able to cope with the problem.
+（他能够处理这个问题。） 
+```
+
+```txt
+2. 表 “可能性”，译成 “有可能”。
+例: He can be wrong | to say so.
+if he says so.
+（他要是这么说就可能错了。） 
+```
+
+```txt
+3. 表 “许可”（= may），译成 “可以”。例: You can go home now.
+(你现在可以回家了。)
+You can't smoke here.
+(你不可以在这儿抽烟。) 
+```
+
+```txt
+例: Can it be true? No, it can't be true.
+(这可能是真的吗？不，这不可能是真的。) 
+```
+
+```txt
+5. 表对过去事物的否定推论：
+can't have + 过去分词 不可能曾…… 
+```
+
+例: He is so honest that he can't have stolen your money yesterday. (他这么老实不可能昨天会偷你的钱。) 
+
+## 注意：
+
+a. can 仅用以表对过去事物的否定推论，无法做肯定推论。换言之，无下列用法：
+例: He can have stolen your money. (×)
+(他可能偷了你的钱。) 
+
+b. 表对过去事物的肯定推论，有两种句型：
+1) must have + 过去分词 一定曾经……
+例: He looks nervous; he must have stolen your money.
+（他看起来紧张兮兮的，一定是偷了你的钱。）
+2) may have + 过去分词 可能曾经……
+例: He looks nervous; he may have stolen your moeny.
+（他看起来紧张兮兮的，很可能偷了你的钱。） 
+
+c. 疑问句中表对过去事物的推论，则用 “Can + S + have + 过去分词？”，译成 “有可能……吗？”。
+例: Can he have stolen your money?
+（他有可能偷了你的钱吗？） 
+
+6. could 为 can 的过去式，通常与另一一般过去时动词连用，用以表示过去的状况。
+例: She could speak English well when she was ten.
+(她 10 岁时英语就说得很好了。)
+When she entered the house, she could smell something burning.
+(她走进屋子时，闻到有东西烧焦了。) 
+
+7. 一如 would, could 亦可使用在问句中，以表示客气的语气。
+例: Could you please do it for me?
+Would
+(请你帮我做这事好吗？) 
+
+8. could = was / were able to
+使用于一般过去时中，表示过去的能力。
+例: When young, he could eat eight bowls of rice at a time.
+= When young, he was able to eat eight bowls of rice at a time.
+(他年轻时可以一次吃8碗饭。) 
+
+```txt
+= I cannot help but laugh. 
+```
+
+9. can 与 not 连用时，不要写成 can not，而要写成 cannot 或 can't。 
+
+```txt
+例: He can not write letters. (非习惯用法)
+→ He cannot (或 can't) write letters. (√)
+(他不会写信。) 
+```
+
+## 注意
+
+could 与 not 连用时，则应写成 could not 或 couldn't，不要写成 couldnot。 
+
+## 10. 有关 can 的惯用语：
+
+```txt
+a. I | can but | do so.
+| can only |
+(我只能这么做。) 
+```
+
+```txt
+b. I cannot but laugh. 
+```
+
+```txt
+= I cannot help laughing. 
+```
+
+```txt
+(我忍不住大笑。) 
+```
+
+* 上列三句中，cannot but 之后接原形动词，cannot help but 之后亦接原形动词，而 cannot help 之后则接动名词，此时等于 resist（抗拒）或 stop（停止）之意。 
+
+c. We cannot be too careful in choosing friends. 
+
+（我们在择友时要愈小心愈好/我们择友时再小心也不为过。） 
+
+（我一点儿都不在乎。——我已经不在乎到了极点，因此我不能低于比现在不在乎的程度了。） 
+
+## e. I couldn't agree more.
+
+（我同意极了。——我已经同意到了极点，因此我不能比现在更加地同意了。） 
+
+## 第八种 may、might
+
+助动词 may 之后接原形动词，有下列意思及用法： 
+
+```txt
+1. 表“许可”，译成“可以”。 
+```
+
+```txt
+例: You may take whatever you like.
+(你喜欢什么就可以拿什么。)
+May I go home?
+(我可以回家吗？) 
+```
+
+```txt
+Might I make a suggestion? (我可以提出一个建议吗？) 
+```
+
+```txt
+注意
+might 与 would、could 一样，在问句中使用一般过去时，有客气的语气。
+2. 表“推测”，译成“可能”，此时等于 can。
+例: It may be true.
+（这或许是对的。）
+He may come, or he may not (come).
+= Perhaps he will come; perhaps he will not (come).
+（他也许会来，也许不会。）
+3. may not 有两种意思：
+a. 可能不会
+例: It's getting late; he may not come.
+（愈来愈晚了，他可能不会来了。）
+b. 不可以（= must not）
+例: You | may not | cheat during exams.
+must not
+（你不可以在考试中作弊。）
+4. might 亦可与另一一般过去时动词连用，以表示过去的状况。
+例: He said, "You may go."
+（他说：“你可以走了。”）
+He said that I might go.
+（他说我可以走了。）
+I thought that it might rain.
+（我当时认为可能会下雨。）
+5. might + 原形动词    也许会……
+might have + 过去分词    当时也许会……
+可用于虚拟语气中，分别表示与现在事实及过去事实相反。
+a. 与现在事实相反： 
+```
+
+```txt
+（你与其和玛丽交朋友，倒不如死了算了——但我相信你不太可能去死。） 
+```
+
+```txt
+if 从句中的动词使用一般过去时。
+例: If he tried hard, he might succeed. (But he doesn't try hard.)
+(假如他努力，也许会成功——但他并不努力。)
+
+b. 与过去事实相反：
+if 从句中的动词使用过去完成时。
+例: If he had tried hard, he might have succeeded. (But he didn't try hard.)
+(假如当时他努力，早就成功了——但他当时并未努力。)
+
+有关 may 的惯用语：
+a. may well + 原形动词    大可/足可以……
+例: He knows so many things that he may well be called a genius.
+(他懂那么多东西，因此大可被称得上是天才。)
+
+b. may as well + 原形动词    不妨……（语气缓和）
+比较:
+had better + 原形动词    最好……（语气较强）
+例: You may as well stay home.
+(你不妨留在家中。)
+You had better stay home.
+(你最好留在家中。)
+
+c. may as well + 原形动词 + as + 原形动词    与其……倒不如……
+= had better + 原形动词 + than + 原形动词
+例: You may as well stay home as go out with them.
+(你与其和他们出去，倒不如留在家里。)
+
+注意
+"may as well...as..."（与其……倒不如……）表较大的可能性，might as well ...as...（其……倒不如……）则表较小的可能性。 
+```
+
+例: You might as well die as make friends with Mary. 
+
+```txt
+第九种 must 
+```
+
+1. must 之后接原形动词。 
+
+2. 表 “义务”，译成 “必须”。
+例: You must finish the work before leaving.
+（你一定要在离开前完成工作。） 
+
+3. must（必须）与 have to（必须；不得不）的比较： 
+
+a. must 表示一种义务上强制的必须，而 have to 有勉强的意味，译成“有必要”。例: You must love your country. (佳)
+(你必须爱国。)
+You have to love your country.
+(你得爱国——暗示你若不爱国，别人也拿你没办法。) 
+
+b. must 只用于表示现在或将来的状况；而 have to 则可用于表过去、现在及将来的状况。 
+
+```txt
+c. 否定时：
+1) must not 不可以
+= may not
+例: You must not do it.
+(你绝不可做这事。)
+2) don't have to 不必
+= need not 
+```
+
+```txt
+例: You don't have to do it.
+(你不必做这事。)
+
+d. 在口语中，have to 经常被 have got to 或 gotta 取代。
+例: I have to tell you the truth.
+= I've got to tell you the truth.
+= I gotta tell you the truth.
+(我得告诉你事实真相。)
+
+4. must 表示对现在状况或过去状况的推论。
+a. 对现在状况的推论：
+must + 原形动词 一定……
+例: It must be true.
+(这一定是真的。)
+
+b. 对过去状况的推论：
+must have + 过去分词 一定曾经……
+例: It must have rained last night.
+(昨晚一定下过雨。)
+
+第十种 ought to
+ought to 之后接原形动词，有下列意思及用语：
+1. ought to 可表“义务”，译成“应当”，等于 should。
+例: You | ought to | be kind to others.
+should
+(你应该要和善待人。)
+You | ought not to | talk like that.
+shouldn't
+(你不该那样说话。)
+
+2. ought to 亦可表“推论”，译成“应当会”。
+例: Since he works hard, he | ought to | succeed.
+should
+(由于他很努力，应该会成功。) 
+```
+
+3. | ought to | have + 过去分词 本应会……（却不如此）
+should
+形成与过去事实相反的虚拟语气。此时 if 从句中的动词要用过去完成时。
+例: If he had worked hard, he | ought to | have been successful.
+should
+（如果他当时努力，应该早就成功了。） 
+
+4. | ought to | have + 过去分词 应当已经……（可能如此）
+should
+亦可表示“推论至目前为止已完成的动作”，常与 by now（到现在为止）连用。
+例: He | ought to | have arrived in New York by now.
+should
+（他现在应该已到达纽约了。） 
+
+## 第十一种 need
+
+1. 在肯定句中，need 为一般动词，同样具有人称及时态的变化，译成“必须”或“需要”，之后接不定式短语或名词作宾语。 
+
+例: He needs to go.
+不定式
+(他需要走。)
+He needs my help.
+名词
+(他需要我的帮助。) 
+
+注意某物需要某种方法处理时，need之后可接不定式短语，但一定为被动语态；也接动名词，但一定为主动语态。 
+
+例: The car needs to be cleaned. (√)
+不定式（被动语态）
+= The car needs cleaning.
+动名词
+（这部车需要清洗。）
+理由：
+本句实等于：
+The car needs the process of cleaning.
+（这部车需要清洗的过程。） 
+
+```txt
+The car needs being cleaned. (×)
+同理：
+→The window needs to be fixed. (√)
+= The window needs fixing. (√)
+(这窗子需要修理。)
+The window needs being fixed. (×)
+
+2. 否定句中，need 与 not 连用，此时 need 为助动词，句型如下：
+need not + 原形动词
+例: He need not go. (√)
+(他不必去。)
+He need not to go. (×)
+He needs not go. (×)
+但: He need not go. (need 是助动词)
+= He doesn't need to go. (need 是动词)
+
+3. 表过去状况时：
+a. didn't need to + 原形动词 当时不必……（而且亦未如此做）
+例: He didn't need to attend the party, so he stayed home.
+(当时他不必参加派对，所以就留在家里。)
+b. need not have + 过去分词 当时不必……（但却如此做）
+例: He needn't have attended the party, but he went there just the same.
+(当时他可以不必参加派对，但他还是去了。)
+
+4. 在疑问句中，need 作一般动词或助动词皆可。
+例: Does he need to go? (need 为一般动词)
+= Need he go? (Need 为助动词)
+(他需要去吗？)
+
+5. 注意 need 在反意疑问句中的变化：
+a. 一般动词
+例: He needs to go, doesn't he? (needs 为动词)
+(他需要去，不是吗？)
+He doesn't need to go, does he?
+(他不必去，对吧？) 
+```
+
+```txt
+b. 助动词
+例: He need not go, need he? (need 与 not 连用，是助动词)
+(他不必去，对吗？)
+
+第十二种 dare
+
+1. dare 可作助动词，用于否定句或疑问句中。
+dare not + 原形动词 不敢……
+Dare one + 原形动词？ 某人敢……吗？
+例: He dares not go. (×)
+→ He dare not go. (√)
+(他不敢去。)
+Dare he go?
+(他敢去吗？)
+
+2. How dare + 一般陈述句？ …… 怎敢……？
+例: How dare you say such a thing to me?
+(你怎敢在我面前说这种话？)
+
+3. 在 whether 从句中，dare 亦可作助动词。
+例: I wonder whether he dare do it.
+(我怀疑他敢不敢做这事。)
+
+4. 在肯定句中，dare 为一般动词，有时态和人称的变化，之后接不定式。
+例: He dares to go. (现在)
+(他敢去。)
+He dared to go. (过去)
+(当时他敢去。)
+
+5. dare not + 原形动词 不敢……
+= do not dare (to) + 原形动词
+例: He dare not answer the phone.
+= He doesn't dare (to) answer the phone.
+(他不敢接电话。)
+I have never dared (to) speak to him.
+(我从来不敢与他说话。) 
+```
+
+```txt
+6. dare 亦可作及物动词，表“向某人挑战”之意，句型如下：
+dare sb to + 原形动词
+= challenge sb to + 原形动词
+例: He dared me to jump the stream.
+（他向我挑战跳过这条小溪。） 
+```
+
+```txt
+注意
+used to 的主语若为人时，问句中有两种变化：
+例: He used to work hard.
+人
+（他以前很用功。） 
+```
+
+```txt
+→ Used he to work hard? (罕)
+或 Did he use to work hard? (常用)
+(他以前很用功吗？) 
+```
+
+```txt
+3. 在下列结构中，used 非助动词，而是 use 的过去分词：
+a. 人 + be used to + 名词 某人习惯于……
+adj. 介 动名词
+
+本结构的 used 是形容词，译成“习惯的”，等于 accustomed，之后的 to 为介词，译成“针对”。
+
+图: He is used to working alone.
+人 动名词
+
+（他习惯单独工作。）
+
+He hasn't | been | used to city life yet.
+人 got n.
+（他还不习惯都市生活。）
+
+He is used to speaking aloud. (佳)
+人
+
+= He is accustomed to speaking aloud. (佳)
+= He has accustomed himself to speaking aloud. (罕)
+（他习惯大声说话。） 
+```
+
+```txt
+b. 物 + be used to + 原形动词 被用来……
+本结构中的 used 是过去分词，置于 be 动词之后，形成被动语态，译成“被用来”，之后的 to 为不定式，其后接原形动词。
+例: The book can be used to teach us English writing.
+(这本书可用来教我们英语写作。)
+A lot of energy was used to deal with the problem.
+(许多精力都用来处理此问题。) 
+```
+
+```txt
+c. 物 + be used as + 名词 被用作……
+例: The knife was used as a weapon. (√)
+n.
+(这把刀被用来当武器。)
+不可写成:
+The knife was used to be a weapon. (×) 
+```
+
+## 第二节 易用错的动词
+
+## 1. lie、lay:
+
+lie vi. 躺（其后不加宾语）
+动词变化为 lie、lay、lain、lying。
+lie vi. 说谎（其后不加宾语）
+动词变化为 lie、lied、lied、lying。
+lay vt. 放置；生产（其后加宾语）
+动词变化为 lay、laid、laid、laying。 
+
+## 注意
+
+lay 为及物动词，可用被动语态即 “be laid”，而 lie 是不及物动词，无被动用法，即无 “be lied” 或 “be lain” 的用法。 
+
+a. lie (躺)
+例: He will lie on the bed for a while.
+(他将在床上躺片刻。)
+He lay on the bed a while ago.
+(他刚才躺在床上。)
+He has lain on the bed for two hours.
+(他在床上躺了两个钟头了。)
+He has been lying there all day.
+(他一整天都躺在那儿。) 
+
+b. lie（说谎）
+例: Don't lie to me.
+(别对我撒谎。)
+He lied to me.
+(他对我撒谎。) 
+
+c. lay（放置；生产）
+例: He will lay a book on the desk.
+宾语
+（他将会把一本书放在桌上。）
+He laid a book on the desk a while ago.
+（他刚才把一本书放在桌上。） 
+
+```txt
+He has laid a book on the desk.
+(他已把一本书放在桌子。)
+A book has been laid on the desk.
+(一本书已经被放在桌上。)
+A book has been lain on the desk. (×)
+
+2. sit、set、seat:
+sit vi. 坐（其后不加宾语）
+动词变化为 sit、sat、sat、sitting。
+set vt. 安置
+动词变化为 set、set、set、setting。
+seat vt. 使就座
+动词变化为 seat、seated、seated、seating。
+注言:
+a. seat 为及物动词，其后须加上宾语。sit 虽亦可作及物动词，但仅限于 sit oneself 之口语用法，且并不常用。
+例: He came in and sat down. (√)
+(他进来，并坐了下来。)
+He came in and seated down. (×, seated 之后应加宾语，且不能与 down 连用)
+(他进来，并坐了下来。)
+b. seat 之后若无宾语，则应采用被动语态（即 “be seated”），此时 seated 可视为形容词，表 “坐着的”。
+例: John sat by the window, looking out at passersby.
+= John was seated by the window, looking out at passersby.
+(约翰坐在窗边，看着窗外路过的行人。)
+May I seat you here? (此处 seat 表 “使就座” )
+(我可以安排你坐在这里吗？)
+c. set 亦为及物动词，表 “摆设”。
+例: He sat the table for dinner. (×)
+→ He set the table for dinner. (√)
+(他摆桌子准备吃晚饭。)
+
+3. rise、raise、arise、arouse:
+rise vi. 起床；升起（其后不加宾语）
+动词变化为 rise、rose、risen、rising。
+raise vt. 举起；饲养 
+```
+
+```txt
+动词变化为 raise、raised、raised、raising。
+arise vi. 起因于（与 from 连用）
+动词变化为 arise、arose、arisen、arising。
+arouse vt. 激起
+动词变化为 arouse、aroused、aroused、arousing。 
+```
+
+```txt
+注意
+raise 和 arouse 为及物动词，其后须接宾语，亦可用被动语态。
+例: He rose at 7 every morning.
+= He got up at 7 every morning.
+(他每天早上 7 点起床。)
+The sun raises in the east. (×)
+→ The sun rises in the east. (√)
+(太阳从东方升起。)
+Accidents | arise from | carelessness.
+result from
+(意外源于粗心。)
+Raise your hand if you have any questions.
+(有任何问题请举手。)
+Many cattle are raised on this farm.
+(这座农场饲养了许多牛。)
+His bitter words aroused my anger.
+(他尖锐的话语引起了我的愤怒。)
+1. hang:
+hang vt. & vi. 挂
+动词变化为 hang、hung、hung、hanging。
+hang vt. 吊死
+动词变化为 hang、hanged、hanged、hanging。
+例: The picture hangs on the wall.
+= The picture is hung on the wall.
+(图片挂在墙上。)
+Tom Dooley was hanged.
+(汤姆·杜利被吊死了。)
+The picture is hanged on the wall. (×)
+The robber was hung. (×)
+They hanged the murderer yesterday.
+(昨天他们把凶手吊死了。) 
+```
+
+```txt
+5. fly、flow:
+fly vi. 飞
+动词变化为 fly、flew、flown、flying。
+flow vi. 流
+动词变化为 flow、flowed、flowed、flowing。
+例: The airplane flew high in the sky.
+(飞机在高空中飞行。)
+This is the place from which the river flows.
+(这就是这条河流出的地方——发源地。)
+The bird flowed all the way here from Canada. (×，应改为 flew)
+(鸟儿从加拿大一路飞到这儿。)
+
+6. take、bring:
+take （从此处）拿走
+bring （从别处）拿来
+例: Take the book to the library, please.
+(请把这本书拿去图书馆。)
+Bring them back here.
+(把他们带回这里来。)
+Take him in my office. (×，Take 应改为 Bring)
+(带他到我的办公室来。)
+Take it with you when you go there.
+(你去那里时，把这带着。)
+Bring it with you when you come here.
+(你来这里时，把它带着。)
+
+7. refuse:
+refuse 拒绝
+a. refuse + 名词
+例: He refused my suggestion.
+(他拒绝我的建议。)
+b. refuse to + 原形动词
+例: He refused going with me. (×)
+→ He refused to go with me. (√)
+(他拒绝和我走。) 
+```
+
+```txt
+注意
+reject（排斥）意思与 refuse 相近，但却应接动名词作宾语。
+例: He rejected to work with Mary because he thought she was too selfish. (×)
+→ He rejected working with Mary because he thought she was too selfish. (√)
+（他拒绝与玛丽共事，因为他认为她太自私了。）
+
+c. refuse 之后不可接 that 从句。
+例: He refused that he had done something wrong. (×)
+→ He denied that he had done something wrong. (√)
+= He refused to admit that he had done something wrong. (√)
+（他拒绝承认做错事。）
+
+8. spend:
+人 + spend + 时间（或金钱）+ | 动名词
+on + 名词
+
+例: I spent two hours to to write this letter. (×)
+→ I spent two hours writing this letter. (√)
+（我花了两小时写这封信。）
+I spent all my income buying books.
+= I spent all my income on books.
+（我将所有的收人花在买书上。）
+
+9. take、cost:
+It takes + (人) + 时间 + to V
+It costs + (人) + 金钱 + to V
+
+例: It takes (one) about two hours to go from here to Paris.
+（从这里到巴黎花了我两个小时。）
+It cost (me) five dollars to buy that book.
+（买那本书花了我 5 块钱。）
+I cost five dollars to buy that book. (×)
+
+理由:
+“I cost five dollars...”表示“买我这个人只要花 5 元就可以了”，即“我这个人只值 5 元”，不合逻辑。
+
+0. answer、reply to:
+answer + 名词 回答……
+= reply to + 名词
+介 
+```
+
+```txt
+例: He failed to reply her question. (×)
+→ He failed to answer her question. (√)
+= He failed to reply to her question.
+(他未能回答她的问题。) 
+```
+
+```txt
+注意
+answer 也可接 that 从句作宾语，而 reply to 不可接 that 从句作宾语，须删除介词 to 方可接 that 从句。
+例: When asked if he would buy a car, John answered that he had no money.
+= When asked if he would buy a car, John replied that he had no money.
+(约翰被问到是否要买车时，他回答称他没钱。)
+When asked if he would buy a car, John replied to that he had no money. (×) 
+```
+
+```txt
+11. reach、get to、arrive in / at:
+reach + 宾语 到达……
+= arrive + | in（大地方）| at（小地方）
+= get to + 宾语
+例: I | reached | Chicago at 12.
+arrived in
+got to
+（我 12 点到达芝加哥。）
+注意:
+a. 大地方乃指城市、国家、地区等，小地方乃指建筑物如车站、邮局等。
+例: By the time I arrived at the station, the train had gone.
+（等我到车站时，火车已经驶离了。）
+b. 与副词 home、there、here 等连用时，一律不加介词。
+例: I | arrived at there at 12. (×)
+got to
+→ I | reached | there at 12. (√)
+got
+（我 12 点到达那里。）
+12. 动词 + 介副词 + 宾语：
+= 动词 + 宾语（普通名词、专有名词、代词）+ 介副词 
+```
+
+例: We have to carry out that mission.
+= We have to carry that mission out.
+(我们必须执行那项任务。) 
+
+```txt
+注意
+代词一定要置于介副词之前。故：
+例: We have to carry out it. (×)
+We have to carry it out. (√)
+(我们必须执行这件事。) 
+```
+
+## 类似此类结构的动词短语如下：
+
+```txt
+bring up 抚养 figure out 想出
+call down 斥责 give up 放弃
+call off 取消 put out 熄灭
+cross out 删去 take off 脱掉（衣服等）
+do over 重做 take over 接管
+talk over 商讨 pick up 拾起
+think over 考虑 put off 延期
+think up 设计 put on 穿
+try on 试穿（衣服等） try out 试验（机器、想法等）
+hand in 交出 turn down 拒绝
+look over 检查 turn in 交出
+look up 查（生词、电话号码等） turn off 关上
+make out 了解 turn on 打开（开关等）
+pick out 挑选 
+```
+
+## 注意
+
+```txt
+由上得知，我们不可说：
+This shirt looks good. Can I try on it? (×)
+应说：
+This shirt looks good. Can I try it on? (√)
+(这件衬衫很好看。我可以试穿吗？) 
+```
+
+```txt
+13. 动词 + 介词 + 宾语：
+动词 + 介词 + 宾语（普通名词、专有名词、代词）
+例: I called him on yesterday. (×)
+→ I called on him yesterday. (√)
+（我昨天拜访他。） 
+```
+
+```txt
+类似此结构的短语动词如下：
+call for 要求；需要 go over 复习
+come across 偶然遇见 go through 检查
+= run into keep on 继续
+= meet...by chance look after 照顾
+get over 复原 look for 找寻
+= recover from look into 调查
+get through 做完 take after 像 
+```
+
+```txt
+4. “动词 + 介词 + 名词（代词）”的重要短语：
+a. agree on... 就（条约、定义）达成协议
+例: We finally agreed on the contract.
+= We finally reached an agreement on the contract.
+（我们终于就条约达成了协议。）
+b. agree to + 事物 同意某事
+例: I agree to his coming here.
+（我同意他来。）
+c. agree with + 人 同意某人
+例: I agree with him on this point.
+（关于这点，我同意他的看法。）
+d. consist of... 包括……
+例: This class consists of 10 students.
+= This class is composed of 10 students.
+= This class is made up of 10 students.
+（这班共有 10 个学生。）
+e. argue with + 人 与某人争论
+argue over + 事物 争论某事
+approve of + 事物 赞同某事物
+care for 喜欢
+complain about / of 抱怨
+consent to 同意
+comment on 评论
+count on 依赖
+= depend on
+= rely on 
+```
+
+```txt
+laugh at 取笑
+hear from 听到某人的音讯；接到某人的来信
+
+15. “动词 + 宾语 + 介词 + 宾语”的重要短语：
+例: Add this number to that number.
+(将此数与该数相加。)
+He blamed me for the fault.
+(他把错归咎于我。)
+I congratulated him on his success.
+(我恭贺他的成功。)
+He explained it to me.
+(他向我解释此事。)
+He won't excuse me for being rude.
+(他不会原谅我的粗鲁行为。)
+
+16. 重要的三词（三词以上）短语动词：
+例: He fell in love with Mary.
+(他爱上了玛丽。)
+He will get in touch with her when he goes to New York.
+联络
+(他到纽约时会和她联络。)
+He has | made up his mind = decided | to study hard.
+(他已下决心要用功学习。)
+Who takes charge of this class?
+掌理
+= Who is in charge of this class?
+(这个班由谁负责？)
+He'll take care of look after | my children when I go on a trip.
+(我去旅行时，他会照顾我的小孩。)
+Students have complete access to books in the library.
+有完全使用权
+(学生可以任意使用图书馆内的书。)
+I look forward to seeing you soon.
+(我期盼能很快见到你。) 
+```
+
+```txt
+例: Would you mind if I opened the door? (语气客气)
+(Would 为一般过去时，if 从句之动词亦用一般过去时)
+= Do you mind if I open the door? (语气无上句客气)
+(Do 为一般现在时，故 if 从句之动词亦用一般现在时)
+(你介不介意我把门打开？)
+Would you mind if you came over here?
+= Do you mind if you come over here?
+(你介不介意到这里来？) 
+```
+
+```txt
+a. prefer + | 名词 | + to + | 名词
+动名词 | 介 | 动名词 |
+例: I prefer coffee to tea.
+(我比较喜欢喝咖啡胜过喝茶。)
+I prefer going to the movies to watching TV.
+(我比较喜欢看电影胜过看电视。)
+b. prefer to + 原形动词 + | instead of + 动名词
+rather than + 原形动词
+连词
+例: I prefer to go to the movies instead of watching TV.
+= I prefer to go to the movies rather than watch TV.
+= I prefer going to the movies to watching TV.
+I prefer to go to the movies rather than watching TV. (×) 
+```
+
+## 17. prefer 的用法：
+
+## 18. mind 的用法：
+
+## 注意：
+
+Would you mind if you opened the door?
+(同主语) opening 
+
+(你介不介意去把门打开？) 
+
+## 19. “动词 + 动名词”的结构：
+
+下列动词只能接动名词，不能接不定式。 
+
+<table><tr><td>admit</td><td>承认</td><td>mention</td><td>提到</td></tr><tr><td>avoid</td><td>避免</td><td>pardon</td><td>原谅</td></tr><tr><td>appreciate</td><td>感激;体会</td><td>miss</td><td>想念</td></tr><tr><td>consider</td><td>考虑</td><td>practise</td><td>练习</td></tr><tr><td>delay</td><td>延期</td><td>=practice</td><td></td></tr><tr><td>mind</td><td>介意</td><td>quit</td><td>停止</td></tr><tr><td>deny</td><td>否认</td><td>risk</td><td>冒险</td></tr><tr><td>detest</td><td>憎恨</td><td>postpone</td><td>延迟</td></tr><tr><td>enjoy</td><td>喜欢</td><td>resent</td><td>愤恨</td></tr><tr><td>escape</td><td>逃避</td><td>regret</td><td>后悔</td></tr><tr><td>excuse</td><td>原谅</td><td>keep</td><td>保持</td></tr><tr><td>finish</td><td>结束</td><td>finish</td><td>结束</td></tr><tr><td>forgive</td><td>原谅</td><td>imagine</td><td>想象</td></tr></table>
+
+例: I really appreciate your helping me.
+(我实在感谢你的帮助。)
+He considered studying another language.
+(他考虑学习另一种语言。)
+He has finished writing this book.
+(他已经写完这本书。)
+I enjoy talking with you.
+(我喜欢和你谈话。)
+He practiced to speak English every day. (×)
+→ He practiced speaking English every day. (√)
+(他每天练习说英语。) 
+
+## 20. prevent sb from V-ing 阻止某人从事……
+
+例: The heavy rain prevented me to get to work on time. (×)
+→ The heavy rain prevented me from getting to work on time. (√)
+(大雨使我不能准时上班。) 
+
+注意 
+
+以下动词结构与 prevent 相同： 
+
+ban sb from V-ing 禁止某人从事…… 
+
+## 注意
+
+```txt
+以上短语中，ban、bar、prohibit 均表“禁止”，均与介词 from 连用；forbid 亦表“禁止”，但常与不定式连用，形成下列结构：
+forbid sb to V 禁止某人从事……
+例: I forbid him to smoke here.
+= I prohibit him from smoking here.
+（我禁止他在此处抽烟。）
+不过，亦有人将 forbid 与 from 连用，故上句亦可改写如下：
+I forbid him from smoking here.
+只是此用法较为罕见，应考时仍以“forbid sb to V”为最佳选择。 
+```
+
+21. encourage sb to V 鼓励某人从事……
+discourage sb from V-ing 阻止某人/使某人不敢从事……
+例: I encouraged him to do it.
+(我鼓励他做此事。)
+I discouraged him to come here. (×)
+→ I discouraged him from coming here. (√)
+(我阻止他来这里。) 
+
+```txt
+22. persuade sb to V 劝某人去……
+dissuade sb from V-ing 劝阻某人……
+例: I persuaded him to come with me.
+= I prevailed on him to come with me.
+= I talked him into coming with me.
+(我劝他和我一起来。)
+I dissuaded him to come with me. (×)
+→ I dissuaded him from coming with me. (√)
+(我劝他别跟我来。) 
+```
+
+## 23. resemble sb/sth 像……
+
+例: You resemble your brother. 
+
+= You bear a close resemblance to your brother. 
+
+= You look like your brother. 
+
+(你很像你哥哥。) 
+
+## 24. decide、determine:
+
+a. decide 表 “决定” 可作及物或不及物动词。作及物动词时，可接不定式或名词性从句作其宾语，句型如下： 
+
+```txt
+decide to V 决定要…… 
+```
+
+decide + that 从句/whether 从句/疑问词形成的名词性从句 决定…… 
+
+例: I've decided to take a trip to Tokyo this summer. 
+
+= I've decided that I will take a trip to Tokyo this summer. 
+
+(今年夏天我已决定要到东京玩一趟。) 
+
+We haven't decided when we will set out yet. 
+
+(我们尚未决定何时要出发。) 
+
+You need to decide whether we will cancel the trip. 
+
+(你必须决定我们是否要取消这个行程。) 
+
+decide on sb/sth 选定某人/某物 
+
+例: We have decided on John as representative of our company. 
+
+（我们已选定约翰担任本公司的代表。） 
+
+decide against sb/sth 不选定某人/某物 
+
+例: We decided against John's idea, thinking that it was not feasible. 
+
+（我们决定不采用约翰的点子，因为我们认为那不可行。） 
+
+b. determine 表 “判定”（= judge）或 “决定”（= decide），可用名词或名词性从句作宾语。 
+
+例: The court will determine whether he is guilty. 
+
+（法院会判定他是否有罪。） 
+
+The market determines our prices. 
+
+(市场决定我们产品的价格。) 
+
+c. determine 可变成过去分词 determined，作形容词用，表 “已经下定决心的”、“心意已决的”，句型如下： 
+
+be determined to V 一心一意要……；决心要…… 例: I'm determined to go on with the project even if I may run into many setbacks.
+(即使我可能会遭遇许多挫折，我心意已决非要继续执行该计划不可。) 
+
+## 25. afford :
+
+```txt
+afford 表 “有能力买”、“有能力从事”，使用本动词时须与助动词 can 或 cannot 连用。afford 之后可接名词或不定式短语作宾语，结构如下：
+can / cannot afford + 名词    有/无能力买/从事……
+can / cannot afford to V    有/无能力从事……
+例: I can afford that car. (佳)
+= I can afford to buy that car.
+(我买得起那辆车。)
+Since he has lots of money, he can afford a new house.
+= Since he has lots of money, he can afford to buy a new house.
+(由于他钱多，因此可以买得起新房子。)
+The poor boy didn't afford to go to school. (×)
+→ The poor boy couldn't afford to go to school. (√)
+(这个穷孩子读不起书。) 
+```
+
+## 26. wait、await:
+
+```txt
+a. wait 表 “等候”，为不及物动词，须与介词 for 连用，方可接宾语，即：
+wait for sb/sth 等候某人/某事物
+例: I'll wait for you at the station.
+（我会在车站等你。）
+We are still waiting for the weather to improve.
+（我们仍在等候天气转好。）
+但 wait 亦可作及物动词，专门用在下列短语中：
+wait one's turn （耐心）等候某人的机会
+例: I'm waiting my turn to take revenge.
+（我正在等候报复的机会。）
+b. await 亦表 “等候”，为及物动词，之后多接表 “事物” 的名词作宾语。
+await sth 等候某事物
+= wait for sth 
+```
+
+```txt
+例: We're still awaiting your reply.
+= We're still waiting for your reply.
+(我们仍在等候你的回答。) 
+```
+
+## 27. succeed、fail:
+
+```txt
+a. succeed 可作不及物动词，表“成功”，须与介词 in 连用，方可接名词或动名词作宾语，形成下列短语：
+succeed in + 名词/动名词 在……获得成功/成功地……
+
+例: John succeeded in business after years of hard work.
+（经过多年的努力，约翰经商成功了。）
+How many of you have succeeded in passing the test?
+（你们之中有几个人考试考及格了？）
+
+b. succeed 亦可作及物动词，表“继承”，以人作宾语，形成下列短语：
+succeed + 人 + as... 继承某人担任……的职位
+
+例: John succeeded his father as president of this company.
+（约翰继承父亲担任本公司的总裁。）
+
+c. fail 可作不及物动词，表“失败”，之后不可接“in + 动名词”，而接不定式短语，作副词用，修饰 fail。
+
+例: He failed in passing the test. (×)
+→ He failed to pass the test. (√)
+（他这次考试没考及格。）
+
+d. fail 亦可作及物动词，表“未通过（考试）”、“使（某人）不及格”或“辜负（某人）”。
+
+例: He failed the test.
+= He failed to pass the test.
+（他这次考试没考及格。）
+
+The teacher failed one-third of his students.
+= The teacher flunked one-third of his students.
+（老师让三分之一的学生不及格。）
+
+You are the only person I trust. Don't fail me.
+（你是我唯一信赖的人。别令我失望/辜负我。） 
+```
+
+```txt
+look（看起来）、feel（感觉起来/摸起来）、sound（听起来）、taste（尝起来）、smell（闻起来）其后只能加形容词，若要加名词，要与like连用。
+例: He looks happily. (×)
+→ He looks happy. (√)
+He looks a happy man. (×)
+→ He looks like a happy man. (√)
+(他看起来很快乐。)
+It tastes good.
+(这尝起来很好吃。)
+It tastes like an apple.
+(这尝起来像苹果。) 
+```
+
+28. depend、depend on:
+depend 不加宾语表 “依情形而定”。
+depend on 加宾语表 “依赖”。
+例: I depend on him to give me advice. 
+
+## 29. 感官动词：
+
+30. 表 “设法、企图” 的动词用法： 
+
+```txt
+try + to + 原形动词 设法要……
+attempt 企图要……
+manage 设法要……
+endeavor 努力要……
+I'll try to study harder.
+= I'll attempt to study harder.
+= I'll manage to study harder.
+(我要设法用功一点。) 
+```
+
+```txt
+We'll endeavor to save our company from going bankrupt.
+(我们会努力拯救公司免于破产。)
+
+31. anger、angry:
+anger 是及物动词，表“使（某人）生气”。
+angry 则为形容词，表“生气的”，有下列重要用法：
+be angry with + 人 生某人的气
+be angry at + 事物 气某事物
+
+例: He angered me.
+= I was angered by him.
+(他使我生气。)
+I'm angry with him. (对人用 with)
+= I'm mad at him.
+(我很气他。)
+I'm angry at her attitude. (对事用 at)
+(我很气她的态度。)
+
+32. 授予动词：
+授予动词有两个宾语，句型有下列三种，所表达的意思则完全相同：
+a. 主语 + 授予动词 + 间接宾语（人）+ 直接宾语（物）
+例: I gave him a book.
+(我给他一本书。)
+He bought me a pencil.
+(他给我买一支铅笔。)
+He wrote me a letter.
+(他写封信给我。)
+I asked him a question.
+(我问他一个问题。)
+
+b. 主语 + 授予动词 + 直接宾语（物）+ | to for of | + 间接宾语（人）
+例: I gave a book to him.
+He bought a pencil for me.
+He wrote a letter to me.
+I asked a question of him. 
+```
+
+```txt
+2) 直接宾语（物）+ for + 间接宾语（人）
+下列动词均与介词 for 连用：
+make（为……制作）、leave（为……留下）、do（为……做）、buy（为……买）。
+例: He made a chair for me.
+= He made me a chair.
+(他为我做了把椅子。)
+He bought a book for me.
+= He bought me a book.
+(他为我买了一本书。)
+Could you do a favor for me? (少用)
+= Could you do me a favor? (常用)
+(可否请您帮我一个忙？)
+*为何上列句型要使用介词 for?
+此乃因为 buy、do、make 等动词都有代劳的意味（为某人买东西、为某人做事、为某人制造东西），故采用 for。
+3) 直接宾语（物）+ of + 间接宾语（人）
+ask（问）、expect（期望）、require（要求）、demand（要求）。
+例: I asked a question of him.
+(我问他一个问题。)
+I expected nothing of him.
+(我对他不抱期望。)
+但无下列说法：
+I expected him nothing. (×)
+I required / demanded nothing of him.
+(我对他无所求。) 
+```
+
+## 注意：
+
+1) 直接宾语（物）+ to + 间接宾语（人）
+下列动词均与介词 to 连用：
+give（给予）、send（寄送）、lend（借给）、write（写给）、bring（带给）、deliver（传递给）、show（显示给）、teach（教给）、tell（向……告诉/讲述）、sell（卖给）、pay（付给）。
+例: I taught English to him.
+(我教他英语。)
+I paid thirty dollars to him.
+(我付他30元。) 
+
+```txt
+但无下列说法：
+I required / demanded him nothing. (×)
+→ I required / demanded nothing of him. (√)
+* 为何上列句型要使用介词 of?
+此乃因为此处的 of 等于 from（从……），凡表 “要求”、“期望”的动词（如 ask、require、demand）均属此用法。 
+```
+
+```txt
+4）直接宾语（物）+ on + 间接宾语（人）
+例: I played a joke on him.
+(我开了他一个玩笑。) 
+```
+
+## C. 授予动词在下列结构中，属被动语态，仍可接宾语：
+
+```txt
+主语（人）+ be + 授予动词 + 宾语
+例: He was given a book (by me).
+I was bought a pencil (by him).
+I was written a letter (by him).
+I was taught English (by him). 
+```
+
+## 33. 知觉动词
+
+此类动词分三大类，分别为“看”、“听”、“感觉”。知觉动词加了宾语后，再接原形动词或现在分词作宾语。用原形动词表示强调“已发生的事实”，用现在分词则强调“正在……”。 
+
+a. 看：see、watch、notice、behold、look at
+例: I saw him cry.
+(我看到他哭了。)
+I saw him crying.
+(我看到他正在哭泣。) 
+
+b. 听：listen to（聆听）、hear（听到）
+例: I heard him talk.
+（我听到他说话了。）
+I heard him talking.
+（我听到他正在说话。） 
+
+c. 感觉：feel
+例: I felt him leave.
+(我感觉他离开了。) 
+
+## I felt him leaving. (我感觉他正要离开。)
+
+34. remember、forget、regret:
+remember to V 记得要……
+remember + V-ing 记得曾……
+forget to V 忘了要……
+forget + V-ing 忘了曾……
+regret to V 抱歉/遗憾要…
+regret + V-ing 后悔曾…… 
+
+例: I'll remember to see him.
+(我会记得要去看他。)
+I remembered to see him.
+(我记得要去看他的。)
+I remember seeing him before.
+(我记得曾经看过他。)
+I forgot to see him.
+(我忘了要去看他。)
+I forgot seeing him before.
+(我忘了曾经见过他。)
+I regret to tell you the truth.
+(我很遗憾要告诉你真相。)
+I regret telling you the truth.
+(我后悔曾告诉你真相。) 
+
+# EXERCISE
+
+## 1. 请选出一个正确的答案：
+
+1. Rose went to the party, although she _. (A) was knowing she would not like it (B) knew she was not liking it (C) knew she would not like it (D) was knowing she did not like it 
+
+2. Novelist Edna Ferber ____ her youth in Appleton, Wisconsin.
+(A) spending (B) was spent (C) spent (D) who spent 
+
+3. Of the two houses, the family preferred _. (A) the one in a more isolation (B) the more isolated one (C) one being in more isolation (D) one that is more isolated 
+
+4. I came to lunch so early because I thought the bell had already _. (A) rang (B) ring (C) been rang (D) rung 
+
+5. You ____ your visa extended before it expires.
+(A) had better to get (B) had to get better
+(C) had better get (D) had better got 
+
+6. The health program outlined in the article seems very sound to me, but it has considerable public outcry.
+(A) met with (B) met up with (C) run up with (D) run against 
+
+7. My typist has not returned my paper yet, but she promised by tomorrow.
+(A) for me to have it ready (B) it was ready for me
+(C) me it was ready (D) to have it ready for me 
+
+8. Al said that he wouldn't mind ____. (A) to wait for us (B) wait for us (C) waiting for us (D) waiting us 
+
+9. She said that she would rather not ____ it right now.
+(A) discussing (B) to discuss (C) discuss (D) discussion 
+
+10. Anna said in her letter that she'd appreciate ____ from you sometime.
+(A) to hear (B) having heard (C) hearing (D) to hearing 
+
+11. I have a letter from your uncle. Do you object ____ it?
+(A) to my reading (B) that I read
+(C) from my reading (D) to I read 
+
+12. Our city has changed a great deal. It doesn't even resemble ____. (A) the one of three years ago (B) one three years ago (C) the one since three years (D) one from three years 
+
+13. Uncle Dick has already arrived. Do you expect ____ to see him?
+(A) going (B) go (C) to go (D) that you go 
+
+14. Scientists continue to speculate ____ causes sunspots.
+(A) for what (B) what about (C) whatever (D) about what 
+
+15. Ann doesn't like milk. She says that she never ____ it at home.
+(A) use to drinking (B) used to drinking
+(C) used to drink (D) use to drink 
+
+16. Edward likes classical music, and I think that he prefers it ____ any other kind.
+(A) than (B) over (C) to (D) against 
+
+17. Would you please ____ the listening comprehension script until after you have listened to the tape?
+(A) not to read (B) not read (C) don't read (D) don't to read 
+
+18. Greater efforts to increase wheat production must be made if bread shortages ____ avoided.
+(A) will be (B) can be (C) are to be (D) were to be 
+
+19. It's not too cloudy to take a picture. I think it ____. (A) is quite enough light (B) has enough much light (C) is light enough (D) has very light enough 
+
+20. The future price of gold ____ by a number of inter-related factors.
+(A) is going to determine
+(B) will determine
+(C) will be determined
+(D) will be determined 
+
+21. Mr. Bundy is so strange today. And your manners ____, too.
+(A) like this is (B) are like his (C) like he is (D) like him are 
+
+22. I want to go to the dental clinic, but you ____ with me.
+(A) need not to go (B) do not need go
+(C) need not go (D) need go not 
+
+23. Dr. Samuels became a politician because he wanted to ____. (A) make his society changed (B) bring about changes in his society (C) bring about a changed society (D) result in new changes for his society 
+
+24. I bite my nails. I must break ____. (A) the habit to me (B) the habit with myself (C) myself of the habit (D) of the habit myself 
+
+25. You don't object ____ you by your first name, do you?
+(A) that I call (B) to my calling (C) for calling (D) that I am call 
+
+26. I'm not going to ask the teacher why he gave me that grade; I intend ____. (A) to let rest the matter (B) the matter to be let resting (C) letting the matter to rest (D) to let the matter rest 
+
+27. Tanbark was spread on the streets to ____ of traffic when Mrs. Campbell was appearing on the stage.
+(A) lessen the sound (B) deaden the noise
+(C) decrease the voices (D) take away the noise 
+
+28. What did he say in the letter? I really can't ____ it out.
+(A) make (B) put (C) run (D) come 
+
+29. I am sorry I lost the race, but I really wasn't fast enough to catch ____ the other runners.
+(A) up (B) up with (C) to (D) with 
+
+30. How will it turn out? Well, it all _. (A) depends on (B) is depending (C) depends (D) depend 
+
+II. 请选出错误的画线部分： 
+
+31. One of the workers has hung the curtains that had been laying on the floor.
+(A) (B) (C) (D) 
+
+32. Although his lawyer felt very badly about the verdict, he advised him (A) (B) (C) not to give up. (D) 
+
+33. The landlady suspicioned that someone must have broken into the house (A) (B) (C) while she was watching the TV show. (D) 
+
+34. Because of the accident, Grandmother will forbid my brother and me (A) (B) from swimming in the river unless someone agrees to watch us. (C) (D) 
+
+35. Ellen would prefer going to the theater more frequently, but her schedule prevents her to attend at more than one play a month.
+(A) (B)
+(C) (D) 
+
+## 标准答案
+
+![](file://C:/Users/admin/MinerU/赖氏经典英语语法新版.pdf-0133667d-4265-45f6-a507-70d7b5826b31/images/b7bd4c3d460bfa3399cbd6ef51d1e283036718bf5dc565c02fb0f4e737917210.jpg)
+
+
+1. (C) 2. (C) 3. (B) 4. (D) 5. (C) 6. (A) 7. (D) 8. (C) 9. (C) 10. (C)
+11. (A) 12. (A) 13. (C) 14. (D) 15. (C) 16. (C) 17. (B) 18. (C) 19. (C) 20. (D)
+21. (B) 22. (C) 23. (B) 24. (C) 25. (B) 26. (D) 27. (B) 28. (A) 29. (B) 30. (C) 
+
+31.(D) 32.(B) 33.(A) 34.(C) 35.(D) 
+
+```txt
+6. meet with = encounter 遭遇到 
+```
+
+```txt
+11. 表“反对”的动词如下：
+I object to going to the movies with him.
+介
+= I oppose going to the movies with him.
+= I am opposed to going to the movies with him.
+介
+（我反对和他去看电影。） 
+```
+
+## 习题解说
+
+![](file://C:/Users/admin/MinerU/赖氏经典英语语法新版.pdf-0133667d-4265-45f6-a507-70d7b5826b31/images/2dd72f3c2391357cce209db1f723c95e7fb0130b5cf6c8183b78b9aa9cf07eba.jpg)
+
+
+1. know、like（喜欢）等词为瞬间即知的动词（即顷刻间即可了解自己是否喜欢、讨厌、知道、明白等动词），不可能用进行时。 
+
+2. 主语 Novelist Edna Ferber 之后应接一般过去时及物动词 spent。 
+
+3. (B) 是最好的答案，因名词避免重复，故用 one 代替 house，同时前有定冠词限定两个房子之一。 
+
+4. had 之后用过去分词 rung（原形 ring、过去式 rang）。 
+
+5. had better 为助动词，故其后用原形动词 get。 
+
+```txt
+7. promise（答应，允诺）之用法：
+promise to V
+promise sb to V
+promise + (sb) + that 从句
+He promised to come with me.
+(他答应跟我来。)
+He promised me to come here by 6.
+(他答应我6点钟之前要来。)
+He promised (me) that he would come here by 6.
+(他答应6点钟之前要来。) 
+```
+
+10. appreciate + V-ing 感激……
+(B) 虽为动名词，但 she'd appreciate... = she would appreciate...，时态上是表示“将来”，故不能用表完成之 having heard。 
+
+13. expect 的用法：
+I expect to go on a trip this summer.
+(我盼望今夏去旅行。)
+I expect you to go on a trip this summer.
+(我指望你今年夏天去旅行。)
+I don't expect much of you.
+(我对你不抱很大的期望。)
+I expect some changes in the plan.
+(我预期该项计划将有所改变。) 
+
+15. used to V 过去曾经……
+be used to V-ing 习惯于…… 
+
+17. please 若表“请”，视为副词，其后接原形动词：
+肯定句：Please come here at 8.
+Please to come here at 8. (×)
+(请你8点来。)
+否定句：Please don't make noise.
+Please not make noise. (×)
+(请不要发出噪音。)
+惯用语：Would you please + 原形动词？请你……好吗？
+Would you please open the door?
+Would you please not open the door?
+Would you please not to open the door? (×) 
+
+18. be to 可表“预定、义务、可能”。  
+a. 预定 $(= \text{be expected to})$ He is to be here by nine this evening.  
+（预定他今晚9点前来此地。）  
+b. 义务 $(= \text{must})$ He is to finish all the work before he leaves. $(= \text{must})$ （他必须在走之前完成所有的工作。） 
+
+c. 可能 (= is likely to)
+It is to rain today.
+(很可能今天会下雨。)
+本题之 is to = must。 
+
+19. 此处的 light 为形容词，表 “明亮的”，故 enough 作副词，应置于 light 之后。 
+
+20. determine 为及物动词，其后应有宾语，否则须用被动语态。
+He determined the policy.
+= The policy was determined by him. 
+
+21. And your manners are like his (manners), too.
+(你的态度也像他的态度。) 
+
+22. need not 为助动词，之后要加原形动词。
+(B) 应改为 do not need to go。 
+
+23. change 可作不及物动词和及物动词, 但意义不同。
+He has changed a lot since he came here.
+不及物动词 
+
+（自从他来这儿之后，人变了许多。——他还是人，只是气质变了。）He has been changed a lot since he came here. 
+
+及物动词 
+
+（自从他来这儿之后，他被改变了许多。——很可能他被改变成另一种东西，而非人。） 
+
+如用 (A) 的话，则 make his society changed 暗示 make his society changed (into something else)，因此是错的，应改为 make his society change（不及物动词），即社会还是社会，只是有些地方有所改变。 
+
+(B) 为正选。...bring about 此处等于 promote（促成）。 
+
+(C) bring about a changed society（促成一个改变的社会）暗示在已存在的社会中，再带来一个已改变的社会，语意错误。 
+
+(D) result in（导致）之主语不能是“人”，而是“原因”。His carelessness resulted in this accident.
+原因 = caused
+= brought about
+= led to
+= culminated in
+但 bring about 的主语可为“人”亦可为“原因”。 
+
+He brought about this accident.  
+(他促使此次车祸的发生。)  
+His carelessness brought about this accident.  
+(他的粗心导致了此次车祸的发生。) 
+
+24. | break | oneself of... 戒除……
+rid 
+
+25. 请见第11题解答。 
+
+26. a. intend to V 打算要……
+b. let the matter rest 让事情平息下来 
+
+27. deaden 使（声音）渐消
+lessen 减少（数量）
+decrease 减少（产量）
+take away 拿走（实物） 
+
+28. make out 理解（= understand）
+put out (the fire) 灭（火）
+come out (of) （从……）走出来
+run out 用光（与 of 连用）
+He ran out of money.
+(他钱花光了。) 
+
+29. catch up with 赶上
+Run faster, or he will catch up with you.
+(跑快一点，否则他会赶上你。) 
+
+30. depends 之后若有宾语，应加 on，此处无宾语，故不加 on。 
+
+31. (D) laying 应改为 lying，因其后无宾语，故用不及物动词 lie（躺）之现在分词形式，表进行的动作。 
+
+32. badly 应改为 bad，因感官动词 felt 之后只能加形容词。 
+
+33. (A) 应改为动词 suspected，因 suspicion 作名词用。 
+
+34. (C) 应改为 to swim。
+forbid sb to V 禁止某人从事…… 
+
+35. (D) 应改为 from attending at。
+prevent sb from V-ing 阻止某人从事…… 
+
+![](file://C:/Users/admin/MinerU/赖氏经典英语语法新版.pdf-0133667d-4265-45f6-a507-70d7b5826b31/images/7ccbd07d770f9add33c7584cee4bcefcec200866f7a17b43a4b5512d874a0da8.jpg)
+
+
+## 第六章 时态及语态
+
+## 概说
+
+记得以前念初中的时候，每次上英语课，就提不起兴趣，主要是因为乡下的孩子比较保守，不敢跟着老师大声念，尤其有些英语单词念起来颇像闽南语中的脏话。每每在亲朋好友面前“秀”一两个英语单词，就会被回骂一声“夭寿”，害得我一直不敢开口说英语。及至老师教到时态时，就被那些复杂（当时觉得）的规则吓坏了，从此再也不学英语了。18之后，发誓要把英语学好时，我就强迫自己每天一定看16小时的英语。我的方法无它，就是勤背诵、勤查词典。不知不觉中，文章愈来愈看得懂。但练习写作时，就发现自己最大的毛病乃时态运用不当，频频出错。于是，我就买了一本虹桥书局出版的英语版Mastering American English。这本语法书用浅显的例句，把时态变化交待得很清楚。从此，我如鱼得水。阅读文章时，就特别注意时态的用法，久而久之，便习惯其中用法，而且我也不必再看任何语法参考书了。 
+
+说了那么多话，无非希望同学们明白，学英语，一如学其他外语，急不得也。有道是“慢工出细活。”希望同学们一方面细看这本英语语法书，一方面多看英语文章，以印证赖老师在书中所说的重点。从此以后，你的英语一定和我的一样好，甚至超越我。耐心地努力下去吧！ 
+
+## 第一节 时态
+
+## 1. 时态的种类：
+
+## a. 一般时：
+
+1) 一般现在时：He writes a letter every day.
+(他每天写信。) 
+
+2) 一般过去时：He wrote a letter yesterday.
+(他昨天写一封信。) 
+
+3) 一般将来时：He will write a letter tomorrow.
+(他明天要写一封信。) 
+
+## b. 完成时：
+
+1) 现在完成时：He has written the letter.
+(他已经写好这封信。) 
+
+2) 过去完成时：He had written the letter when I came.
+(我回来时他早就把信写好了。) 
+
+3) 将来完成时：He will have written the letter before I come.
+(我回来之前，他就会把信写好了。) 
+
+## C. 进行时：
+
+1) 现在进行时：He is writing a letter now.
+(他现在正在写信。) 
+
+2) 过去进行时：He was writing a letter when I came.
+(我来时，他正在写信。) 
+
+3) 将来进行时：He will be writing a letter when I come.
+(我来时，他将正在写信。) 
+
+## d. 完成进行时：
+
+1) 现在完成进行时：He has been writing a letter for two hours. （他已经写信写了两个小时。） 
+
+2) 过去完成进行时：When I called, he had been writing a letter for two hours. （我打电话来时，他信已持续写了两个小时了。） 
+
+```txt
+2. 使用一般现在时的时机：
+主语 + 一般现在时动词
+a. 表知觉、状态、所有：
+例: I smell something burning.
+(我闻到东西烧焦的味道。)
+You look worried.
+(你看起来愁眉苦脸。)
+This medicine tastes bitter to me.
+(对我而言，这个药很苦。)
+He has a book.
+(他有一本书。)
+Your hands feel cold.
+(你的手摸起来很冰冷。)
+He is a student.
+(他是学生。)
+I see a man standing there.
+(我看到一个人站在那里。) 
+```
+
+b. 表习惯性的动作：
+例: He goes to school every day.
+(他每天上学。)
+He writes a letter every day.
+(他每天写信。)
+He always takes a bus home.
+(他总是乘公交车回家。) 
+
+## 注意
+
+```txt
+表习惯性的动作常以时间副词修饰。
+例: It rains a lot in summer.
+(夏天雨量大。)
+They seldom take a trip.
+(他们很少去旅行。)
+千万不可造这种句子：
+He writes a letter. (劣)
+(他写信。) 
+```
+
+```txt
+He comes back. (劣)
+(他回来。)
+因这两个例子无时间副词修饰，故不是习惯性的动作，因此无意义。
+c. 表真理、事实、格言：
+例: The sun rises in the east.
+(太阳从东方升起。)
+He who is lazy is doomed to failure. (to 是介词)
+= He who is lazy is doomed to fail. (to fail 是不定式)
+(凡是懒惰的人注定要失败。)
+Honesty is the best policy.
+(诚实是上策。)
+d. 表将来:
+begin、start、arrive、leave、come、go 等动词可用一般现在时表将来。
+例: They arrive tomorrow.
+(他们明天到。)
+The meeting begins at 7.
+(会议 7 点开始。)
+They start the day after tomorrow.
+(他们后天出发。)
+Does he come tomorrow?
+(他明天要来吗？)
+3. 使用一般过去时的时机：
+主语 + 一般过去时动词
+a. 表过去的动作、习惯、状态：
+例: I saw him yesterday.
+(我昨天看到他。)
+He always rose early in the morning.
+(他以前都很早起床。)
+He was born in 1970.
+(他于 1970 年出生。) 
+```
+
+```txt
+b. 表过去的经验（亦可用现在完成时表示）：
+Did you ever see her before?
+= Have you ever seen her before?
+(你以前见过她吗？) 
+```
+
+```txt
+c. 句中若有 after、until、before 等连词引导的从句，由于时间先后很清楚，可用一般过去时代替过去完成时。
+例: After I had finished the work, I went home.
+= After I finished the work, I went home.
+(我做完工作之后就回家了。)
+I had not studied English until I was 10.
+= I didn't study English until I was 10.
+(我10岁开始学英语。)
+Before I moved here, I had lived in Japan for a long time.
+= Before I moved here, I lived in Japan for a long time.
+(我搬来这里之前曾在日本住过很长一段时间。) 
+```
+
+```txt
+4. 使用一般将来时的时机：
+主语 + will + 原形动词（will 译成“将要”）
+表将来发生的动作或状态：
+例: It will rain tomorrow.
+(明天会下雨。)
+He will be a student soon.
+(他很快就当学生了。)
+Will you be able to come?
+(你能来吗？) 
+```
+
+## 注意
+
+```txt
+a. 由连词 when、unless、if、once（一旦）等所引导的状语从句表示某条件时，一定要用一般现在时，而主句用一般将来时。
+例: When I have money, I will buy a car.
+一般现在时 一般将来时
+(我有钱的时候就会买车。)
+I won't buy a car unless I have money.
+一般将来时 一般现在时
+(除非我有钱，否则我不买车。) 
+```
+
+```txt
+If I see him, I will tell him the truth.
+一般现在时 一般将来时
+(我若见到他，就会把真相告诉他。)
+Once I receive the letter, I will let you know.
+一般现在时 一般将来时
+(我一旦收到信，就会让你知道。)
+千万不要造下列的句子：
+When I will have money, I will buy a car. (×)
+I won't buy a car unless I will have money. (×)
+b. is / am / are going to + 原形动词 = will + 原形动词 将要……
+例: He is going to come.
+= He will come.
+(他将要来。) 
+```
+
+```txt
+5. 使用现在完成时的时机：
+主语 + have + 过去分词（have 译成“已经”或“曾经”）
+a. 用以表示到现在为止完成的动作：
+例: I have just finished my homework.
+(我刚做完功课。)
+She has already come.
+(她已经来了。)
+He has gone to New York.
+(他已到纽约去了。——人在纽约)
+He hasn't gone to work yet.
+(他还没去工作。) 
+```
+
+```txt
+b. 用以表示到现在为止的经验：
+例: I have met him several times.
+(我见过他几次。)
+I have never met such a man as he.
+(我从未见过像他这样的人。) 
+```
+
+```txt
+C. 用以表示到现在为止仍在继续的动作或状态：
+例: She has lived here for 10 years. (And she still lives here.)
+(她已经在这里住 10 年了。——她仍然住在这里。)
+She has studied English since 2000. (And she still studies English.)
+(她从 2000 年就开始学英语。——她现在还在学。) 
+```
+
+```txt
+注意
+表“曾去过”的经历时，用“have been”，而非“have gone”。
+例: He has gone to Hong Kong.
+（他已经到香港去了。）
+(And he is now in Hong Kong.)
+（他现在在香港。）
+He has been to Hong Kong.
+= He has gone to Hong Kong and come back again.
+（他曾去过香港。） 
+```
+
+```txt
+使用过去完成时的时机：
+主语 + had + 过去分词（had 译成“已经”或“曾经”）
+用以表示截至过去某时为止所完成的动作或经历：
+He had studied English for 10 years before he left for the States.
+（他赴美之前已学过 10 年英语。）
+He had already left when I came.
+（我来时他已离开了。）
+He was angry because he hadn't seen Mary.
+（他没看到玛丽，因此生气。）
+He told me that he had seen the movie once.
+（他告诉我，这部电影他已看过一次。） 
+```
+
+```txt
+注释
+过去完成时不能单独存在，要与另一个一般过去时从句或表过去之副词短语连用，即在过去不同时间发生的两种动作：
+先发生的动作 → 用过去完成时表示
+后发生的动作 → 用一般过去时表示
+例: I lost the book which my father had given me.
+（我弄丢了父亲给我的书——我父亲先给我书，我后来弄丢了。） 
+```
+
+```txt
+b. 用以表示即将发生的动作，常与表将来的副词连用，此时 is / am / are 译成“即将”：
+例: He is coming today.
+= He will be coming today.
+(他即将于今天前来。)
+They are leaving soon.
+= They will be leaving soon.
+(他们很快就要离开。) 
+```
+
+```txt
+7. 使用将来完成时的时机：
+主语 + will have + 过去分词（will have 译成“将已经”）
+用以表示到将来某时为止所完成或仍在继续的动作或经历等：
+例: He will have arrived in Chicago by this time tomorrow.
+（明天这个时候，他将已抵达芝加哥。）
+When you come (或 By the time you come), everything will have been finished.
+（你来的时候，每一件事将已全部完成。）
+He will have lived here for 10 years by the end of this month.
+（到月底，他就在此地住满 10 年了。） 
+```
+
+```txt
+3. 使用现在进行时的时机：
+主语 + is / am / are + 现在分词（is / am / are 译成“正在”）
+a. 用以表示现在正在做的动作：
+例: He is writing a letter.
+(他正在写一封信。)
+What are you doing?
+(你正在做什么？)
+He is taking a trip now.
+(他现在正在旅游。)
+I am doing the laundry.
+(我正在洗衣服。) 
+```
+
+```txt
+9. 使用过去进行时的时机：
+主语 + was / were + 现在分词（was / were 译成“正在”）
+a. 用以表示过去某时正在做的动作： 
+```
+
+```txt
+例: He was studying English then.
+(那时他正在读英语。)
+He was taking a bath when you called.
+(你打电话来的时候，他正在洗澡。) 
+```
+
+```txt
+b. 表一般过去时中即将发生的事：
+例: He was dying.
+= He was going to die.
+= He was about to die.
+(那时他快死了。) 
+```
+
+```txt
+10. 使用将来进行时的时机：
+主语 + will be + 现在分词（will be 译成“将在”）
+用以表示于将来某时将进行的动作：
+例: He will be studying English (at) this time tomorrow.
+(明天此时，他将在读英语。) 
+```
+
+## 11. 使用现在完成进行时的时机：
+
+```txt
+主语 + have / has been + 现在分词（have / has been 译成“一直都在”）用以表示一直继续到现在且仍将继续下去的动作：
+例: She has been working with this company for 5 years.
+(她在这家公司服务已有5年的时间。——她仍将服务下去。)
+They have been standing here since 7 this morning.
+(他们从早上7点就一直站在这儿。——现在还在站着。)
+He has been teaching at this school since 2001.
+(他从2001年就一直在这个学校任教。——他仍将继续教。) 
+```
+
+## 12. 使用过去完成进行时的时机：
+
+主语 + had been + 现在分词（had been 译成“一直都在”）
+用以表示一直继续到过去某时，而当时仍在继续进行的动作。与过去完成时一样，过去完成进行时不能单独存在，须与一般过去时连用：
+例: I had been sleeping when he came.
+(他来的时候，我仍在睡觉。)
+He told us that he had been studying German since 2001.
+(他告诉我们他从 2001 年起就一直学德语。) 
+
+## 13. 使用将来完成进行时的时机：
+
+主语 + will have been + 现在分词（will have been 译成“将一直在”）表一直继续到将来某时，而仍将继续进行的动作： 
+
+例: I will have been teaching English for ten years by the end of this year.
+(到今年年底，我教英语将已有10年了。) 
+
+14. 时态的前后一致： 
+
+a. 主句若为一般现在时，从属从句除过去完成时、过去完成进行时不能用以外，其他时态皆可用。 
+
+例: I think | he has come.
+he is coming.
+he already came.
+he will have done it by the end of this month.
+he was singing a song when I came yesterday.
+he had come. (×)
+he had been sleeping. (×)
+he had been sleeping when I came.
+(√，因有一般过去时之状语从句“when I came”) 
+
+b. 主句为一般过去时时，则从属从句不得用表现在或将来的时态，但可使用一般过去时、过去完成时、过去进行时、过去完成进行时。 
+
+例: I thought | he was nice.
+he had come back.
+he would come back.
+he was working hard.
+he had been working hard.
+he will come back. (×)
+he has been working hard. (×) 
+
+c. 从属从句表示真理时，无论主句是过去、现在或将来时，该从句都用一般现在时。 
+
+例: They knew that the sun rises in the east.
+(他们知道太阳从东边升起。)
+We know that the sun rises in the east.
+(我们知道太阳从东边升起。)
+She will know that the sun rises in the east.
+(她将会知道太阳从东方升起。) 
+
+```txt
+d. 现在完成时或现在完成进行时的动词与 “for + 一段时间” 连用时，该动词所表示的动作必须可接续进行，否则就不可与 “for + 一段时间” 连用。
+例: I have lived here for five years. (√)
+(我在这里连续住了5年。) 
+```
+
+## 15. “for + 一段时间”与完成时的关系：
+
+```txt
+for the past five years 过去5年来
+during last
+in
+through
+down through
+over
+= since five years ago 自从5年前起
+这些短语与现在完成时或现在完成进行时连用。
+例: I have been studying English for the past two weeks.
+(过去两个星期来，我都一直在学英语。) 
+```
+
+## 16. since 与完成时的关系：
+
+a. since 表 “自从” 时，可作介词，之后接名词或动名词；since 亦可作副词连词，之后接主语及动词，引导一般过去时的状语从句。不论 since 作介词或副词连词，所修饰的主句应用现在完成时或现在完成进行时，句型如下： 
+
+```txt
+主语 + have / has + 过去分词 + since... 自从……以来就一直……
+或：主语 + have / has been + 现在分词 + since...
+例: I have lived here since 2000.
+(自 2000 年起我就一直住在这里。)
+I have been studying English since I went to college.
+(自我念大学后，我就一直在学英语。) 
+```
+
+```txt
+b. since 之后须接明确的某时间作宾语，不可接一段时间作宾语。
+例: Peter has lived here since two years. (×, two years 是一段时间)
+→ Peter has lived here since 2002. (√, 2002 是明确的某时间)
+（彼得自 2002 年就一直住在这里。） 
+```
+
+```txt
+c. since 之后若有一段时间，则须在一段时间之后接 ago。
+例: Peter has lived here since two years ago. (√)
+(彼得自两年前起就一直住在这里。)
+= Peter has lived here for two years.
+(彼得在这里已住了两年了。) 
+```
+
+```txt
+理由:
+我每天住在这里，持续住了5年，故live（住）表示的动作可持续进行。
+
+例: He has been teaching English for two months. (√)
+(他教英语已有两个月了。)
+
+理由:
+他每天都教英语，持续教了两个月，故teach（教）表示的动作可持续进行。
+
+例: He has died for two months. (×)
+(他死了3年了。)
+
+理由:
+他每天都死一次，持续死了3年——不合逻辑，故die（死）表示的动作无法持续进行，不可与for three years连用。应改为：
+
+例: He has died. (√)
+(他已过世了。)
+
+He has married Jane for twenty years. (×)
+(他跟简结婚已有20年了。)
+
+理由:
+他每天都娶简一次，持续娶了20年——不合逻辑，故marry（与……结婚）表示的动作无法持续进行，不可与for twenty years连用，应改为：
+
+例: He has married Jane. (√)
+(他已娶了简。)
+
+上列动作无法持续的动词，若采下列结构时，则可与since连用：
+It is + 一段时间 + since...
+
+例: It is three years since he died. (√)
+= Three years have passed since he died.
+(他过世已3年了。)
+
+It is twenty years since he married Jane. (√)
+= Twenty years have passed since he married Jane.
+(他与简结婚已有20年了。) 
+```
+
+## 17. 常用的不规则动词变化：
+
+<table><tr><td colspan="4">a. A-A-A 型 (三式相同)</td></tr><tr><td>原形</td><td>过去式</td><td>过去分词</td><td></td></tr><tr><td>burst</td><td>burst</td><td>burst</td><td>爆发</td></tr><tr><td>cost</td><td>cost</td><td>cost</td><td>值,花费</td></tr><tr><td>cast</td><td>cast</td><td>cast</td><td>丢,掷</td></tr><tr><td>cut</td><td>cut</td><td>cut</td><td>切</td></tr><tr><td>hit</td><td>hit</td><td>hit</td><td>击</td></tr><tr><td>hurt</td><td>hurt</td><td>hurt</td><td>伤害</td></tr><tr><td>let</td><td>let</td><td>let</td><td>让</td></tr><tr><td>read</td><td>read</td><td>read</td><td>读</td></tr><tr><td>set</td><td>set</td><td>set</td><td>置,放</td></tr><tr><td>shut</td><td>shut</td><td>shut</td><td>关</td></tr><tr><td>upset</td><td>upset</td><td>upset</td><td>使......难过</td></tr></table>
+
+
+b. A-B-B型 （过去式与过去分词同形）
+
+
+<table><tr><td>say</td><td>said</td><td>said</td><td>说</td></tr><tr><td>lay</td><td>laid</td><td>laid</td><td>置;生蛋</td></tr><tr><td>pay</td><td>paid</td><td>paid</td><td>付款</td></tr><tr><td>sell</td><td>sold</td><td>sold</td><td>卖</td></tr><tr><td>tell</td><td>told</td><td>told</td><td>告诉</td></tr><tr><td>catch</td><td>caught</td><td>caught</td><td>捕</td></tr><tr><td>teach</td><td>taught</td><td>taught</td><td>教</td></tr><tr><td>buy</td><td>bought</td><td>bought</td><td>买</td></tr><tr><td>bring</td><td>brought</td><td>brought</td><td>带来</td></tr><tr><td>think</td><td>thought</td><td>thought</td><td>想</td></tr><tr><td>have</td><td>had</td><td>had</td><td>有;使;吃喝;经历</td></tr><tr><td>has</td><td></td><td></td><td></td></tr><tr><td>hear</td><td>heard</td><td>heard</td><td>听</td></tr><tr><td>make</td><td>made</td><td>made</td><td>做</td></tr><tr><td>build</td><td>built</td><td>built</td><td>建造</td></tr><tr><td>lend</td><td>lent</td><td>lent</td><td>借给</td></tr><tr><td>send</td><td>sent</td><td>sent</td><td>寄,送</td></tr><tr><td>spend</td><td>spent</td><td>spent</td><td>花费</td></tr><tr><td>sit</td><td>sat</td><td>sat</td><td>坐</td></tr><tr><td>getlose</td><td>gotlost</td><td>gotlost</td><td>得到失去;输</td></tr><tr><td>win</td><td>won</td><td>won</td><td>赢得</td></tr><tr><td>smell</td><td>smelt</td><td>smelt</td><td>闻,嗅</td></tr><tr><td>hold</td><td>held</td><td>held</td><td>握</td></tr><tr><td>meet</td><td>met</td><td>met</td><td>遇见</td></tr><tr><td>feed</td><td>fed</td><td>fed</td><td>饲,喂</td></tr><tr><td>feel</td><td>felt</td><td>felt</td><td>感觉</td></tr><tr><td>keep</td><td>kept</td><td>kept</td><td>保持</td></tr><tr><td>sleep</td><td>slept</td><td>slept</td><td>睡</td></tr><tr><td>lead</td><td>led</td><td>led</td><td>领导</td></tr><tr><td>leave</td><td>left</td><td>left</td><td>离开</td></tr><tr><td>mean</td><td>meant</td><td>meant</td><td>意指</td></tr><tr><td>stand</td><td>stood</td><td>stood</td><td>站立;忍受</td></tr><tr><td>understand</td><td>understood</td><td>understood</td><td>了解</td></tr><tr><td>find</td><td>found</td><td>found</td><td>发现</td></tr><tr><td>hang</td><td>hung</td><td>hung</td><td>挂;吊</td></tr><tr><td>strike</td><td>struck</td><td>struck</td><td>打击</td></tr></table>
+
+<table><tr><td>c. A-B-A型</td><td colspan="3">(原形与过去分词同形)</td></tr><tr><td>run</td><td>ran</td><td>run</td><td>跑;经营</td></tr><tr><td>come</td><td>came</td><td>come</td><td>来</td></tr><tr><td>become</td><td>became</td><td>become</td><td>成为</td></tr></table>
+
+<table><tr><td>d. A-B-C 型</td><td colspan="3">(三式不同形)</td></tr><tr><td>begin</td><td>began</td><td>begun</td><td>开始</td></tr><tr><td>drink</td><td>drank</td><td>drunk</td><td>喝</td></tr><tr><td>ring</td><td>rang</td><td>rung</td><td>摇铃;鸣响</td></tr><tr><td>sing</td><td>sang</td><td>sung</td><td>唱</td></tr><tr><td>sink</td><td>sank</td><td>sunk</td><td>沉</td></tr><tr><td>swim</td><td>swam</td><td>swum</td><td>游泳</td></tr><tr><td>break</td><td>broke</td><td>broken</td><td>打破</td></tr><tr><td>speak</td><td>spoke</td><td>spoken</td><td>说话</td></tr><tr><td>steal</td><td>stole</td><td>stolen</td><td>偷</td></tr><tr><td>freeze</td><td>froze</td><td>frozen</td><td>冰冻</td></tr><tr><td>choose</td><td>chose</td><td>chosen</td><td>选择</td></tr><tr><td>hide</td><td>hid</td><td>hidden</td><td>藏</td></tr></table>
+
+e. 有两种变化的动词 
+
+<table><tr><td>bite</td><td>bit</td><td>bitten</td><td>咬</td></tr><tr><td>tear</td><td>tore</td><td>torn</td><td>撕</td></tr><tr><td>wear</td><td>wore</td><td>worn</td><td>穿,戴;磨损</td></tr><tr><td>drive</td><td>drove</td><td>driven</td><td>驾驶</td></tr><tr><td>ride</td><td>rode</td><td>ridden</td><td>骑</td></tr><tr><td>rise</td><td>rose</td><td>risen</td><td>上升</td></tr><tr><td>write</td><td>wrote</td><td>written</td><td>写</td></tr><tr><td>take</td><td>took</td><td>taken</td><td>拿取</td></tr><tr><td>mistake</td><td>mistook</td><td>mistaken</td><td>误会</td></tr><tr><td>shake</td><td>shook</td><td>shaken</td><td>摇动</td></tr><tr><td>know</td><td>knew</td><td>known</td><td>知道,认识</td></tr><tr><td>grow</td><td>grew</td><td>grown</td><td>生长</td></tr><tr><td>throw</td><td>threw</td><td>thrown</td><td>投</td></tr><tr><td>draw</td><td>drew</td><td>drawn</td><td>画;拉</td></tr><tr><td>fly</td><td>flew</td><td>flown</td><td>飞</td></tr><tr><td>blow</td><td>blew</td><td>blown</td><td>吹</td></tr><tr><td>do</td><td>did</td><td>done</td><td>做</td></tr><tr><td>eat</td><td>ate</td><td>eaten</td><td>吃</td></tr><tr><td>fall</td><td>fell</td><td>fallen</td><td>落</td></tr><tr><td>give</td><td>gave</td><td>given</td><td>给</td></tr><tr><td>go</td><td>went</td><td>gone</td><td>去</td></tr><tr><td>lie</td><td>lay</td><td>lain</td><td>躺,卧</td></tr><tr><td>see</td><td>saw</td><td>seen</td><td>看</td></tr><tr><td>show</td><td>showed</td><td>shown</td><td>显示</td></tr><tr><td>forget</td><td>forgot</td><td>forgotten</td><td>忘记</td></tr><tr><td>| be, am, is | are</td><td>| was | were |</td><td>been</td><td>是;在</td></tr></table>
+
+<table><tr><td>burn</td><td>burnedburnt</td><td></td><td>burnedburnt</td><td>燃烧</td></tr><tr><td>dream</td><td>dreameddreamt</td><td></td><td>dreameddreamt</td><td>梦见</td></tr><tr><td>learn</td><td>learnedlearnt</td><td></td><td>learnedlearnt</td><td>学习</td></tr></table>
+
+<table><tr><td>原形</td><td>过去式</td><td>过去分词</td></tr><tr><td>shall</td><td>should</td><td></td></tr><tr><td>will</td><td>would</td><td></td></tr><tr><td>can</td><td>could</td><td></td></tr><tr><td>may</td><td>might</td><td></td></tr></table>
+
+## 第二节 语态
+
+## 1. 语态的种类：
+
+语态有两类，即主动语态及被动语态，形成被动语态时动词一定是及物动词。  
+主动语态：I did the work. vt. （我做了这工作。）  
+被动语态：The work was done by me. （这工作被我做了。） 
+
+## 注意
+
+不及物动词只有主动语态，而无被动语态。
+例: On the bed was lain by me. (×)
+→ I lay on the bed. (√, lay 为不及物动词 lie 的过去式，表“躺”)
+(我躺在床上。)
+I laid a book on the desk. (√, laid 为及物动词 lay 的过去式，表“放”)
+(我把一本书放在桌上。)
+→ A book was laid on the desk. (√)
+(一本书被我放在桌上。) 
+
+## 2. 主动语态变成被动语态的方式：
+
+原句的宾语作主语，之后置 be 动词，再接过去分词。 
+
+例: Everyone loves him.
+主语 及物动词 宾语 
+
+→ He is loved by everyone.
+(他受大家爱戴。)
+The class stared at him.
+主语 短语动词 宾语 
+
+→ He was stared at by the class.
+(他被全班同学们盯着看。) 
+
+I will take care of him. 
+
+主语 短语动词 宾语 
+
+→ He will be taken care of by me. 
+
+(他会受我照顾。) 
+
+请参看下列表格： 
+
+<table><tr><td colspan="2">时态\语态</td><td>主动语态</td><td>被动语态</td></tr><tr><td>一般时</td><td>现在过去将来</td><td>He does it.He did it.He will do it.</td><td>It is done by him.It was done by him.It will be done by him.</td></tr><tr><td>完成时</td><td>现在过去将来</td><td>He has done it.He had done it.He will have done it.</td><td>It has been done by him.It had been done by him.It will have been done by him.</td></tr><tr><td>进行时</td><td>现在过去将来</td><td>He is doing it.He was doing it.He will be doing it.</td><td>It is being done by him.It was being done by him.(缺)</td></tr></table>
+
+## 3. 主动语态和被动语态时态要一致：
+
+例: Everyone loves him.
+一般现在时
+→ He is loved by everyone.
+一般现在时
+（他现在受到大家爱戴。）
+Everyone loved him.
+一般过去时
+→ He was loved by everyone.
+一般过去时
+（他当时受到大家爱戴。）
+Everyone will love him.
+一般将来时
+→ He will be loved by everyone.
+一般将来时
+（他将会受到大家爱戴。） 
+
+## He is doing that work.
+
+## 现在进行时
+
+## → That work is being done by him.
+
+## 现在进行时
+
+（那件工作正被他做。） 
+
+## 4. 授予动词有两种被动语态：
+
+例: I gave him a book. (主动) 
+
+= He was given a book by me. (被动) 
+
+= A book was given to him by me. (被动) 
+
+(我给他一本书。) 
+
+The law firm offered him a job. 
+
+= He was offered a job by the law firm. 
+
+= A job was offered to him by the law firm. 
+
+(这家律师事务所给了他一份工作。) 
+
+## 5. “动词 + 介词”亦可变成被动语态：
+
+有些动词之后须与介词连用，形成短语动词，再置宾语时，要把“动词 + 介词”形成的短语动词视为及物动词，可变被动语态。 
+
+```txt
+例: I was laughed by them. (×) 
+```
+
+```txt
+→ They laughed at me. (√) 
+```
+
+= I was laughed at by them. 
+
+(他们笑我。) 
+
+The case was looked by police. (×) 
+
+→ Police looked into the case. (√) 
+
+= The case was looked into by police. 
+
+(警方调查了那件案子。) 
+
+## 6. 否定句的语态变化：
+
+例: They do not love him. 
+
+= He is not loved by them. 
+
+(他们不爱他。) 
+
+# EXERCISE
+
+## 1. 请选出一个正确的答案：
+
+1. The government ____ employ wide surveillance, but the Department of Justice objected to it.
+(A) is about to (B) was about to (C) in order to (D) ought to 
+
+2. The United States ____ to build a supersonic aircraft, but there was no support for it in the Congress.
+(A) has intended (B) is intended
+(C) had intended (D) is intending 
+
+3. There's a police car in front of our neighbor's house. What do you suppose ____?
+(A) is happened (B) has happened
+(C) would happen (D) did happen 
+
+4. I came so early for lunch today because I thought the bell ____. (A) had already rang (B) has already rung (C) already had rung (D) had already rung 
+
+5. James has just arrived, but I didn't know he ____ until yesterday.
+(A) will come
+(B) was coming
+(C) had been coming
+(D) comes 
+
+6. The streets are all wet. It ____ during the night.
+(A) must be raining (B) must have been rain
+(C) had to rain (D) must have rained 
+
+7. I will go home for vacation as soon as I ____ my exams.
+(A) will finish (B) finish (C) am finishing (D) finished 
+
+8. Martin visited his aunt two days before he ____ town.
+(A) left
+(B) will leave
+(C) had left
+(D) is going to leave 
+
+9. As yet we ____ nothing from my brother.
+(A) did not hear (B) had not heard (C) has heard (D) have heard 
+
+10. I ____ to Taipei before I entered this school.
+(A) once gone
+(B) have once gone
+(C) had once gone
+(D) had once been 
+
+11. The commander-in-chief reaches him.
+(A) will cross
+(B) will be crossing
+(C) has crossed
+(D) had crossed 
+
+12. The whole area was flooded because it ____ for weeks.
+(A) rains
+(B) has rained
+(C) had been raining
+(D) was raining 
+
+13. Our sales ____ for months, so we are now in great financial difficulty.
+(A) have been dropping (B) had been dropping
+(C) have been dropped (D) are dropping 
+
+14. I will lend you the book when I ____ reading it.
+(A) will have (B) finish (C) am finishing (D) will finish 
+
+15. The moment I ____ the news, I turned pale.
+(A) have heard (B) hear (C) heard (D) was hearing 
+
+16. While I ____ with my wife last night, an old friend of mine showed up.
+(A) was talking (B) had talked (C) talked (D) would talk 
+
+17. We will wait right here until David ____ back.
+(A) has got (B) will have got (C) gets (D) get 
+
+18. We have been told the final outcome of the negotiations, but we shall never know what ____ on behind the scenes.
+(A) goes
+(B) went
+(C) had gone
+(D) will have been going 
+
+19. The clock has been working well since he ____ it for me.
+(A) has fixed (B) had fixed (C) fixed (D) would fix 
+
+20. Joseph ____ Hong Kong by the end of this month.
+(A) will have reached (B) has reached
+(C) reaches (D) is reaching 
+
+## II. 选出错误的画线部分：
+
+21. She thought that she will have to wait in line because there were many people in the office. 
+
+22. It is possible that Indians originally have migrated to the Western Hemisphere (A) over a bridge of land that once existed between Siberia and Alaska. (B) (C) (D) 
+
+23. When Harry Truman has become the President of the United States, he was (A) (B) (C) not familiar with either the foreign policy or the atomic bomb. (D) 
+
+24. He has been sitting at the table for several hours and drank considerably (A) (B) (C) more wine than is good for his health. (D) 
+
+25. Before he died, the old man who lives next door to the drugstore used to feed (A) (B) (C) the pigeons three times a day. (D) 
+
+26. Medical researchers have not yet been able to have developed an effective vaccine against influenza.
+(A)
+(B)
+(C)
+(D) 
+
+27. Learning a foreign language is especially difficult for those who (A) (B) had never learned one before. (C) (D) 
+
+28. Unfortunately, two of the boys has been bit by snakes the last time the family camped in the valley.
+(A) (B) (C)
+(D) 
+
+29. To Mrs. Foster and Miss Rosen the advice sounded wrong, but everyone else at the meeting consider it perfect.
+(A) (B)
+(C) (D) 
+
+30. In all the years that Paul and I have been friends, I never knew him friendly
+(A)    (B)    (C)
+to anyone else.
+(D) 
+
+## 标准答案
+
+1. (B) 2. (C) 3. (B) 4. (D) 5. (B) 6. (D) 7. (B) 8. (A) 9. (D) 10. (D) 
+
+11.(B) 12.(C) 13.(A) 14.(B) 15.(C) 16.(A) 17.(C) 18.(B) 19.(C) 20.(A) 
+
+21. (A) 22. (A) 23. (B) 24. (B) 25. (B) 26. (B) 27. (C) 28. (B) 29. (C) 30. (C) 
+
+## 习题解说
+
+1. a. but 之后的从句中动词 objected to 系一般过去时，因此不可能选 (A)。
+b. was about to = was going to 正要 
+
+c. (C) 非动词 
+
+d. (D) ought to 不能用在一般过去时，只用在现在或将来时中。He ought to go now. 
+
+(他现在该走了。)
+He ought to go tomorrow. 
+
+(他明天该走了。) 
+
+ought to 若表过去时，应加 have 形成虚拟语气，表与过去相反的事实。He ought to have gone yesterday. (But he didn't go.) 
+
+（他昨天就该走了。——但他当时并没走。） 
+
+2. but 之后从句中动词为一般过去时 “there was...”，故前面的从句可用过去完成时。
+I had intended to go, but I had no money.
+= I intended to have gone, but I had no money.
+= I would have gone, but I had no money.
+(我本来想走了，但却没钱。) 
+
+3. a. happen 为不及物动词，故不可用被动语态。
+b. (C) 助动词是过去时，可是事情现在已发生，故时态不对。
+c. (D) 本句为疑问句，故不必用 “did + 原形动词” 来强调。 
+
+4. a. (B) 主句 I thought 为一般过去时，故从属从句不可能用一般将来时。
+b. already 应置于完成时助动词 had 之后。
+c. (A) rang 应改为过去分词 rung。 
+
+5. a. (A) 时态错误，因 but 之后的主句是一般过去时，故从属从句不可能用一般将来时。
+b. (B) was coming = would come
+c. (C) coming 不可能用在完成进行时中。
+He has come. (√)
+(他已来了。)
+He has been coming. (×)
+(他一直都在来。) 
+
+6. “must have + p.p.” 表示对过去事实之推测，表“一定已经/曾经……”。 
+
+7. 主句为一般将来时时，条件句一定是一般现在时。 
+
+8. before 从句的动作一定是最后发生，故用一般过去时。 
+
+9. as yet 至目前为止（= so far）
+本短语常用于否定意味的现在完成时句子中。 
+
+10. before 引导的从句若为一般过去时，为了表示更早之前的行为，主句常用过去完成时。 
+
+11. 表将来某时正在进行的动作，用将来进行时。 
+
+12. 表示比一般过去时中的动作更早发生并且一直持续的事情，用过去完成进行时。 
+
+13. 表示从过去至今仍在持续的状态或行为，用现在完成进行时。 
+
+14. 主句为一般将来时，故 when 引导的条件句应为一般现在时。 
+
+15. The moment 视作连词，等于 As soon as，表 “一……就……”，所引导的状语从句是一般过去时时，主句亦应为一般过去时。 
+
+16. while（当……时），引导的状语从句表示持续的状态或行为，故常用进行时。 
+
+17. 表时间的状语从句中，必须用一般现在时代替一般将来时。 
+
+18. 本句中 but 之后的主句虽为一般将来时，但名词性从句中的事件为过去发生，故用一般过去时。 
+
+19. since 引导时间状语从句时，该从句用一般过去时，主句用现在完成（进行）时。 
+
+20. “by + 时间名词” 表 “等到……时”，所引导的从句或短语在句中出现时，主句常用将来完成时或过去完成时。 
+
+21. (A) will 应改为 would。 
+
+22. (A) 应改为 may have migrated（当时很可能移至）或 must have migrated（当时一定移至），表对过去事实的推测。originally 表示“原先”，是叙述过去概念，故不可用现在完成时。 
+
+23. (B) has become 应改为 became，叙述过去的事实用一般过去时。 
+
+24. (B) drank 应改为 drinking。
+He has been sitting...and drinking... 
+
+25. (B) live 应改为 lived。
+before he died 暗示 He has already died and is no longer in the world. 故 who lives 应改为一般过去时 who lived。 
+
+26. (B) 应改为 to develop。不定式之前若有完成时，不得再用完成时。 
+
+27. (C) 应改为 have never learned，过去完成时不得与一般现在时连用，要与一般过去时连用。
+I think he had gone. (×) 
+
+→ I think he has gone. (√)
+(我想他走了。)
+I wish he had gone. (√, wish 之后的从句表与过去相反的虚拟语气时，可采用过去完成时)
+(真希望他走了。) 
+
+28. (B) 应改为 had been bitten。  
+last time 引导的从句为一般过去时，故主句应为过去完成时。 
+
+29. (C) 应改为 considered。两句发生在过去的同时，故应用一般过去时。 
+
+30. (C) never knew 应改为 have never known。
+(B) 为现在完成时，故时间包括到现在，因此 (C) 不能用一般过去时。 
+
+<table><tr><td>A Quick Note</td></tr></table>
+
+# 第七章 虚拟语气
+
+## 说
+
+虚拟语气（the subjunctive mood）是一种表示假设状态的句型，由 if 引导的状语从句与主句构成。依时态的不同而形成下列四种基本句型： 
+
+a. 纯条件的虚拟语气  
+b. 与现在事实相反的虚拟语气  
+c. 与过去事实相反的虚拟语气  
+d. 与将来状况相反的虚拟语气 
+
+兹列举四种代表性的例句如下： 
+
+a. 纯条件的虚拟语气——用现在时
+例: If he is here, I will beat him.
+(如果他在这儿，我会揍他。) 
+
+b. 与现在事实相反的虚拟语气——用过去时
+例: If he were here, I would beat him. (But he is not here.)
+(如果他现在在这儿，我会接他。——但他现在不在这儿。) 
+
+c. 与过去事实相反的虚拟语气——用过去完成时
+例: If he had been here, I would have beaten him. (But he was not here.)
+(如果他当时在这儿，我会揍他。——但他当时不在这儿。) 
+
+d. 与将来状况相反的虚拟语气——if 从句要用助动词 should, 译成 “万一”, 主句则用过去时或现在时助动词。
+例: If he should be here, I would (或 will) beat him.
+(万一他在这儿，我会揍他。) 
+
+# 第一节 纯条件虚拟语气
+
+## 1. 基本句型：
+
+使用纯条件虚拟语气时，if 从句的动词用现在时，主句则是现在时助动词加上动词原形。 
+
+句型如下： 
+
+If + 主语 + 一般现在时动词，主语 + will + 原形动词
+may
+can
+should
+shall
+must
+ought to 
+
+例: If he is here, I will beat him. 
+
+(如果他在这儿，我会揍他。) 
+
+If anyone makes such a mistake, he must be punished. 
+
+（谁要犯了这样的错误，就要受处罚。） 
+
+If he comes, you should (ought to) tell him the truth. 
+
+(如果他来了，你就该告诉他事情的真相。) 
+
+## 2. 使用时机及要点：
+
+a. 纯条件虚拟语气的 if 从句中，时态为一般现在时，表示若 if 的条件存在，就会有预期的结果。在上列的第一个例句中，“If he is here, I will beat him.” 即告诉我们，“他要是在这儿，我就会揍他。” 至于他现在是否在这儿，我们不知道。我们只知，“他要是在这儿” 这个条件存在的话，就会有“我就会揍他”的预期结果。 
+
+b. 表纯条件结构的副词连 词不只 if一种。once（一旦）、when（当）、before（在……之前）、as soon as（一旦）、unless（除非）等副词连 词亦可构成条件句 其用法与 if 相同。 
+
+例: Once I have money, I will buy a car.
+现在时动词 现在时助动词
+(一旦我有钱，我会买辆车。)
+When he finishes it, he may come.
+现在时动词 现在时助动词
+(他做完事，就可以来了。)
+As soon as he arrives, I will let you know.
+现在时动词 现在时助动词
+(他一到，我就会让你知道。) 
+
+I will not do anything before he arrives.  
+现在时助动词 现在时动词（他来之前，我什么都不会做。）  
+I won't do it unless you help me.  
+现在时助动词 现在时动词（除非你帮助我，否则我不会去做这件事。） 
+
+c. 通常助动词不置于 if 从句中，只置于主句中。 
+
+例: If the news will be true, he may be safe. (×) 
+
+但 if 从句的主语为人时，可用 can（能够）、will（愿意）或 must（非要……不可）等助动词。 
+
+## 注意
+
+"If he will..." 的用法比较少见，最好避免。 
+
+d. 我们已知纯条件虚拟语气的主句中，助动词均用一般现在时，但 should 为唯一例外。因为 should 表示“应当”之意，等于 ought to，故不受限制。
+例: If I have time, I should do it.
+ought to
+（如果我有时间，我应当去办这件事。） 
+
+# 第二节 与现在事实相反的虚拟语气
+
+## 1. 基本句型：
+
+使用本虚拟语气时，if 从句的动词用过去时，主句则用过去时助动词。句型如下： 
+
+If + 主语 + 一般过去时动词, 主语 + 
+
++ 原形动词 would
+could
+might
+should
+ought to 
+
+例: If I were rich, I would help you. 
+
+（如果我有钱，我就会帮助你。） 
+
+If he lived in my town, I could see him every day. 
+
+（如果他住在我住的镇上，我就能每天见到他了。） 
+
+## 2. 使用时机及要点：
+
+a. 本虚拟语气旨在表示与现在事实相反的情况。换言之，一见到此类一般过去时句型出现时，我们就可确知事实并非如此。
+例: If I were rich, I would help you.
+(如果我有钱，我就会帮助你。)
+= As I am not rich, I can't help you.
+(因为我不是很有钱，所以无法帮助你。) 
+
+b. 不论主语为第几人称，if 从句中的 be 动词，均使用 were。 
+
+例: If you were in my shoes, what would you do? 
+
+(如果你站在我的立场，你会怎么做？) 
+
+If I was you, I wouldn't do it. (×) 
+
+→ If I were you, I wouldn't do it. (√)
+(如果我是你，我不会做这事。) 
+
+c. 主句中的助动词一定为过去时助动词。 
+
+如： 
+
+will → would、may → might、can → could、shall → should 或 ought to。但 must（必须）只能表示现在或将来的状况，故只用于纯条件的虚拟语气，而绝不可用于与现在事实或过去事实相反的虚拟语气中。 
+
+例: If you did it for me, I would be very happy. 
+
+(如果你为了我这样做，我会很高兴。) 
+
+If I could fly, I would fly to you. 
+
+(如果我能飞，我会飞向你。) 
+
+If you had money, you must help the poor. (×) 
+
+→ If you had money, you ought to help the poor. (√) 
+
+→ If you had money, you should help the poor. (√) 
+
+(如果你有钱：就应该帮助穷人。) 
+
+或: If you have money, you | must | help the poor. (√)
+should
+ought to 
+
+# 第三节 与过去事实相反的虚拟语气
+
+## 1. 基本句型：
+
+本虚拟语气中，if 从句的动词要用过去完成时，主句则是助动词的过去时再加上“have + 过去分词”，句型如下： 
+
+If + 主语 + had + p.p., 主语 + $\left|\begin{array}{l}\text {would } \\ \text {could } \\ \text {might } \\ \text {should } \\ \text {ought to }\end{array}\right|$ + have + p.p. 
+
+例: If I had arrived earlier, I could have met him. 
+
+（要是当时我早点到，就可以见到他了。） 
+
+If he had taken your advice, he might have avoided the mistake. 
+
+（要是他当时听了你的劝告，就可能会避免这个错误了。） 
+
+## 2. 使用时机及要点：
+
+a. 本虚拟语气旨在表示与过去事实相反的情况。换言之，一见到此类过去完成时的句型出现时，我们就确知当时的事实并非如此。 
+
+例: If I had arrived earlier, I could have met him. 
+
+（要是当时我早点到，就可以见到他了。） 
+
+→ As I didn't arrive earlier, I didn't meet him. 
+
+（因为当时我没有早点到，所以没见到他。） 
+
+If he had taken your advice, he would have avoided making the mistake. 
+
+（要是他当时听了你的劝告，就会避免犯了这个错。） 
+
+→ As he didn't take your advice, he made the mistake. 
+
+（因他当时没听从你的劝告，所以他犯了这个错。） 
+
+If you had been in my shoes, you might have done it. 
+
+(如果当时你是站在我的立场，你可能会做这件事。) 
+
+→ As you were not in my shoes, you didn't do it. 
+
+（因为当时你不是站在我的立场，所以你没有做这件事。） 
+
+b. 注意 if 从句中 had 与 had had 的区别： 
+
+1) 在 “if + 主语 + had + 名词” 的结构中，had 为一般过去时动词，译成 “有”，此为表示与现在事实相反的虚拟语气。主句中置一般过去时的助动词即可。 
+
+例: If he had money, he would buy a car.
+vt. n.
+(如果他现在有钱，就会买车了。) 
+
+2) 在 “if + 主语 + had + 过去分词” 的结构中，had 为过去完成时助动词，译成 “曾经” 或 “已经”，之后置过去分词，此时为表示与过去事实相反的虚拟语气。主句使用 “过去时助动词 + have + 过去分词”。例: If he had had money, he would have bought a car.
+助 p.p.
+（如果他当时有钱的话，就会买车了。）
+故: If he had money, he would have bought a car. (×) 
+
+# 第四节 与将来状况相反的虚拟语气
+
+## 基本句型及要点：
+
+使用本虚拟语气时，if 从句一定要加助动词 should，“if...should”译成“万一”。若假设的可能性很低，则主句要置过去时助动词（和与现在事实相反的虚拟语气相同），但若假设的可能性很高，则主句要用现在时助动词（与纯条件虚拟语气相同）。句型如下： 
+
+a. 低可能性： 
+
+$$
+\begin{array}{l l} \text {If + 主语 + should + 原形 V, 主语} & \text {would} \\ & \text {could} \\ & \text {might} \\ & \text {should} \\ & \text {ought to} \end{array} + \text {原形 V}
+$$
+
+例: If you should fall ill, the meeting would be put off. 
+
+（万一你生病，会议将延期。——你不太可能生病，会议不太可能延期。） 
+
+If it should rain, I would stay home. 
+
+（万一下雨，我就会留在家里。——不太可能下雨，而我也不太可能留在家里。） 
+
+b. 高可能性： 
+
+$$
+\text { If } + \text { 主语 } + \text { should } + \text { 原形 } \mathrm{V}, \text { 主语 } + \left| \begin{array}{c} \text { will } \\ \text { can } \\ \text { may } \\ \text { should } \\ \text { ought   to } \end{array} \right| + \text { 原形 } \mathrm{V}
+$$
+
+例: If you should fall ill, the meeting will be put off. 
+
+（万一你生病，会议将延期。——你可能会生病，而会议亦可能延期。） 
+
+If it should rain, I will stay home. 
+
+（万一下雨，我就会待在家里。——可能会下雨，果真如此，我会待在家里。） 
+
+## 注意
+
+表示与将来状况相反的虚拟语气，亦可与祈使句形成的主句连用。 
+
+例: If I should be late, be sure to wait for me. 
+
+（万一我迟到，务必要等我。——我可能会迟到，你务必要等我。） 
+
+## 第五节 使用虚拟语气应注意事项
+
+1. 表示强烈与真理相反的虚拟语气句型： 
+
+If + 主语 + were to + 原形 V, 主语 + would could might should ought to + 原形 V 
+
+例: 真理: The cat can't smile.
+(猫不会笑。) 
+
+假设: If the cat were to smile, I would pass out.
+(假如猫会笑，我会昏倒。) 
+
+真理: The sun doesn't rise in the west.
+(太阳不会从西边升起。) 
+
+假设: If the sun were to rise in the west, how surprised these sunflowers would be. 
+
+（要是太阳从西边升起，这些向日葵会多么吃惊啊！） 
+
+## 2.if的省略：
+
+虚拟语气的 if 从句中，若有过去完成时助动词 had、或表“万一”的助动词 should 或是 were 出现时，可将这些词类置于主语前，而将 if 省略。 
+
+## a, had
+
+例: If he had done it, he would have felt sorry. 
+
+= Had he done it, he would have felt sorry.
+(如果他当时做了这件事，他会后悔的。) 
+
+## b. should
+
+例: If he should tell lies, I would punish him. 
+
+= Should he tell lies, I would punish him. 
+
+(万一他说谎，我会处罚他。) 
+
+## c. were
+
+例: If he were lazy, he might fail. 
+
+= Were he lazy, he might fail. 
+
+(如果他懒惰，就可能会失败。) 
+
+## 注意
+
+为方便记忆起见，我们可以把 had、should、were 记成“何秀华”。换言之，if 从句中若有 had（何）、should（秀）、were（华），就可省略 if，形成上列的倒装句。 
+
+## 3. 时态不一致的假设：
+
+也就是 if 从句与过去事实相反，用过去完成时；主句与现在事实相反，则置助动词过去时。句型如下： 
+
+If + 主语 + had + p.p., 主语 + $\left|\begin{array}{l}\text { would } \\ \text { could } \\ \text { might } \\ \text { should } \\ \text { ought to }\end{array}\right|$ + 原形 V + $\left|\begin{array}{l}\text { now } \\ \text { today }\end{array}\right|$ 
+
+例: If I had started saving then, I would have been able to buy a car now. (×) 
+
+→ If I had started saving then, I would be able to buy a car now. (√) (如果当时我开始存钱，我现在就能买辆车了。) 
+
+If I had met her five years ago, she might be my wife today. (√) (如果 5 年前我遇见了她，今天她可能就是我的妻子。) 
+
+## 4. 可取代 if 的其他连词：
+
+if = in case (that)、on condition that、provided / providing (that)、so long as（只要）、as long as（只要），此类连词通常只用在表纯条件的虚拟语气中。换言之，其引导的从句时态均为一般现在时。 
+
+例: If it is fine, we will start to do it. 
+
+（如果天气好，我们就开始着手做这件事。） 
+
+In case he comes, let me know. 
+
+= In case he should come, let me know. 
+
+(如果他来了，让我知道一下。) 
+
+I will take the trip with you on condition that you bear the expenses. 
+
+（如果你出钱的话，我就和你同行。） 
+
+I will pardon him provided / providing (that) he acknowledges his mistake. （如果他认错，我会原谅他。） 
+
+Any book will do as long as it is interesting. 
+
+（只要书有趣，哪本书都可以。） 
+
+```txt
+注意
+in case + (that) 从句 万一……
+in case of + 名词 万一……
+例: In case an accident happens, don't panic.
+= In case of an accident, don't panic.
+(万一有意外发生，不要惊慌。) 
+```
+
+## 5. but for... 若非/要不是……
+
+此类句型仅限于与现在事实及过去事实相反的虚拟语气。 
+
+a. 与现在事实相反: 若非……就…… 
+
+could
+would
+might
+should
+ought to 
+
+例: If it were not that he works hard, I wouldn't like him.
+一般现在时动词 
+
+（要不是他努力工作，我才不会喜欢他。） 
+
+b. 与过去事实相反：若非当时……就…… 
+
+would
+could
+might
+should
+ought to 
+
+例: If it had not been that he lent me the money, I could not have bought that 一般过去时动词
+book. 
+
+```txt
+= If it had not been for the money (which) he lent me, I...
+名词
+= Had it not been for the money (which) he lent me, I...
+名词
+= But for the money (which) he lent me, I...
+名词
+(要不是当时他借钱给我，我是无法买到那本书的。) 
+```
+
+## 注意
+
+but for 亦可用介词 without 代替，之后仍接名词。 
+
+例: But for his help, I couldn't have done it. 
+
+```txt
+= Without his help, I couldn't have done it. 
+```
+
+```txt
+（若非他的帮忙，我无法办这事。） 
+```
+
+But for his timely warning, I might have been killed. 
+
+= Without his timely warning, I might have been killed. 
+
+（若非他及时警告，我可能已经丧命了。） 
+
+```txt
+6. lest...(should)... 以免…… 
+```
+
+lest 为副词连词，引导状语从句。在该从句中，助动词一律用 should。而 should 往往予以省略，故该从句中的动词必定是原形动词。 
+
+例: I got up early lest I (should) miss the train. 
+
+```txt
+(我早起以免错过火车。) 
+```
+
+I arrived on time lest he (should) be angry. 
+
+(我准时到达，免得他生气。) 
+
+```txt
+注意
+lest...should...
+= for fear that + 主语 + | may + 原形 V（表现在或将来的状况）
+    might + 原形 V（表过去的状况）
+= for fear of + 动名词 
+```
+
+例: You must study hard lest you should fail the exam. 
+
+= You must study hard for fear that you may fail the exam. 
+
+= You must study hard for fear of failing the exam. 
+
+（你必须努力学习，以免考试不及格。） 
+
+He did it carefully lest he should make the same mistake again. 
+
+= He did it carefully for fear that he might make the same mistake again. 
+
+= He did it carefully for fear of making the same mistake again.
+（他很谨慎地做这件事，唯恐再次犯同样的错。） 
+
+```txt
+7. as if... = as though... 仿佛……
+as if 或 as though 均为副词连词，引导状语从句，使用时有三种时态：
+a. 表极大的可能 → 动词使用一般时态
+例: It looks as if (as though) it is going to rain.
+（看起来好像要下雨了。）
+b. 表与现在事实相反 → 动词使用一般过去时
+例: Mr. Wang loves me as if (as though) I were his own child.
+（王先生爱我就像我是他的孩子一样。）
+c. 表与过去事实相反 → 动词使用过去完成时
+例: He looked as if (as though) nothing had happened.
+（他看起来就像什么事都没发生过一样。） 
+```
+
+```txt
+注意
+as if 或 as though 之后亦可接不定式短语，表示即将发生的状况。
+例: She opened her lips as if (she was going) to speak.
+(她张开双唇好像有话要说。) 
+```
+
+```txt
+本句型乃表示对将来状况存疑的虚拟语气。if 从句多置助动词 should。
+例: What if he should come?
+= What | might happen | if he should come?
+could I (we) do
+(要是他来了，会怎样/怎么办？)
+What if it should rain?
+= What | might happen | if it should rain?
+could I (we) do
+(要是下雨了，怎么办？)
+* what if 之后亦可用一般现在时，故上列例句亦可改写如下：
+What if he comes?
+= What shall we do if he comes? 
+```
+
+```txt
+例: It is time we did it.
+(该是我们行动的时候了。) 
+```
+
+```txt
+What if it rains?
+= What may happen if it rains? 
+```
+
+9. It is time + that 从句的一般过去时： 
+
+```txt
+It is | time about time high time | + that 从句的一般过去时 该是……的时候了 
+```
+
+## 注意
+
+使用本句型时，that 从句的动词要用一般过去时。 
+
+例: It is time (that) he went to bed. 
+
+```txt
+（该是他上床睡觉的时间了。） 
+```
+
+本句暗示现在该是他睡觉的时候了，但他却没有睡觉。其动作与现在事实相反，故用一般过去时。 
+
+It is high time our children learned some manners. 
+
+（该是我们的孩子学点规矩的时候了。） 
+
+## 注意
+
+上列结构亦可改为不定式形式： 
+
+```txt
+例: It is time he went to bed.
+= It is time for him to go to bed.
+It is high time our children learned some manners.
+= It is high time for our children to learn some manners. 
+```
+
+## 10. If only... 要是……就好了
+
+本句型只用于与现在事实或过去事实相反的虚拟语气中。换言之，本句型的时态只能用一般过去时或过去完成时。 
+
+```txt
+例: If only he were here.
+= I wish he were here.
+(要是他现在在这里就好了。)
+If only I had known it earlier.
+= I wish I had known it earlier.
+(要是我早点知道这件事就好了。) 
+```
+
+## 11. wish 的用法
+
+```txt
+(我希望他会回来。) 
+```
+
+```txt
+I hope (that) he is safe. 
+```
+
+a. wish 之后接 that 从句时，一定要使用虚拟语气。若与现在事实相反，要用一般过去时；若与过去事实相反，则要用过去完成时。换言之，that 从句中的时态绝无一般现在时。 
+
+```txt
+例: I wish (that) he is here. (×) 
+```
+
+```txt
+→ I wish he were here. (√) 
+```
+
+```txt
+= It's too bad that he is not here. 
+```
+
+```txt
+（我真希望他现在就在这里。——但遗憾的是，他并不在这里。） 
+```
+
+```txt
+I wish he had been here. (√) 
+```
+
+```txt
+= It's too bad that he was not here. 
+```
+
+（我真希望他当时就在这里。——但遗憾的是，他当时并不在这里。） 
+
+```txt
+b. I wish (that)... 真希望……就好了
+= I would rather (that)...
+= Would that... (罕)
+例: I wish I had studied harder when young.
+= I would rather I had studied harder when young.
+= Would that I had studied harder when young. (罕)
+(真希望我当时能更用功就好了。) 
+```
+
+## 12. hope 的用法：
+
+hope 之后接 that 从句时，使用一般时态，表示极大的可能性。即表示现在的状况时用现在时，表示将来的状况时用将来时，表示完成的状况时用完成时，表示进行的状况时用进行时。 
+
+```txt
+(我希望他安然无恙。) 
+```
+
+```txt
+d. 表示完成的状况： 
+```
+
+```txt
+2) 亦可作不及物动词，与介词 for 连用，表“期望获得”之意，以名词作其宾语。
+例: I wish for a chance to try it. (常用)
+= I hope for a chance to try it. (罕)
+(我希望能有机会尝试一下。) 
+```
+
+```txt
+注意
+a. 以 God 为主语时，可省略 may。
+例: I hope God may bless you. (外国人实际并不使用本句)
+= May God bless you! (外国人常用本句)
+= God bless you! (外国人最常用本句)
+(上帝保佑你！)
+
+b. 表 “国家/君主万岁” 时，可采用倒装结构。
+例: I hope the king may live long. (外国人实际并不使用本句)
+= May the king live long! (外国人常用本句)
+= Long live the king! (外国人最常用本句)
+(国王万岁！) 
+```
+
+## 13. I hope 与祈使句的关系：
+
+I hope 接 that 从句时，从句中可使用助动词 may，形成祈使句。此时将 I hope that 删除，将 may 置于原 that 从句的主语之前，动词仍用原形动词，原句号改为感叹号。 
+
+```txt
+例: I hope (that) he may live long.
+= May he live long!
+(愿他长命百岁！)
+I hope you may pass the exam.
+= May you pass the exam!
+(祝你通过考试！) 
+```
+
+## 14. wish 和 hope 的异同：
+
+```txt
+a. 相同部分： 
+```
+
+```txt
+1）均可用不定式作宾语
+例: I wish to travel abroad.
+= I hope to travel abroad.
+(我希望能出国旅游。) 
+```
+
+## I | wish | a chance to try it. (×) hope
+
+b. 不同部分：
+表“祝福”时，只能使用 wish，之后接两个名词或代词作其宾语。
+例: I wish you a good time.
+(祝你们玩得愉快。)
+I wish my parents longevity.
+(祝我父母亲长命百岁。)
+I hope you a good time. (✗)
+但: I hope (that) you (may) have a good time. (√)
+(我希望你们能玩得愉快。)
+I hope my parents longevity. (✗)
+但: I hope (that) my parents can live long. (√)
+(我希望父母能长命百岁。) 
+
+## 15. 对过去事物的猜测的三种句型：
+
+a. must have + 过去分词 一定曾经……
+例: He is learned; he must have received a good education.
+(他博学多闻，一定受过良好的教育。) 
+
+b. may have + 过去分词 可能曾经……
+例: He looks tired; he may have stayed up late last night.
+(他看起来很疲倦，可能昨晚熬夜到很晚。) 
+
+c. cannot have + 过去分词 不可能曾经……
+例: He is honest; he cannot have stolen Mary's money.
+(他是老实人，不可能偷了玛丽的钱。) 
+
+注意
+若表猜测的结构为疑问句时，要用“Can...have...?”句型。
+例: May he have done it? (×)
+→ Can he have done it? (√)
+（他可能做了这样的事吗？） 
+
+16. “didn't need to + 原形 V” 与 “need not have + p.p.” 的区别：
+“didn't need to + 原形 V” 乃表示过去的事实，即 “不必……同时亦没有如此做”；而 “need not have + p.p.” 乃表示与过去事实相反的虚拟语气，即 “不必……但却这么做了”。
+例: As I had enough money, I didn't need to borrow any from him.
+（由于钱够，我当时不必向他借钱。——而且我也没借。）
+Since you had enough money, you needn't have borrowed money from me, but why did you still borrow some?
+（既然你的钱够用，你原本不必向我借贷，但为什么你还是借了些钱呢？） 
+
+## 17. 意志动词：
+
+## 18. suggest、insist、maintain 的另类用法：
+
+```txt
+He | insists | that the job isn't so difficult as one may think.
+is convinced
+is sure
+(他深信这份工作没有一般人想象的那么困难。) 
+```
+
+```txt
+John | maintained | that he had met the girl before.
+believed
+(约翰确信他曾经见过那女孩。) 
+```
+
+## 19. insist on + 动名词 坚决要……
+
+```txt
+注意
+“insist on...”与“persist in...”均以动名词作宾语，但意思有别：
+insist on... 坚持要……（有固执的含义）
+persist in... 从事……很执着（有很努力且不轻易放弃的含义）
+例: John insisted on going fishing even though a typhoon was coming.
+（虽然台风就要来了，约翰却坚持要去钓鱼。）
+Peter persisted in handling the problem all by himself.
+（彼得很执着于自己来处理这个问题。） 
+```
+
+## 20. 表示 “有必要的” 形容词与 that 从句的关系：
+
+表示 “有必要的” 形容词，修饰 that 从句时，该从句亦须使用助动词 should，而 should 往往予以省略。 
+
+```txt
+注意
+此类形容词通常有八个：
+necessary（有必要的）、important（很重要的）、essential（不可或缺的）、imperative（有绝对必要的）、urgent（紧急的）、desirable（合意的）、recommendable（值得推荐的）、advisable（明智的）。 
+```
+
+```txt
+例: It is necessary that he (should) work hard.
+(他必须努力工作。)
+I think it essential that he (should) finish it before leaving.
+(我认为他必须做完这件事再离开。)
+It is desirable that he (should) not do that again.
+(他不要再那样做才好。) 
+```
+
+## 21. that 从句作同位语：
+
+that 从句若是置于意志动词变成的名词之后，而与该名词形成同位语时，that 从句中也要使用助动词 should，而 should 往往予以省略。 
+
+例: It is my suggestion that he (should) study abroad.
+(我建议他出国念书。) 
+
+They raised a proposal that the meeting (should) be postponed. （他们提议延期开会。） 
+
+It is John's desire that someone (should) help him write the letter. (约翰期望有人能帮他写信。) 
+
+# EXERCISE
+
+## 1. 请选出一个正确的答案：
+
+1. What would you do if you ____ a million dollars?
+(A) have (B) have had (C) had (D) shall have 
+
+2. Even if I ____, I wouldn't.
+(A) can (B) shall (C) could (D) will 
+
+3. If he were alive, he ____ twenty years old now.
+(A) will be (B) would be
+(C) would have been (D) is 
+
+4. I don't think you ____ me even if I told you the truth.
+(A) will believe (B) would have believed
+(C) would believe (D) believed 
+
+5. If I had not called for a doctor, your friend _. (A) had died (B) will have died (C) will die (D) would have died 
+
+6. I would have married her if she ____ such an extravagant girl.
+(A) were not
+(B) wouldn't be
+(C) would not have been
+(D) hadn't been 
+
+7. If it ____ convenient, let's meet at nine o'clock.
+(A) is (B) being (C) was (D) were 
+
+8. If he ____ in a day or two, I would wait for him.
+(A) will return (B) returns (C) were to return (D) had returned 
+
+9. If he ____ late, give him the message.
+(A) were coming (B) would come
+(C) should come (D) were come 
+
+10. ____ the doctor come a little sooner, the patient would have been saved.
+(A) Had (B) Should (C) Were (D) If 
+
+11. ____ his aid, I could not have succeeded.
+(A) But (B) Without (C) Not (D) Unless 
+
+12. I ____ abroad last year but for my illness.
+(A) would go (B) would have gone
+(C) had gone (D) went 
+
+13. I ____ had it not been that he grasped me.
+(A) should have fallen (B) should fall
+(C) had fallen (D) fell 
+
+14. I wish I ____ as tall as she.
+(A) is (B) am (C) were (D) be 
+
+15. Oh, if only I ____ your advice then.
+(A) take (B) took (C) should take (D) had taken 
+
+16. She talked and acted as if she ____ abroad for a long time.
+(A) would have lived (B) might live
+(C) lived (D) had lived 
+
+17. Mr. Smith is, ____, a walking dictionary.
+(A) as it is (B) as though (C) as it were (D) as if 
+
+18. He would rather people ____ about his family.
+(A) not talked
+(B) haven't talked
+(C) didn't talk
+(D) wouldn't have talked 
+
+19. What if I ____?
+(A) failed (B) should fail (C) would fail (D) had failed 
+
+20. If he ____ in Germany, what language would he probably speak now?
+(A) had born (B) have been born
+(C) had been born (D) would have been born 
+
+## II. 请选出错误的画线部分：
+
+21. They are the ones who assert that a better bridge could have been built have
+(A) (B) (C) (D)
+we had their assistance. 
+
+22. Had anyone asked him, Barlow could told the investigators some useful (A) (B) (C) details about the robbery. (D) 
+
+23. If the cook had been more careful in measuring the ingredients, the dinner will have been much better.
+(C) (D) 
+
+24. If you have listened, you too would have concluded that Peter is
+(A)
+(B)
+more capable than any other boy in his class.
+(C)
+(D) 
+
+25. Helen will graduate with her class if she had been able to meet all of the requirements in time.
+(A)
+(B)
+(C)
+(D) 
+
+26. Had they had enough cash on hand, they will buy this fancy furniture.
+(A) (B) (C) (D) 
+
+27. If the volume of British investment is to be increased, other demands on (A) (B) national resources would have to be reduced or eliminated. (C) (D) 
+
+28. Sometimes I get the idea that a student is expected to think about getting
+(A) (B)
+educated for the sake of society as if he is not a part of it.
+(C) (D) 
+
+29. I sometimes wish that my university is as large as the State University because (A) (B) our facilities are more limited than theirs. (C) (D) 
+
+30. You have confessed that you are sorry for your rebellion. So I will recommend (A) (B) (C) that you will not be punished. (D) 
+
+![](file://C:/Users/admin/MinerU/赖氏经典英语语法新版.pdf-0133667d-4265-45f6-a507-70d7b5826b31/images/b5050215c7dc16907a7b13e180cac0927f8a7df339887f427765278d7611c663.jpg)
+
+
+## 标准答案
+
+1. (C) 2. (C) 3. (B) 4. (C) 5. (D) 6. (D) 7. (A) 8. (C) 9. (C) 10. (A) 
+
+11.(B) 12.(B) 13.(A) 14.(C) 15.(D) 16.(D) 17.(C) 18.(C) 19.(B) 20.(C) 
+
+21. (D) 22. (C) 23. (C) 24. (A) 25. (A) 26. (C) 27. (C) 28. (C) 29. (A) 30. (D) 
+
+![](file://C:/Users/admin/MinerU/赖氏经典英语语法新版.pdf-0133667d-4265-45f6-a507-70d7b5826b31/images/ef723faa29849731654a0aefdeee8fd492b613be439de6c5a2ffcd9b836c4cd9.jpg)
+
+
+## 习题解说
+
+1. What 之后有助动词 would，故空格内应置入一般过去时动词 had，形成与现在事实相反的虚拟语气。 
+
+2. 主句为过去时助动词 wouldn't，空格内亦应置入过去时助动词 could，形成与现在事实相反的虚拟语气。 
+
+3. If 从句有过去时动词 were，故空格内应置入 had，形成与现在事实相反的虚拟语气。 
+
+4. even if 引导的状语从句有过去时动词，故空格内应置入 would believe，形成与现在事实相反的虚拟语气。 
+
+5. If 从句为过去完成时，为与过去事实相反的虚拟语气，故应选 (D)。 
+
+6. 主句有 “would have + p.p.”，故 if 从句应为过去完成时。 
+
+7. 此为纯条件句，并不表示与事实相反，故用一般现在时。 
+
+8. if + 主语 + were to V, 主语 + were to + V
+本结构表示将来不太可能发生的假设。 
+
+9. should 用于虚拟语气的 if 从句中表 “万一”。 
+
+```txt
+10. if 从句 中若有 had 可移至句 首代替
+11. | without | N + 虚拟语 氛句 若非……
+but for
+本句 表与过去事实相反
+12. 同上。
+13. Had it not been that... 当时要不是……
+= If it had not been that...
+14. I wish + 虚拟语 气从句 但愿……
+本句 表与现在事实相反。
+15. if only 用法有二：
+a. 假设法：表“但愿”。
+| If only | I had seen you then.
+I wish
+（我要是当时见到你就好了。）
+b. 条件句：表只要”。
+| If only | I have money, I'll buy a car.
+As long as
+（只要我有钱，我就要买车。）
+16. as if + | 一般过去时（与现在相反） | 仿佛……
+过去完成时（与过去相反）
+17. as it were 可以说是（多作插入语）
+= so to speak
+He is, | as it were |, a hero.
+so to speak
+（他可说是个英雄。）
+18. | would rather | + that 引导 的般过去时从句 宁愿……
+would sooner
+19. What if + 主语 + should ¥? 万一……怎么办？
+20. 本句 的前半部 表示与过去事实相反，后半部 表示与现在事实相反
+21. 本句 乃与过去事实相反 的假设，故 have 应改为 had。
+…had we had their assistance.
+= ...if we had had their assistance. 
+```
+
+22. could 要改为 could have，表与过去事实相反。 
+
+23. will 应改为 would。 
+
+24. have 应改为过去完成时助动词 had。 
+
+25. if 从句中表与过去相反，故主句中的 will graduate 应改为 would have graduated。 
+
+26. would buy 应改为 would have bought。 
+
+27. 本句为纯条件句，并非与事实相反的假设，故主句中的 would have to 应改为 will have to。 
+
+If...is to be increased 
+
+= If...has to be increased 
+
+28. was 应改为 were。 
+
+29. is 应改为 were。 
+
+30. recommend 为意志动词，其后的 that 从句中须用 “should + V”，而 should 通常省略，故 will not be punished 应改为 (should) not be punished。 
+
+## 第八章 副词
+
+## 概说
+
+![](file://C:/Users/admin/MinerU/赖氏经典英语语法新版.pdf-0133667d-4265-45f6-a507-70d7b5826b31/images/7ff2072a60924fe0678ee5ad3a99467a671896de8a18e3f7ffe9a89277424f04.jpg)
+
+
+1. -ly 形成的副词： 
+
+```txt
+如：
+形容词
+slow（慢的） → slowly（慢慢地）
+quick（快的） → quickly（很快地）
+easy（容易的） → easily（容易地）
+main（主要的） → mainly（主要地） 
+```
+
+如：
+very（非常地）    ago（以前）
+hard（努力地）    enough（充分地）
+never（从不）    somewhat（有点儿）
+somehow（不知怎地） 
+
+有的甚至用现在分词作副词用，专门修饰形容词。 
+
+```txt
+例: It's biting cold today.
+adv. adj.
+(今天天气冷死了——冷得会咬人一样。)
+= It's freezing cold today.
+adv. adj.
+(今天天气冷死了——冷得要把人冻僵一样。)
+It's boiling hot today.
+adv. adj.
+(今天天气热死了——热得要把水都煮沸了。) 
+```
+
+2. 有些形容词本身亦可当副词用： 
+
+例: awful:
+His writing is awful.
+adj.
+(他的文章糟透了。) 
+
+```txt
+更绝的是，good 与 and 合在一起，竟然也成了副词，译成“非常”（等于 very）或“完全”（等于 completely），只置于 be 动词之后，修饰形容词。
+例: It's good and hot today.
+adv. adj.
+(今天热死了。) 
+```
+
+```txt
+*此处awful是形容词，表“差劲的”。  
+He is awful mad. adv. adj.  
+(他气坏了。)  
+*此处awful是副词，表“非常地”，相当于very或awfully。  
+fine: The dress is fine. adj.  
+(这件连衣裙挺不错的。)  
+*此处fine是形容词，表“不错的”。  
+The dress suits me fine. vt. adv.  
+(这件连衣裙挺适合我的。)  
+*此处fine是副词，表“令人满意地”或“很棒地”，相当于well。 
+```
+
+## 3. good and 可作副词：
+
+同学们看到这里，不禁会叫道：“惨了，副词有那么多奇怪的形态，叫我不知如何是好？”赖老师认为，你无需害怕，也不必一一死记所有的副词形态及其用法。只要你多看文章，多查词典，每天读上三四个小时英语（我有10年时间几乎每天花16个小时学英语），自然就会熟悉副词的形态及其用法。 
+
+## 第一节 副词的功能
+
+## 1. 修饰动词：
+
+修饰动词（包括动词转化的不定式、动名词、分词），此时副词通常置于动词之后： 
+
+例: He studies hard. (动词) 
+
+(他很用功。) 
+
+(我非常爱你。) 
+
+You have to study diligently. (不定式) 
+
+(你必须努力用功。) 
+
+Rising early is good for your health. (动名词) adv. 
+
+(早起有益你的健康。) 
+
+比较:
+He speaks English good. (×，形容词不可用以修饰动词) 
+
+→ He speaks English well. (√)
+vt.
+adv.
+(他英语说得很好。) 
+
+## 2. 修饰形容词：
+
+此时副词通常置于该形容词之前： 
+
+(他心地善良。) 
+
+It is extremely dangerous to swim alone.
+adv. adj.
+(单独游泳极为危险。)
+比较:
+This is probable true. (×, 形容词不得修饰形容词)
+adj. adj.
+→ This is probably true. (√)
+adv. adj.
+(这很可能是真的。) 
+
+3. 修饰副词：
+此时副词通常置于该副词之前：
+例: He studies very diligently.
+adv. adv.
+（他非常努力用功。）
+He does things too carefully.
+adv. adv.
+（他做事过于谨慎。） 
+
+## 4. 修饰全句：
+
+此时副词通常置于句首：
+例: Fortunately, he did not die.
+adv. 全句
+（所幸他没死。） 
+
+Evidently, this answer is right.
+adv. 全句
+(这答案显然是对的。) 
+
+## 注意
+
+修饰全句的副词一定是置于句首，若置于句尾，则会修饰句中的动词，而造成语意的偏差。 
+
+例: Happily, he did not die.
+adv. 全句 
+
+(令人高兴地是，他没死。)
+He did not die happily.
+vi. adv. 
+
+（他没有快乐地过世。——他死时不快乐。） 
+
+## 第二节 副词的位置
+
+## 1. 一般规则：
+
+在含有 be 动词（如 are、is、am、were、was）、助动词（如 can、shall、may、should、ought to、must）、完成时助动词（have、has、had）及一般动词的结构中，副词的位置有下列惯例： 
+
+a. 遇有 be 动词时，副词置于该 be 动词之后。 
+
+```txt
+例: He is always kind.
+(他为人一直都很好。)
+They are really able to do it.
+(他们确实有能力做这件事。) 
+```
+
+b. 遇有助动词时，副词置于该助动词之后。 
+
+```txt
+例: He can hardly walk.
+(他几乎走不动了。)
+He has never been to the United States before.
+(他以前从未去过美国。) 
+```
+
+C. 遇有一般动词时，副词置于该动词之前。 
+
+```txt
+例: They often go fishing.
+adv. vi.
+(他们常去钓鱼。)
+He really cares about you.
+adv. vi.
+(他真的很在乎你。) 
+```
+
+同学们看到这里，一定会问道：“在本章第一节中，赖老师曾说修饰动词时，副词应置于动词之后，为何此时又说副词应置于动词之前？”答案很简单： 
+
+1) 如果修饰动词的副词表示某种状态，则副词要置于动词之后。 
+
+beautifully 乃表示跳舞的样子很美（表示状态），故 beautifully 应置于 dances 之后。 
+
+```txt
+同理：He drove (his car) fast.
+vi. & vt. adv.
+(他车开得很快。)
+fast 乃表示开车的速度很快，故 fast 应置于 drove (his car) 之后。 
+```
+
+2) 如果修饰动词的副词表示肯定、否定或频率的意味，则此类副词多置于动词之前。
+有肯定意味的副词：
+surely（确定地）、certainly（确定地）、absolutely（绝对地）、probably（可能）、really（真正地）。 
+
+同学们看到上面的解释大概仍然不能完全了解赖老师想要表达的意思。没关系，赖老师换下列方式来讲解。我们可用中英语句型作比较： 
+
+```txt
+中文：他跑得快。
+英语：He ran fast. (√, fast 为状态副词)
+vi. adv.
+He fast ran. (×)
+
+中文：他真的爱你。
+英语：He really loves you. (√, really 为肯定意味的副词)
+adv. vt.
+He loves you really. (×) 
+```
+
+中文：他常常上学迟到。
+英语：He often comes to school late.
+(√, often 为频率副词, late 则为状态副词) 
+
+由此可知，中英语有很多结构是互通的。但这种借中英语比较来了解英语中副词的位置，并不一定很准，同学们唯有通过博览文章才能学得习惯的用法，切记，切记！ 
+
+## 2. 简化结构中副词位置的变化：
+
+a. be 动词
+简化前：He is really nice.
+(他人真好。)
+简化后：He is really. (×)
+He really is. (√)
+简化前：They are always eager to learn English.
+(他们总是迫切想学英语。)
+简化后：They are always. (×)
+They always are. (√) 
+
+b. 助动词
+简化前：He can hardly do it.
+(他几乎做不了此事。)
+简化后：He can hardly. (×)
+He hardly can. (√)
+简化前：He has never done it before.
+(他从未做过此事。)
+简化后：He has never. (×)
+He never has. (√) 
+
+3. 状态副词在被动语态中的位置：
+表示状态的副词在被动语态中，要置于过去分词前。
+主动语态：He did the job well.
+vt. adv.
+（他把工作做得很好。）
+被动语态：The job was well done. (√)
+adv. p.p.
+The job was done well. (劣) 
+
+主动语态：They decorated the room beautifully. 
+
+被动语态：The room was beautifully decorated. (√)
+adv. p.p.
+The room was decorated beautifully. (劣) 
+
+## 4. 否定副词的位置：
+
+否定副词 never（从不）、seldom（很少）、hardly ever（几乎不曾 = scarcely ever）、rarely（很少）修饰动词时，可直接置于该动词之前，无须另加助动词 do、does 或 did。但 not 不可直接置于动词之前，须另加 do、does 或 did，且之后的动词一律改为原形。 
+
+例: He never cheats. (√)
+vi.
+(他从不骗人。)
+They seldom do what the teacher has told them to do.
+vt.
+(他们很少去做老师要他们做的事。)
+He hardly ever remained quiet.
+vi.
+(他几乎从未安静过。)
+但: He not cheats. (×)
+vi.
+→ He does not cheat. (√)
+原形 vi.
+(他不会骗人。)
+They not enjoy singing. (×)
+vt.
+→ They do not enjoy singing. (√)
+原形 vt.
+(他们不喜欢唱歌。) 
+
+5. can 与 not 连用习惯上写成 cannot:
+例: He can not meet the requirements. (劣)
+→ He cannot meet the requirements. (√)
+(他达不到要求。) 
+
+## 6. 时间副词的位置：
+
+时间副词，如 yesterday、today、tomorrow、this year、at five（5点钟）、in 2000，可置于句首或句尾。习惯的用法为：句子短时，时间副词置于句尾，句子长时，则置于句首。
+长句：Yesterday I saw him chatting very pleasantly with a blonde girl in the park.
+（昨天我在公园里看到他和一位金发女郎聊得很开心。）
+短句：I saw him in the park yesterday.
+（昨天我在公园里看到他。）
+长句：In 1914, war broke out in the small town close to the border.
+（1914年，战争在这座邻近边境的小城爆发。）
+短句：War broke out in 1914.
+（战争爆发于1914年。） 
+
+## 7. 地点副词的位置：
+
+地点副词，如 here、there、home、downtown、upstairs、downstairs，以及表场所的介副词，如 in、out、up、down 等，均置于动词之后。 
+
+here.
+home.
+in.
+up. 
+
+(他来这里/回家/进来/上来。) 
+
+## 注意
+
+介副词与介词的分别如下：
+a. in、out、up、down 之后有宾语时，就称为介词。
+例: He sat in the corner.
+介 o.
+(他坐在角落里。)
+He looked out (of) the window.
+介 o.
+(他望向窗外。) 
+
+b. in、out、up、down 之后若无宾语，则为介词变成的副词，简称介副词，视为地点副词。
+例: He came in.
+介副词
+(他进来。) 
+
+He rushed out crying.
+介副词
+(他哭着冲了出去。)
+He stepped down after the power struggle.
+介副词
+(他在权力斗争之后下台。) 
+
+8. 副词对等语及其在句中的位置： 
+
+副词对等语即指由两个以上的单词构成的短语或从句，具有副词的功能，用以修饰句中的动词或整个主句。 
+
+a. 副词短语： 
+
+包括介词短语及不定式短语两类。 
+
+1）介词短语当副词用： 
+
+通常置于句尾，修饰句中的动词。 
+
+例: He loves her with all his heart. 
+
+(他全心全意地爱她。) 
+
+He achieved the goal by working hard. 
+
+(他经过努力达成了目标。) 
+
+(他坐公交车来的。) 
+
+## 注意
+
+有时介词短语亦出现在句首，此时该短语仍被视为副词，修饰整个主句。但亦有形容词的功能，修饰主语。此类介词短语多半由 in、by 或 on 加动名词形成。 
+
+例: In doing the work, you must be careful. 
+
+= When you do the work, you must be careful. 或: In doing the work, you must be careful. 
+
+介词短语作形容词 主语 
+
+（做这工作时，你必须要谨慎。） 
+
+By working hard, he achieved the goal. 
+
+= Because he worked hard, he achieved the goal. 
+
+或:By working hard, he achieved the goal. 
+
+介词短语作形容词 主语 
+
+（他努力工作达成目标。） 
+
+On / Upon seeing her, he ran away. 
+
+= As soon as he saw her, he ran away. 
+
+或: On / Upon seeing her, he ran away. 
+
+介词短语作形容词 主语 
+
+(一看到她，他就跑开了。) 
+
+注意 
+
+in、by 或 on 加动名词所形成的介词短语，置于句首时，要合理地修饰 主语，也就是被修饰 的主语要有行使动名词所表示 的动作能力。通常此类 主语一定是人或动物，否则易形成不连接修饰（dangling modification）的错误结构。 
+
+例: On seeing her, he ran away. (√) 
+
+(一见到她，他就跑开了。) 
+
+## 理臣：
+
+he 为人，故可以做出 seeing her 所表示的动作。 
+
+![](file://C:/Users/admin/MinerU/赖氏经典英语语法新版.pdf-0133667d-4265-45f6-a507-70d7b5826b31/images/394484081c31c49ab5b34b46683b18aa317076db26cc9210bcacf2716b8c096f.jpg)
+
+
+例: On seeing her, tears came into his eyes. (×) 
+
+## 理由：
+
+tears 为眼泪，不能做出 seeing her 的动作。本句译成：眼泪看见她后，就涌入他的眼眶中。
+（他的眼泪怎会看见人？可见此句不合逻辑。） 
+
+例: In doing the work, he must be careful. (√) 
+
+![](file://C:/Users/admin/MinerU/赖氏经典英语语法新版.pdf-0133667d-4265-45f6-a507-70d7b5826b31/images/2c12a9d45e9399ad73bcc6e255d135912e79cbddfd9442c0941c5298cf639a42.jpg)
+
+
+（做这工作时，他必须小心谨慎。） 
+
+理由:
+he 为人，故可做出 doing the work 所表示的动作。
+例: In doing the work, care must be taken. (×) 
+
+![](file://C:/Users/admin/MinerU/赖氏经典英语语法新版.pdf-0133667d-4265-45f6-a507-70d7b5826b31/images/48fe64a4c1c92f1224e1f34b27ca2caffa2eb2912bec8cf6d78bdff2603f903e.jpg)
+
+
+## 理由：
+
+care 为抽象名词，表 “谨慎”，显然 “谨慎” 不能自己去做工作，故本句犯了不连接修饰的错误。 
+
+## 2) 不定式短语当副词用：
+
+不定式短语当副词用，除可修饰动词外，亦可置于形容词或副词之后，修饰该形容词或副词。 
+
+例: You will soon come to realize that you are mistaken. 
+
+(你很快便会了解自己错了。) 
+
+She went to Italy in order to study music. vi. so as 
+
+(她去意大利学音乐。) 
+
+I am sorry to have kept you waiting. 
+
+(我很抱歉让你久等了。) 
+
+He is rich enough to buy a car. 
+
+（他有足够的钱可以买车。） 
+
+## 注意
+
+表示“目的”的不定式短语置于句首时，亦同时有副词及形容词的功能。作副词用时，不定式短语修饰整个主句；作形容词用时，则修饰主句中的主语，而该主语亦要有行使不定式短语中动词所表动作的能力，故该主语亦通常为人或动物，否则易造成不连接修饰的错误结构。 
+
+例: To achieve the goal, you must work hard. 
+
+To achieve the goal, you must work hard. 
+
+![](file://C:/Users/admin/MinerU/赖氏经典英语语法新版.pdf-0133667d-4265-45f6-a507-70d7b5826b31/images/45e9cba7abebeb0781ae1c567951dc080e6e5084d74f719b9b287cca0cabb2e8.jpg)
+
+
+（要达成目标，你就必须努力。） 
+
+To achieve the goal, hard work is necessary. (×)
+抽象名词 
+
+## 理虫：
+
+hard work（努力）为抽象名词，不可能自行 achieve the goal，故形成错误的不连接修饰。 
+
+但有些不定式短语已成了固定的独立副词短语，称为独立不定式短语，置于句首时，只作副词用，修饰整个主句。此时就不必顾虑主句的主语。 
+
+例: To do him justice, he is qualified for the position. 
+
+![](file://C:/Users/admin/MinerU/赖氏经典英语语法新版.pdf-0133667d-4265-45f6-a507-70d7b5826b31/images/bf056f4f34b6df8f77099b82de85e603c945f75a51c40080c9e0bd9d180b5be0.jpg)
+
+
+To be frank with you, the trip wasn't interesting. 
+
+（老实跟你说，这次旅行并不好玩。） 
+
+To sum up, one can't do without friends. 
+
+(总而言之，一个人不能没有朋友。) 
+
+## b. 状语从句：
+
+状语从句多用来修饰整个主句，可置于主句前后。但置于主句之前时，状语从句之后要加逗号。 
+
+```txt
+例: Because he is nice, I like him.
+状语从句 主句
+= I like him because he is nice.
+主句 状语从句
+(我喜欢他，因为他人很好。)
+If you have time, will you do it?
+状语从句 主句 (问句型)
+= Will you do it if you have time?
+主句 状语从句
+(如果有空的话，你会不会做这件事？) 
+```
+
+```txt
+注意
+这种原则亦适用于副词短语。
+例: To achieve the goal, you must work hard.
+副词短语    主句
+= You must work hard to achieve the goal.
+主句    副词短语
+（要达成目标，你就必须努力。）
+By working hard, he achieved the goal.
+副词短语    主句
+= He achieved the goal by working hard.
+主句    副词短语
+（他经过努力达成了目标。） 
+```
+
+## 9.副词应尽量靠近被修饰的动词：
+
+句中若含有两组以上的动词（包括由动词变成的分词及动名词），副词应尽量靠近被修饰的动词，以免造成句意的混淆。 
+
+例: Yesterday he mentioned seeing her.
+adv. vt.
+(他昨天提到曾经见到她。)
+He mentioned seeing her yesterday.
+动名词 adv.
+(他提到昨天曾经见到她。) 
+
+理由:
+yesterday 所放的位置不同，造成不同的句意。
+例: You should handle the question with care that he raised yesterday. (劣)
+vt.
+(你应用那个昨天他提出来的谨慎来处理这个问题。) 
+
+## 理由：
+
+本来 with care（以谨慎的态度）是副词，明确修饰动词 handle。而定语从句 that he raised yesterday 本应修饰 the question，但却因置于名词 care 之后，造成句意的偏差。 
+
+改正： 
+
+You should handle with care the question that he raised yesterday.
+vt. adv. o. 定语从句，修饰 the question （你应该小心处理他昨天提出的问题。） 
+
+## 10.名词性从句修饰形容词：
+
+名词性从句（由 that、whether 以及疑问词 where、when、how 等构成）具有名词的功能，在句中要作主语、宾语或在 be 动词之后作表语。但名词性从句亦可置于形容词之后，修饰该形容词。 
+
+例: I am sorry that I cannot attend your party.
+adj.
+(我很抱歉无法参加你的派对。)
+I am not sure whether he'll come.
+adj.
+(我不确定他是否会来。) 
+
+## 第三节 重要的副词用法
+
+1. very、much 很、非常 
+
+a. very 不可单独修饰动词，而 very much 则可，多用于肯定句中，其位置应在句尾。 
+
+(我很喜欢你。) 
+
+b. much 亦可修饰动词，但多限于问句或否定句中。若在问句中，much 应置于句尾；若在否定句中，much 可置于动词前或句尾。 
+
+例: Do you go to Sydney much? (罕) 
+
+= Do you go to Sydney often? (常用) 
+
+(你常去悉尼吗？) 
+
+I don't much like living in the country. 
+
+= I don't like living in the country much.
+vt. 
+
+(我很不喜欢住在乡下。) 
+
+c. very 可修饰一般形容词或副词，但形容词或副词变成比较级时，则只能用 much 修饰。 
+
+例: He walked very slowly. (√)
+adv.
+(他走得很慢。)
+I'm very happy to be of service. (√)
+adj.
+(我很高兴能帮得上忙。) 
+
+```txt
+He walked very more slowly than I. (×)
+→ He walked much more slowly than I. (√)
+(他走得比我慢多了。)
+He is very happier than Peter. (×)
+→ He is much happier than Peter. (√)
+(他比彼得快乐多了。) 
+```
+
+d. 修饰 too 时只能用 much，不能用 very。
+例: He is very too young. (×)
+→ He is much too young. (√)
+(他太年轻了。) 
+
+## 注意
+
+修饰比较级或 too 的副词通常有六个：
+much、far、a lot、a great deal、still、even。 
+
+e. 凡现在分词若可作形容词用，且可译成“令人……的”时，均使用 very 修饰。常用的此类现在分词如下：
+interesting（令人觉得有趣的） boring（令人无聊的）
+confusing（令人迷惑的） charming（令人着迷的）
+tiring（令人累的） annoying（令人懊恼的） 
+
+例: She is indeed a very charming girl.
+(她实在是个非常迷人的女孩。)
+He raised a very interesting question.
+(他提出一个非常有趣的问题。) 
+
+f. 凡过去分词若可作形容词用，且可译成“感到……的”时，此类过去分词均与情绪或心境有关，亦可用 very 或 very much 修饰。常用的此类过去分词如下： 
+
+```txt
+interested（感到有兴趣的） bored（感到无聊的）
+confused（感到迷惑的） charmed（感到着迷的）
+tired（感到累的） annoyed（感到懊恼的）
+例: I was |very| annoyed with her son.
+(我对她儿子感到很烦。)
+He was |very| interested in that book.
+(他对那本书很有兴趣。) 
+```
+
+g. very 亦可当形容词以修饰名词，表 “正是那个”，放在定冠词 the 之后。此时名词之后若有定语从句修饰，其关系代词必须用 that 取代 who、whom 或 which。 
+
+```txt
+例: He is | the very man | that came here yesterday.
+just the man
+the same man
+(他就是昨天来的那位老兄。) 
+```
+
+## 2. little、a little:
+
+a. little 作副词时，视为否定副词，译成 “一点儿都不”，等于 no（一点儿都不）之意。 
+
+c. little 作否定副词时，通常修饰动词 think、dream、expect（期待）。 
+
+## i
+
+然而，实际使用时，little应置于句首，其后采用倒装结构，即： 
+
+3. no longer 不再 
+
+= no more 
+
+= not...any longer 
+
+= not...anymore 
+
+例: He is no longer here. 
+
+= He is here no more. (少用) 
+
+= No longer is he here. 
+
+= No more is he here. (少用) 
+
+= He is not here any longer. 
+
+= He is not here anymore. 
+
+(他不再在这儿了。) 
+
+## 注意
+
+no more 虽等于 no longer，但仅见于诗歌中，使用时，多置于句尾，或置于句首采用倒装结构，不可置于句中。 
+
+例: You can no longer see him. 
+
+No longer can you see him. 
+
+(你再也见不到他了。) 
+
+He loves the girl no more. (少用) 
+
+No more does he love the girl. (少用) 
+
+(他不再爱这女孩子了。) 
+
+He no more loves the girl. (×, no more 不可置于句中) 
+
+→ He no longer loves the girl. (√) 
+
+(他不再爱这女孩子了。) 
+
+4. sometimes、sometime、some time、some times: 
+
+a. sometimes 有时候 
+
+此为频率副词（如 often、never、seldom 等），使用时通常置于句首，亦可置于句尾。 
+
+```txt
+例: Sometimes he comes here for a visit.
+= He comes here for a visit | sometimes / every now and then. once in a while.
+(他有时候会来这儿走一下。) 
+```
+
+```txt
+理由:
+ago 非明确的时间副词，故无 sometime ago 的用法。 
+```
+
+```txt
+d. some times 有几次
+= a few times
+= several times
+例: I have been to Thailand some times. (劣)
+→ I have been to Thailand | a few times. (佳)
+several
+(我曾去过泰国几次。) 
+```
+
+表有几次时，理论上可使用 some times，但实际使用时仍以 a few times 和 several times 为佳。 
+
+```txt
+ago 不能单独使用，而 before 却可以。即 before 可单独作副词，修饰句中的动词，通常与现在完成时、过去完成时以及一般过去时连用。
+例: I met him ago. (×)
+→ I met him two hours ago. (√)
+一般过去时
+(我两个钟头前遇见他。)
+I met him before. (√)
+一般过去时
+(我以前遇见过他。)
+I have met him before. (√)
+现在完成时
+(我以前曾遇见过他。) 
+```
+
+```txt
+5. ago、before、since、after:
+a. ago 表 “距现在若干时间以前”，时态用一般过去时。
+例: He came here a few days ago.
+(他几天之前来过这儿。)
+How long ago did he come?
+(他多久之前来的？)
+比较:
+He had finished the work two hours ago. (×)
+过去完成时
+→ He finished the work two hours ago. (√)
+一般过去时
+(他两小时前做完工作。) 
+```
+
+b. before 表 “距过去某时若干时间以前”，时态用过去完成时。 
+
+例: When I met Jim last Monday, he told me he had just gotten back from a trip to Lake Placid two days before. (√) 
+
+## 注意
+
+I told him that I had met him before. (√) 
+
+过去完成时 
+
+(我告诉他我以前曾遇见过他。) 
+
+```txt
+c. since 自从…… 
+```
+
+1) since 可作副词连词，引导一般过去时的状语从句，修饰时态为现在完成（进行）时或过去完成（进行）时之主句。 
+
+例: I have studied English since I moved here in 2001. 
+
+现在完成时 一般过去时 
+
+（自从 2001 年搬来这里后，我便一直学习英语。） 
+
+He told me that he had written two books since he moved here in 2001.
+过去完成时    一般过去时 
+
+（他告诉我自从 2001 年搬来这里后，他已经写了两本书。） 
+
+2) since 可作副词用，修饰现在完成（进行）时或过去完成（进行）时之主句。since 译成“之后”，可置于句尾或句中完成时助动词 have、has、had 之后。 
+
+例: I moved here in 2001 and have studied English since.
+一般过去时 现在完成时 
+
+= I moved here in 2001 and have since studied English.
+(我于 2001 年迁到此处，之后就一直学习英语。) 
+
+```txt
+注意
+since 作副词时，句型结构一定为：
+主语 + 一般过去时动词 + 明确的时间副词短语 + and + 主语 + have (has、had) + since + 过去分词
+过去分词 + since
+例: He left town in 2002 and I haven't seen him since.
+主语 一般过去时 明确时间副词 现在完成时
+(2002 年他离城后，我便没再看见过他了。) 
+```
+
+3) 作介词用，之后加明确的时间名词作宾语，亦可用动名词作宾语。 
+
+例: I have been studying English since 2002.
+介 Friday.
+明确的时间名词 
+
+（自从 2002 年/星期五以后，我便一直学习英语。） 
+
+```txt
+比较:
+I have been studying English since ten years. (×, ten years 不是确定的时间名词)
+改正:
+I have been studying English for ten years. (√)
+(我已学了 10 年英语了。)
+= I have been studying English since ten years ago.
+(我自 10 年前起就一直在学习英语。)
+I have been studying English since moving here in 2002.
+现在完成进行时 介 动名词
+(2002 年搬到这里后，我便一直在学习英语。) 
+```
+
+```txt
+注意
+since 之前亦可用副词 ever 修饰。
+例: Ever since he came here, he has been arguing with Mary.
+(自从他来到此地，便一直和玛丽争吵。)
+He has been learning English ever since he was five years old.
+(自5岁时起，他就一直在学习英语。)
+He failed the exam two weeks ago and has felt discouraged ever since.
+(他两周前考试没通过，此后便很沮丧。) 
+```
+
+## d. after 之后
+
+```txt
+after 作副词时亦译成“之后”，但与 since 作副词时不同的是：since 修饰完成时，而 after 则修饰过去时，此时等于 later 或 afterwards。
+
+例: He fell ill on Monday and died three days after.
+(他星期一生病，3 天后就死了。)
+Soon after, he moved to the United States.
+(不久之后，他便搬去美国。)
+The war ended in 1945, and they lived happily ever after.
+(战争于 1945 年结束，从此他们便过着快乐的日子。) 
+```
+
+```txt
+6. quite、rather
+quite 十分地
+rather 相当地
+这两个词可修饰原级之副词或形容词。 
+```
+
+```txt
+例: He is quite old.
+(他相当老了。——quite修饰形容词old)
+He is rather old.
+(他蛮老了。——rather修饰形容词old)
+He studies quite hard.
+(他相当用功。——quite修饰副词hard) 
+```
+
+```txt
+注词
+但 quite 修饰 “形容词 + 单数名词” 时，应在 a 或 an 之前：
+例: He is a quite good student. (×)
+→ He is quite a good student. (√)
+（他是个相当不错的学生。）
+They are quite good students. (√)
+（他们是相当好的学生。） 
+```
+
+7. someday、one day、the other day、some other day: 
+
+```txt
+a. someday 将来有一天（用于将来时）
+例: Keep on working hard, and someday you'll be successful.
+（要不断用功，那么将来总有一天你会成功。） 
+```
+
+```txt
+b. one day 某日（表前几天时，可等于 the other day，也可指几年前的某一天，两者均用过去时）；将来总有一天（等于 someday，用于将来时）
+例: I saw him downtown one day.
+一般过去时
+= I saw him downtown the other day.
+（有一天我在城里看到他。）
+One day you'll be sorry.
+一般将来时
+= Someday you'll be sorry.
+（总有一天你会后悔的。） 
+```
+
+```txt
+c. the other day 前些时候（用于一般过去时）
+例: I went to the National Park for a visit the other day.
+一般过去时
+（前几天我到国家公园玩了一趟。） 
+```
+
+d. some other day 改天（用于一般将来时）
+例: I'm busy now. I will visit you some other day.
+一般将来时
+(我现在很忙，改天再去拜访你。) 
+
+8. so much so that... 如此……以致…… 
+
+谈这个结构之前，赖老师先请同学们看这个句子：He is angry—so angry that he wants to kill the rival that has stolen his girlfriend's heart. 
+
+(他很火大——火大得要杀掉抢走他女友的情敌。) 
+
+这个句子语法是对的，但美中不足的是 angry 用了两次，就修辞的眼光来看，本句犯了重复使用的毛病，为补救这个缺点，我们可用 much so 代替 angry，而形成下列的标准结构：
+He is angry—so much so that he wants to kill the rival that has stolen his girlfriend's heart. 
+
+于是，我们得到这样的概念： 
+
+much so 可在 “so...that” 结构中代替前面已提及的副词或形容词，以避免重复。 
+
+## 例: 代替副词：
+
+He studies hard—so much so (原为 hard) that he is sure to pass the exam.
+adv. 
+
+（他很用功——用功得一定会考及格。） 
+
+代替形容词： 
+
+She is beautiful—so much so (原为 beautiful) that I'm crazy about her.
+adv.
+▲ 
+
+（她很美——美得令我为她发狂。） 
+
+9. somewhat、somehow、anyhow: 
+
+a. somewhat 有一点儿
+该词为一般副词，使用时通常置于形容词或副词之前，以修饰该形容词或副词。
+例: It's somewhat cold today.
+adv. adj.
+= It's | a little | cold today.
+a bit 
+
+He did the job somewhat carelessly. 
+
+（他这件事做得有些粗心。） 
+
+b. somehow 不知怎的（= for some unknown reason）；设法（= by some means） 
+
+1) 表示 “不知怎的” 时，作独立副词，通常置于句首，修饰全句。 
+
+例: He is nice; but somehow I don't like him. 
+
+![](file://C:/Users/admin/MinerU/赖氏经典英语语法新版.pdf-0133667d-4265-45f6-a507-70d7b5826b31/images/374139da7b2377748b351f2f295eaf6b24bc2ea8962b3f501421812e3aa8f1d0.jpg)
+
+
+（他人不错，但不知怎的，我就是不喜欢他。） 
+
+2) 表示 “设法” 时，作一般副词，修饰句中动词，通常置于句尾。 
+
+例: We must find the money somehow. 
+
+![](file://C:/Users/admin/MinerU/赖氏经典英语语法新版.pdf-0133667d-4265-45f6-a507-70d7b5826b31/images/849acf345e5324f2be7e0d70e258c4a71dd7593accef2e424a6ea4e6b584167e.jpg)
+
+
+（我们必须设法找到那笔钱。） 
+
+## c. anyhow
+
+例: I don't have time to go to the movies; they're too expensive anyhow. （我没有时间去看电影，况且电影也太贵了。） 
+
+## 注意
+
+表 “不管如何” 时，anyhow 为独立副词，通常置于句首，之后有逗号，修饰逗号之后整个主句。 
+
+## 10. enough:
+
+enough 可作形容词，表示 “足够/充分的”、“足以”。enough 不论作形容词或副词，其后通常接不定式短语（即 “to + 原形动词”）或 “for + 名词”。 
+
+a. 形容词： 
+
+此时 enough 表 “足够/充分的”，修饰名词，通常置于该名词前，亦可置于其后。 
+
+例: He has enough money | to buy | a fancy car. (常用)
+adj. n. for
+= He has money enough | to buy | a fancy car. (罕)
+for
+(他有足够的钱买一辆拉风的车。) 
+
+## b. 副词：
+
+此时 enough 表 “足以”，修饰形容词或副词，应置于该副词或形容词之后，不可置于其前。 
+
+```txt
+11. likely、probably、possibly 可能地
+以可能性之高低而言，likely 和 probably 表示“很可能”，而 possibly 则表示“有可能但不确定”。
+例: He will (very / most) likely come.
+（很有可能他会来。）
+* likely 作副词时，之前可用 very 或 most 加以修饰。
+She will probably leave.
+（她很可能将要离开。）
+They will possibly help him.
+（他们说不定会帮他。）
+但 likely 亦可作形容词，其用法如下：
+He is likely to come.
+= It is likely that he will come.
+（他很可能会来。） 
+```
+
+```txt
+但：
+He is probable to come. (×, probable 不能修饰人)
+He is possible to come. (×, 理由同上)
+改正：
+It is probable that he will come. (√)
+(他很可能会来。)
+It is possible that he will come. (√)
+(他说不定会来。) 
+```
+
+## 12. Short Response（简应句）：
+
+a. 肯定句用 so（使用时，采倒装结构）或 too。此处 so 是副词，表示“同样地”，并非连词，故之前应有连词 and 连接两句。 
+
+1) be 动词：
+主语与 be 动词倒装。
+例: He is nice, | and so is she.
+and she is, too.
+（他人很好，她也很好。）
+He was going home, | and so was she.
+and she was, too.
+（他即将回家，她也是。） 
+
+2) 助动词：
+主语与助动词倒装。
+例: He will come, | and so will she.
+and she will, too.
+(他要来，她也要来。)
+He has gone, | and so has she.
+and she has, too.
+(他走了，她也走了。) 
+
+He has a book, and so does she.  
+and she does, too.  
+(他有一本书，她也有。) 
+
+```txt
+注意
+在对话中，两句指的是同一人时，不论句子是肯定句或否定句，均用 so 引导，且句子不倒装。此时 so 亦为副词，相当于 indeed（的确）。
+例: A: He is stupid.
+B: So he is. (= Indeed he is.)
+(A:他很蠢。)
+(B:他的确很蠢。)
+A: You can't do it.
+B: So I can't. (= Indeed I can't.)
+(A:你不会做这事。)
+(B:我的确不会。) 
+```
+
+b. 否定句用 neither（或 nor，使用 neither 或 nor 时须采用倒装结构）或 either。neither 为副词，故 and 不可省略，但 nor 为连词，前面不必置 and。 
+
+```txt
+1) be 动词：
+主语与 be 动词倒装。
+例: He isn't nice, and neither is she.
+nor is she.
+and she isn't, either.
+（他不好，她也不好。）
+He wasn't going home, and neither was she.
+nor was she.
+and she wasn't, either.
+（他没回家，她也没回家。） 
+```
+
+2) 助动词：
+主语与助动词倒装。
+例: He won't come, and neither will she.
+nor will she.
+and she won't, either.
+(他不来，她也不来。) 
+
+He hasn't gone, and neither has she. nor has she. and she hasn't, either. (他没去，她也没去。) 
+
+3) 一般动词：
+主语与 do、does、did 倒装。
+例: He never tells a lie, and neither does she.
+nor does she.
+and she doesn't, either.
+(他绝不说谎，她也绝不说谎。)
+He has no book, and neither does she.
+nor does she.
+and she doesn't, either.
+(他没有书，她也没有。) 
+
+注意
+also 只能用在肯定句中，置于 be 动词之后，或一般动词之前。
+例: He is kind, and she is also kind.
+（他很亲切，她也是。）
+He has a pen, and she also has one.
+（他有一支笔，她也有一支。） 
+
+## 13. 常见的“名词 + 介词 + 名词”副词短语：
+
+hand in hand 手拉着手  
+side by side 肩并肩地  
+shoulder to shoulder 肩并肩地  
+arm in arm 臂挽着臂  
+word for word 逐字地  
+day by day 一天天  
+night after night 每夜  
+little by little 渐渐地  
+one by one 一个一个地  
+one after another 陆续地  
+face to face 面对面地 
+
+```txt
+例: They walked hand in hand down the road.
+(他们手牵手沿着那条路走下去。)
+They came in one after another.
+(他们陆续地走进来。)
+
+14. not 要置于不定式短语、分词、动名词之前：
+例: Since I have a lot of work to do, I decided not to go on a trip. (√)
+(由于有很多事要办，我决定不去旅行。)
+He pretended to not know me. (×)
+→ He pretended not to know me. (√)
+(他假装不认识我。)
+Having not finished the work, I decided to stay. (×)
+→ Not having finished the work, I decided to stay. (√)
+(工作没完成，我决定留下来。)
+He was disappointed at not having finished the work. (√)
+(他很失望没把工作完成。)
+
+15. 助动词 + 副词 + 本动词：
+例: I can always count on you for advice.
+(我总是可以指望你给我忠告。)
+I never have seen him before. (劣)
+→ I have never seen him before. (√)
+(我以前从没见过他。)
+
+16. 副词修饰被动语态时，通常置于过去分词之前：
+例: His speech was well presented.
+(他演说得很好。)
+That case was finally settled.
+(那件事终于解决了。)
+That project had been checked very carefully before it was presented to the boss. (可)
+= That project had been very carefully checked before it was presented to the boss. (佳)
+(那份策划书在交给老板之前已很仔细地检查过。)
+
+17. more than 与倍数的关系： 
+```
+
+```txt
+more than 应置于倍数之前。造句法则如下：
+a. 先造一个含有“倍数词 + as...as...”的句子：
+例: He has three times as much money as you do.
+(他的钱是你的三倍。)
+
+b. 再于“倍数词 + as...as...”的结构前置人 more than，即告完成。
+例: He has three times more than as much money as you do. (×)
+→ He has more than three times as much money as you do. (√)
+(他的钱超过你的三倍。)
+
+c. more than 亦可置于动词 double（增加一倍）之前。
+例: Our income has more than doubled in one year.
+(一年之内我们的收入增加了一倍多。)
+
+18. more than 与 over 的关系：
+over 作介词表“超过”时，可用 more than 代替。
+例: He has stayed here over a year.
+= He has stayed here more than a year.
+(他已待在此地一年多。)
+He has stayed here more than over a year. (×)
+He has stayed here much over a year. (×, much 应删除)
+Over five students are here.
+= More than five students are here.
+(这里的学生超过 5 人。)
+
+19. 避免双重比较：
+即 more richer、more better 等等。
+例: She is more beautiful than Mary. (√)
+(她比玛丽还美。)
+She is better than Mary. (√)
+(她比玛丽好。)
+She is more better than Mary. (×，因 better 已经是比较级，不可再被比较级副词
+more 修饰)
+→ She is much better than Mary. (√)
+(她比玛丽好很多。) 
+```
+
+People in Japan lead a more richer life than those in many other countries. (×) → People in Japan lead a much richer life than those in many other countries. (√) （日本的百姓比很多其他国家人民的生活富裕得多。） 
+
+## 20. 避免双重否定：
+
+```txt
+例: He hasn't never been to Japan before. (×)
+→ He has never been to Japan before. (√)
+= He hasn't ever been to Japan before.
+(他从来没去过日本。)
+* not ever = never
+You'll have to hurry up; we have hardly no time left. (×)
+→ You'll have to hurry up; we have hardly any time left. (√)
+(你必须快点，我们快没时间了。) 
+```
+
+```txt
+注意
+scarcely = hardly = almost not，为否定副词，不可再与 no 或 not 连用，但可与 any 连用；scarely any = hardly any = almost not any。
+例: He cannot scarcely do this work. (×)
+→ He can scarcely do this work. (√)
+（他几乎不会做这工作。）
+He has hardly no money. (×)
+→ He has hardly any money. (√)
+（他几乎没有钱。） 
+```
+
+## 21. 关系副词 when、why、how、where:
+
+```txt
+例: This is the time when we should set out.
+(= at which)
+（这就是我们该出发的时候。）
+This is the reason why he was late.
+(= for which)
+（这就是他为何迟到的理由。） 
+```
+
+```txt
+This is | the way | he succeeded.
+how 
+```
+
+(这就是他成功的方法。) 
+
+* how 虽是 the way 的关系副词，却不能同时使用，换言之，无 the way how 的用法。 
+
+That is the place where I was born. 
+
+```txt
+(= in which) 
+```
+
+(那是我出生的地方。) 
+
+That is the city how he lives. (×, city 为地方，故 how 应改为 where) 
+
+```txt
+注意
+关系副词亦可作复合关系副词，代替前面的名词（先行词），故上述例句亦可改为：
+This is when we should set out.
+(= the time when)
+This is why he succeeded.
+(= the reason why)
+This is how he'll do it.
+(= the way)
+This is where I was born.
+(= the place in which) 
+```
+
+## 22. 指示代词 that 及 this 可作副词用：
+
+```txt
+分别译成“那样”、“这样”。例: The destination is too far away; I can't walk | that far. so far. （目的地太远了；我走不到那么远。）
+A: How big is the bear?
+B: It is about this big.
+（A：那只熊有多大？）
+（B：大概有这么大。） 
+```
+
+23. "I think so.":
+think、hope、believe、be afraid、imagine 等动词之后加 so，可代替肯定句，加 not 则代替否定句。
+例: A: Is he nice?
+B: Yes, I think so. (so = that he is nice)
+No, I think not. (not = that he is not nice)
+(A: 他人好吗？)
+(B: 我想他是好人。
+我看他不是好人。)
+A: Will he come?
+B: I'm afraid not. (not = that he will not come)
+I'm afraid so. (so = that he will come)
+(A: 他会来吗？)
+(B: 恐怕他不会来。
+恐怕他会来吧。) 
+
+```txt
+24. 副词 + 独立分词：
+独立分词 speaking 应用副词修饰，如 strictly speaking（严格地说）、frankly speaking（坦白地说）、generally speaking（概括地说）。
+例: Strict speaking, he is wrong. (×)
+→ Strictly speaking, he is wrong. (√)
+（严格地说，他是不对的。） 
+```
+
+25. all（三人以上一起）、both（两人一起）：
+例: John, Paul, and Peter will all come here tomorrow to celebrate Jack's birthday.
+（约翰、保罗和彼得明天都要来这里庆祝杰克的生日。）
+These five students are all good.
+（这五位都是好学生。）
+The two candidates are both qualified for this job.
+（这两位人选都有资格做此工作。）
+He and I will all go to America tomorrow. (×, all 应改为 both)
+→ He and I will both go to America tomorrow. (√)
+（他和我明天都要去美国。） 
+
+26. 容易混淆的副词：
+a. close（近）、closely（仔细地，严密地） 
+
+```txt
+例: I live close to his house.
+= I live near his house.
+(我住在他家附近。)
+Watch him closely.
+(好好盯着他。)
+
+b. most（最）、mostly（大部分，大都）
+例: Of all the books here, this one is the most interesting.
+(在这些书中，这本最有趣。)
+These books are mostly out of date.
+(这些书大部分都过时了。)
+
+c. near（近）、nearly（= almost，几乎）
+例: He lives near, not far.
+(他住附近，不在远处。)
+He was nearly drowned.
+(他差点淹死了。) 
+```
+
+```txt
+注意
+near 虽可作介词，但在下列短语中，near 之后仍应置入 to，形成固定短语：
+come near to + V-ing 差一点就……
+例: He came near to being drowned.
+= He came close to being drowned.
+= He was nearly drowned.
+（他差点淹死了。） 
+```
+
+```txt
+high 表实际空间（可以用尺量）的 高
+deep
+wide
+highly 表程度而不指空间的 高
+deeply
+widely
+深
+宽
+图：The plane flew highly in the sky. (×)
+→ The plane flew high in the sky. (√)
+(飞机高高地在天上飞着。) 
+```
+
+```txt
+He was high praised. (×)
+→ He was highly praised. (√)
+(他大大地受到赞扬。)
+We spoke high of him. (×)
+→ We spoke highly of him. (√)
+(我们赞扬他。)
+We think high of him. (×)
+→ We think highly of him. (√)
+(我们很看重他。)
+He dove deeply into the river. (×)
+→ He dove deep into the river. (√)
+(他潜入河中深处。)
+He was deep hurt. (×)
+→ He was deeply hurt. (√)
+(他伤得很重。)
+
+27. greatly 与 highly 之区别：
+a. greatly 表 “大量地，大大地”。
+例: He was greatly surprised.
+(他大大地吃了一惊。)
+The number of traffic accidents has increased greatly.
+(车祸次数大幅增加。)
+
+b. highly 表 “高高地”，通常与 “表扬”、“奖励”、“推荐” 等动词（如praise、recommend）连用。
+例: We think highly of him.
+(我们很看重他。) 
+```
+
+# EXERCISE
+
+## 1. 请选出一个正确的答案：
+
+1. Anna didn't like our new roommate, and _. (A) I don't too (B) neither I did (C) neither did I (D) I didn't also 
+
+2. The population of many Alaskan towns has ____ doubled during the past three years.
+(A) much than (B) as more as than
+(C) as more than (D) more than 
+
+3. ____ he began working in the chemical plant, he experienced pain when he breathed.
+(A) Shortly before (B) Not long after
+(C) No sooner than (D) No longer 
+
+4. How many brand-new cars there are! Automobile production in the last ten years has increased ____. (A) highly (B) infinitely (C) in the large scale (D) greatly 
+
+5. Bill wasn't happy about the delay, and _. (A) I was neither (B) I wasn't, either (C) neither I was (D) either was I 
+
+6. The second hurricane struck the coastal states ____ three days after the first one.
+(A) during (B) just
+(C) not as much as (D) not as little as 
+
+7. Who's that good-looking girl Frank is dancing with? I ____ her before.
+(A) never had seen (B) had never seen
+(C) saw never (D) have never seen 
+
+8. When Arthur applied for a job, Professor Adams was able to recommend him ____. (A) very highly (B) with superb notices (C) greatly (D) with high regard 
+
+9. Children learn very quickly. When they learn about a new subject, they often ____. (A) become too interested in it (B) very much are interested in it (C) become very interested in it (D) are interested very much in it 
+
+10. The price of unleaded gasoline is ____ a dollar a gallon.
+(A) larger than (B) over
+(C) as great as (D) as many as 
+
+11. John is very diligent. But his pay is not ____ for his work.
+(A) enough good (B) good enough
+(C) as good enough (D) good as enough 
+
+12. You didn't hear us come in last night. That's good. We tried ____ noisy.
+(A) to be not (B) not to be
+(C) not be (D) be not 
+
+13. This old desk isn't ____ to sell, but maybe we could give it to someone.
+(A) goodly enough
+(B) good enough
+(C) good as enough
+(D) enough good 
+
+14. She overslept and was ____ late that she missed the bus.
+(A) so (B) too (C) much (D) very 
+
+15. Eric nearly always wins the science award. That's because his projects are ____. (A) extremely presented well (B) well presented extremely (C) presented well extremely (D) extremely well presented 
+
+16. Betty got married last week. ____ that she would get married so young.
+(A) I never dream
+(B) Never do I have dreamed
+(C) Do I never dream
+(D) I never dreamed 
+
+17. My brother never does his homework in the morning. ____. (A) So does John (B) John is too (C) John doesn't too (D) Nor does John 
+
+18. Take an umbrella when you go to Seattle, for it rains ____ there.
+(A) frequently (B) as frequent
+(C) most of times (D) much time 
+
+19. I walked 8 miles today. I never guessed that I could walk ____ far.
+(A) that (B) this (C) such (D) as 
+
+20. Prices for bikes at that store can run ____ $250.
+(A) as high as
+(B) so high to
+(C) as high to
+(D) so high as 
+
+## II. 请选出错误的画线部分：
+
+21. Many of the observations made by Leonardo a little greater than 400 years (A) (B) ago about the movement of birds' wings have been verified by modern (C) (D) photos. 
+
+22. The state legislature has approved the construction of a completely (A) (B) self-contained paper-recycling plant that will produce hardly no harmful (C) (D) waste materials. 
+
+23. Of all the Christmas toys the boy saw in the window, the thing he wanted (A)(B) (C) more was a new bicycle. (D) 
+
+24. Rain clouds and smoke caused by pollution look so much alike that one (A) cannot hardly tell the difference between the two of them. (B) (C) (D) 
+
+25. The large ship sailed very good in any weather, never requiring more than (A) (B) (C) (D) one man at the wheel. 
+
+26. A carefully trained observer can discover details very easy although others
+(A) (B) (C)
+never see them.
+(D) 
+
+27. She spoke so indistinct that we did not know whether we were to precede or follow the procession. 
+
+28. A Cezanne painting was recently sold at an auction for much over the (A)(B) (C) initially announced price. (D) 
+
+29. Interest in automatic data processing has grown rapid since the first large (A) (B) (C) (D) calculators were introduced in 1950. 
+
+30. Today divorce is not longer regarded as a disgrace nor a tragedy, not even a failure.
+(A) (B) (C) (D) 
+
+## 标准答案
+
+![](file://C:/Users/admin/MinerU/赖氏经典英语语法新版.pdf-0133667d-4265-45f6-a507-70d7b5826b31/images/f8030d119291c02bba6569b45ba447939a28ba2773f74bb3b7d57cb35c88054b.jpg)
+
+
+1. (C) 2. (D) 3. (B) 4. (D) 5. (B) 6. (B) 7. (D) 8. (A) 9. (C) 10. (B)  
+11. (B) 12. (B) 13. (B) 14. (A) 15. (D) 16. (D) 17. (D) 18. (A) 19. (A) 20. (A)  
+21. (B) 22. (D) 23. (D) 24. (B) 25. (B) 26. (C) 27. (A) 28. (C) 29. (C) 30. (A) 
+
+## 习题解说
+
+1. and neither did I. 
+
+= nor did I. 
+
+= and I didn't, either. 
+
+2. more than 在此作副词用，修饰动词 doubled。 
+
+3. shortly before... 就在……之前
+not long after... 在……之后没有多久 
+
+4. greatly 大幅地
+in the large scale 应改为 on a large scale。 
+
+5. 与第1题同理。 
+
+6. (A) during 要接限定的时间，例如 during those three days、during that period。 
+
+(B) just three days after the first one 就在第一个台风之后三天 
+
+(C) (D) not as much as 及 not as little as 只能修饰不可数名词，但 three days 是可数名词，不能被 much 或 little 修饰。 
+
+7. 过去完成时不能单独存在，一定要配合另一一般过去时从句。 
+
+I had finished my job. (×) 
+
+I had finished my job before you came. (√) 
+
+(你来以前我工作就做好了。) 
+
+8. (B) 无此短语 
+
+(C) recommend（推荐）并非表“量”的概念，故不能用 greatly。 
+
+(D) with high regard 为副词短语，表 “尊敬地”，此处与语意不合。 
+
+9. (A) become too interested （变得太有趣而不能……） 
+
+(B) very much 应置于 interested 之前。 
+
+(C) very 可修饰作形容词用的过去分词，如 tired（感到累的）、interested（感到有趣的）。 
+
+(D) very much 应置于 interested 之前。 
+
+10. over + 数词 = more than + 数词（超过……） 
+
+11. enough 作副词时，一定要置于其所修饰之形容词或副词之后。 
+
+12. 不定式短语与 not 合用时，not 一定要置于不定式之前。 
+
+13. 与第11题同理。 
+
+14. so...that... 如此……以致…… 
+
+15. 副词修饰被动语态时，一定要置于过去分词之前。 
+
+16. 本句应用一般过去时 I never dreamed... 表现在已知，但当时未想到。
+如使用现在完成时时应为 I have never dreamed... 或 Never have I dreamed... 
+
+17. 与第1题同理 
+
+18. 动词应用副词修饰。 
+
+(B) 为形容词。 
+
+(C) 若改为 most of the time（大部分时间）就对了。 
+
+(D) much time “不少时间”通常作 spend、have 的宾语，用于否定句中。I don't spend much time practicing English every day. 
+
+(我每天没有花很多时间练习英语。)
+We don't have much time left. 
+
+(我们没剩多少时间了。) 
+
+19. that far 那么远 
+
+= so far 
+
+20. as high as 高达…… 
+
+本短语中的 as 不可用 so 来代换，因为 “so...as” 只用于否定句中，而 “as...as” 则可用于肯定句或否定句中。 
+
+21. (B) greater 应改为 more，表时间。 
+
+22. (D) hardly no 应改为 hardly any = almost not any = almost no 
+
+23. (D) more 应为 most，三者以上的比较。 
+
+24. (B) cannot hardly 应改为 can hardly。 
+
+25. (B) very good 应改为 very well，以修饰动词 sailed。 
+
+26. (C) easy 应改为 easily，以修饰动词 discover。 
+
+27. (A) indistinct 应改为 indistinctly（不清楚地）以修饰动词 spoke。 
+
+28. (C) much over 应改为 over 或 more than。 
+
+29. (C) rapid 应改为 rapidly，以修饰 grown。 
+
+30. (A) not longer 应改为 no longer。 
+
+## 第九章 倒装结构
+
+## 概说
+
+![](file://C:/Users/admin/MinerU/赖氏经典英语语法新版.pdf-0133667d-4265-45f6-a507-70d7b5826b31/images/81ebc4db3e3b0f44bde607fb10f12b17913ee2472562ac7c1085c5fcc93d7426.jpg)
+
+
+倒装句是英语特有的句型。其目的是通过句中某些词类的倒置，可用以强调整个句子的语气。偶尔在一篇文章出现倒装的结构，可以使平淡的句子变得生动活泼。一般常出现的倒装结构有下列五种： 
+
+1. 否定倒装句：
+例: I have never seen such a pretty girl as she (is).
+→ Never have I seen such a pretty girl as she.
+(我从没见过像她这么美的女孩。) 
+
+2. so / such 倒装句:
+例: She is so kind that she deserves all my respect.
+→ So kind is she that she deserves all my respect.
+(她人很好，值得我尊敬。) 
+
+3. 地点副词倒装句：
+例: A boy stood there.
+→ There stood a boy.
+(那儿站着一个男孩。) 
+
+4. 完全倒装句：
+例: Those who help others are praiseworthy.
+→ Praiseworthy are those who help others.
+(助人的人值得称赞。) 
+
+5. as 取代 though 的倒装句： 
+
+例: Though he is nice, I dislike him. 
+
+→ Nice as he is, I dislike him. 
+
+= As nice as he is, I dislike him. 
+
+（他人虽然好，我却不喜欢他。） 
+
+以上所列的倒装句结构变化并不复杂，但很多同学们在学习英语的过程中，不曾尝试整理这些句型，以致在写作的时候，不会运用，或运用不当而犯错。对参与各类英语考试的同学们而言，本章甚为重要，因为倒装句是出题老师们极易列人的一个项目。同学们在阅读本章时，一定要有无比的耐心，细嚼慢咽。赖老师保证你一定能完全吸收，使自己的英语程度又往前迈进一大步！ 
+
+## 第一节 否定倒装句
+
+否定倒装句就是将否定副词、否定副词短语和否定状语从句移至句首的倒装句。使用此类倒装句要注意两个重点： 
+
+a. 何谓否定副词、否定副词短语和否定状语从句？ 
+
+## b. 如何倒装？
+
+我们且一一分项说明： 
+
+1.否定副词、否定副词短语和否定状语从句： 
+
+## a. 常用的否定副词：
+
+never（从不）、hardly（= scarcely，几乎不）、rarely（很少）、seldom（很少）、little（一点儿也不）。 
+
+```txt
+b. 常用的否定副词短语： 
+```
+
+by no means（绝对不）、in no way（绝对不）、on no account（绝对不）、under no circumstances（绝对不）、in no situation（绝对不）。 
+
+C. 常用的否定状语从句（一共只有三种句型，很好背）： 
+
+```txt
+not until + S + V （直到……）
+only when + S + V （只有到……的时候）
+only after + S + V （只有到……之后） 
+```
+
+## 2. 如何倒装：
+
+先将否定副词、否定副词短语或否定状语从句移至句首，再检查原结构主语之后的动词，采用问句型倒装。 
+
+a. be 动词： 
+
+主语之后有 be 动词时，be 动词与主语要倒装。 
+
+```txt
+例: He is never happy.
+否定副词
+→ Never is he happy.
+(他从不快乐。)
+He is hardly ever quiet.
+否定副词
+→ Hardly is he ever quiet.
+(他几乎从未安静过。) 
+```
+
+You are by no means the person we need.
+否定副词短语
+→ By no means are you the person we need.
+(你绝非我们需要的人。)
+I was not aware of it until he came.
+状语从句
+→ Not until he came was I aware of it.
+否定状语从句
+(直到他来，我才发觉这件事。)
+He is happy only when Mary is with him.
+否定状语从句
+→ Only when Mary is with him is he happy.
+(只有玛丽和他在一起时，他才快乐。) 
+
+b. 助动词：
+主语之后有助动词时，助动词与主语要倒装。
+例: He can hardly move.
+否定副词
+→ Hardly can he move.
+(他几乎不能动。)
+He has never done it before.
+否定副词
+→ Never has he done it before.
+(他从来没做过这件事。)
+He can do it under no circumstances. (实际不如此使用)
+否定副词短语
+→ Under no circumstances can he do it. (实际如此使用)
+(他绝不可能做此事。)
+He will not leave until Mary comes back.
+状语从句
+→ Not until Mary comes back will he leave.
+否定状语从句
+(直到玛丽回来，他才会离开。) 
+
+## C. 一般动词：
+
+主语之后有一般动词时，先在主语之前按动词时态及主语人称之不同，分别置助动词 do、does 或 did，再将动词变成原形动词。 
+
+例: He seldom sings. 第三人称单数 否定副词 一般现在时 
+
+(他很少唱歌。)
+He little knew that Mary's English could be so good.
+否定副词 一般过去时 
+
+→ Little did he know that Mary's English could be so good.
+原形 V 
+
+(他一点儿也没想到玛丽的英语会那么好。) 
+
+## 注意
+
+实际并无“He little knew...”的说法，只有“Little did he know...”的说法，换言之，little 只能置于句首采用倒装结构。 
+
+（直到玛丽来了，他们才了解实情。） 
+
+```txt
+3. “only + 介词短语”及“only + then”：
+“only + 介词短语”或“only + then”（唯有在那时）均可视为否定副词短语，置于句首时，亦采用倒装句。
+例：Only by doing so you can succeed. (×)
+否定副词短语
+→ Only by doing so can you succeed. (√)
+（只有这么做你才会成功。）
+Only with his help I will be able to weather the difficulties. (×)
+否定副词短语 
+```
+
+→ Only with his help will I be able to weather the difficulties. (√) (有了他的帮助，我才能克服困难。) 
+
+= not merely...but (also)... 
+
+= not only...but...as well 
+
+= not merely...but...as well 
+
+## 注意
+
+a. 本短语可用以连接对等的单词、短语和从句。 
+
+单词： 
+
+例: Not only I but (also) he is wrong.
+主语    主语
+(不但是我，连他也错了。)
+She is not only kind but graceful as well.
+形容词    形容词
+(她人不但亲切，而且优雅。) 
+
+短语： 
+
+I came not only to see you but (also) to say goodbye to you.
+不定式短语 不定式短语
+(我来不仅是为了见你，也是来跟你道别的。)
+He was fired not only because of his laziness but (also)
+副词短语
+because of his failure to meet my requirements.
+副词短语 
+
+(他被开除不仅是因为懒惰，还因为无法达到我的要求。) 
+
+从句： 
+
+例: He was fired not merely because he was lazy but because he
+状语从句
+failed to meet my requirements.
+状语从句
+（他被开除不仅是因为懒惰，还因为无法达到我的要求。） 
+
+```txt
+本短语若作及物动词的宾语时，亦可移至句首，采用倒装结构。
+例: I did not see a soul (= a person) over there.
+→ Not a soul did I see over there.
+(我在那儿一个人也没看到。)
+I was not able to discover a clue to the murder.
+→ Not a clue to the murder was I able to discover.
+(这件谋杀案我连一点蛛丝马迹也没法找到。) 
+```
+
+b. 本短语亦可连接对等的句子，但由于 not only 置于句首，视为否定副词，第一个句子要倒装。but also 仅为连词，故其后的第二个句子不须倒装，但 also 则一定要省略，或移至句中。亦可将 also 省略后在句尾处加 as well。 
+
+例: Not only she can sing, but also she can dance. (×)
+句子    句子 
+
+→ Not only can she sing, but she can (also) dance. (√) 
+
+或: Not only can she sing, but she can dance as well. (√) 
+
+Before I left, not only I had closed the door, but also I had cleaned the room. (×) 
+
+→ Before I left, not only had I closed the door, but I had (also) cleaned the room. (√) 
+
+或: Before I left, not only had I closed the door, but I had cleaned the room as well. (√)
+(我离开之前，不但关了门，还打扫了房间。) 
+
+## 5. not + a + 单数可数名词 连一个……都没有
+
+## 6. hardly、scarcely:
+
+这两个副词因为是否定副词，故置于句首时，句子要倒装。两词意思相同，均译成“几乎不”，用法亦相同。 
+
+```txt
+注意
+| scarcely | + any + 名词    几乎没有……
+hardly
+= almost not + any + 名词
+= almost no + 名词
+此时若作主语，置于句首，不可采用倒装结构。 
+```
+
+```txt
+7. nowhere (= in no place) 在任何地方都不此亦为否定副词，置于句首要采用倒装句。
+例: Nowhere I could find such a man. (×)
+→ Nowhere could I find such a man. (√)
+(这种人我在任何地方都找不到。) 
+```
+
+```txt
+本句有下列三种译法：
+a. 同时态的状语从句：
+例: As soon as she saw me, she passed out.
+= Once she saw me, she passed out. 
+```
+
+```txt
+Immediately she saw me, she passed out.
+Instantly
+Directly 
+```
+
+```txt
+例: As soon as he arrived, I left. 
+```
+
+```txt
+= | The instant | she saw me, she passed out.
+The moment 
+```
+
+有的词典亦列出下列的用法： 
+
+此时 immediately、instantly、directly 视为副词连词，等于 as soon as。但这种用法已不常见于报章杂志中，故同学们写作时，不宜使用。 
+
+```txt
+b. On / Upon + N / V-ing, S + V
+Upon seeing me, she passed out.
+On 
+```
+
+## 注意
+
+upon 或 on 之后加名词或动名词时，亦表示 “一……就……” 之意，系由 as soon as 引导的状语从句变化而成。使用时要注意的是：as soon as 引导的状语从句中，主语若与主句的主语相同时，upon 或 on 之后加动名词；主语不同时，则状语从句中的主语要变成所有格，置于 upon 或 on 之后，再接动名词或名词。 
+
+```txt
+→ | Upon | finishing the job, I went home.
+On 
+```
+
+(我一做完工作就回家。) 
+
+```txt
+→ | Upon | his arriving, I left.
+Or: | Upon | his arrival, I left.
+(他一到我就走了。) 
+```
+
+c. 否定倒装的状语从句： 
+
+```txt
+1) 此类句型一共有三种：
+a) no sooner...than...
+（没有比……早多少）
+b) hardly / scarcely...when...
+（当……时，几乎没……） 
+```
+
+c) hardly / scarcely...before...
+(在……之前，几乎没……)
+以上实际均译为“一……就……”。 
+
+## 2) 造句法：
+
+中文：她一见到我就昏倒了。 
+
+第一步：先造一个过去完成时的句子表示先发生的动作：She had seen me. 
+
+第二步：再造一个一般过去时的句子，表示后发生的动作：She passed out. 
+
+第三步：两句放在一起：She had seen me, she passed out. 
+
+第四步：加入 no sooner...than... 等连词：
+She had no sooner seen me than she passed out. 
+
+字面翻译：她先见到我，没有比她后来昏倒早多少。 
+
+实际翻译：她一见到我就昏倒了。
+She had hardly seen me when she passed out. 
+
+字面翻译：当她昏倒时，几乎没看到我。 
+
+实际翻译：她一见到我就昏倒了。  
+She had scarcely seen me before she passed out. 
+
+字面翻译：在她昏倒之前，几乎没看到我。 
+
+实际翻译：她一见到我就昏倒了。 
+
+## 注意
+
+hardly 与 scarcely 均等于 almost not，故之后的 when 与 before 可以互换。只是现在的英语多采用 “hardly / scarcely...when”，而很少有人采用 “hardly / scarcely...before”。 
+
+3) 由于 no sooner、hardly、scarcely 均为否定副词，故置于句首时，过去完成时助动词 had 应与主语倒装。
+No sooner had she seen me than she passed out.
+Hardly had she seen me when she passed out.
+Scarcely had she seen me when she passed out. 
+
+至此，我们应当对“一……就……”的句型完全了解。赖老师希望同学们能多加使用，练就更好的写作能力。 
+
+# 第二节 so / such 倒装句
+
+在 “so...that...” 或 “such...that...” 的结构中，若将 so 或 such 及其所引导的词类置于句首时，亦采用倒装结构。句法与否定倒装句完全相同。 
+
+1. 句中有 be 动词时，该 be 动词与主语倒装： 
+
+例: He is so helpful that we all like him. 
+
+→ So helpful is he that we all like him. 
+
+（他这么乐于助人，因此我们都喜欢他。） 
+
+They are such lazy students that they have no hope of passing the exam. 
+
+→ Such lazy students are they that they have no hope of passing the exam. 
+
+（他们是这样懒惰的学生，因此想考及格全都无望了。） 
+
+2. 句中有助动词时，该助动词与主语倒装： 
+
+例: He has done so well that he deserves our respect. 
+
+→ So well has he done that he deserves our respect. 
+
+（他做得这么好，所以值得我们尊敬。） 
+
+He will play such an important part in the movie that he will get a large percentage of the profits. 
+
+→ Such an important part in the movie will he play that he will get a large percentage of the profits. 
+
+（他在那部电影中所担任的角色如此重要，因此他将可分得相当大的利润。） 
+
+3. 句中若为一般动词时，不可直接倒装： 
+
+须在主语之前先按该动词时态及人称变化，分置 do、does 或 did，再将该动词变成原形动词。 
+
+例: He came so late that he missed the train. 
+
+→ So late did he come that he missed the train. 
+
+（他到得太晚，而没赶上火车。） 
+
+He did such a wonderful job that he won our respect. 
+
+→ Such a wonderful job did he do that he won our respect. 
+
+（他表现得如此棒，因而赢得我们的尊敬。） 
+
+She sings so well that she can make a good singer. 
+
+→ So well does she sing that she can make a good singer.
+(她歌唱得这么好，所以一定可以当个好歌手。) 
+
+# 第三节 地点副词倒装句
+
+## 1. 三种倒装句型：
+
+地点副词（there、here）或地点副词短语（in the room、at the station、by the window 等）置于句首时，亦可形成倒装句，只是倒装的句法与前两种倒装句完全不同。此类倒装句全按动词的性质做变化，句型有三种： 
+
+主语 + 不及物动词 + | 地点副词
+地点副词短语 
+
+地点副词 + 不及物动词 + 主语
+地点副词短语 
+
+地点副词
+by the door.
+地点副词短语 
+
+→ On the desk is a book. 
+
+(玛丽站在门口。) 
+
+例: A man was locked behind the door.
+be p.p. 地点副词短语 
+
+```txt
+→ Behind the door was locked a man.
+(门后锁着一个人。)
+A school is located there.
+be p.p. 地点副词
+→ There is located a school.
+(那里坐落着一所学校。) 
+```
+
+## 第三型：
+
+```txt
+主语 + be 动词 + 现在分词 + | 地点副词
+地点副词短语
+→现在分词 + | 地点副词 | + be 动词 + 主语
+地点副词短语
+例: A girl is singing over there.
+be 现在分词 地点副词短语
+→ Singing over there is a girl, who is my girlfriend.
+(那儿有个女孩在唱歌，她是我女友。)
+Mary and David were sitting in front of the gate.
+be 现在分词 地点副词短语
+→ Sitting in front of the gate were Mary and David.
+或: In front of the gate were sitting Mary and David.
+(玛丽和大卫坐在大门前。) 
+```
+
+## 2. 主语必为普通名词或专有名词：
+
+此类倒装句中的主语一定是普通名词（如 a book、a man、the children...），或专有名词（如 Mary、Peter、John...）。若主语为代词（如 it、she、they...）则不可采用倒装句；也就是说地点副词仍可放在句首，但句子不倒装。至于地点副词短语则不宜放在句首。 
+
+```txt
+例: He stood there.
+代词 地点副词
+→ There stood he. (×)
+→ There he stood. (√)
+(他站在那儿。)
+He stood in front of the house.
+地点副词短语
+→ In front of the house stood he. (×)
+→ In front of the house he stood. (劣)
+地点副词短语 
+```
+
+→ He stood in front of the house. (佳)
+(他站在房子前面。)
+He was locked in there.
+代词 地点副词 
+
+→ There was locked in he. (×) 
+
+→ There he was locked in. (劣)
+(他被锁在那里面。)
+He was locked behind the door.
+地点副词短语 
+
+→ Behind the door was locked he. (×) 
+
+→ Behind the door he was locked. (劣)
+地点副词短语 
+
+→ He was locked behind the door. (佳)
+(他被锁在门后。)
+He was singing there.
+代词 地点副词 
+
+→ Singing there was he. (×) 
+
+→ There he was singing. (√)
+(他在那里唱歌。)
+He was singing in the backyard.
+地点副词短语 
+
+→ Singing in the backyard was he. (×)
+→ He was singing in the backyard. (√)
+(他在后院里唱歌。) 
+
+## 3. 介副词的倒装：
+
+介副词亦视为地点副词，置于句首时，亦采用完全相同的倒装句。所谓介副词，就是由表示场所的介词（如 in、out、down、up、off 等）变成的副词。这些词之后有宾语时就称介词，若无宾语时就是介副词（由介词变成的副词）。 
+
+a. 介词 
+
+例: John walked in (或 into) the room.
+介 宾语
+(约翰走进房间。)
+The boy looked out the window.
+介 宾语
+(这男孩向窗外看。) 
+
+He came down the stairs.
+介 宾语
+(他走下楼。)
+He climbed up the mountain.
+介 宾语
+(他爬上山。)
+He fell off the roof.
+介 宾语
+(他从屋顶上摔下来。) 
+
+## b. 介副词
+
+例: He walked in.
+介副词
+(他走进去。)
+He looked out.
+介副词
+(他往外看。)
+He came down.
+介副词
+(他走下来。)
+He climbed up.
+介副词
+(他爬上去。) 
+
+C. 倒装方式
+例: A boy walked in.
+vi.
+→ In walked a boy.
+(一个男孩走了进来。)
+The car dashed off.
+vi.
+→ Off dashed the car.
+(这辆车子飞驰而去。)
+John came down.
+vi. 
+
+→ Down came John.
+(约翰走了下来。) 
+
+## 注意
+
+```txt
+a. 主语为代词时，不得采用倒装结构。
+例: In walked he. (×)
+→ In he walked. (√)
+代词
+(他走进来。)
+Off went they. (×)
+→ Off they went. (√)
+代词
+(他们走了。) 
+```
+
+b. away 视为地点副词，用法相同。
+例: John went away.
+→ Away went John.
+(约翰走了。)
+Away went he. (×)
+→ Away he went. (√)
+代词
+(他走了。) 
+
+c. here 亦为地点副词，用法亦相同。
+例: Mary comes here.
+→ Here comes Mary.
+(玛丽来了。)
+Here comes she. (×)
+→ Here she comes. (√)
+代词
+(她来了。) 
+
+4. there 与地点副词：
+地点副词短语在句首时，前面可置 there 或其他相关副词，用以强调该地点副词短语。there 可置于地点副词短语之前或之后。但其他相关副词只能置于地点副词短语之前。 
+
+```txt
+A man who held a knife in one hand, 
+```
+
+```txt
+例: On top of the hill lies a beautiful villa.
+地点副词短语
+= There on top of the hill lies a beautiful villa.
+地点副词短语
+= On top of the hill there lies a beautiful villa.
+地点副词短语
+(山丘顶上有栋漂亮的别墅。)
+On the desk is a book.
+地点副词短语
+= There on the desk is a book.
+= On the desk there is a book.
+= There is a book on the desk.
+(桌上有本书。) 
+```
+
+## a. there :
+
+## b. 相关副词：
+
+```txt
+例: Deep in the mountains lies a small village.
+相关副词 地点副词短语
+(深山里有个小村落。)
+Not far (away) from here is a post office.
+相关副词 地点副词短语
+(离这儿不远有家邮局。) 
+```
+
+## 5. 倒装句的好处：
+
+倒装句的主语在句尾，之后可接定语从句、分词短语或介词短语，用以修饰主语，因此可以扩大主语的内容，并可避免主语在句首时，主语与动词间修饰语过多的毛病。 
+
+例:未倒装时: 
+
+```txt
+主语 定语从句
+looking as if he wanted to kill somebody, stood there. (劣)
+分词短语 vi. 地点副词 
+```
+
+→ There stood a man who held a knife in one hand, looking as if he wanted to vi 主语 
+
+kill somebody. (佳) 
+
+(有个持刀的人站在那儿，看起来像要杀人的样子。) 
+
+A boy with a dog (which) he found the other day sat in the corner. (劣) 
+
+主语 介词短语 定语从句 vi. 地点副词短语 
+
+→ In the corner sat a boy with a dog (which) he found the other day. (佳)
+vi. 主语 
+
+（角落里坐着个男孩和他前些天捡到的狗。） 
+
+6. here 与 there 的习惯用语： 
+
+注意下列用 here 或 there 置于句首的句子，主语为代词，因此不倒装。 
+
+a. Here we are. （到了。） 
+
+解说： 
+
+某甲要去见某女生，但胆小如鼠，于是便请某乙陪他一块去。两人乘了一部出租车，到了该女生家门口时，某甲、某乙以及出租车司机都可说这句话：“Here we are.” 
+
+b. Here you are. (或 Here you go.) （拿去吧。） 
+
+解说： 
+
+某甲到麦当劳买汉堡，服务小姐叫他稍候片刻。不久，服务小姐就把汉堡递给某甲，同时说了一句： 
+
+"Here you go." 
+
+给任何人所要的东西时，均可使用这句话。 
+
+c. There you go again. （你又来这一套了。） 
+
+解说：
+某甲见到女生会流口水。某乙对某甲的行为很了解。某日，某甲与某乙一块儿出游。一位漂亮的女生擦肩而过，某甲就口水直流，某乙边用脸盆接某甲的口水，边骂道：“There you go again.”。
+看完这一段赖老师瞎编的故事，你一定知道如何使用此用语了吧！ 
+
+d. There you are. (或 There it is.) （在那里。） 
+
+解说： 
+
+某甲要到叔叔家去，由于是第一次拜访，在社区里找了老半天，仍然不得其门而人，幸好赖老师刚好路过，见状即带路。指着不远处一扇门说道：“There you are.”或“There it is.”，某甲连声道谢后，就飞奔而去。 
+
+## 第四节 完全倒装句
+
+## 1. 基本句型：
+
+此类倒装句系由下列句型演变而成： 
+
+主语 + be 动词 + 形容词（含可作形容词的过去分词或现在分词） 
+
+```txt
+→ 形容词 + be 动词 + 主语
+例: He | who is content is happy.
+| One | be adj.
+主语
+→ Happy is | he | who is content.
+| one |
+（知足者常乐。——凡是满足的人都是快乐的。）
+= | The humble | are blessed.
+| Humble people | be adj.
+主语
+→ Blessed are | the humble.
+| humble people. |
+（谦虚的人有福了。——凡是谦虚的人都会受到保佑。） 
+```
+
+## 2. 使用时机：
+
+此类完全倒装句的主语，通常泛指所有的人或物。故主语有“凡是……的人或物”之意时，均可使用本倒装句。 
+
+```txt
+例: A man who often helps others is praiseworthy.
+主语 be adj. 
+```
+
+→ Praiseworthy is a man who often helps others.
+(常助人的人值得赞扬。) 
+
+但有过多修饰语的主语亦可采用本倒装句。 
+
+例: Noteworthy is the fact that he has talent for music. 
+
+adj. be 主语 名词性从句，作 the fact 的同位语（值得一提的是他有音乐天赋。） 
+
+```txt
+Nice although he is, I dislike him. (×) 
+```
+
+## 第五节 as 取代 though 的倒装法
+
+## 1. as 取代 though 的句型：
+
+a. though + 主语 + be 动词 + 形容词 
+
+形容词可移至句首，再以 as 取代 though。 
+
+例： 
+
+```txt
+Though he is nice, I dislike him.
+Although S be adj. 
+```
+
+→ Nice as he is, I dislike him. 
+
+= As nice as he is, I dislike him. 
+
+= Nice though he is, I dislike him. 
+
+（虽然他很好，我还是不喜欢他。） 
+
+但不可写成: 
+
+* 上列第四个例句句首的 “As nice as he is” 中，第一个 As 是副词，不具意义，第二个 as 是连词，译成 “虽然”。 
+
+```txt
+b. though + 主语 + be 动词 + 名词 
+```
+
+名词可移至句首，再以 as 取代 though。但名词若为单数可数名词，移至句首时，原有的不定冠词 a 或 an 一定要省略。 
+
+例: | Though | he is a nice boy, I dislike him.
+Although | S be n.
+→ A nice boy | as | he is, I dislike him. (×)
+though
+→ Nice boy | as | he is, I dislike him. (√) 
+
+（虽然他是个好孩子，我还是不喜欢他。） 
+
+```txt
+| Though | they are nice boys, I dislike them.
+Although | S be n.
+→ Nice boys | as | they are, I dislike them.
+though 
+```
+
+（虽然他们是好孩子，我还是不喜欢他们。） 
+
+c. though 引导的状语从句中有副词时，可将副词移至句首，此时 though 亦可用 as 取代。 
+
+例: Though he studied hard, he failed to pass the exam.
+adv. 
+
+```txt
+→ Hard | as though | he studied, he failed to pass the exam.
+= As hard as he studied, he failed to pass the exam.
+(虽然他努力读书，还是未能通过考试。)
+Though she sings well, she can't dance.
+adv.
+→ Well | as though | she sings, she can't dance.
+= As well as she sings, she can't dance.
+(她虽然歌唱得好，却不会跳舞。) 
+```
+
+d. though 引导的状语从句若无副词时，可在句首添入副词 much（很），再接 as 或 though 即可。 
+
+```txt
+例: Though he loves me, I dislike him.
+无副词
+→ Much | as    | he loves me, I dislike him.
+though
+= As much as he loves me, I dislike him.
+(他虽然很爱我，我就是不喜欢他。)
+Though he wanted to see her, he didn't have the courage.
+无副词
+→ Much | as    | he wanted to see her, he didn't have the courage.
+though
+= As much as he wanted to see her, he didn't have the courage.
+(他虽然很想见她，却没有勇气。) 
+```
+
+e. though 引导的状语从句有助动词 may 时，其后原形动词可置于句首，再接 as 或 though 即可。
+例: Though you may try, you still can't make him change his mind.
+= Try as you may, you still can't make him change his mind.
+（尽管你怎么尝试，仍无法令他改变心意。） 
+
+```txt
+2. as 表 “因为” 的用法：
+as 若置于句首，则表示 “因为” 之意，是副词连词，等于 because。
+例: As he is nice, I like him.
+= Because he is nice, I like him.
+(因为他人好，所以我喜欢他。) 
+```
+
+但 as 引导的从句若为 “主语 + 一般动词” 的结构，且为肯定句时，可有下列变化： 
+
+例: As he lives here, he may have ample chances to view the beautiful scenery.
+一般动词 
+
+→ Living here as he does, he may have ample chances to view the beautiful scenery. 
+
+（由于他住在这里，因此会有很多机会欣赏美丽的景色。） 
+
+## 其步骤为：
+
+第一步：将 as 从句中的动词移至句首，变成现在分词； 
+
+第二步：再于主语之后按人称与时态变化添加助动词 do、does 或 did。 
+
+例: As he works hard, he is sure to succeed. 
+
+一般动词 
+
+第一步：将 works 移至句首，改为现在分词 working； 
+
+第二步：由于 works 是动词的第三人称单数形式，故主语之后，应加 does。 
+
+即成：Working hard as he does, he is sure to succeed.
+（由于他努力，因此一定会成功。） 
+
+* 只是此类变化较少见，通常不被使用，此处提出来仅供同学们参考，不必模仿。 
+
+# EXERCISE
+
+## 1. 请选出一个正确的答案：
+
+1. On the other side of the fence ____. (A) a man stood with black hair (B) had a man with black hair (C) stood a man with black hair (D) were a man with black hair 
+
+2. Under this roof ____ gathered today the most distinguished names of the country.
+(A) are (B) be (C) is (D) being 
+
+3. Only when a person has read much English poetry ____ Shakespeare.
+(A) he can understand
+(B) can he understand
+(C) can he understood
+(D) can we understand 
+
+4. Nowhere ____ to be found.
+(A) can the missing book (B) is the missing book
+(C) the missing book is (D) the missing book can 
+
+5. At the gate ____. (A) waiting the beggar (B) waited the beggar (C) the beggar waiting (D) did the beggar wait 
+
+6. Only when we give happiness to others regardless of any reward ____ we achieve happiness ourselves.
+(A) as (B) may (C) so (D) that 
+
+7. She didn't come yesterday, ____ come tomorrow.
+(A) nor she will (B) nor she does
+(C) nor will she (D) nor does she 
+
+8. ____ satisfied with what he had.
+(A) Never had he (B) Never he was
+(C) Never he had (D) Never was he 
+
+9. An order was given, and _. (A) away they dashed (B) away dashed they (C) dashed they away (D) away dashed them 
+
+10. Only after Norman acquired considerable facility in speaking ____. (A) did he learn to read and write (B) finally comes reading and writing (C) then he learned reading and writing (D) he learned to read and write 
+
+11. Hardly had she seen her husband ____ she ran to him.
+(A) when (B) than (C) as (D) that 
+
+12. Not for a moment ____ the truth of your story.
+(A) he has doubted (B) he doubts
+(C) did he doubt (D) he did doubt 
+
+13. ____ succeed in doing anything.
+(A) Only by working hard we can (B) By only working hard we can
+(C) Only by working hard can we (D) Only we can by working hard 
+
+14. Not only ____ a promise, but he also kept it.
+(A) did he made (B) he made
+(C) did he make (D) he makes 
+
+15. Nowhere in the world ____. (A) travelers can buy so much beauty for so little money as in Hawaii (B) no one can buy so much beauty for so little money as Hawaii (C) so much beauty can be bought for so little money in Hawaii (D) can travelers buy so much beauty for so little money as in Hawaii 
+
+16. Never before in similar circumstances ____. (A) a British Prime Minister had refused to step down (B) did a British Prime Minister have refused to step down (C) a British Prime Minister have refused to step down (D) had a British Prime Minister refused to step down 
+
+17. ____ received law degrees as today.
+(A) Never so many women have (B) Never have so many women
+(C) The women aren't ever (D) Women who have never 
+
+18. Flying demands a much greater supply of energy ____ other forms of transportation.
+(A) than do most (B) most than do
+(C) than most do (D) do than most 
+
+19. On the right ____. (A) Mr. Fleming saw the foremost lines of the students (B) saw Mr. Fleming the foremost lines of the students (C) were seen by Mr. Fleming the foremost lines of the students (D) the foremost lines of the students were seen by Mr. Fleming 
+
+20. Not far from the upper ford _. (A) they met an old friend of theirs (B) met they an old friend of theirs (C) was met by them an old friend of theirs (D) there was met an old friend of theirs by them 
+
+21. "Have you ever been to Europe before, Martha?" "____." (A) Never I have been there before (B) Never did I been there before (C) Never have I been there before (D) I have been never there before 
+
+22. "Is Conrad always on time, Pierre?" "____."
+(A) Seldom does he comes on time (B) Seldom is he on time
+(C) Seldom he is on time (D) He seldom come on time 
+
+23. "Can you understand what the old man says, Harry?" (A) Hardly can I understand what does he say. (B) I can hardly understand what does he say. (C) Can I hardly understand what he says. (D) Hardly can I understand what he says. 
+
+24. "Did you see Liza make any mistake, Harry?" "____." 
+
+(A) Rarely have I seen her make any mistake 
+
+(B) Rarely I have seen her make any mistake 
+
+(C) Rarely have seen I her make any mistake 
+
+(D) I have seen her making any mistake rarely 
+
+25. "Does Lewis come here to see you very often, Nina?" "____." 
+
+(A) Scarcely does he come here to see us 
+
+(B) Scarcely has he come here to see us 
+
+(C) He scarcely come here to see us 
+
+(D) Scarcely is he come to see us 
+
+26. One of the walls of his room was lined with cupboards and bookcases; on the other ____. 
+
+(A) hung pictures of men and places 
+
+(B) pictures of men and places hanged there 
+
+(C) he hanged many pictures of men and places 
+
+(D) was hung pictures of men and places 
+
+27. Close behind the entrenchment ____. 
+
+(A) they came upon dozens of soldiers 
+
+(B) came they upon dozens of soldiers 
+
+.(C) dozens of soldiers were come upon by them 
+
+(D) they had came upon dozens of soldiers 
+
+28. On the northwest side of the island ____. 
+
+(A) have signs of the incessant influence of the wind and sea 
+
+(B) there have signs of the incessant influence of the wind and sea 
+
+(C) are signs of the incessant influence of the wind and sea 
+
+(D) is signs of the incessant influence of the wind and sea 
+
+29. With the economic boom ____. 
+
+(A) a boom in education has come along with it 
+
+(B) has came a boom in education with it 
+
+(C) has come a boom in education 
+
+(D) there has a boom in education 
+
+30. Meg opened the box. Inside ____. 
+
+(A) a diamond ring was there 
+
+(B) a diamond ring lies there 
+
+(C) was a diamond ring 
+
+(D) a diamond ring was found 
+
+## 标准答案
+
+![](file://C:/Users/admin/MinerU/赖氏经典英语语法新版.pdf-0133667d-4265-45f6-a507-70d7b5826b31/images/2670b7ef03de8ddb6cad7c722995483f1adefe931533e9e1b7f8df70f1670b9b.jpg)
+
+
+1. (C) 2. (A) 3. (B) 4. (B) 5. (B) 6. (B) 7. (C) 8. (D) 9. (A) 10. (A) 
+
+11. (A) 12. (C) 13. (C) 14. (C) 15. (D) 16. (D) 17. (B) 18. (A) 19. (A) 20. (A) 
+
+21. (C) 22. (B) 23. (D) 24. (A) 25. (A) 26. (A) 27. (A) 28. (C) 29. (C) 30. (C) 
+
+## 习题解说
+
+![](file://C:/Users/admin/MinerU/赖氏经典英语语法新版.pdf-0133667d-4265-45f6-a507-70d7b5826b31/images/0d15345f6483b229f7e8076c1e07a3e632399c9b62417056389f7ff025a5c0cd.jpg)
+
+
+1. 主语 + 不及物动词 + 介词短语 
+
+→ 介词短语 + 不及物动词 + 主语 
+
+2. 主语 + be + p.p. + 介词短语 
+
+→ 介词短语 + be + p.p. + 主语 
+
+3. only when（只有当……）或 only after（只有在……之后）引导的状语从句置于句首时，该主句须倒装。 
+
+4. 否定副词置于句首，该句须倒装。
+若选(A)，则空格之后的 to 应删除。 
+
+5. 与第1题同理。 
+
+6. 与第3题同理。 
+
+7. ..., nor will she come tomorrow. 
+
+= ..., and neither will she come tomorrow. 
+
+= ..., and she will not come tomorrow, either. 
+
+8. 与第4题同理。 
+
+9. 地点副词置于句首时，若该主语为代词，则主语与动词不可倒装。 
+
+10. 与第3题同理。 
+
+11. 主语 + had hardly + p.p. + when 引导的一般过去时从句 = Hardly had + 主语 + p.p. + when 引导的一般过去时从句一……就…… 
+
+12. 否定副词短语置于句首时，该句须倒装。 
+
+13. 与上题同理。 
+
+14. 与上题同理。 
+
+15. 与上题同理。 
+
+16. 否定副词（Never）置于句首，该句须倒装。 
+
+17. 与 16 题同理。 
+
+18. ...than most other...do
+= ...than do most other...
+此处的 do 原应置于句尾，但因主语过长，故与之倒装。 
+
+19. 介词短语置于句首时，若该句动词为及物动词，则不可与主语倒装。 
+
+20. 本句中的主语 they 为代词，动词 met 为及物动词，故该句虽有地点副词短语置于句首亦无须倒装。 
+
+21. 否定副词（Never）置于句首，该句须倒装。 
+
+22. 与 21 题同理。 
+
+23. 与 21 题同理。 
+
+24. 与 21 题同理。 
+
+25. 与 21 题同理。 
+
+26. ...; on the other wall hung pictures of men and places. 
+
+= .. ; on the other hung pictures of men and places.
+本句因介词短语置于句首，动词 hung 为不及物动词，故形成倒装。原句中的 wall 因与前面重复，故予以省略。 
+
+27. 与第9题同理。 
+
+28. 与第1题同理。 
+
+29. 与第1题同理。 
+
+30. 地点副词置于句首时，主语必须与不及物动词倒装。 
