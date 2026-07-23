@@ -1,0 +1,1391 @@
+## 初級文法
+
+II 
+
+谢孟媛英语课程学习交流站 www.XieMengYuan.cn 
+
+![](file://C:/Users/admin/MinerU/谢孟媛《初级语法》第二册(共3册)初级文法视频课程讲义.pdf-f17b38d1-e8cb-4f63-abeb-9c3310078424/images/9b176ec92b55ec7d40e4012a985207d974151f43e719501ef97bb47ffb8aee82.jpg)
+
+
+形容詞的比較級
+形容詞的最高級
+副詞的比較級、最高級 
+
+不定詞 
+
+## Unit3 動名詞
+
+動名詞 
+
+Unit5 形容詞 
+
+形容詞 
+
+Unit6 副詞 
+
+副詞 
+
+Unit7 動詞 
+
+動詞 
+
+![](file://C:/Users/admin/MinerU/谢孟媛《初级语法》第二册(共3册)初级文法视频课程讲义.pdf-f17b38d1-e8cb-4f63-abeb-9c3310078424/images/d2eef240f806fec7d904e7284465f809bf293587c7a877b232e4cf4450d43371.jpg)
+
+
+## 比較變化
+
+為了表示性質、程度等差異，形容詞在字形上所做的變化，稱為比較。比較分為原級、比較級、最高級。 
+
+(1)規則變化 
+
+<table><tr><td>級\變化</td><td>原級</td><td>比較級</td><td>最高級</td></tr><tr><td>1.原級+er, est</td><td>short</td><td>shorter</td><td>shortest</td></tr><tr><td>2.原級字尾有e+r,st</td><td>nice</td><td>nicer</td><td>nicest</td></tr><tr><td>3.原級為短母音+子音→重複字尾+er, est</td><td>hot</td><td>hotter</td><td>hottest</td></tr><tr><td>4.原級字尾為子音+y→去y+ier, iest</td><td>easy</td><td>easier</td><td>easiest</td></tr><tr><td>5.兩音節以上的形容詞→more, most+原級</td><td>beautiful</td><td>more beautiful</td><td>most beautiful</td></tr></table>
+
+## (2) 不規則變化
+
+<table><tr><td>原級</td><td>比較級</td><td>最高級</td></tr><tr><td>bad(壞的) ill(生病)</td><td>worse</td><td>worst</td></tr><tr><td>good(好的) well(健康)</td><td>better</td><td>best</td></tr><tr><td>many(指可數的) much(指不可數的)</td><td>more</td><td>most</td></tr><tr><td>little(少的)</td><td>less</td><td>least</td></tr><tr><td>far(遠的)</td><td>farther further</td><td>farthest(表距離) furthest(表程度,數量,距離)</td></tr><tr><td>late(晚的;遲的)</td><td>later latter</td><td>latest(表時間) last(表順序)</td></tr><tr><td>old(老的;舊的)</td><td>older elder</td><td>oldest(表年紀;新舊) eldest(表長幼)</td></tr></table>
+
+
+(例)1.He was happy in his later life.
+(他晚年很快樂。) 
+
+
+2. As for French and German, the latter is more difficult for me than the former. 
+
+(就法文和德文而言，我覺得後者比前者難。) 
+
+## 形容詞的比較級
+
+(1) 比較級...than... 
+
+(例) 1. Your article is longer than mine.
+(你的文章比我長。) 
+
+2. Mary is more beautiful than she/her. (口語)
+(瑪麗比她漂亮。) 
+
+(2) the+比較級...of the two... 
+
+(例)1. Kevin is the older of the two boys.
+(Kevin是兩位男孩中年紀較大的。) 
+
+2. Jack is the more active of the twins.
+(Jack 是這對雙胞胎中較活躍的。) 
+
+(3)修飾比較級 
+
+$\left\{ \begin{array}{l}\mathrm{much,a lot,far + 比較級}\rightarrow \dots \text{得多了}\\ \mathrm{even + 比較級}\rightarrow \dots \text{更加}\\ \mathrm{a little + 比較}\rightarrow \dots \text{一點} \end{array} \right.$ 
+
+(例)1.He is much busier than I. (他比我忙碌得多了。) 
+
+2. This is a little cheaper than that.
+(這個比那個便宜一點。) 
+
+3. The price of the blue pants is far higher than that of the green pants.
+(藍褲子的價格比綠褲子的價格高得多。) 
+
+4. The weather in Kaohsiung is far hotter than that in Taipei.
+=The weather is far hotter in Kaohsiung than in Taipei.
+(高雄的天氣比台北的天氣更加炎熱。) 
+
+(注意)比較時，若主題相同或語意上清楚明白時，than以下部分可省略。 
+
+(例)They live a more pleasant life than (they did) before.
+(他們現在比以前過著更愉快的生活。) 
+
+(4)比較級...to... 
+
+junior(年幼的)、senior(年長的)、major(大的)、minor(小的)等形容詞，在表示比較的對象時，不用than而用to。 
+
+(例)She is two years older than $\left\{\begin{array}{l}I.\\me.\end{array}\right.$ 
+
+=She is senior to me by two years.
+(她比我大2歲。) 
+
+(5)比較級的慣用表現 
+
+a. 比較級 and 比較級 越來越.. 
+
+(例)The story became more and more interesting.
+(這故事變得越來越有趣。) 
+
+b. the 比較，the比較級 越...越...
+例)1.The more, the better.(越多越好。) 
+
+2. The more we get, the happier we'll be.
+(我們得到越多就越快樂。) 
+
+c. $\left\{\begin{array}{l} more than 超過  \\ less than 少於 \end{array}\right.$ 
+
+(例)The man is $\left\{\begin{array}{c} more than \\ over \end{array}\right\}$ eighty years old. 
+
+(這個人超過80歲。) 
+
+## 形容詞的最高級
+
+(1)~the 最高級+名詞+ $\left\{\begin{array}{l}\text { 地點 } \\ \text { of the three. } \\ \text { of all }\end{array}\right.$ (1)~the 最高級+名詞+ $\left\{\begin{array}{l}\text { 地點 } \\ \text { of the three. } \\ \text { of all }\end{array}\right.$ 
+
+(例)1.Helen is the best student of all. (海倫是所有學生中最好的。) 
+
+2.Mt.Everest is the highest mountain in the world. (聖母峰是世界上最高的山。) 
+
+(2)原級、比較級、最高級互換 
+
+(例)1. Taipei is the biggest city in Taiwan.
+=Taipei is bigger than any other city in Taiwan.
+=Taipei is bigger than all the other cities in Taiwan.
+=No other city in Taiwan is bigger than Taipei.
+=No other cities in Taiwan are as big as Taipei.
+(台北是台灣最大的城市。) 
+
+(注意)加other(其他的)，其功用為避免和本身做比較。 
+
+2. { New York is bigger than any other city in America.
+(紐約比美國任何其他城市大。)
+New York is bigger than any city in Taiwan.
+(紐約比台灣任何城市大。) 
+
+(3)as 原級 as → 像...一樣 
+
+(例)1.This jacket is as expensive as this sweater. (這件夾克和這件毛衣一樣貴。) 
+
+2. Your hair is as long as mine.. 
+
+(你的頭髮和我的一樣長。) 
+
+(注意)否定句時，也可用not $\left\{ \begin{array}{l} \text{so} \\ \text{as} \end{array} \right\} \sim$ as... 
+
+(例)This question is not $\left\{\begin{array}{l} as \\ so \end{array}\right\}$ difficult as it seems. 
+
+(這問題並不像表面上的那麼困難。) 
+
+## 副詞的比較級、最高級
+
+比較變化 
+
+a規則變化→和形容詞一樣，由字形的變化而來。 
+
+<table><tr><td></td><td>原級</td><td>比較級</td><td>最高級</td></tr><tr><td>副詞字尾無ly→加er,est</td><td>fast</td><td>faster</td><td>fastest</td></tr><tr><td>副詞字尾有ly→more,most+副詞</td><td>quickly</td><td>more quickly</td><td>most quickly</td></tr></table>
+
+<table><tr><td>原級</td><td>比較級</td><td>最高級</td></tr><tr><td>badly(壞)ill(不好)</td><td>worse</td><td>worst</td></tr><tr><td>well(好)</td><td>better</td><td>best</td></tr><tr><td>much(多)</td><td>more</td><td>most</td></tr><tr><td>little(少)</td><td>less</td><td>least</td></tr><tr><td rowspan="2">far(遠)</td><td>farther</td><td>farthest(表距離)</td></tr><tr><td>further</td><td>furthest(表程度)</td></tr></table>
+
+◎副詞的比較級+than 
+
+(例)1.He can sing better than Lisa. 
+
+(他可以唱的比麗莎好。) 
+
+2.I study harder than my friends. 
+
+(我比我的朋友們更努力。) 
+
+◎the 副詞的最高級+ $\left\{\begin{array}{l} 地點 \\ of the three \end{array}\right\}\rightarrow$ 副詞的最高級，the可以省略。 
+
+(例)1.My father gets up (the)earliest of us all. 
+
+(我父親是我們之中最早起的。) 
+
+2. Cathy dances (the) most beautifully. 
+
+(凱西是跳舞跳得最美的。) 
+
+(注意)形容詞和副詞的不同 
+
+例) 
+
+Tom is the fastest boy of all. → 形容詞的最高級，the 不可省略。
+(湯姆是所有男孩中最快的。) 
+
+Tom runs (the)fastest of all. →副詞的最高級，the可以省略。 
+
+(湯姆是所有男孩中跑得最快的。) 
+
+◎疑問詞+比較 
+
+(例) 1. Which fruit do you like better, apples or oranges? (你比較喜歡哪一種水果，蘋果或是柳橙？) 
+
+2.Which do you like (the) best, apples, oranges or peaches? (蘋果、柳橙和桃子，你最喜歡哪一種？) 
+
+(注意)兩者之間用比較級；三者(或以上)用最高級。 
+
+![](file://C:/Users/admin/MinerU/谢孟媛《初级语法》第二册(共3册)初级文法视频课程讲义.pdf-f17b38d1-e8cb-4f63-abeb-9c3310078424/images/33124ab99094498a06703cadf395a8e670bcc7dc76a86e4021162524a8e292ba.jpg)
+
+
+## 不定詞
+
+不定詞(to+原形動詞)，其身份不再是動詞。它在句中扮演名詞、形容詞及副詞的功能。 
+
+1.名詞用法→當主詞、受詞、補語 
+
+(例)To buy things in a flea market must be fun. 
+
+(在跳蚤市場買東西一定很好玩。) 
+
+to V 
+
+2.形容詞用法→修飾名詞 
+
+(例)I have a lot of things to buy. 
+
+(我有很多東西要買。) 
+
+3.副詞用法 $\rightarrow$ 表目的、原因等。 
+
+(例)I went there to buy notebooks. 
+
+(我去那裡買筆記本。) 
+
+## 不定詞的名詞用法
+
+◎不定詞當主詞 
+
+<table><tr><td>主詞</td><td>動詞</td><td></td></tr><tr><td>The work</td><td>is</td><td>fun.</td></tr><tr><td>To travel around the world</td><td>is</td><td>fun.</td></tr></table>
+
+(例)1.To answer this question is difficult for me. (對我而言回答這個問題是困難的。) 
+
+(注意)不定詞放句首當主詞時，視為一件事，其後須接單數動詞。 
+
+2. To solve pollution problems is difficult for people in Taiwan.
+→It is difficult for people in Taiwan to solve pollution problems.
+(對台灣民衆而言，要解決污染問題是困難的。) 
+
+(注意)不定詞為首的主詞，可用it（假主詞）代替，再將此事件放置在後說明。 
+
+3.To be patient with others is best for you. $\rightarrow$ It is best for you to be patient with others. （你對別人有耐心是最好的。） 
+
+※句型：It's + 形容詞（修飾事物）+ for + 人 + to + 原形動詞... 
+
+It's + 形容詞（修飾人）+ of + 人 + to + 原形動詞... 
+
+修飾“人”的形容詞： $\left\{ \begin{array}{l}\mathrm{good,nice,kind,brave,clever,careless,honest}\\ \mathrm{bad,stupid,silly,selfish,polite...等} \end{array} \right.$ 
+
+(例)1.It's kind of you to help me.
+(你真好幫我的忙。) 
+
+2. It's stupid of him to speak ill of others.
+(他說別人壞話是愚蠢的。) 
+
+## ◎不定詞當受詞
+
+<table><tr><td>主詞</td><td>動詞</td><td>受詞</td></tr><tr><td>I</td><td>like</td><td>baseball.</td></tr><tr><td>I</td><td>like</td><td>to play baseball.</td></tr></table>
+
+(例)1.I decided to quit the job.
+(我決定辭掉工作。) 
+
+2.He hoped to be there on time.
+(他希望準時到那裡。) 
+
+(注意)有些動詞，如decide，hope，want，expect，volunteer等，必用不定詞當受詞。 
+
+3. I $\left\{ \begin{array}{l} \text{want} \\ \text{would like} \end{array} \right\}$ to see a movie with my friend. (我想要和我的朋友一起看電影。) 
+
+4. You needn't go if you don't want to. 
+
+(你不需要去，如果你不想去的話。) 
+
+(注意)to後面的動詞和前面相同時，則動詞可省略。 
+
+◎不定詞當補語 
+
+a. 當主詞補語 → 可放在be動詞或在連綴動詞之後，補充說明主詞。 
+
+<table><tr><td>主詞</td><td>動詞</td><td>主詞補語</td></tr><tr><td>My work</td><td>is</td><td>the thing.</td></tr><tr><td>My work</td><td>is</td><td>to prepare dinner.</td></tr></table>
+
+(例)1.My aim in life is to become a famous singer.
+(我人生的目標是成爲名歌手。) 
+
+2. To see is to believe.
+(眼見爲憑。) 
+
+b. 當受詞補語 → 即：主詞 + 動詞 + 受詞 + 受詞補語。 
+
+<table><tr><td>主詞</td><td>動詞</td><td>受詞</td><td>受詞捕語</td></tr><tr><td>He</td><td>calls</td><td>me</td><td>Johnny.</td></tr><tr><td>He</td><td>wants</td><td>me</td><td>to do it.</td></tr></table>
+
+(例)1.He told me to give up smoking.
+(他告訴我要戒煙。) 
+
+2.She got her husband to clean up the house. (她叫她先生打掃房子。) 
+
+(注意)有些動詞，如want,ask,teach,tell,get,show等，用不定詞當受詞補語。 
+
+(例)3.He asked me not to tell her the truth.
+(他要求我不要跟她說實話。) 
+
+(比較)He didn't ask me to tell her the truth.
+(他沒要求我跟她說實話。) 
+
+(注意)否定不定詞 $\rightarrow$ not+to+原形動詞 
+
+## 不定詞的形容詞用法
+
+不定詞當形容詞修飾名詞或something……等代名詞時，採用後位修飾。即：名詞 / something... + to + 原形動詞 
+
+## △修飾名詞
+
+(例)1.I have letters to write.
+(我有信要寫。) 
+
+2. My mother has a lot of housework to do every day.
+(我媽媽每天有很多家事要做。) 
+
+△修飾something...等 
+
+(例)1.I'll give you something to eat. (我會給你東西吃。) 
+
+2.Do you have anything to read?
+(你有什麼東西可讀嗎？) 
+
+(注意)有些不定詞之後會伴隨著介系詞。 
+
+(例)1. They have a lot of things to talk about.
+(他們有許多事要談。) 
+
+2. Please give me a ball-point pen to write with.
+(請給我一枝原子筆寫字。) 
+
+不定詞的副詞用法 
+
+不定詞可以用來修飾動詞，形容詞和副詞，能夠表示目的、原因等 ◎表目的 → 此時可用in order to + 原形動詞代替(例)She went to London to study English.
+=She went to London in order to study English.
+(她去倫敦學英語。) 
+
+(注意)go和come通常其後不接不定詞，而是用and連接。
+(例)Come and see me.
+(來看我。) 
+
+◎表原因 → 跟在表感情的形容詞之後
+(例)1.I am glad to see you.
+(很高興見到你。) 
+
+2. We are sorry to hear the news.
+(我們聽到這消息很難過。) 
+
+含不定詞的句型 
+
+◎疑問詞+to原形動詞→此為名詞片語，可當主詞、受詞、補語。 
+
+(例)1.Which way to go is a big problem.
+(當主詞)
+(要走哪一條路是個大問題。) 
+
+2.I know how to operate the machine.
+(受詞)
+(我知道如何操作這機器。) 
+
+3. He told me where to take the bus.
+(當補語)
+(他告訴我哪裡可以搭公車。) 
+
+◎too_to...（太……而不能） 
+
+※too + {形容詞副詞} + to原形動詞 
+
+(例)1. You are too young to understand the whole thing.
+(你太年輕無法了解整件事。) 
+
+2. The water is too hot for me to drink.
+(對我而言水太熱無法喝。) 
+
+3. He worked too slowly to finish it.
+(他工作得太慢無法完成這件事。) 
+
+◎……enough to...（夠～可以～） 
+
+※ $\left\{ \begin{array}{l} \text{形容詞} \\ \text{副詞} \end{array} \right\} + \mathrm{enough} + \mathrm{to}$ 原形動詞 
+
+(例)1.My younger brother is old enough to go to school.
+(我弟弟年紀夠大可以上學。) 
+
+2. Bob worked hard enough to pass the exam.
+(Bob夠用功可以通過考試。) 
+
+![](file://C:/Users/admin/MinerU/谢孟媛《初级语法》第二册(共3册)初级文法视频课程讲义.pdf-f17b38d1-e8cb-4f63-abeb-9c3310078424/images/4e4826c96a5ab77d923600b0a550263e6508ec8a31d35ad30634be230375e00b.jpg)
+
+
+## 動名詞
+
+動名詞就是在原形動詞後加上ing，使其具有名詞的特性，句子中可扮演主詞，受詞或補語的功能。 
+
+◎動名詞當主詞：須具有名詞特性的字（或字群）才能當主詞，所以動名詞可當主詞。 
+
+※比較 
+
+<table><tr><td>主詞</td><td>動詞</td><td></td></tr><tr><td></td><td rowspan="2">Do</td><td rowspan="2">it right now.(祈使句)</td></tr><tr><td rowspan="2">{To do} it right nowDoing</td></tr><tr><td>is※動名詞或不定詞放句首當主詞時,整個主詞視為一件事,其後須用單數動詞。</td><td>important.(直述句)</td></tr></table>
+
+(例)1.Sleeping eight hours a day is good for health.
+=To sleep eight hours a day is good for health.
+=It is good for health to sleep eight hours a day.
+(一天睡8小時有益健康。) 
+
+2. Swimming at the beach is a lot of fun.
+= To swim at the beach is a lot of fun.
+= It's a lot of fun to swim at the beach.
+(在海邊游泳很好玩。) 
+
+(注意)It's no use crying over spilt milk.
+(覆水難收。) 
+
+◎動名詞當受詞：放動詞或介系詞後。 
+
+(1)當動詞的受詞 
+
+(例)1. You have to give up smoking.
+(你必須戒煙。) 
+
+2.I like watching basketball games on TV. (我喜歡看電視上的籃球比賽。) 
+
+(注意)1動詞like,love,hate,start,begin,learn...等之後可接Ving或to-V當受詞，在意義上沒有差異。 
+
+(例)They began $\left\{\begin{array}{l}dancing\\to dance\end{array}\right\}$ faster and faster.
+(他們開始跳得越來越快。) 
+
+(注意)2.動詞stop,remember,forget,try...等之後可接Ving或to-V當受詞，但意義通常不同。 
+
+(例)1.The man stopped talking.
+(那人停止說話。)
+The man stopped to talk to a newsboy.
+(那人停下來和報童說話。) 
+
+* I'm tried. I have to stop { working . to take a rest. 
+
+我累了，我必須停 $\left\{\begin{array}{l} 止工作。 \\  下來休息。 \end{array}\right.$ 
+
+2. 
+
+She remembered meeting him somewhere. 
+
+(她記得在某處曾見過他。)一已見過 
+
+She remembered to meet him at the station. 
+
+(她記得要在車站和他碰面。)一尚未過見 
+
+※Remember to preview your lesson before class and review your 
+
+lesson after class. 
+
+(記得課前預習，課後複習。) 
+
+3. 
+
+Lucy forgot sending me a card. 
+
+(Lucy忘記曾寄給我一張卡片。)－寄過 
+
+Lucy forgot to send me a card. 
+
+(Lucy忘了要寄卡片給我。)－未寄 
+
+* Don't forget to send me a card on Christmas. 
+
+(別忘了在耶誕節寄張卡片給我。) 
+
+4. 
+
+Try to solve the problem before ten o'clock. 
+
+(設法在十點前解決這個問題。)一要人盡力去做某事 
+
+Try knoking at the back door if nobody hears you at the front door. 
+
+(如果前面沒有人聽到，試敲一下後門。) 
+
+一即敲一敲門，試試是否有人應門 
+
+## ◎下列動詞之後只能接Ving。
+
+mind、enjoy、finish、practice、miss、quit、understand、avoid、give up、can't help、can't stand、It's no use、It's no good
+(例)1.Would you mind waiting for me?
+(你介意等我一下嗎？) 
+
+※I made up my mind to wait for her.
+(我决定要等她。) 
+
+2. These students practice speaking English every day.
+(這些學生每天練習英語。) 
+
+3.I can't help laughing at him. (我忍不住嘲笑他。) 
+
+(2)當介系詞的受詞－介系詞之後必接Ving。 
+
+(例)1.He is interested in playing hide-and-seek.
+(他喜歡玩躲貓貓。) 
+
+2. We are thinking about buying a washing machine.
+(我們考慮要買台洗衣機。) 
+
+◎動名詞當補語－動名詞可位於be動詞之後當補語。 
+
+(例)1.My work is washing cars.
+(我的工作是洗車。) 
+
+2. One of my hobbies is collecting stamps.
+(我的嗜好之一是集郵。) 
+
+(注意)在其他句型中的Ving形式 
+
+1. go + Ving/go + N + Ving 
+
+golfing 打高爾夫球 
+
+fishing 去釣魚 
+
+hunting 打獵 
+
+bowling 打保齢球 
+
+(例) go 
+
+skating 溜冰 
+
+swimming 去游泳 
+
+hiking 去健行 
+
+shopping 逛街 
+
+sailing 去航行 
+
+mountain climbing 去爬山 
+
+(例) go 
+
+bike riding 騎車兜風 
+
+window shopping 去逛街（只逛不賣） 
+
+bird watching 去賞鳥 
+
+2. do + { a lot of } + Ving
+    a little 
+
+(例)1.I am busy, but I still do a little painting.
+(我很忙，但我仍然偶爾會畫畫。) 
+
+2.Do you have to do a lot of traveling in your work? (你的工作必須經常旅行嗎？) 
+
+3.busy, trouble...等 + Ving → 本型中的Ving前面常省略掉介系詞in 
+
+(例)1.My mom was busy cooking dinner.
+(我媽那時忙著做晚餐。) 
+
+2. I had trouble finding out the answer to the question.
+(我無法找出這問題的答案。) 
+
+4.There is no+Ving...。(…是沒有辦法做到的。) 
+
+(例)1.There is no telling what will happen next. (無法得知接下來會發生什麼事。) 
+
+2.There is no knowing who did it. (無法知道那件事是誰做的。) 
+
+## 練習
+
+1. I remember seeing Mr. Smith in my office before. 
+
+2.I'll remember to see Mr. Smith tomorrow. 
+
+3. Would you mind going to London on business? 
+
+4. Go on doing the other exercise after you have finished this one. 
+
+5.I can't help feeling worried about his health. 
+
+6.I apologize for not keeping my promise. 
+
+![](file://C:/Users/admin/MinerU/谢孟媛《初级语法》第二册(共3册)初级文法视频课程讲义.pdf-f17b38d1-e8cb-4f63-abeb-9c3310078424/images/050815039912ad193286e6fb8c6ae4841384e7cdeacc3df78c56977a7fcac8ec.jpg)
+
+
+## 分詞
+
+分詞可分為現在分詞及過去分詞。 
+
+## 現在分詞
+
+形式 $\rightarrow$ 原形動詞 $+\mathrm{ing}$ 
+
+功用 → (1) 表 “行動進行”
+(例) The girl is talking with Joe.
+(那女孩正和Joe講話。) 
+
+(2)表“主動” 
+
+(例)The girl talking with Joe is Jane.
+(正和那女孩講話的是Joe。) 
+
+## 過去分詞
+
+形式 $\rightarrow$ 一爲規則變化（原形動詞 $+\mathrm{ed}$ ）；一爲不規則變化。功用 $\rightarrow$ (1)表“動作完成” 
+
+(例)David has just used the pen.
+(David剛用過那枝筆。) 
+
+(2)表"被動" 
+
+(例) 1. This is the pen used by David.
+(這是David用過的筆。) 
+
+2. The pen was used by David.
+(這枝筆被David用過。) 
+
+## 現在分詞的形容詞用法
+
+(1)現在分詞＋名詞 → 單獨的現在分詞，沒有受詞或(副詞片語)相伴時，放在名詞之前修飾名詞。 
+
+(例) 1. Don't wake the sleeping baby.
+(別吵醒睡眠中的寶寶。) 
+
+2. The rising sun is very beautiful.
+(日出非常美麗。) 
+
+(2)名詞+現在分詞→現在分詞後有受詞或修飾語句相伴時，放在名詞之後修飾名詞。 
+
+a man working in the garden. 
+
+(我看到一個人在花園工作。) 
+
+(例)I saw 
+
+a girl playing the piano on the stage. 
+
+(我看到一個女孩在舞台上彈鋼琴。) 
+
+a child sleeping on the grass. 
+
+(我看到一個小孩睡在草地上。) 
+
+過去分詞的形容詞用法 
+
+(1)過去分詞＋名詞→單獨的過去分詞，沒有受詞或副詞片語相伴時，放在名詞之前修飾名詞。 
+
+(例) 1. I found the lost pen. 
+
+(我找到那支遺失的筆。) 
+
+2.She bought a used car. 
+
+(她買了一輛二手車。) 
+
+(注意)過去分詞的形容詞用法，代表兩種含義。 
+
+## 1. 表 “被動”
+
+(例) a spoken language (說的語言) 
+
+a decayed tooth (蛀牙) 
+
+a wounded soldier (受傷的士兵) 
+
+a boiled egg (煮熟的蛋) 
+
+boiling warter (沸騰的水) 
+
+boiled water (開水) 
+
+2.表“完成”
+fallen leaves
+(已經飄落的葉子) 
+
+※falling leaves
+(正在飄落的葉子) 
+
+the risen sun
+(已經昇起的太陽) 
+
+※the rising sun
+(正在昇起的太陽) 
+
+a faded flower
+(退休的老師) 
+
+a retired teacher
+(凋謝的花) 
+
+(2)名詞＋過去分詞→過去分詞後有受詞或修飾語句相伴時，放在名詞之後修飾名詞。 
+
+(例)1.This is a picture painted about 200 years ago.
+(這是一幅兩百年前畫的圖畫。) 
+
+2. We have some story books written in easy English.
+(我們有些用簡單英文寫成的故事書。) 
+
+## (3)名詞+現在分詞+修飾語句
+
+名詞＋現在分詞＋修飾語句→在句中還可扮演主詞、受詞及補語的功用。 
+
+## a. 當主詞
+
+(例)1.The woman sitting in the middle is Bob's mother. (坐在中間的女人是Bob的母親。) 
+
+2. Some of the people waiting for the bus became angry.
+(等公車中的有些人變得很生氣。) 
+
+## b. 當受詞
+
+(例)1.I know the boy running in the park.
+(我認識在公園跑步的男孩。) 
+
+2.Do have you any friends living in Japan?
+(你有任何住在日本的朋友嗎？) 
+
+## c. 當補語
+
+(例)1.The subway is the railway running under the ground.
+(地鐵是在地下行駛的鐵路。) 
+
+2.A nurse is a person taking care of sick people. (護士是照顧病人的人。) 
+
+## (3)名詞+過去分詞+修飾語句
+
+名詞+過去分詞+修飾語句→在句中還可扮演主詞、受詞及補語的功用。 
+
+## a. 當主詞。
+
+(例)The language spoken in America is English.
+(美國說的語言是英語。) 
+
+## b. 當受詞
+
+(例)I look at a lot of pictures taken in Kenting.
+(我看了許多在墾丁拍的照片。) 
+
+## c.補語
+
+(例)This is a dress made for her. (這是為她做的洋裝。) 
+
+比較：形容詞用法的現在分詞及過去分詞。 
+
+1. 現在分詞當形容詞用，表a. 動作進行b. 主動 
+
+2. 過去分詞當形容詞用，表a. 動作完成b. 主動 
+
+(例)1.The girl drawing the picture is my sister.
+(畫這幅畫的女孩是我姊。) 
+
+2. The picture drawn by my sister is nice.
+(這幅我姊姊所畫的畫不錯。) 
+
+## 分詞的其他用法
+
+(1) S+V+現在分詞→現在分詞可直接放在動詞後，當補語使用
+a.keep+現在分詞：表“動作的持續或重覆”。 
+
+(例)1.He keep standing for three hours.
+(他一直站了三小時。) 
+
+2. The dog kept barking all night.
+(那隻狗整晚叫個不停。) 
+
+b.come (stand, sit...等) + 現在分詞 → 現在分詞可作爲come, stand, sit, lie 等表靜止或運動的動詞之補語，表示二個動作同時進行。 
+
+(例)1. The children came running to meet us.
+(小朋友跑來迎接我們。) 
+
+2. Jack stood looking at the monkeys.
+(Jack 站著看猴子。) 
+
+(2) S+V+O+現在分詞 $\longrightarrow$ 現在分詞可作為感官動詞hear,see,feel.
+..及keep,leave等動詞的受詞補語。 
+
+(例)1. I saw her crossing the road.
+(我看見她穿越馬路。) 
+
+2. Don't leave her waiting outside in the rain.
+(別讓她在外面雨中等待。) 
+
+(3) S+V+O+過去分詞 → 過去分詞可作爲make, have, see, hear, feel, want, wish, would like...等動詞的受詞補語。 
+
+(例)1. I could not make myself understood in English.
+(我的英文别人聽不懂。) 
+
+2. She heard her name called.
+(她聽到有人叫她的名字。) 
+
+3. I had my hair cut.
+(我剪頭髮了。) 
+
+(比較) 動名詞及現在分詞 
+
+動名詞及現在分詞的形皆為原形動詞+ing，但其功用不同。 
+
+◎動名詞：動名詞是一個動詞，在使用時具有名詞的特性，可當主詞，受詞及補語。 
+
+◎現在分詞：進行式為be動詞+現在分詞，表一個動作正在進行。另外，現在分詞也有形容詞的功用，可修飾名詞或當有些動詞的受詞補語。 
+
+(例)1. Tom's hobby is painting.(動名詞)
+(Tom的嗜好是畫畫。) 
+
+2. Tom is painting.(現在分詞)
+(Tom正在畫畫。) 
+
+![](file://C:/Users/admin/MinerU/谢孟媛《初级语法》第二册(共3册)初级文法视频课程讲义.pdf-f17b38d1-e8cb-4f63-abeb-9c3310078424/images/f0f83a3371a1d00a301ec9bba331d471f75f33fb6fba15d2f5bcaa0c478cd2e1.jpg)
+
+
+## 形容詞
+
+## 1. 形容詞的用法
+
+敘述用法→放be動詞或連綴動詞之後，補充說明主詞。
+(例)1.He is old and sick.
+(他又老又病。) 
+
+2. Mark became hungry after two hours' work.
+(在工作兩小時後，Mark變得很餓。) 
+
+3. Sea water tastes salty.
+(海水嚐起來鹹鹹的。) 
+
+限定用法→修飾名詞 
+
+◎形容詞+名詞 
+
+(例)1.a useful book (一本有用的書) 
+
+2.physical education (體育) 
+
+(注意)若有兩個或以上的形容詞修飾同一個名詞，其次序是： 
+
+<table><tr><td>限詞 this that</td><td>數量</td><td>品質</td><td colspan="3">表性質、狀態的形容詞大小、形狀→顏色、新舊→材料、地點</td><td>材料地點</td></tr><tr><td>an</td><td></td><td>expensive</td><td></td><td></td><td>gold</td><td>watch</td></tr><tr><td>this</td><td></td><td></td><td></td><td>red</td><td>silk</td><td>tie</td></tr><tr><td></td><td>five</td><td></td><td>tall</td><td>strong</td><td>Korean</td><td>boys</td></tr><tr><td>a few</td><td></td><td>useful</td><td>oblong</td><td>black</td><td></td><td>boxes</td></tr></table>
+
+◎something...等+形容詞 
+
+$\left\{ \begin{array}{l}\text { an important thing (一件重要的事) } \\ \text { something important (某件重要的事) } \end{array} \right.$ 
+
+(例)1.He eats nothing sweet.
+(甜的東西他一概不吃。) 
+
+2. Something terrible is about to happen.
+(某件可怕的事即將要發生。) 
+
+(注意) 
+
+<table><tr><td>國名</td><td>某國的(形容詞)</td><td>語言</td><td>全國人民(複數)</td></tr><tr><td>China</td><td>Chinese</td><td>Chinese</td><td>the Chinese</td></tr><tr><td>Japan</td><td>Japanese</td><td>Japanese</td><td>the Japanese</td></tr><tr><td>Korea</td><td>Korean</td><td>Korean</td><td>the Koreans</td></tr><tr><td>France</td><td>Franch</td><td>French</td><td>the French</td></tr><tr><td>Germany</td><td>German</td><td>German</td><td>the Germans</td></tr><tr><td>Spain</td><td>Spanish</td><td>Spanish</td><td>the Spanish</td></tr></table>
+
+## 2. 表示數量的形容詞
+
+many + 可數複數名詞
+much + 不可數名詞 (許多) $\} \rightarrow$ a lot of/lots of 
+
+(例)1.Did he make many mistakes on the test?
+(他考試犯了許多錯誤嗎？) 
+
+2.Is there much wine in the bottle? 
+
+(瓶子裡有許多酒嗎？) 
+
+a few + 可數複數名詞 
+
+a little+不可數名詞 
+
+(一些) } → some 
+
+(例)1. These were a few children in the yard at that time.
+(那時有些小朋友在院子裡。) 
+
+2.I gave her a little trouble. (我給她添了一些麻煩。) 
+
+few+可數複數名詞 
+
+little+不可數名詞 
+
+(很少；幾乎沒有) 
+
+(例)1.He is a man of few words.
+(他是個不太愛說話的人。) 
+
+2.There is little hope of his recovery. (他幾乎沒有復元的希望。) 
+
+some（一些） → 用於肯定句
+any（任何） → 用於否定句，疑問句 
+
+(例)1.He collects some foreign stamps.
+(他收集了一些外國郵票。) 
+
+2.There is not any tea in the cup. (杯子裡沒有茶了。) 
+
+(注意)勸人吃東西，請人幫忙，或期待對方回答Yes時，問句裡也可用some。 
+
+(例)1.Would you like some wine? (想要些葡萄酒嗎？) 
+
+2. May I have some more coffee?
+(我可以再要些咖啡嗎？) 
+
+## 3.數詞
+
+<table><tr><td>基數</td><td>序數</td><td>基數</td><td>序數</td></tr><tr><td>1. one</td><td>first(1st)</td><td>11.eleven</td><td>eleventh(11th)</td></tr><tr><td>2. two</td><td>second(2nd)</td><td>12.twelve</td><td>twelfth(12th)</td></tr><tr><td>3. three</td><td>third(3rd)</td><td>13.thirteen</td><td>thirteenth(13th)</td></tr><tr><td>4. four</td><td>fourth(4th)</td><td>15.fifteen</td><td>fifteenth(15th)</td></tr><tr><td>5. five</td><td>fifth(5th)</td><td>20. twenty</td><td>twentieth(20th)</td></tr><tr><td>6. six</td><td>sixth(6th)</td><td>21. twenty-one</td><td>twenty-first(21th)</td></tr><tr><td>7. seven</td><td>seventh(7th)</td><td>30. thirty</td><td>thirtieth(30th)</td></tr><tr><td>8. eight</td><td>eighth(8th)</td><td>40. forty</td><td>fortieth(40th)</td></tr><tr><td>9. nine</td><td>ninth(9th)</td><td>90. ninety</td><td>ninetieth(90th)</td></tr><tr><td>10. ten</td><td>tenth(10th)</td><td>100. one hundred</td><td>hundredth(100th)</td></tr></table>
+
+## 數的讀法
+
+## △整數
+
+(例)1. 12,345 → twelve thousand three hundred and forty-five
+2. 3,874,516 → three million eight hundred and seventy-four
+thousand five hundred and sixteen 
+
+△小數：小數點為point 
+
+(例)1. 3.14 → three point one four 
+
+2. $27.08 \rightarrow$ twenty-seven point zero eight 
+
+△分數： $\frac{分子 \rightarrow 基數}{分母 \rightarrow 序數}$ 。若分子超過1，則分母加s。 
+
+(例)1. $\frac{1}{3} \rightarrow$ one third 
+
+2. $2 \frac{3}{4} \rightarrow$ two and three fourths 
+
+## △年月日
+
+1. 2000年→(the year) two thousand 
+
+2. 1984年7月4日→July four(th), nineteen eighty-four 
+
+## △時刻
+
+(例)1. 6:15→six fifteen/a quarter past six 
+
+2. 7:30→seven thirty/half past seven 
+
+3. 8:59→eight fifty-nine/one to nine 
+
+## △温度
+
+(例)1.攝氏 $25^{\circ}C$ →twenty-five degrees centigrade/Celsius 
+
+2.華氏 $93^{\circ}F\rightarrow$ ninety-three degrees Fahrenheit 
+
+## △電話號碼
+
+(例)2834-7509→two eight three four, seven five zero nine 
+
+數詞的慣用表現 
+
+△hundreds/thousands/millions of~數以百 / 千 / 百萬計的~
+(例)1.He has one hundred kinds of stamps.
+(他有100種郵票。) 
+
+2. Hundreds of children gathered in the playground.
+(數以百計的小朋友聚集在運動場。) 
+
+△in+one's/the+數詞的複數形 (例)1.She is in her twenties/teens.
+(她20幾歲 / 10幾歲。) 
+
+2.There was an antiwar movement in the nineteen-sixties. (在1960年代有一項反戰運動。) 
+
+## △數詞－單數名詞＝形容詞
+
+(例)1.It's only a ten-minute walk from here to the station.
+(從這裡走路到車站只要十分鐘路程。) 
+
+2. The young man married a 70-year-old woman.
+(那年輕人娶了一位70歲的女士。) 
+
+![](file://C:/Users/admin/MinerU/谢孟媛《初级语法》第二册(共3册)初级文法视频课程讲义.pdf-f17b38d1-e8cb-4f63-abeb-9c3310078424/images/96003a06de2b177fff4b1ff2bed9c5892ca8eb755b4594a4f8ba3a4771d4dfe5.jpg)
+
+
+## 副詞
+
+## 1.副詞的功用
+
+△修飾一般動詞 
+
+(例)He drives his car carefully. (他小心開車。) 
+
+## △修飾形容詞
+
+(例)He is a very careful driver. (他是一位很小心的駕駛。) 
+
+△修飾另一個副詞 
+
+(例)He drives his car very carefully. (他開車非常小心。) 
+
+## 2.副詞的種類
+
+## (1)情狀副詞
+
+## 形成
+
+△形容詞加1y 
+
+(例)quick-quickly（快）
+careful-carefully（小心） 
+
+△形容詞字尾爲le → 去e加y 
+
+(例)terrible-terribly（可怕）
+comfortable-comfortably（舒適） 
+
+△形容詞字尾爲子音+y → 去y加ily
+(例)happy-happily（快樂）
+heavy-heavily（重的） 
+
+△形容詞字尾爲ll→加y 
+
+(例)full-fully (滿)
+dull-dully (遲鈍) 
+
+△形容詞字尾爲ue → 去e加ly 
+
+(例)true-truly（真實）
+due-duly（適當） 
+
+△形容詞，副詞同形 
+
+(例)early（早），late（晚），enough（足夠），fast（快）
+first（第一），last(最後）等。 
+
+△不規則變化 
+
+(例)good-well (好) 
+
+## 位置
+
+## △動詞+副詞=副詞+動詞
+
+(例)She danced beautifully.
+= She beautifully danced.
+(她舞得很美。) 
+
+## △動詞+受詞+副詞=副詞+動詞+受詞
+
+(例)All of us accepted the invitation gladly.
+= All of us gladly accepted the invitation.
+(我們所有人都很樂意接受這邀請。) 
+
+△動詞+介系詞+受詞+副詞
+=副詞+動詞+介系詞+受詞
+=動詞+副詞+介系詞+受詞 
+
+(例)She walked into the classroom quietly.
+=She quietly walked into the classroom.
+=She walked quietly into the classroom.
+(她安靜地走進教室。) 
+
+△be動詞+副詞+Ving 
+
+(例)He was anxiously waiting for her arrival.
+(他焦急地等著她的到來。) 
+
+(注意)字尾爲ly的情狀副詞可用於一句的句首。
+(例)Slowly and carefully he opened the box.
+(他慢慢地小心翼翼地打開盒子。) 
+
+(注意)連綴動詞，如fell,taste...等，其後須接形容詞。 
+
+1. {The old man looked angry. (那老人看起來很生氣。) The old man looked at me angrily. (那老人生氣地看著我。) 
+
+2. $\left\{\begin{array}{l}\text { We felt sad for his death. (我們為他的死感到難過。)}\\ \text { The doctor felt the pulse carefully. (醫生細心地診脈。)}\end{array}\right.$ 
+
+3. $\left\{ \begin{array}{l} \text { Mark appeared calm. (Mark似乎很冷靜。)} \\ \text { Mark appeared suddenly at the door. } \end{array} \right.$ (Mark突然出現在門口。) 
+
+(2)頻率副詞→always(總是)，usually(通常)，often(經常)，sometimes(偶爾)，seldom(不常)，ever(曾經)，never(絕不) 
+
+## 位置
+
+$\triangle\rightarrow$ be動詞 / 助動詞之後 
+
+△一般動詞之前 
+
+(例) Jim is always late to school.
+=Jim always goes to school late.
+(Jim上學總是遲到。) 
+
+△簡答句或簡述句時，在be動詞或助動詞之前 
+
+(例) 1. Mr. Wang usually goes to the office by bus, but Mrs. Wang never does.
+(王先生通常搭公車上班，但王太太從不搭公車上班。) 
+
+2. Did you ever talk to foreigners in English? No, I never did.
+(你曾用英語和外國人交談嗎？不，從沒有。) 
+
+(注意)頻率副詞除always外，也可以用於句首。 
+
+(例)Sometimes we eat dinner in that restraint. 
+
+(偶爾我們在那家餐廳吃晚餐。) 
+
+(注意)詢問頻率用How often (多少一次) 
+
+(例)How often do the buses run between the station and your school? → Once an hour. 
+
+(從車站到你們學校之間公車隔多久來一班？一小時一班。) 
+
+(3) 地方副詞 → there (那裡), here (這裡), downstairs (樓下), upstairs (樓上), inside (在內), outside (在外), under the tree (在樹下) … 等。 
+
+## △小地方+大地方
+
+(例)Her parents lived on a small farm in a remote country.
+(她父母住在偏遠鄉下的一個小農場上。) 
+
+△地方副詞很少用於句首，如用於句首，通常用以表示對比或強調(例)1.The young girls are going upstairs. (那些年輕女孩們正往樓上走去。) 
+
+2. Upstairs they are having a party, and downstairs people are playing loud music. So I cannot study in my apartment. 
+
+(樓上正在開派對，而樓下又有人大聲的放音樂。所以我無法在我的公寓裡讀書。) 
+
+(4)時間副詞 
+
+△句首 / 句尾 
+
+(例)Last week you promised me to do it.
+→You promised me to do it last week.
+(上星期你承諾我要做這件事。) 
+
+## △小時間+大時間
+
+(例)The wedding took place on Wednesday evening last week.
+(婚禮在上星期三晚上舉行。) 
+
+(注意)若有幾個不同類的副詞同時出現，其次序為：地方副詞+情狀副詞+頻率副詞+時間副詞 
+
+(例)1.My sister went upstairs quietly a minute ago. (我姊姊不久前安靜地上樓去。) 
+
+2. A time bomb exploded at the station yesterday.
+(一顆定時炸彈昨天在車站爆炸。) 
+
+(5)程度副詞 $\rightarrow$ so（如此地）、too（太）、very（非常） quite（相當地）、enough（夠） 
+
+△用於所修飾的形容詞或副詞前。 
+
+(例)so comfortable（如此舒適）、too tired（太累）
+very carefully(非常小心) 
+
+△enough用於所修飾的形容詞或副詞之後。 
+
+(例)tall enough（夠高），kind enough（夠仁慈） 
+
+(例)It's warm enough for you to play out of doors.
+(天氣夠暖和你可以到外面玩。) 
+
+3.特别注意的副詞 
+
+very/much 
+
+△ $\left\{\begin{array}{l}very修飾原級和最高級\\ much修飾比較級和最高級\end{array}\right.$ 
+
+(例)1.He is a very good boy. 
+
+(他是位非常棒的男孩。) 
+
+2.He is a much better boy than you. (他是位比你棒的男孩。) 
+
+3.He is 
+
+$\left\{ \begin{array}{ll}\mathrm{muchthebestboy} &  \\ \mathrm{theverybestboy} &  \end{array} \right\}$ 
+
+of all. 
+
+(他是所有男孩中最棒的。) 
+
+△much及very much可修飾動詞，但very不可以。 
+
+(例)I don't like the idea (very) much. 我不是很喜歡這想法。 
+
+△現在分詞(Ving)及過去分詞(p.p.)可當形容詞用。 
+
+$\left\{ \begin{array}{l}\text{修飾現在分詞} \rightarrow \text{very}\\ \text{修飾過去分詞} \rightarrow \text{much, very much} \end{array} \right.$ 
+
+※列入字典當形容詞的過去分詞則用very。 
+
+(例)1. English is an very interesting subject.
+(英文是非常有趣的科目。) 
+
+2. I am much (= very much) interested in English.
+(我對英語很感興趣。) 
+
+3. I am very pleased to teach all of you English.
+(我非常高興教大家英語。) 
+
+maybe/may be 
+
+maybe(或許)為副詞；may為助動詞，be為動詞，意指"可能是"。 
+
+(例) 1. Maybe he is right.
+(也許他對了。) 
+
+2.He may be right. 
+
+(他可能對了。) 
+
+sometime/some time 
+
+△sometime（某個時候），some time（一些時間） 
+
+(例)1.I saw him sometime last year. 
+
+(我在去年某個時間見過他。) 
+
+2.I'll call on you sometime. (改天我會去拜訪你。) 
+
+3.I'll do this if I can spare some time. (如果我能挪出一點時間，我會做這件事。) 
+
+everyday/every day 
+
+everyday（每天）當形容詞用；every day（每天）當副詞用
+(例) 1. Wear your everyday clothes.
+(穿便服吧。) 
+
+2. She helps her mom with kitchen work everyday.
+(他每天幫他母親做廚房工作。) 
+
+（注意）某些副詞可修飾整個句子 
+
+(例) Unfortunately, John failed to pass the exam.
+(不幸地，John未能通過考試。) 
+
+![](file://C:/Users/admin/MinerU/谢孟媛《初级语法》第二册(共3册)初级文法视频课程讲义.pdf-f17b38d1-e8cb-4f63-abeb-9c3310078424/images/efefd09eab28164b5d3415b93c55a3f337bcb0787610d70e834f73533103b8ad.jpg)
+
+
+動詞 
+
+be動詞（連綴動詞）→表“狀態；存在” 
+
+動詞 
+
+一般動詞→表“動作” 
+
+1. 連綴動詞（+形容詞） 
+
+become+形容詞/名詞 
+
+(1)變得 
+
+get,grow,come,go+形容詞 
+
+(例) 1. Come home before it gets dark.
+(天黑前回家。) 
+
+2.My dream will come true in the future.
+(我的夢想未來會實現。) 
+
+3.She went red with anger.
+(她氣得滿臉通紅。) 
+
+(2)~起來 
+
+look（看起來），sound（聽起來），
+smell（聞起來），taste（嚐起來），
+feel（感覺起來）
+} +形容詞 / like(像)+名詞 
+
+(例) 1. { It sounds great. (聽起來很棒。) It sounds like a true story. (那好像是真實的故事。) 
+
+2. { The cloth feels soft. (這塊布摸起來很柔軟。)
+The cloth feels like silk. (這塊布摸起來像絲。) 
+
+(注意)feel like + Ving（想要）；feel like（大概是~似的） 
+
+(例) 1. I don't feel like taking a walk now.
+(我現在不想去散步。) 
+
+2. It feels like rain.
+(大概快下雨了。) 
+
+(3)保持 $\sim$ （狀態） $\rightarrow$ keep,stay 
+
+(例)1.She kept calm during the earthquake.
+(地震時她保持冷靜。) 
+
+2. The weather is going to stay fine for a few days.
+(晴天將會持續兩三天。) 
+
+2.授與動詞（有兩受詞，一爲人，一爲物） 
+
+句型：S+授與動詞+ $\left\{\begin{array}{l} 受詞（人）+ 受詞（物） \\  受詞（物）+ 介詞 + 受詞（人）\end{array}\right.$ 
+
+(例) She asked me a question.
+= She asked a question of me.
+(她問我一個問題。) 
+
+## ※授與動詞所搭配的介詞
+
+△to → give（給），lend（借出），show（展示），pass（傳遞），pay（付錢），sell（賣），send（寄），teach（教），tell（告訴）～等。 
+
+$\triangle$ for→buy（買），make（製造），cook（烹煮），get（得到），find（找出），play（演奏），sing（唱歌）～等。 
+
+$\triangle \mathrm{of}\rightarrow \mathrm{ask}$ （問） 
+
+(例)1. Will you lend me your pen?
+→Will you lend your pen to me?
+(請你把你的鋼筆借我好嗎？) 
+
+(注意) borrow (借入), 其後只能接受詞 (物)
+(例)I borrowed many story books from my friend.
+(我向朋友借了許多故事書。) 
+
+2. His mother bought him a CD player. 
+
+→ His mother bought a CD player for him. 
+
+→ His mother bought it for him. 
+
+(他媽媽買了CD音響給他。) 
+
+3.使役動詞[叫~（人）做~（事）] 
+
+△make, have (叫~) +受詞+原形動詞 
+
+$\triangle \mathrm{get}$ （叫~）+受詞 $+\mathrm{toV}$ 
+
+△let（讓~）+受詞+原形動詞 
+
+△help（幫忙~）+受詞+原形動詞 / to V 
+
+(例)1. Our parents made us brush our teeth three times a day.
+(我們的父母強迫我們一天刷三次牙。) 
+
+2.I'll get them to try it again. (我要叫他們再試一次。) 
+
+3. He helped me (to) paint the wall green.
+(他幫我把牆漆成綠色。) 
+
+## 4.感官動詞
+
+feel (感覺)，see (看)，watch (看)，look at (注視)，notice (注意)，hear (聽)，listen to (傾聽) +受詞+原形動詞/Ving 
+
+(例)1.I looked carefully but saw nothing.
+(我注意看了，但什麼也沒看見。) 
+
+2.I saw him $\left\{\begin{array}{l}mow\\mowing\end{array}\right\}$ the lawn.
+(我看見他在修剪草坪。) 
+
+3.I noticed her $\left\{\begin{array}{l}stand\\ standing\end{array}\right\}$ behind me.
+(我注意到她站在我後面。) 
+
+5.情緒動詞 [使～（人）感到...] 
+
+句型：主詞（事物）+情緒動詞+受詞（人）。→主詞（事物）+be動詞+情緒Ving+to+受詞（人）。→主詞（人）+be動詞+情緒p.p.+介詞+受詞（事物） 
+
+※情緒動詞 $\rightarrow$ 情緒形容詞 $\rightarrow$ $\left\{ \begin{array}{l}\text{現在分詞(Ving)}\rightarrow \text{修飾事物}\\ \\ \text{過去分詞(p.p.)}\rightarrow \text{修飾人} \end{array} \right.$ 
+
+(例)1.The computer game interests young people. 
+
+→The computer game is interesting to young people. 
+
+→Young people are interested in the computer game. 
+
+→Young people take/have interest in the computer game.
+(這電腦遊戲引起年輕人的興趣。) 
+
+(注意)情緒動詞之過去分詞所搭配的介詞如下： 
+
+interested in (對～感興趣) 
+
+surprised at (對～感訝異) 
+
+excited about (對～感興奮) 
+
+be動詞+ 
+
+embarrassed about (對～感困窘) 
+
+worried about (對～感擔心) 
+
+bored with (對～感無聊) 
+
+satisfied with (對～感到滿意) 
+
+(例)1.Tom is boring, so nobody wants to be with him. 
+
+(Tom很無趣,所以沒人想和他在一起。) 
+
+2. I am bored with his endless tales.
+(他冗長的故事令我厭煩。) 
