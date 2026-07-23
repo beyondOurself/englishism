@@ -1,0 +1,2646 @@
+[← 第3章](chapter-03-关系词.md) · [目录](00-目录.md) · [第5章 →](chapter-05-助动词及易用错的动词.md)
+
+---
+
+# 第四章 非谓语动词
+
+# 第四章 非谓语动词
+
+## 概说
+
+![](https://gitee.com/shencanlong/englishism/raw/main/assets/lai/8eb856ee3bcffd0f4e224def594765d476d0a4b9d36a573714baca9f9a2ceeba.jpg)
+
+
+非谓语动词均由动词变化而成，有人称之为准动词。一共有三种：
+
+1. 不定式：
+
+原形不定式：study
+
+置 to 的不定式：to study
+
+例: You should help him study the lesson.
+原形不定式
+
+(你应帮他学这一课。)
+He refused to study the lesson.
+(他拒绝学这一课。)
+
+2. 分词：
+
+现在分词：studying
+
+过去分词：studied
+
+例: He is studying.
+现在分词
+
+(他正在读书。)
+
+The problem should be very carefully studied.
+过去分词 (这个问题应仔细研究。)
+
+3. 动名词：
+
+例: He enjoys studying.
+(他喜欢读书。)
+
+这些词类在句中扮演多种角色，有的可作名词，有的可作形容词，有的可作副词。由于有这些非谓语动词的介入，使得英语生色不少。就语言学的观点而言，非谓语动词是个很值得研究的主题。而对同学们来说，非谓语动词扮演的角色太多、太复杂，学习起来稍嫌困难。但别担心，有赖老师在你身旁，一定会让你了解其中的奥妙，使你驾轻就熟。有人说，我们若清楚非谓语动词的用法，英语就懂了百分之九十，这样的说法一点也不为过。
+
+(我若有空就要做这件事。)
+
+
+## 第一节 不定式
+
+## 1. 不定式的种类：
+
+下例一为原形不定式（即原形动词），一为“to + 原形动词”。我们通常说的不定式系指第二种。
+
+例: I will do it if I have time.
+
+I want to do it if I have time.
+to + 原形动词（俗称的不定式）
+
+
+由于原形动词多置于助动词 will、can、may、should、ought to 等之后，用法比较简单，赖老师打算在本节后段再介绍。我们且先注意 “to + 原形动词” 的用法。
+
+## 2. 不定式的功能：
+
+“to + 原形动词”所形成的不定式有三种功能：
+
+## a. 不定式当名词用
+
+例: To take a trip around the world has been my dream.
+名词（作主语）
+（环游世界一直是我的梦想。）
+
+## b. 不定式当形容词用
+
+例: I have something to do.
+形容词（修饰代词 something）
+（我有事要做。）
+
+## c. 不定式当副词用
+
+例: I came to see her.
+副词（修饰动词 came）
+（我来看她。）
+
+## 3. 名词不定式的用法：
+
+“to + 原形动词”所形成的名词不定式可当作名词看待。我们知道名词在句中可作主语、宾语及be动词后的表语，同理，名词不定式亦有完全相同的功能。
+
+a. 名词不定式作主语:
+
+用以表示一种意愿或未完成的事。
+
+例: To marry her is my goal.
+主语 动词
+(娶她是我的目标。)
+To win the championship is my ambition.
+(赢得冠军是我的雄心。)
+
+## 使用名词不定式作主语时，应注意下列事项：
+
+1) 名词不定式作主语时，be 动词之后的表语若为名词，一定为表意愿、目的、企图等名词，以表某意愿或尚未完成的事。常用的此类名词为：
+plan（计划）、purpose（目的）、attempt（企图）、goal（目标）、aim（目的）、ambition（雄心）、dream（梦想）、ideal（理想）、wish（希望）、hope（希望）、decision（决定）、determination（决定）、proposal（建议）。
+例: To marry Jane is my dream.
+(娶简是我的梦想。)
+
+2) 名词不定式作主语时，可用形式主语 It 取代，而且是较常用的结构。句型为：
+It is...to V
+
+例: It is my goal to marry her.
+(娶她是我的目标。)
+It has long been my dream to travel around the world.
+(环游世界长久以来一直是我的梦想。)
+It is my ambition to win the championship.
+(我的野心就是要赢得冠军。)
+I know what to be in debt is. (可)
+表语 主语 be 动词
+→ I know what it is to be in debt. (佳)
+名词性从句，作 know 的宾语
+(我知道负债是怎么回事。)
+It is difficult to learn English.
+(学英语很难。)
+
+## b. 名词不定式作及物动词的宾语：
+
+例: I want to see him.
+vt. 0.
+(我要看他。)
+
+理由
+think 只用以表示 “想到某一件事”，而非表示意愿，通常用 that 引导的名词性从句作宾语。
+I think that he is great. (√)
+（我想他很了不起。）
+“think of + 名词”，亦表“想到”。
+I thought of Mary a while ago.
+名词
+（不久前我曾想到玛丽。）
+
+
+He intends to try it.
+vt. 0.
+(他有意要试一试。)
+
+## 注意：
+
+使用名词不定式作宾语时，应注意下列事项：
+
+1) 名词不定式绝不可能作介词的宾语。
+
+例: I am interested in to climb mountains. (×)
+→ I am interested in climbing mountains. (√)
+(我对爬山有兴趣。)
+
+2) 名词不定式作及物动词的宾语时，该及物动词均为表意愿、企图的动词。常用的有下列几个：
+want（要）、wish（希望）、hope（希望）、desire（欲望）、intend（意欲）、try（设法）、determine（决心）、decide（决定）、attempt（企图）、endeavor（努力）、like（喜欢）、love（爱）、expect（盼望）。
+I want to take a trip abroad next year.
+(明年我要出国旅游。)
+He intended to visit John that morning.
+(那天早上他想去探访约翰。)
+
+3) 翻译下列中文时，注意表“想要”的动词：
+
+图: 我想要买一辆车子。
+I think to buy a car. (×)
+
+例: I want to buy a car. (√)
+    desire
+    intend
+    expect
+另外，anticipate 及 expect 均表 “期望”，只是 anticipate 之后接动名词作宾语，而 expect 之后则接名词不定式作宾语。
+例: I anticipate seeing you agin.
+= I expect to see you again.
+(我期盼能再次与你见面。)
+
+
+I have been thinking of buying a car.
+现在完成进行时 动名词
+= I have been considering buying a car.
+现在完成进行时 动名词
+（我一直在考虑买辆车子。）
+
+
+故凡表“想要”时，均使用表“意愿”的动词，以名词不定式作其宾语。上列译句，应为：
+
+4) 名词不定式不可直接作不完全及物动词的宾语，一定要以形式宾语 it 代替，加了宾语补语之后，再接名词不定式。句型如下：
+
+S + find（发现） + it + 名词/形容词（作补语） + 名词不定式
+think（认为） 形式宾语 真正宾语
+believe（相信）
+consider（认为）
+deem（认为）
+feel（觉得）
+make（使）
+例: I find to climb mountains interesting. (×)
+
+
+## 理由
+
+名词不定式不得直接作不完全及物动词的宾语，一定要用形式宾语 it 代替。
+
+改正: I find it interesting to climb mountains. (√)
+(我发现爬山很有趣。)
+
+
+同理: I think it necessary for him to do it.
+(我认为他有必要做此事。)
+I deem it an honor for me to give this speech.
+(能在这里演讲我认为这是我的荣幸。)
+I thought it better not to go there alone.
+(我认为最好不要单独去那里。)
+I make it a rule to get up early.
+(我习惯早起。)
+
+“make it a rule to V”表“把……当作常例/习惯于……”，不可写成“make a rule to V”。
+I make a rule to get up early. (×)
+
+
+## c. 名词不定式在 be 动词后作表语:
+
+此时主语均为表“意愿”、“企图”的名词。
+例: My plan is to see him.
+(我的计划是去看他。)
+His only wish at present is to sleep.
+(他此刻唯一的愿望就是去睡觉。)
+His goal is simply to become a teacher.
+(他的目标只是要当个老师。)
+His resolution is to be a scientist.
+(他的志愿是当一名科学家。)
+
+
+## 注意：
+
+使用名词不定式作表语时，应注意下列事项：
+
+1) 名词不定式可作主语，亦可作 be 动词之后的表语，形成 A is B 的概念。
+例: To see is to believe.
+= Seeing is believing.
+动名词 动名词
+(眼见为实。)
+
+
+To love her this way is to worship her.
+= Loving her this way is worshipping her.
+动名词短语 动名词短语
+(这样爱她等于崇拜她。)
+
+2) 下列句型中，be 动词之后的 to 可省略，改接原形动词作表语。
+例: All you have to do is (to) take a good rest.
+(你所要做的是好好休息。)
+All I can do is (to) wait.
+(我所能做的就是等待。)
+What you should do is simply (to) apologize to him.
+(你应做的事就是向他道歉。)
+All I did yesterday was (to) eat and sleep.
+(我昨天做的事就是吃和睡。)
+
+
+## 4. 形容词不定式的用法：
+
+此类不定式一定采用后位修饰，也就是置于名词的后面，作形容词用，修饰其前的名词。
+
+例: I have some work to do.
+名词
+(我有些工作要做。)
+There is one thing to be done.
+名词
+(有件事要做。)
+I have no desire to get into an argument with him.
+名词
+(我无意与他起争执。)
+
+
+## 注意：
+
+使用形容词不定式时，应注意下列事项：
+
+a. 形容词不定式可以等于关系代词作主语所引导的定语从句。
+
+例: I have no friend to advise me.
+= I have no friend who can advise me.
+(我没有朋友可以给我忠告。)
+
+
+There is one thing to be done.
+= There is one thing which should be done.
+(有件事要做。)
+
+
+b. 形容词不定式也可等于关系代词作宾语所引导的定语从句。
+例: I want something to eat.
+= I want something which I can eat. (which 作 eat 的宾语)
+(我要点吃的东西。)
+I have something to do.
+= I have something which I must do. (which 作 do 的宾语)
+(我有事要做。)
+There are many sights to see here.
+= There are many sights which we can see here. (which 作 see 的宾语)
+(这里有许多风景可看。)
+I have no one to talk to.
+= I have no one whom I can talk to. (whom 作介词 to 的宾语)
+(我没有人可以交谈。)
+
+
+## 注意：
+
+1) 此类句型中，被修饰的名词一定要作不定式短语中动词的宾语，否则就要作介词的宾语。
+例: He is a nice man to work. (×)
+
+理由
+work 作 “工作” 解时为不及物动词，故本句应置介词 with 或 for，使 man 成为其宾语。
+
+
+改正: He is a nice man to work for. (√)
+(他人很好，可以替他工作。)
+或: He is a nice man to work with. (√)
+(他人不错，可以与他共事。)
+
+
+## 理由
+
+sit 通常为不及物动词，故其后要置介词 in，使 a chair 作其宾语。
+
+改正: Give me a chair to sit in.
+或: Give me a chair in which to sit.
+
+2) 此类句型中，不定式短语多为主动语态，但有时亦可改为被动语态，以强调被动的概念。
+例: There is something to do.
+= There is something that we must do.
+
+## 主动语态
+
+（有一件事我们得去做。）
+There is something to be done.
+= There is something that should be done (by us).
+被动语态
+
+（有一件事得由我们做。）
+以上两例的意思相同，所差的只是主动与被动语态的不同。不过有时，被动语态却比主动语态佳。
+例: His article leaves nothing to be desired.
+= His article leaves nothing that can be desired (by anyone).
+（他的文章完美无缺——没有什么可以挑剔的。）
+
+c. be 动词之后以 “to + 原形动词” 所形成的表语，可视为名词不定式，但有时亦可视为形容词不定式。
+例: His plan is to build a house here.
+名词不定式
+（他的计划是在此建栋房子。）
+He is to build a house here.
+形容词不定式
+（他将在此建一栋房子。）
+第一例中，to build a house here 等于 his plan。两个词类可以相互调换，即：
+例: To build a house here is his plan. (√)
+主语
+（在这儿盖栋房子是他的计划。）
+换言之，该不定式短语亦可用来当主语，故有名词的特性，因此视为名词不定 式。第二例中，to build a house here 不等于 he，两个词类不能相互调换，即：To build a house here is he. (×)
+
+换言之，盖房子是动作，he 是人，两者不等，因此不能调换。to build a house here 只能作 be 动词之后的表语，视为形容词不定式，修饰主语 He。
+
+## d. be 动词之后加的形容词不定式有下列意义：
+
+1) 主动形式:
+a) 表将来 (= will)
+例: He is to come tomorrow.
+= He is going to come tomorrow.
+= He will come tomorrow.
+(他明天会来。)
+
+b) 表义务 (= should)
+例: You are to do it.
+= You should do it.
+(你应做它。)
+What am I to do?
+= What should I do?
+(我该怎么办？)
+
+2) 被动形式:
+a) 表当然 (= should)
+例: Such a lazy man is to be fired.
+= Such a lazy man should be fired.
+(这么懒的人应被革职。)
+
+b) 表可能 (= can)
+例: My hat was nowhere to be found.
+= My hat could not be found anywhere.
+(我的帽子找不到了。)
+
+
+## 5. 副词不定式的用法：
+
+该不定式可用以修饰动词、形容词或副词，我们且分项讨论如下：
+
+a. 修饰动词：
+
+副词不定式修饰动词时，一定置于该动词之后。
+
+![](https://gitee.com/shencanlong/englishism/raw/main/assets/lai/1acfae78fd34bacf3a67fbd77eeca93de90bff50315cd72b3b4b765db393f2b2.jpg)
+
+
+![](https://gitee.com/shencanlong/englishism/raw/main/assets/lai/9307fb225011dc15ddcca5500f7019367f68088e10449f49a95836a29566ce43.jpg)
+
+
+## 例: He came to see me.
+
+![](https://gitee.com/shencanlong/englishism/raw/main/assets/lai/2f74b4ba2be557428e075a4a5b7b1137a84b5668fd89ed964072939efdc8451d.jpg)
+
+
+(他来看我。)
+He has agreed to do it.
+
+（他已同意做那件事。）
+He sang a song to please her.
+vt.
+
+（他唱首歌以取悦她。）
+He tends to lie.
+vi.
+
+(他爱说谎。)
+You'll soon get to know him.
+
+![](https://gitee.com/shencanlong/englishism/raw/main/assets/lai/67e9b78bb4d1794ca84e48170e591f41d35c7815d07dfe5e83cd223484525363.jpg)
+
+
+(你很快就会了解他。)
+
+## b. 修饰形容词：
+
+副词不定式修饰形容词，一定置于该形容词之后。
+
+例: He is able to handle the problem.
+
+（他能处理这问题。）
+He is apt to lie.
+adj.
+
+= He tends to lie.
+(他爱说谎。)
+This book is good to read.
+
+（这本书很好，值得一读。）
+
+例: He sang a song to please her.
+vt.
+→ He sang a song to please her.
+整个句子
+He came to see me.
+vi.
+→ He came to see me.
+整个句子
+He rushed all the way here to catch the train.
+vi.
+→ He rushed all the way here to catch the train.
+整个句子
+（他一路赶来以便赶上火车。）
+* 上列句中，all the way（一路），以及 here 均
+
+
+## C. 修饰副词：
+
+副词不定式修饰副词时，一定置于该副词之后。
+
+例: He is old enough to go swimming alone.
+
+（他长大了，足以单独去游泳了。）
+
+(他老得不能游泳了。)
+
+## 注意：
+
+使用副词不定式时，应注意下列事项：
+
+a. 副词不定式修饰动词时，多半表示目的，此时该副词不定式亦同时修饰含该动词的整个句子。
+
+（他一路赶来以便赶上火车。）
+*上列句中，all the way（一路），以及here均为副词，亦修饰rushed。
+
+## 注意：
+
+1) 表 “目的” 的副词不定式，通常置于动词之后，但亦可移位至主语之前，以逗号相隔。
+
+例: He sang a song to please her.
+= To please her, he sang a song.
+(为了要取悦她，他唱了一首歌。)
+You should work very hard to win the award.
+= To win the award, you should work very hard.
+(为了要赢得那个奖，你应该努力奋斗。)
+
+2) 副词不定式移位至主语之前时，一方面保有其副词特性，仍修饰句中动词或整个句子；但亦兼有形容词的功能，修饰句中主语，该主语通常是表“人”的名词或代词。
+
+例: To please her, he sang a song.
+
+副词不定式 整个句子
+
+→ To please her, he sang a song.
+形容词不定式 主语
+
+因此，同学们要切记下面这个概念：
+
+不定式若出现在主语之前，一定具有形容词的功能，以修饰该主语。但这种修饰必须是合理的修饰，换言之，该不定式所表的动作，必须是它所修饰的主语的动作，否则就造成“不连接修饰”（dangling modification）的错误。故此类主语通常是表“人”的名词或代词。
+
+例: To please her, he sang a song. (√)
+
+## 理由：
+
+he 是人，有 please her（使她高兴）的能力。
+
+例: To please her, a song was sung. (×)
+
+## 理由:
+
+a song 是物，是个无思想的东西，故无 please her 的能力。例: To win the award, hard work is needed by Ed. (×)
+
+例: To tell the truth, I don't like him.
+独立不定式 整个主句
+(老实说，我不喜欢他。)
+To be frank with you, he is good-for-nothing.
+独立不定式 整个主句
+(老实对你说，他一无是处。)
+
+
+<table><tr><td></td><td>人</td></tr></table>
+
+→ To win the award, Ed should work hard. (√)
+
+## 注意：
+
+hard work 是名词，表 “勤奋”，但是个无思想的抽象名词，故无 win the award 的能力。
+
+10. 副词不定式置于动词之后，表“目的”时，绝不可以逗号相隔。
+
+例: He sang a song, to please her. (×)
+
+→ He sang a song to please her. (√)
+
+C. 表 “目的” 的副词不定式亦可被下列短语取代：
+
+例: He sang a song to please her.
+
+in order to please her.
+so as to please her.
+with an eye to pleasing her.
+with a view to pleasing her.
+
+(他唱了首歌以取悦她。)
+
+## 注意：
+
+in order 及 so as 之后的 to 为不定式，之后接原形动词；with an eye 及 with a view 之后的 to 为介词，之后接动名词。
+
+## 6. 独立不定式：
+
+有些不定式只用以修饰整个主句，而不修饰句中的主语或副词，此类不定式就称为独立不定式。使用时通常置于句首（偶有插入句中的独立不定式），不必考虑主语是人或是物。
+
+To do him justice, he has done his best.
+独立不定式    整个主句
+（平心而论，他已尽了力。）
+To make matters worse, it began to rain.
+独立不定式    整个主句
+（更糟的是，开始下雨了。）
+He is nice, to be sure, but I don't like him.
+整个主句    独立不定式
+（他人很好，这是可以肯定的，但是我不喜欢他。）
+He is, so to speak, a rascal.
+独立不定式
+（他可以说是个小混混。）
+*so to speak 表“可以这么说”，使用时一定插人在 be 动词及名词之间。
+He knows French, not to mention English.
+独立不定式
+（他懂法文，更别说是英语了。）
+
+
+## 7. 疑问词 + 不定式 = 名词短语：
+
+where to go 去哪里
+when to do it 何时做那件事
+how to swim 如何游泳
+what to do 做什么
+which to buy 买哪一个
+whom to see 去看谁
+
+
+where、when、how 均为疑问副词，不能作其后不定式中原形动词或介词的宾语。而 what、which、whom 则为疑问代词，一定要作其后不定式中原形动词或介词的宾语。故：
+
+## 理由：
+
+do 为及物动词，how 是副词，不能作 do 的宾语。
+how to do it (√)
+adv. vt. o.
+what to do (√)
+n. vt.
+whom to do it (×)
+n. vt. o.
+
+## 理由：
+
+do 为及物动词，已有宾语 it，而此处 do 又非授予动词，不可能有双宾语，故 whom 无法再作其宾语。
+whom to do it with (√)
+prep.
+(和谁一起做此事)
+理查:
+whom 可作介词 with 的宾语。
+
+## b. 功能：
+
+名词短语等于名词，故在句中可作主语、宾语或在 be 动词后作表语。
+1) 主语：
+例: What to do was the question.
+主语
+（问题是做什么。）
+
+2) 宾语：
+He is learning how to do it.
+及物动词 宾语
+（他正在学如何做这事。）
+We have no idea as to who(m) to select.
+介词 宾语
+（我们不知道要选谁。）
+
+## 注意：
+
+下列句中的 as to（有关）通常予以省略：
+例: I am at a loss (as to) how to do it.
+介词 宾语
+（有关如何做此事，我不知道。）
+
+3) be 动词之后的表语：
+例: The problem is where to start.
+be 动词 表语
+(问题是从哪里开始。)
+
+
+## 8. that 从句可化简为不定式：
+
+凡句中主语为形式主语 It，之后接单一的动词，或及物动词的被动语态，再接 that 引导的名词性从句时，结构可加以改变，而将 that 从句变成不定式。
+
+## a. 形态：
+
+## 1) 单一动词
+
+例: It \left|\begin{array}{c}\text { seems } \\ \text { appears }\end{array}\right| that he works hard.
+形式主语  appearance  名词性从句
+单一动词
+= He \left|\begin{array}{c}\text { seems } \\ \text { appears }\end{array}\right| \frac{\text { to work hard. }}{\text { 不定式 }} (他似乎很努力。)
+It \left|\begin{array}{c}\text { happened } \\ \text { chanced (罕)}\end{array}\right| that I was there.
+形式主语  chanced (罕)  名词性从句
+单一动词
+= I \left|\begin{array}{c}\text { happened } \\ \text { chanced }\end{array}\right| \frac{\text { to be there. }}{\text { 不定式 }} (我刚巧在那里。)
+
+2) be + 过去分词
+例: It is said (据说)
+It is reported (据报道)
+It is rumored (谣传)
+It is known (据了解)
+It is thought (一般认为)
+It is believed (一般相信)
+= He | is said to be good.
+| is reported |
+| is rumored |
+
+
+## b. 如何变化：
+
+1）时态相同时，to 之后加原形动词。
+
+例: It seems that he works hard.
+
+时态相同
+
+= He seems to work hard.
+
+单数动词
+
+(他似乎很努力。)
+
+It appears that they are nice.
+
+时态相同
+
+= They appear to be nice.
+
+复数动词
+
+(他们似乎人很好。)
+
+It was said that he loved music very much.
+
+时态相同
+
+= He was said to love music very much.
+
+单数动词
+
+（据说以前他很喜欢音乐。）
+
+It is said they love music very much.
+
+时态相同
+
+= They are said to love music very much.
+
+复数动词
+
+（据说他们很喜欢音乐。）
+
+2) 时态不同时，to 之后加 “have（曾经、已经）+ 过去分词”。
+
+例: It seems that he worked hard.
+
+时态不同
+
+= He seems to have worked hard.
+
+(他似乎曾经努力过。)
+
+9. to be 的省略：
+seem 或 appear 之后若有 to be 时，to be 可予以省略。
+例: He | seems | to be nice.
+appears
+= He | seems | nice.
+appears
+（他人似乎很好。）
+
+
+It is said that he was a thug in the past.
+
+时态不同
+= He is said to have been a thug in the past.
+(据说他以前是流氓。)
+
+3) 此类句型分析如下:
+He seems to work hard.
+主语 不完全 vi. 不定式短语，作表语
+They were said to be nice.
+主语 不完全 vt. 的被动语态 不定式短语，作主语补语
+
+例: The investigation proved his guilt.
+完全 vt. 名词作宾语
+(调查证明了他有罪。)
+The investigation proved that he was guilty.
+完全 vt. 名词性从句作宾语
+(调查证明他有罪。)
+
+b. prove 作不完全不及物动词，表“显示”、“结果是”：
+例: What he said proved to be true.
+不完全 vi. 不定式作表语
+（他的话竟然是真的。）
+The report proved to be false.
+不完全 vi. 不定式作表语
+
+= The report turned out to be false.
+不完全 vi. 不定式作表语
+（这份报告结果是错的。）
+
+## 注意：
+
+prove 或 turn out 之后的 to be 亦可省略，故上列例句亦可改写为：
+The report | proved false.
+| turned out false.
+
+## 11. 不定式短语作宾语补语：
+
+此类常用的动词有：
+cause、get 促使……
+lead 引导……
+allow、permit 允许……
+advise 劝告……
+persuade 说服……
+enable 使能够……
+tell 告诉……
+beg、ask 请求……
+order 命令……
+want、wish、expect、intend 期望……
+
+例: The sad story caused him to cry.
+(这个悲惨的故事使他哭了。)
+His speech led me to understand the importance of learning English.
+(他的演说引导我了解学英语的重要。)
+He advised me not to smoke again.
+(他劝我别再吸烟。)
+His timely help enabled me to finish it early.
+(他适时的帮忙使我能提早完成那件事。)
+I'll get someone to help you.
+(我会找人帮助你。)
+I expect him to do it.
+(我希望他去做此事。)
+
+注意:
+a. wish 与 hope 两者皆可作完全及物动词，以不定式作宾语。
+例: I wish to do it. (√)
+vt. 宾语
+
+= I hope to do it. (√)
+完全 vt. 宾语
+(我希望做此事。)
+然而，wish 及 hope 亦可作不及物动词，之后接介词 for，再接名词。
+例: All we can do now is | wish for | a miracle.
+hope for
+(我们现在能做的也只有期待奇迹了。)
+
+
+c. allow、permit 可作完全及物动词，直接用动名词作宾语。
+例: They don't | allow | smoking in the room.
+    permit | 动名词
+（他们不允许在房间里吸烟。）
+
+表意愿的动词 expect、intend、want、hope 如用一般过去时，再接 “to have + 过去分词” 时，则等于 “would have + 过去分词”，形成表与过去事实相反的虚拟语气。即：
+would have + 过去分词    本来想……
+= | expected to | have + 过去分词
+    wanted to
+    intended to
+    hoped to
+
+
+b. lead 加了宾语之后，可接 to 引导的不定式短语，但此 to 亦可视为介词，接名词或动名词为其宾语。
+
+例: His speech led me to understand the importance of learning English.
+不定式 (to + V)
+= His speech led me to the understanding that it is important to learn English.
+介词 动名词
+(他的演讲引导我了解学英语是重要的。)
+
+
+d. allow 及 permit 亦可作不完全及物动词，接了宾语之后，再接不定式短语作宾语补语，句型如下：
+allow / permit sb to V 允许某人从事……
+例: They don't | allow | anyone to smoke in the room.
+| permit | 宾语 宾语补语
+（他们不允许任何人在房间里吸烟。）
+
+
+## 12. 意愿动词与虚拟语气的关系：
+
+例: I would have done it, but I was busy.
+
+
+13. was / were to have + 过去分词
+= should have + 过去分词
+本应该……（但却未……）
+本结构亦可表与过去事实相反的虚拟语气。
+例: I was to have done it, but I didn't have time then.
+= I should have done it, but I didn't have time then.
+（我本应该把它做完了，但我没时间。）
+They were to have started out early, but it was raining heavily.
+= They should have started out early, but it was raining heavily.
+（他们本应提早出发，但当时正在下大雨。）
+
+
+= I | expected to | have done it, but I was busy.
+intended to
+
+
+（我本打算要做这件事，但当时我很忙。）
+
+不过，我们亦可将这些表意愿的动词改为过去完成时，之后接“to + 原形动词”，亦形成表与过去事实相反的虚拟语气。即：
+
+would have + 过去分词
+
+
+= \left|\frac{expected\ to}{intended\ to}\right| have + 过去分词
+= \left|\begin{array}{c}had expected\\ had intended\end{array}\right| to + 原形动词
+
+例: I would have done it, but I was busy.
+
+= I expected to have done it, but I was busy.
+
+
+## 14. 不定式作主语之结构变化：
+
+不定式短语作主语时，若短语中最后一个词为宾语，该宾语可移置句首作主语，其余部分则移至句尾。
+
+例: To please my father is hard. (可)
+(短语中有宾语 my father)
+= My father is hard to please. (佳)
+(我老爸很难取悦。)
+
+
+To get along with him is easy. (可)
+(短语中有宾语 him)
+= He is easy to get along with. (佳)
+(和他相处很容易。)
+了解此种关系后，就不可写出下列的句子：
+My father is hard to please him. (×)
+He is easy to get along with others. (×)
+
+
+## 15. 不定式的省略：
+
+不定式短语中的动词如果在前面的句中已出现过，为避免重复，可予以省略，但 to 则保留。
+
+例: You may go if you want to (go).
+(如果你想去，你就去吧。)
+A: Would you like to go dancing with me?
+B: Yes, | I would like to (go dancing with you).
+I'd be glad to (go dancing with you).
+(A: 你愿意和我去跳舞吗？)
+(B: 好呀！我很愿/乐意（和你去跳舞）。)
+
+
+## 16. 不定式有时亦可形成感叹句：
+
+例: To think that such a lazy boy should have passed the exam!
+(想想看这样一个懒小子居然会考及格！)
+
+## 17. 原形不定式：
+
+就是原形动词，通常出现在助动词之后。
+
+can | + 原形动词
+could
+shall
+should
+will
+would
+may
+might
+ought to
+must
+57: I can do it.
+(我能做那件事。)
+
+
+He should finish it. (他应该完成那件事。) He must obey the law. (他必须遵守法律。)
+
+
+## 18. 知觉动词与原形不定式的关系：
+
+表“看”、“听”、“感觉”的知觉动词之后，可接原形不定式，作宾语补语，表已发生的事实。
+看：see、watch、observe、look at
+听：hear、listen to
+感觉：feel
+例: I saw him enter the room.
+(我看见他进入了房间。)
+I never heard him speak English.
+(我从未听过他说英语。)
+I felt the house shake.
+(我感觉房子摇动了。)
+I was watching the swallows fly to and fro.
+(我当时正在看燕子飞来飞去。)
+
+
+## 注意：
+
+改为被动语态时，原形不定式就要变成 “to + 原形动词”。例: I saw him enter the house. (佳)
+= He was seen to enter the house (by me). (罕)
+I never heard him speak English. (佳)
+= He was never heard to speak English (by me). (罕)
+
+
+## 19. 使役动词与原形不定式的关系：
+
+let（让）、make（使）、bid（叫）、have（叫）等使役动词之后亦必须以原形不定式作宾语补语。
+例: Let me try it.
+= Allow me to try it.
+(让我试试它。)
+I made him wash the car.
+(我叫他洗车。)
+Bid him (to) come. (罕)
+= Tell him to come.
+(叫他来。)
+
+
+I had him wash the car.
+= I got him to wash the car.
+(我叫他洗车。)
+
+注词:
+除 have 外, let、bid、make 均可使用于被动语态中。此时作宾语补语的原形不定式要改为 “to + 原形动词”。
+例: They bade him (to) do it.
+= He was bidden to do it.
+(他们叫他做这事。)
+They made John clean the window.
+= John was made to clean the window.
+(他们叫约翰清洁窗子。)
+I let him leave.
+= He was let to leave. (罕)
+= He was allowed to leave. (佳)
+(我让他离开。)
+但: They had him do it. (√)
+He was had to do it. (×)
+
+0. help (帮助) 的用法:
+a. help + 宾语 + (to) + 原形动词
+例: He helped me (to) do the work.
+(他帮助我做这个工作。)
+b. help + 宾语 + with + 名词
+例: He helped me with the work.
+(他帮我做这个工作。)
+c. help (to) + 原形动词
+例: He helped (to) do the work.
+(他帮忙做这个工作。)
+d. help with + 名词
+例: He helped with the work.
+(他帮忙做这个工作。)
+
+
+## 21. 原形不定式的特殊结构：
+
+下列为与原形不定式连用的特殊结构。这些结构经常出现在各种英语试题中，同学们应牢记。
+
+a. do nothing but + 原形不定式
+例: He did nothing but eat all day.
+(他整天什么都不做，只是吃。)
+
+## 解说：
+
+第一步：句中 but 可视为并列连词，连接对等且形态相同的词类 did，即：He did nothing but did...
+
+第二步：我们知道 do、does、did 在肯定句中，可视为强调性的助动词，之后要接原形不定式。
+例: 未强调前: He works hard.
+(他用功。)
+强调后: He does work hard.
+(他的确用功。)
+未强调前: He worked hard.
+强调后: He did work hard.
+
+第三步：因此，在 He did nothing but did... 中，did 之后要接原形不定式，即成：He did nothing but did eat all day.
+
+第四步：并列连词 but 之后相同的词类可以省略。本句中第一个 did 为及物动词的一般过去时，而第二个 did 则为强调性的助动词，虽性质不一，但外形相同，故第二个 did 可予以省略，即成：
+He did nothing but eat all day. (√)
+
+## b.
+
+choose nothing but + to + 原形动词
+expect
+want
+desire
+
+例: He wanted nothing but to sleep.
+(他什么都不要，只想睡觉。)
+
+## 解说：
+
+第一步：句中 but 可视为并列连词，连接对等的动词 wanted，即：He wanted nothing but wanted...
+
+第二步：由于 want、desire、choose、expect 均为表意愿的及物动词，通常要用 “to + 原形动词” 作宾语。
+
+例: He | wanted | to sleep.
+desired
+expected
+chose
+(他要睡觉。)
+
+第三步：因此，在 He wanted nothing but wanted... 中，wanted 之后要接 “to + 原形动词”，即成：
+He wanted nothing but wanted to sleep.
+
+第四步：由于本句 wanted 为相同词类，故第二个 wanted 予以省略，即成 He wanted nothing but to sleep. (√)
+
+c. be interested in nothing but + 动名词/名词
+例: He is interested in nothing but singing.
+动名词
+= He is interested in nothing but (is interested in) singing.
+(他除了唱歌外，对什么都不感兴趣。)
+
+
+d. enjoy nothing but + 动名词/名词
+例: I enjoy nothing but dancing.
+动名词
+= I enjoy nothing but (enjoy) dancing.
+动名词
+(我除了跳舞外什么都不喜欢。)
+
+e. cannot but + 原形不定式
+= cannot help + 动名词
+*此处的 help 等于 stop 或 resist，表“抗拒”。
+= cannot help but + 原形不定式
+不得不/忍不住……
+例: When I heard the story, I couldn't but laugh.
+= When I heard the story, I couldn't help laughing.
+= When I heard the story, I couldn't help but laugh.
+(我听到这个故事，忍不住笑了出来。)
+
+
+## 第二节 分词
+
+## 说
+
+![](https://gitee.com/shencanlong/englishism/raw/main/assets/lai/3a4b2f8ce27e1fc8f4dc4fe6daf0a0cbaf0e4a2439b601e5e2e656a9a60bf8f5.jpg)
+
+
+分词一共只有两种：现在分词及过去分词。现在分词原则上由原形动词加-ing形成，而过去分词多半为原形动词加-d或-ed形成，但也有数百个不规则动词，它们由原形变过去分词是不规则的，因此，同学们在使用分词时应多查词典，以完全了解动词的三态变化(原形、过去式、过去分词）。兹以原形动词do为大家解说分词的形态。
+
+现在分词
+
+单纯式：doing
+完成时：having done
+被动式：being done
+完成进行时：having been doing
+完成被动式：having been done
+
+过去分词：done
+
+分词在句中可用以表示进行、完成或被动语态的概念。
+
+a. 进行：be + 现在分词
+例: He is doing the work.
+(他正在做这个工作。)
+
+b. 完成：have + 过去分词
+例: He has done the work.
+(他已经做完这个工作。)
+
+c. 被动：be + 过去分词
+例: The job was done.
+(这工作做完了。)
+
+上述各例中的分词所涉及的进行时、完成时、被动语态的用法，我们将另辟有关时态或语态的章节讨论。在本节中，我们着重以分词当修饰语的用法，这也是分词最重要的功能。让赖老师一步步带着你了解以分词作修饰语的各种用法。
+
+1. 分词可作形容词用：
+
+例: The student raised a confusing question.
+adj. n.
+
+(这学生提出一个令人困惑的问题。)
+
+The teacher was confused.
+
+adj.
+
+(这老师感到迷糊了。)
+
+## 注意
+
+上列第一例中 confusing 为现在分词作形容词，修饰其后名词，译成“令人困惑的”。
+
+第二例中 confused 为过去分词作形容词用，置于 be 动词 was 之后，作表语，修饰主语 the teacher，译成“感到困惑的”。
+
+上述两例告诉我们一个重要的概念：
+
+分词作形容词用时，可置于名词之前，修饰该名词；亦可置于 be 动词之后，纯作表语。
+
+* 分词作形容词用时，如何判断应使用现在分词或过去分词？
+
+这是个很重要的问题，如果不弄清楚的话，我们很可能写出下面的错误句子而不自觉：
+
+例: When he heard the story, he was very exciting. (×)
+
+→ When he heard the story, he was very excited. (√)
+
+(他听到这个故事时很兴奋。)
+
+## 注意：
+
+exciting 令人兴奋的
+
+excited 感到兴奋的
+
+因此，同学们要正确使用分词作形容词用时，一定要牢记下面赖老师所列的法则（别怕，很简单）：
+
+分词作形容词时，可以表示下列概念：
+
+a. 表主动/被动的概念：
+令人……的 → 现在分词
+感到……的 → 过去分词
+受到……的 → 过去分词
+
+b. 表进行/完成的概念：
+
+正在……的 → 现在分词
+
+即将……的 \rightarrow 现在分词
+
+已经……的 \rightarrow 过去分词
+
+兹分项说明如下：
+
+a. 表主动/被动的概念：
+
+凡表“令人……的”意思时，我们就使用现在分词；凡表“感到……的”或“受到……的”时，我们就使用过去分词。
+
+例: The competition is quite exciting.
+现在分词
+
+（这场比赛很刺激。——令人兴奋的）
+He was excited when he heard the news.
+过去分词
+
+（他听到这个消息时很兴奋。——感到兴奋的）
+The charming lady happens to be John's sister.
+现在分词
+
+（这位迷人的女子刚巧是约翰的妹妹。——令人着迷的）
+The boy was charmed with the girl's elegance.
+过去分词
+
+（这个男孩着迷于这女孩的优雅气质。——感到着迷的）
+The wounded soldier was rushed to hospital.
+（受伤的士兵被急忙送到医院。——受伤的）
+What an interesting story it is!
+（多有趣的故事呀！——令人感兴趣的）
+He was interested in the question.
+（他对这问题感兴趣。——感到有兴趣的）
+
+## b. 表进行/完成的概念：
+
+凡表 “正在……的” 或 “即将……的” 意思时，我们就使用现在分词；凡表 “已经……的” 时，我们就使用过去分词。
+
+例: The retiring teacher walked into the classroom.
+
+（该即将退休的老师步入教室。——即将退休的）
+
+（那位退役军人上个月去世了。——已经退休的）
+Do you see that speeding car?
+
+(你看见那辆开得飞快的车吗?——正在快速行驶的)
+The aging father found it hard to do the work.
+
+（那位日渐年迈的父亲发现很难做这工作。——年华正在老去的）
+He is aged, but he stays young at heart.
+
+（他已上了年纪，但他心情保持年轻。——已经上年纪的）
+* aged [ 'edʒid ] a. 上了年纪的，年事已高的
+
+（我们这本书已卖完了。——已经卖完的）
+
+（我已准备好应试。——已经准备好的）
+
+赖老师举了那么多的例子，无非想证明，只要了解上面所列的原则，那么分词作形容词的用法并不难。
+
+我们且练习一下下列填空题：
+
+Get me some ____ (boiled, boiling) water to drink.
+
+
+(给我弄点开水喝。)
+
+我们若选 boiling（正在滚开沸腾的），那我们喝下 boiling water（正在滚开的水）之后，我们的食道必然被烫熟了，这还了得？！
+
+我们再练习一下下列的填空题：
+He is sweeping (falling、fallen) leaves in the (falling、fallen) rain.
+(他在雨中扫落叶。)
+
+
+正确答案应为：
+第一个空格：fallen（已经掉下来的）
+第二个空格：falling（正在落下的）
+
+
+## 如果我们的答案是这样：
+
+He is sweeping falling leaves in the fallen rain. (×)
+
+就成了：他在已经落下来的雨中扫正在落下的树叶。
+
+那么这个人一定是扁平如纸的人，可以躺在地上（已经落下的）雨水中，同时又可以挥着扫帚扫一片一片正在掉下来的树叶，如果有一天我们真见到这样的人，我们就得赶紧逃跑，因为那不是人，那是妖怪！
+
+## 2. 分词可作表语用：
+
+a. be 动词（或 remain、become、appear、seem 等系动词）之后的表语：
+
+作表语的分词均为形容词，可以译成“……的”。此类分词之前均可用 very 修饰。常用的此类分词如下：
+
+interested （感到有兴趣的）
+interesting （令人感兴趣的）
+tired （感到累的）
+tiring （令人累的，累人的）
+thrilled （感到刺激的）
+thrilling （令人刺激的）
+
+此类分词实在太多，故不一一举例，这些可作形容词用的分词均可置于系动词（如become、feel、seem等）之后作表语。
+
+(他对学英语越来越有兴趣。)
+
+但并非所有的分词均可当形容词用。有些分词无法译成“……的”。
+killed 不能译成“感到杀的”
+killing 不能译成“令人杀的”
+written 不能译成“感到写的”
+writing 不能译成“令人写的”
+此类分词，只能置于 be 动词之后（不可置于系动词如 become、remain、appear、feel、seem 等之后），不视为形容词，而视为动词的进行时或被动语态。
+例：He was killed.
+vt. 的一般过去时被动语态
+（他被杀了。）
+He was killing the termites.
+vt. 的过去进行时
+（他正在杀白蚁。）
+He was writing a letter.
+vt. 的过去进行时
+（他正在写一封信。）
+The letter was being written.
+vt. 的过去进行时被动语态
+（这封信还正在写。）
+He was leaving.
+vi. 的过去进行时
+（他正要离去。）
+He became killed. (×)
+He appeared writing a letter. (×)
+及物动词之后的宾语补语：
+例：I found him killed.
+vt. 宾语 宾语补语
+（我发现他被杀了。）
+I want it done right away.
+vt. 宾语 宾语补语
+（我要这件事立即完成。）
+They found him tired.
+vt. 宾语 宾语补语
+（他们发现他累了。）
+
+
+可作形容词用的分词当然可作宾语补语，如上述第三例句中的 tired（感到累的）。但不可作形容词用的分词又如何作补语呢？到底要使用现在分词还是过去分词作补语呢？我们且先做下面这个练习题：
+As he talked to me, I found him ____ (trembling、trembled).
+
+（他跟我谈话时，我发现他在发抖。）这个题目的正确选择应为trembling。理由何在？且看赖老师解说如下：
+
+方法：我____他。
+他被我____。
+
+将任何一个动词置入上列两空格中，再将整句译成中文，意思合乎逻辑时，该动词就是及物动词，否则就是不及物动词。
+
+将 kill（杀）填入空格中，得到的翻译为：我杀了他。
+他被我杀了。
+本句合逻辑，故 kill 为及物动词。
+
+将 tremble（发抖）填入空格中，得到的翻译为：
+我发抖他。
+他被我发抖。
+本句意思不合逻辑，故 tremble 为不及物动词。
+
+第二步：
+
+1) 动词若为及物动词，作宾语补语时，有两种分词形态：
+a) 现在分词 + 宾语
+b) 过去分词
+已知 kill 为及物动词，
+故：I found him killing cockroaches.
+现在分词 宾语
+（我发现他正在杀蟑螂。）
+或：I found the cockroaches killed.
+过去分词
+（我发现那些蟑螂被杀了。）
+
+2) 动词若为不及物动词，作宾语补语时，一律变成现在分词。
+已知 tremble 为不及物动词，
+故：I found him trembling.
+现在分词
+
+熟悉这个观念之后，我们就可大胆地造出下列的句子：
+例: I want the car painted.
+过去分词
+(我要这辆车漆好。)
+
+理由:
+paint（漆）是及物动词，作宾语补语时，因之后无宾语，故变成过去分词。
+I kept John waiting.
+(我让约翰等我。)
+
+理由:
+wait 是不及物动词，故作补语时，变成现在分词。
+As I came in, I saw John singing.
+(我进来时，看见约翰正在唱歌。)
+
+理由:
+此处 sing 作 “唱歌” 解，是不及物动词，故作补语时，变成现在分词。
+I found him writing a letter.
+(我发现他正在写信。)
+
+理由：
+write 之后有了宾语 letter 为及物动词，故应改为现在分词作补语。
+
+C. with 复合结构中的宾语补语：
+with 复合结构就是一种由介词 with 引导的短语，置于句尾，用以修饰句中的主语，以表示主语所处的状况。
+例: He talked to me with his legs shaking.
+主语    with 复合结构
+
+本例中 with 之后有宾语 his legs，而 shaking 为其宾语补语。shaking 由不及物动词 shake（发抖）转变而成。
+
+凡可作形容词用的分词（也就是可以译成“……的”之分词），前面若有定冠词the，可当作单数或复数的名词使用。
+例: The wounded were rushed to the hospital.
+= Wounded people were rushed to the hospital.
+(伤者被急送医院。)
+The unexpected has happened.
+= Something (which) we didn't expect has happened.
+(意外的事情发生了。)
+The young should learn to cherish life.
+= Young people should learn to cherish life.
+(年轻人应懂得珍惜生命。)
+
+
+He sat there with his eyes closed.
+宾语补语（由 vt. 变成）
+（他双眼闭着坐在那儿。）
+He talked to me with his legs trembling.
+宾语补语（由 vi. 变成）
+（他和我说话时双腿发抖。）
+
+
+注意
+with 复合结构中的宾语补语（即分词）亦可用介词短语取代。
+
+
+例: He came here with a gun in one hand.
+介词短语作宾语补语
+(他来这里时一手握着枪。)
+He talked to me with a pipe in his mouth.
+介词短语作宾语补语
+(他和我说话时嘴里叨着烟斗。)
+有些以介词短语作宾语补语的 with 复合结构亦可有下列化简的用法：
+He came here gun in hand.
+He talked to me pipe in mouth.
+在这些化简的短语中，我们可明显地注意到 with 已省略，原有的冠词或所有格亦均予以省略。
+
+
+## 3. 分词可作名词用：
+
+但也有过去分词作副词用的例子。
+例: An estimated 54 people were killed in the air crash.
+adv. adj.
+= It is estimated that 54 people were killed in the air crash.
+(据估计有54个人在空难中丧生。)
+A great many students are more and more interested in learning English.
+adv. adj.
+(许多学生对学英语愈来愈感兴趣。)
+
+
+## 4. 分词可作副词用：
+
+少数的现在分词有副词 very 的意味，可修饰其后的形容词。
+
+例: It's | freezing | cold today.
+biting | adj.
+adv.
+(今天天气非常冷/冰冻般的冷/如皮肤被咬般的冷。)
+The tea is boiling hot.
+adv. adj.
+(茶非常热/滚烫般的热。)
+He was hopping mad on hearing his dismissal.
+adv. adj.
+(当听到自己被解雇时，他简直气疯了/气得要跳脚。)
+We're having a ripping good time.
+adv. = very adj.
+(我们此刻玩得愉快极了。)
+
+
+## 注意
+
+少数形容词亦有副词的功能，修饰之后的形容词。
+
+例: He is dead wrong. (dead 为副词，等于 completely，表 “完全地”)
+adv. adj.
+(他大错特错。)
+It's awful hot today. (awful 为副词，等于 very，表 “非常地”)
+adv. adj.
+(今天热得要命。)
+*awful 亦作形容词，表 “差劲的”，等于 terrible。
+
+
+doubtless
+doubtlessly
+without doubt
+undoubtedly
+adv.
+
+correct.
+adj.
+
+(这个答案毫无疑问是正确的。)
+
+## 5. 分词结构——动词变化：
+
+一句中有两个动词同时存在，彼此一定要有连词相连。
+He worked very hard and won the honor.
+（他很努力而赢得该项荣誉。）
+He studied very hard but failed the exam.
+（他很用功，但未能考及格。）
+
+但若两个动词无连词相连时，就要注意下列的变化原则：
+
+a. 若两个动词所代表的动作同时发生时，第二个动词一定要变成现在分词，若该动词是 be 动词，变成现在分词 being 之后要省略。
+例: He came home cried.
+crying.
+(他哭着回来。)
+
+评白：
+他一面回来，一面哭。came 与 cried 同时发生，因此 cried 应变成现在分词。
+例：He sat in the corner read a newspaper.
+reading
+（他坐在角落看报纸。）
+
+## 理国：
+
+他一面坐在角落，一面看报纸。sat 与 read 同时发生，因此 read 应变成现在分词。
+
+理由:
+He sat in the corner | playing with his keys.
+listening to the teacher's lecture.
+looking silently at Mary.
+(他坐在角落玩着他的钥匙/听老师讲课/默视着玛丽。)
+
+例: He came home was tired.
+being
+→ He came home tired.
+
+
+## 理由：
+
+他一面回家，一面感到累。故 came 与 was tired 同时发生。由于 was 是 be 动词，变成 being 之后应予以省略。
+
+例: He left was young and came back was old.
+being
+being
+
+
+→ He left young and came back old.
+(他少小离家老大回。)
+
+
+## 理空：
+
+本句由 and 连接两个主要动词 left 及 came。他一面离去，一面是年轻的状态，故 left 与 was young 同时发生，left 之后的 was 变成现在分词 being，再予以省略。他一面回来，一面是老的状态，故 came 之后的 was 变成现在分词 being，再予以省略。
+
+例: He died was a nobody.
+being
+→ He died a nobody.
+(他默默无闻地死去。)
+
+
+## 理由：
+
+他死去的同时是个无名小卒，故 die 与 was 同时发生，was 变成现在分词 being 之后，再予以省略。
+
+例: We are born are equal.
+being
+→ We are born equal.
+(我们生而平等。)
+Everyone is born is free.
+being
+→ Everyone is born free.
+(人人生而自由。)
+比较:
+Everyone is born freely. (×)
+adv.
+(每个人都是自由地生下来。)
+
+
+## 理由：
+
+freely 是副词，如此一来就修饰了句中动词 is born，岂不表示每个人都可以自由自在地到处乱诞生？
+
+b. 若两个动词所代表的动作并非同时发生，而是有先后次序时，第二个动词就要变成“to + 原形动词”形成的不定式短语。
+
+例: He came here saw me.
+to see
+→ He came here to see me.
+(他前来看我。)
+
+
+## 理由：
+
+他先来，再看我。故 came 与 saw 并非同时发生，第二个动词就变成不定式。
+
+如果我们写成这样的句子：
+
+那就变成：
+
+他一面来，一面看我。
+
+这样的话，他还没走到目的地，恐怕因为边走边伸长脖子看我的关系，脖子一定会扭到，甚至脑袋都掉下来了。
+
+例: He stood up smoked a cigarette.
+
+(他站起来抽烟。)
+
+## 理由：
+
+他先站起来，再抽烟。故 stood up 与 smoked 并非同时发生，第二个动词 smoked 就应变成不定式 to smoke。
+
+便可能有两种解释：
+
+2）他一面站起来，一面身上冒烟。——这可不好玩了
+
+了解这个道理之后，我们就明白下列各句为何要使用不定式的原因。
+
+例: He rushed here to tell me the story.
+
+(他赶到这里来告诉我这件事。)
+
+He sang a song to please her.
+
+(他唱首歌来取悦她。)
+
+He drew a map to show me the way.
+
+(他画了张地图来告诉我路的走法。)
+
+现在我们可以将两种句型的结构分析如下：
+
+第一型：He stood there smoking a cigarette. 主语 不完全vi. 副词 现在分词作伴随状语
+
+第二型：He stood up to smoke a cigarette. 主语 完全vi. 副词 不定式短语作副词用，修饰前面的动词
+
+C. 若两动词有逗号相隔，而无连接时，就不必考虑动词所代表的动作先后发生的次序，第二个动词一定要变成现在分词。
+
+例: He left home at six in the morning, arrived here about four in the afternoon.
+arriving
+
+（他早上6点离开家，约下午4点抵达此地。）
+
+He ran away quickly, looked as if something terrible had happened. looking
+
+（他很快地跑开了，看起来好像发生了什么可怕的事。）
+
+6. 分词结构——单句化简法：
+
+两句在一起，若无连词相连时，往往第一个句子要化简，变成分词短语。法则如下：
+
+a. 两句的主语相同时，被化简的句子的主语要删除，若主语不同时则要保留；
+
+b. 之后的动词要变成现在分词；
+
+c. 若该动词为 be 动词时，变成现在分词 being 之后，可予以省略，但亦可不予省略，以强调 “因为……” 的意思。
+
+例: He has nothing to do, he feels bored. (×)
+
+## 理由
+
+两句无法连接。
+改正：化简第一个句子。
+第一步：删除相同的主语 He；
+第二步：其后动词 has 变成现在分词 Having，即：
+He has nothing to do, he feels bored.
+Having
+→Having nothing to do, he feels bored. (√)
+（他没事可做，所以觉得无聊。）
+
+
+例: He was sick of studying, he ran away from home. (×)
+
+理由
+两句无法连接。
+改正：化简第一个句子。
+第一步：删除相同的主语 He；
+第二步：其后动词 was 变成现在分词 being；
+第三步：being 可予以省略，即：
+He was sick of studying, he ran away from home.
+Being
+→Being sick of studying, he ran away from home. (√)
+或：Sick of studying, he ran away from home. (√)
+（他厌倦念书，所以离家出走了。）
+
+
+例: The sun set, the cowboys rode back to the ranch. (×)
+
+理由
+两句无法连接。
+改正：化简第一个句子。
+第一步：由于第一句的主语 The sun 与第二句的主语 the cowboys 不相同，故应予以保留；
+第二步：其后动词 set 变成现在分词 setting，即成：
+The sun set, the cowboys rode back to the ranch.
+setting
+→The sun setting, the cowboys rode back to the ranch. (√)
+(夕阳西下，牛仔们策马回到牧场。)
+
+
+## 使用单句化简法时应注意事项：
+
+a. 变成否定分词结构时，not 要置于分词前。
+
+例: He was not satisfied with the result, he decided to try again.
+Being
+
+→ Being not satisfied with the result, he decided to try again. (×)
+
+→ Not (being) satisfied with the result, he decided to try again. (√)
+(他不满意此结果，决定再试一次。)
+
+b. 句中有助动词 do、does、did 时，可直接删除。
+
+例: He didn't intend to see her, he left early.
+Not intending
+
+→ Not intending to see her, he left early.
+
+（他不打算见她，便提早走了。）
+
+c. 句中有完成时助动词 have、has、had，要视为动词而变成现在分词 having。
+
+例: He had done the work, he felt happy.
+Having
+
+→ Having done the work, he felt happy.
+
+（他做完了这个工作，觉得很高兴。）
+
+X have not seen her for ages, I miss her.
+
+Having
+
+→ Having not seen her for ages, I miss her. (×)
+
+→ Not having seen her for ages, I miss her. (√)
+(好久没看见她了，我很想她。)
+
+d. 主语不同时，所形成的分词结构，称为分词的独立主格结构。所谓分词的独立主格结构，就是独立修饰不同主语的分词结构。
+
+例: This being the case, you'd better be careful.
+
+分词的独立主格结构
+
+(这样的话，你最好小心点。)
+
+* This being the case 原为 This is the case，但如此一来，本句与 You'd better be careful 无连词连接。故将第一个句子化简为分词短语。由于主语 This 与第二个句子的主语 you 不同，故予以保留，之后的动词 is 变成现在分词 being, being the case 独立修饰不同的主语 This，故称分词的独立主格结构。
+
+All things considered, I decided to major in business administration.
+
+（全盘考虑后，我决定主修企业管理。）
+
+* All things considered 原为 All things were considered，但如此一来，本句与 I decided to major in business administration 无连词连接，故将第一个句子化简为分词短语。由于主语 All things 与第二个句子的主语 I 不同，故予以保留，之后的动词 were 变成现在分词 being，再予以省略，considered 独立修饰不同的主语 All things，故称分词的独立主格结构。
+
+e. 有时，我们亦可消灭第二个句子，变成分词结构。
+
+例: He was reading a book, his wife knitting beside him.
+
+= He was reading a book, and his wife was knitting beside him.
+
+（他在读一本书，而他太太在旁边编织。）
+
+We will go picnicking tomorrow, weather permitting.
+
+= We will go picnicking tomorrow if weather permits.
+
+（如果天气好，我们明天就去野餐。）
+
+## 7. 分词短语——定语从句化简法：
+
+在限定修饰的定语从句（即关系代词之前无逗号）中，若关系代词作主语时，可化简成分词短语，法则如下：
+
+a. 删除关系代词：
+
+b. 其后动词变成现在分词；
+
+c. 若该动词为 be 动词，变成现在分词 being 之后，可予以省略。
+
+## 例: The man who is talking to Mary over there is my father. (√)
+
+（那边那位正在对玛丽说话的男士是我爸爸。）
+
+第一步：将 who 删除；
+
+第二步：将 who 之后的 is 变成现在分词 being；
+
+第三步：再将 being 省略，上句即化简成：
+
+The man talking to Mary over there is my father. (√)
+
+Who is the boy that is locked behind the door? (√)
+限定修饰的定语从句
+
+→ Who is the boy that is locked behind the door?
+(being)
+
+= Who is the boy locked behind the door? (√)
+(被锁在门后的男孩是谁？)
+
+---
+
+## 注意：
+
+使用定语从句化简法应注意的事项：
+
+a. 非限定修饰的定语从句（即关系代词之前有逗号）通常不得化简为分词短语。
+
+例: I like Tom, who is talking to Mary. (√)
+但: I like Tom, who is talking to Mary.
+(being)
+→ I like Tom, talking to Mary. (×)
+
+
+b. 不过非限定修饰的定语从句结构若为 “关系代词 + be + 名词” 时，则仍可化简，而形成同位语。
+
+注意
+形成同位语时，可置于主语之前或之后。故本句亦可改为：
+A good friend of mine, John studies hard.
+主语同位语 主语
+
+
+例: He studies hard, which is a fact that is known to all of us.
+→ He studies hard, which is a fact that is known to all of us.
+(being) (being)
+= He studies hard, a fact known to all of us. (√)
+(他用功是众人皆知的事实。)
+
+
+## 8. 测验站：
+
+由于我们在第 5、6、7 项为同学们所介绍的分词结构实在很重要，因此赖老师特别出了下列几个翻译题，请同学们用分词结构翻译出来，以测验自己的了解程度。
+试译下列各句：
+
+a. 我不知道如何处理（deal with）这个问题，就向他请教（consult）。
+
+## c. 他光着脚（barefooted）走进屋子里。
+
+d. 他挥手向她道别。
+
+示范译句：
+
+a. Not knowing how to deal with the problem, I consulted him.
+
+b. As I entered the room, I found books scattered around.
+
+c. He came into the room (being) barefooted.
+
+d. He said goodbye to her, waving his hand.
+
+## 9. 分词结构——状语从句化简法：
+
+once、when、while、if、unless、though 等连词所引导的状语从句中，若主语与主句中的主语相同时，亦可化简为分词结构，法则与单句化简法完全相同。
+
+## 例: If /aɪn/ free, I'll go with you.
+
+In those days, when he didn't know how to proceed in an emergency, he not knowing
+
+= In those days, when not knowing how to proceed in an emergency, he would consult his father.
+
+（在那段日子里，当他不知道如何处理紧急状况时，都会请教他父亲。）
+
+Though he was seriously injured, he was not at all daunted.
+(being)
+= Though seriously injured, he was not at all daunted.
+(虽然受伤很重，他一点都不畏惧。)
+Once I am available, I'll let you know.
+(being)
+= Once available, I'll let you know.
+(一旦我有空，我会让你知道。)
+
+
+## 注意
+
+上列六个连词中，once、if、unless 所引导的状语从句若化简为分词短语，多限于“主语 + be + 分词/形容词”的结构；而 when、while、though 则不受此限制。
+
+例: Once I have money, I'll buy a car. (√)
+(我一旦有钱，就会买车。)
+
+→ Once having money, I'll buy a car. (×)
+但 Once I'm rich, I'll buy a car. (√)
+be adj.
+
+= Once rich, I'll buy a car. (√)
+(我一旦有钱，就会买车。)
+
+Though I have money, I won't buy a car. (√)
+(我虽然有钱，却不会买车。)
+
+= Though having money, I won't buy a car.
+Though I am rich, I won't buy a car. (√)
+be adj.
+
+= Though rich, I won't buy a car.
+(我虽然有钱，却不会买车。)
+
+表身体组织的名词可变成过去分词当形容词用：
+例: The girl has big eyes.
+→ I love the big-eyed girl.
+(我喜欢这个大眼睛的女孩。)
+
+She has red hair.
+
+→ Do you see the red-haired girl there?
+(你看见那边的红发女孩吗？)
+
+The soldier has only one leg.
+
+→ The one-legged soldier was a hero.
+(那个独腿士兵是个英雄。)
+
+
+<table><tr><td colspan="2">类例用法:</td></tr><tr><td>a broken-hearted man</td><td>一个心碎的人</td></tr><tr><td>a bare-footed boy</td><td>一个赤脚的男孩</td></tr><tr><td>a black-skinned guy</td><td>一个黑皮肤的人</td></tr><tr><td>a two-headed snake</td><td>一条双头蛇</td></tr></table>
+
+## 11. 少数现在分词可当介词使用：
+
+including （包括）
+excluding （除外）
+considering （考虑）
+regarding （关于）
+concerning （关于）
+a. including / excluding
+例: Everyone likes the movie, | excluding | John. (√)
+including
+→ Everyone likes the movie, John is (being) | excluded. |
+included.
+→ Everyone likes the movie, John | excluded.
+included.
+= Everyone likes the movie, | exclusive of | John. (√)
+inclusive of
+（每一个人都喜欢这部电影，除了/包括约翰。）
+
+
+## b. considering
+
+例: Considering his performance, he can be a good teacher. (√)
+介词
+→ His performance is considered, he can be a good teacher.
+(being)
+= His performance considered, he can be a good teacher. (√)
+(从他的表现看来，他可以当个好老师。)
+
+c. regarding / concerning
+例: He wrote an article | regarding | environmental pollution.
+concerning
+about
+on
+介词
+（他写了篇有关环境污染的文章。）
+
+## 12. 独立分词短语：
+
+某些独立分词短语有副词的功能，通常置于句首，修饰整个句子。
+例: Generally speaking, men are physically stronger than women.
+(一般而言，男人比女人强壮。)
+Strictly speaking, he is not good enough.
+(严格说来，他不够好。)
+Frankly speaking, he is not the man I want.
+(老实说，他不是我所要的人。)
+Judging from his appearance, he seems to be rich.
+(从他的外表看来，他似乎很有钱。)
+Talking of novels, have you read his works?
+(谈到小说，你是否读过他的作品？)
+According to John, the fire broke out at ten in the morning.
+(根据约翰的说法，火灾是在早上10点发生的。)
+Seeing that you have no time, I'll have Peter replace you.
+(既然你没时间，我会叫彼得代替你。)
+
+## 13. 与使役动词有关的重要分词短语：
+
+例: I started the ball rolling.
+(我给那件事开了个头。)
+The news set my heart throbbing.
+(这个消息使我心悸不已。)
+I am sorry to have kept you waiting.
+(我很抱歉让你等候。)
+I couldn't make myself understood.
+(我无法让别人听懂我的话。)
+I had my shoes repaired.
+(我把我的鞋拿去修好了。)
+
+He got a new suit made.
+
+(他订做了一套新西装。)
+
+You should leave it unsaid.
+
+(你应该别提这事。)
+
+I like my eggs half boiled.
+
+(我喜欢煮得半熟的蛋。)
+
+I had my watch stolen.
+
+(我的表被偷了。)
+
+# 第三节 动名词
+
+## 概说
+
+![](https://gitee.com/shencanlong/englishism/raw/main/assets/lai/0f80033b71ff61012ef86a37337648b096436be120937108673810bb68a93218.jpg)
+
+
+动名词的形态与现在分词完全一样。
+
+例: He is dancing.
+现在分词
+(他正在跳舞。)
+His hobby is dancing.
+动名词
+(他的爱好是跳舞。)
+Not knowing what to do, he felt embarrassed.
+现在分词
+(不知道该做什么，他觉得很尴尬。)
+Not knowing what to do was an embarrassment for him.
+动名词
+(不知道该做什么，对他来说是件尴尬之事。)
+
+
+由于动名词与现在分词的形态完全相同，因此同学们往往将之混为一谈，以致在从事英语翻译时，造成意思的偏差，同学们不可不慎。破解此一难题的秘诀，就是要牢记一个观念：动名词具有名词的性质，名词在句中可作主语、宾语及表语；同样地，动名词在句中亦可作主语、宾语及表语。我们分项叙述如下：
+
+1. 动名词的第一功能——主语：
+
+例: Working with him is fun.
+主语 动词
+(和他一起工作很有趣。)
+Seeing is believing.
+主语 动词
+(眼见为实。)
+Losing his fortune drove him mad.
+主语 动词
+(失去财富使他发疯了。)
+
+
+Not knowing what to do was an embarrassment for him.
+主语 动词
+(不知道该做什么，对他是件尴尬之事。)
+
+
+## 注意：
+
+a. 上述各例中，Working、Seeing、Losing 以及 Not knowing 均作主语，故为动名词。
+
+b. 动名词作主语时，仍有动词的意味，若该动名词原为及物动词，之后仍须加宾语。宾语即使为复数，所形成的动名词短语仍视为单数，之后接单数动词。
+
+例: Helping others give me great pleasure. (×)
+动名词短语 复数动词
+→ Helping others gives me great pleasure. (√)
+单数动词
+(帮助别人使我很愉快。)
+
+
+理由:
+本句并非 others 作主语，而是整个帮助别人的动作作主语，故之后动词用单数。
+
+c. 动名词短语作主语时，亦可被形式主语 it 代替，而将该动名词短语移至句尾，改变成不定式短语。
+故上列例句可改写为：
+It gives me great pleasure to help others.
+
+注意：
+只有在 It is no use 的结构中，真正主语仍应为动名词。
+例: It is no use crying over spilt milk. (√)
+形式主语 真正主语
+(覆水难收。)
+It is no use to cry over spilt milk. (×)
+这是习惯用法，同学们宜牢记。
+
+
+例: It is no use reasoning with such a stubborn man.
+= It is | of no use | to reason with such a stubborn man.
+    useless
+= There is | no use | in reasoning with such a stubborn man.
+    no sense
+    no point
+（和这样固执的人讲理是没有用的。）
+
+
+2. 动名词的第二功能——be 动词后的表语：
+例: Seeing is believing.
+表语
+(眼见为实。)
+His hobby is collecting stamps.
+表语
+(他的爱好是集邮。)
+
+
+## 注意：
+
+a. be 动词之后可用不定式或动名词作表语。但赖老师稍早提过，用不定式作表语时，通常表示一种意愿、目的、计划或未完成的事；用动名词作表语时，则表示一种经历或已知的事。
+
+ambition 表 “野心、企图”，为尚未完成的事，故用不定式短语作表语为佳。
+
+例: My favorite sport is skating.
+
+(我最喜爱的运动是滑冰。)
+
+## 注意：
+
+我最喜爱的运动是已知的事，故使用动名词 skating 作表语。
+
+## 理由：
+
+b. 有时 be 动词之后的 V-ing 可能为动名词，亦可能为现在分词。
+例: She is dancing.
+现在分词
+(她在跳舞。)
+Her hobby is dancing.
+动名词
+(她的爱好是跳舞。)
+
+
+由于动名词与主语均具有名词的性质，故有“A is B = B is A”的逻辑特性。因此我们只需将 V-ing 与主语换位，如果语意顺畅，即可断定该 V-ing 是动名词，否则必为分词。
+
+例: Her hobby is dancing.
+主语
+(她的爱好是跳舞。)
+换位:
+Dancing is her hobby.
+(跳舞是她的爱好。)
+判断：语意顺畅，得知 dancing 为动名词。
+She is dancing.
+主语
+(她在跳舞。)
+换位:
+Dancing is she. (×)
+(跳舞就是她。)
+判断：跳舞是动作而非人，故 dancing 不可为现在分词。
+
+
+be 动词之后的现在分词有两种特性。一种为纯作形容词用的分词，可译成“……的”；另一种则为动词的进行时，分析结构时，要将之前的 be 动词视为一体，译成“正在……”。
+
+例: She is charming.
+主语 be 动词 形容词（译成“令人着迷的”，作表语）
+（她很迷人。）
+
+
+consider（考虑）、contemplate（意图）、imagine（想象）、fancy（想）、avoid（避免）、risk（冒险）、escape（逃掉）、deny（否认）、admit（承认）、stop（停止）、quit（停止、戒）、suggest（建议）、recommend（建议）、mind（介意）、remember（记得曾）、finish（完成）、practice（练习）、anticipate（预期）。
+例：I've considered traveling abroad next year.
+(我已考虑明年出国旅游。)
+He recommended doing it soon.
+(他建议快点做此事。)
+You must quit smoking right away.
+(你必须立即戒烟。)
+He denied stealing the money.
+(他否认曾偷这笔钱。)
+
+
+She is dancing.
+主语 不及物动词 dance 的现在进行时（译成“正在跳舞”）
+（她正在跳舞。）
+That question is interesting.
+主语 be 动词 形容词（译成“令人感兴趣的”，作表语）
+（那问题很有趣。）
+John was writing a letter.
+主语 及物动词 write 的过去进行时（译成“正在写”）
+（约翰正在写信。）
+
+
+## 3. 动名词的第三功能——动词的宾语：
+
+例: He detests gambling.
+vt. 0.
+(他憎恨赌博。)
+Some people do not enjoy smoking.
+vt. 0.
+(有些人不喜欢吸烟。)
+I remember seeing him.
+vt. 0.
+(我记得见过他。)
+
+
+## * 下列及物动词习惯上均用动名词作宾语：
+
+He practiced playing the piano every day.
+(他每天练习弹钢琴。)
+
+注意:
+a. anticipate V-ing    期望……
+= expect to V
+
+例: I anticipate cooperating with him.
+= I expect to cooperate with him.
+(我期望与他合作。)
+
+b. stop V-ing    停止从事……
+= quit V-ing
+= cease V-ing
+= cease to V
+
+例: He | stopped | writing when he saw me.
+quit
+ceased
+
+= He ceased to write when he saw me.
+(当他看见我时，他就停止写字。)
+stop to V    停下原来的工作而去做……
+
+例: He stopped to talk to me when he saw me.
+(当他看见我时就停下来和我说话。)
+
+c. allow（允许）、permit（准许）、forbid（禁止）
+
+例: He | allowed | me to smoke.
+permitted | o. 不定式短语（作宾语补语）
+(他允许我吸烟。)
+
+He | allowed | smoking.
+permitted | o.
+(他准许吸烟。)
+
+He forbade me to smoke.
+o. 不定式短语（作宾语补语）
+(他禁止我吸烟。)
+
+He forbade smoking.
+o.
+(他禁止吸烟。)
+
+
+d. remember、forget、regret 的用法：
+1) 表追述过去已发生的事物时：
+| remember（记得曾） | + 动名词
+forget（忘记曾）
+regret（后悔曾）
+
+例: I remember | seeing her before.
+having seen her before.
+(我记得曾见过她。)
+I forgot | mailing that letter.
+having mailed that letter.
+(我忘记我已寄了那封信。)
+I regret | doing it.
+having done it.
+(我后悔做了此事。)
+2) 表以后要做或未完成的事物时：
+| remember（记得要） | + to V
+forget（忘记要）
+regret（遗憾要）
+
+例: I'll remember to see him tomorrow.
+(我会记得明天去看他。)
+I forgot to mail this letter.
+(我忘了寄这封信。)
+I regret to tell you the bad news.
+= I'm sorry to tell you the bad news.
+(我很遗憾要告诉你这个坏消息。)
+
+
+e. 下列动词可用不定式或动名词作宾语，意思不变。
+
+I like（喜欢） to do it. dislike（不喜欢） doing it. love（爱） hate（恨） continued（继续） began（开始） started（开始）
+
+
+4. 动名词的第四功能——介词的宾语：
+例: He is fond of taking a walk.
+prep. o.
+(他喜欢散步。)
+His illness prevented us from starting our own business.
+prep. o.
+(他的病使得我们无法开展我们的事业。)
+None would have dreamed of there being such a place.
+prep. o.
+(做梦也没人想到会有这样一个地方。)
+The book is worth reading.
+prep. o.
+(这本书值得看。)
+
+
+注意
+比较 worth、worthy、worthwhile 的用法。
+
+a. worth prep. 值得
+worth 视为介词，置于 be 动词之后，可接动名词或名词作其宾语。
+例: The issue is worth paying attention to.
+(这个议题值得注意。)
+The car is worth a fortune.
+(这部车值不少钱。)
+
+b. worthy adj. 值得的（与 of 连用）
+be worthy of + 名词 值得……
+例: The issue is worthy of everyone's attention.
+(这个议题值得每个人的注意。)
+
+c. worthwhile adj. 值得的（置于名词前，亦可置于 It is 之后，形成下列结构）
+例: That's a worthwhile book to read.
+(那是一本值得看的书。)
+It is worthwhile to read that book.
+= It pays to read that book.
+(那本书值得看。)
+
+
+I believe that he works hard.
+vt. 0.
+(我相信他工作努力。)
+
+
+## 5. 所有格与动名词的关系：
+
+a. 本书第一章中，我们曾提到 that 引导的名词性从句可作主语。
+
+例: That he teaches well is something that pleases me. (√)
+主语
+
+(他教得很好是件让我高兴的事。)
+
+此时亦可将 that 从句化成动名词短语，仍作句中的主语。
+
+第一步：去除 that；
+
+第二步：将 that 从句中的主语变成所有格；
+
+第三步：将 that 从句中的动词变成动名词。
+
+故：That he teaches well is something that pleases me. (His teaching) \rightarrow His teaching well is something that pleases me. 主语
+
+例: That John refused to do his homework made his father angry.
+主语
+
+= John's refusing to do his homework made his father angry.
+(约翰不肯做功课使得他父亲生气。)
+That he didn't finish the work on time disappointed me.
+主语
+
+= His not finishing the work on time disappointed me.
+
+(他未能准时做完工作使我失望。)
+
+That they had helped John with the work won our great admiration. (√)
+主语
+
+= Their having helped John with the work won our great admiration. (√) (他们帮约翰做这件工作赢得了我们的赞许。)
+
+b. 稍早我们也谈过，that 引导的名词性从句可作表认知的及物动词（think、feel、find、believe...）以及表意愿的及物动词（hope、wish、expect、desire...）的宾语。
+
+但并非所有的及物动词均可用 that 从句作宾语。表示喜欢、厌恶、在乎之意的及物动词，如 like、dislike（不喜欢）、enjoy、mind 等就不可接 that 从句作宾语。
+
+## 注意
+
+that 从句亦不可直接作介词的宾语。
+
+此时，亦须将 that 从句变成 “所有格 + 动名词” 的短语。
+
+例: I am curious about that he stays up late every night. (×)
+prep. his staying
+→ I am curious about his staying up late every night. (√)
+prep.
+(我对他每晚熬夜很好奇。)
+In spite of that helped him, he failed. (×)
+prep. my helping
+→ In spite of my helping him, he failed. (√)
+prep.
+(尽管我帮助了他，他还是失败了。)
+
+
+但若 that 从句中的主语是物而非人时，就不用所有格，而直接将主语作宾语，之后接现在分词。
+
+口语中，that 从句中的主语即使是人，亦可采用本结构。
+
+6. 动名词亦可与名词连用，形成复合名词：
+
+例: a sleeping car 火车的卧铺车厢
+a dining room 饭厅
+a walking stick 手杖
+a laughing stock 笑柄
+
+
+a writing pad 便条纸
+a starting point 起点
+a sewing machine 缝纫机
+a visiting card 名片
+drinking water 饮用水
+
+## 注意：
+
+动名词与作形容词用的现在分词均可置于名词前。分辨的方法如下：
+
+动词
+(手杖——用来走路的棍子)
+a sleeping car
+动名词
+(卧铺车厢——用来睡觉的车厢)
+a dining room
+动名词
+(饭厅——用来吃饭的房间)
+
+b. 若为 “现在分词 + 名词”，则后者有前者的性质，即现在分词有 “正在……” 或 “会……” 之意。
+
+例: a walking dictionary
+现在分词
+(活字典或识字很多的人——会走路的字典/非用来走路的字典。)
+a sleeping baby
+现在分词
+(睡觉中的婴儿——正在睡觉的婴儿/非用来睡觉的婴儿。)
+a barking dog
+现在分词
+(正在叫的狗/非用来叫的狗。)
+
+
+7. “动名词 + 宾语”作主语的变化：
+例: Writing letters is a trying job for me. (佳)
+= The writing of letters is a trying job for me. (可)
+(对我而言，写信是件苦差事。)
+
+
+Shooting birds is forbidden here. (佳)
+= The shooting of birds is forbidden here. (可)
+(在此射鸟是被禁止的/此处禁止射鸟。)
+
+8. 有些动名词亦可作可数的普通名词用:
+例: As an old saying goes, "Honesty is the best policy."
+(俗语有云: “诚实为上策。”)
+A knocking at the door was heard.
+(敲门声被听见。)
+He has a good understanding of the problem.
+(他对此问题很了解。)
+Don't forget to take your belongings (恒用复数) with you.
+(别忘了带你的东西。)
+
+9. 常用的动名词惯用语:
+a. There is no V-ing    不可能……
+= It is impossible to V
+例: There is no reasoning with such a stubborn man.
+= It is impossible to reason with such a stubborn man.
+(和这么固执的人理论是不可能的。)
+
+b. It is no use V-ing    ……是无用的
+= It is of no use to V
+例: It is no use trying to escape.
+= It is of no use to try to escape.
+(想逃走是没有用的。)
+
+c. cannot help
+    resist
+    refrain from
+    stop
+= cannot but V
+= cannot help but V
+例: He couldn't help crying when he saw her.
+= He couldn't but cry when he saw her.
+(当他看见她时，忍不住就哭了。)
+
+
+d. on V-ing
+
+例：
+
+hearing it, he cried.
+
+Upon
+
+=
+
+As soon as
+
+he heard it, he cried.
+
+Once
+
+The moment
+
+The instant
+
+= He had
+
+no sooner heard it than
+
+he cried.
+
+hardly heard it when
+
+scarcely heard it when
+
+=
+
+No sooner had he heard it than
+
+he cried.
+
+Hardly had he heard it when
+
+Scarcely had he heard it when
+
+(一听到那件事他就哭了。)
+
+# EXERCISE
+
+## 1. 请选出一个正确的非谓语动词：
+
+1. They don't allow people ____ here.
+(A) smoke (B) to smoke (C) smoking (D) to smoking
+
+2. ____ on the sofa, my father was reading the newspaper.
+(A) Sat (B) Seat (C) To sit (D) Sitting
+
+3. Peter is, ____, a walking dictionary.
+(A) so to tell (B) to say so (C) so to speak (D) so to talk
+
+4. I won't consider ____ my job at this time.
+(A) quit (B) to quit (C) quitting (D) to quitting
+
+5. You'd better have that bad tooth ____ out.
+(A) pull (B) to pull (C) to be pulled (D) pulled
+
+6. It is necessary ____ that work today.
+(A) to him to do (B) of him to do (C) for him to do (D) of him doing
+
+7. It is very kind ____ so.
+(A) for you to do
+(B) of you to do
+(C) to you to do
+(D) for you doing
+
+8. Strictly ____, your writing is poor.
+(A) speak (B) to speak (C) speaking (D) spoken
+
+9. ____ with his sister's grades, his grades are not so good.
+(A) Compare
+(B) Compared
+(C) Comparing
+(D) By comparing
+
+10. I meant ____ you, but I forgot.
+(A) to say (B) saying (C) to tell (D) telling
+
+11. Your idea, although quite good, needs ____ out.
+(A) try (B) to try (C) trying (D) being tried
+
+12. The boy stood ____ at the sight of blood.
+(A) horrified (B) horrible (C) to horrify (D) horrifying
+
+13. Does anyone ____ Mark live here?
+(A) call (B) called (C) to call (D) calling
+
+14. She knelt down before him, with tears ____ down her face.
+(A) streaming (B) to streaming (C) stream (D) streamed
+
+15. Do you understand the language ____ on that island?
+(A) to speak (B) speaking (C) is spoken (D) spoken
+
+## II. 请选出一个正确的答案：
+
+16. John was never heard ____ the Taiwan dialect.
+(A) to speak (B) speak
+(C) to have been spoken (D) spoke
+
+17. You were opposed to ____ to go with us to the library, weren't you?
+(A) our inviting her (B) us invite her
+(C) that we invite her (D) we inviting her
+
+18. Walking along the river, _. (A) I met several groups of hikers (B) the river met several groups of hikers (C) it was several groups of hikers (D) we met by several groups of hikers
+
+19. He asked me if John had the ability _. (A) to do that (B) to doing (C) of doing that (D) do that
+
+20. Asked if he could come to the party that night, _. (A) nothing was said from anyone (B) they did not get an answer from him (C) nothing was said by him (D) John nodded his head and left the room
+
+21. It is sometimes difficult ____ you have just met.
+(A) to make pleasant conversation at people
+(B) making pleasant conversation on people
+(C) making pleasant conversation for people
+(D) to make pleasant conversation with people
+
+22. The same thing, ____, would have been disastrous.
+(A) had it happened in crowded places
+(B) if happened in crowded places
+(C) if had happened in crowded places
+(D) if has happened in crowded places
+
+23. Because of greatly reduced air pollution, this city is still _. (A) a good place where to live (B) lived as a good place (C) a good place to live in (D) living in as a good place
+
+24. The meeting is to be adjourned, everything ____ undecided.
+(A) left (B) to leave (C) leaving (D) leaves
+
+25. I never know ____ when I go on a trip.
+(A) what clothes should take (B) what clothes to take
+(C) what clothes will I take (D) I take what clothes
+
+## III. 请选出错误的画线部分：
+
+26. Medical researchers have not yet been able to have developed an effective vaccine against influenza.
+(A)
+(B)
+(C)
+(D)
+
+27. Last week I boarded the ordinary train, which, as I expected, was crowded (A) (B) (C) and there was no seat left, so I had to keep stood for more than two hours. (D)
+
+28. I didn't know how to get to your house, so I stopped asking the way.
+(A) (B) (C) (D)
+
+29. Strange to say, she takes to play baseball.
+(A) (B) (C) (D)
+
+30. Her mother did not approve of her to go to the party without dressing (A) (B) (C) formally. (D)
+
+## 标准答案
+
+![](https://gitee.com/shencanlong/englishism/raw/main/assets/lai/65840a5e17947687c120428b13b084002e75dae3d54725392396e487e64582de.jpg)
+
+
+1. (B) 2. (D) 3. (C) 4. (C) 5. (D) 6. (C) 7. (B) 8. (C) 9. (B) 10. (C)
+
+11.(C) 12.(A) 13.(B) 14.(A) 15.(D) 16.(A) 17.(A) 18.(A) 19.(A) 20.(D)
+
+21. (D) 22. (A) 23. (C) 24. (A) 25. (B) 26. (B) 27. (D) 28. (D) 29. (D) 30. (B)
+
+## 习题解说
+
+![](https://gitee.com/shencanlong/englishism/raw/main/assets/lai/73b2053c4631c2c54cdc83d3bf867f470aaa8bed307ebc640605e10ce7461ceb.jpg)
+
+
+1. allow sb to V 允许某人从事……
+
+2. 本句原为 My father sat on the sofa, my father was reading..., 因两句无连词连接，而将前句化为分词结构，即：删除相同的主语 My father，之后的动词 sat 变成现在分词 Sitting，故 (D) 应为正选。
+
+3. so to speak 可以说是
+此为独立短语，可置于句首或句中修饰全句。
+
+4. consider + V-ing 考虑要……
+
+5. 使役动词 have 可用原形动词或过去分词作宾语补语，但拔牙是让人拔，因此用表被动语态的过去分词 pulled。
+
+6. necessary 修饰整个不定式短语，故用 for him to do。
+
+7. kind 是修饰不定式短语中的 you，故用 of you to do。
+
+8. strictly speaking 严格说来
+此为独立的分词短语，常置于句首，作副词，修饰全句。
+
+9. Compared with his sister, he is...
+
+= If he is compared with his sister, he is...
+
+10. mean to V 有意要……
+
+11. need V-ing 需要被……
+
+= need to be p.p.
+That car needs repairing.
+
+= That car needs to be repaired.
+(那辆车需要修理了。)
+
+12. stand、lie、sit 等动词之后可接分词作补语，此处的 horrified 表 “感到恐惧的”，为过去分词作形容词。
+
+13. Does any one called Mark live here?
+
+= Does any one who is called Mark live here?
+
+14. “with + 宾语 + 分词” 结构，此处因表主动语态，故用现在分词 streaming 作宾语补语。
+
+15. 本题的 spoken 为过去分词，由 which is spoken 化简而来。
+
+16. 在被动语态中，知觉动词（hear、see、feel...）之后的不定式短语不可将 to 省略。
+
+17. a. be opposed to V-ing 反对……
+b. our inviting her 系从 we invite her 变化而成。
+
+18. 空格前有分词短语 “Walking along the river” （沿着河走），故主语必须是人，人才有走路的能力，(A) 应为正选；(D) 应删除 by。
+
+19. ability 之后必须用 to V 来修饰，不可用 of V-ing。
+
+20. (Being) asked if...
+
+= When John was asked if...
+
+21. a. 以 it 作形式主语时，真正主语必须为不定式短语，不可用动名词。
+b. make conversation with 和……谈话
+
+22. had it happened in crowded places
+
+= if it had happened in crowded places
+
+23. to live in 为不定式作形容词用，修饰 place。
+
+24. ...everything left undecided.
+
+= ...and everything is left undecided.
+
+25. “what + 名词 + to V” 形成名词短语。
+what clothes to take
+= what clothes I will take
+
+26. be able to 之后不可用不定式的完成时，故 to have developed 应改为 to develop。
+
+27. “keep + V-ing” 表 “持续从事……”， keep stood 应改为 keep standing（表持续站着）。
+
+28. stop V-ing 停止做某事
+stop to V 停下来去做某事
+按照语意，(D)中的asking应改为to ask。
+
+29. | take to enjoy | V-ing 喜欢……
+
+30. her to go 应改为 her going，作 approve of（赞同）的宾语。

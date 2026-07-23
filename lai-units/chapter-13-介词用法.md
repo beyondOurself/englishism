@@ -1,0 +1,1604 @@
+[← 第12章](chapter-12-复合形容词.md) · [目录](00-目录.md) · [第14章 →](chapter-14-反意疑问句.md)
+
+---
+
+# 第十三章 介词用法
+
+# 第十三章 介词用法
+
+## 第一节 at
+
+1. at + 建筑物（邮局、车站、银行、学校等） 在某建筑物（可能在其内或其外面）
+at the post office / station / bank 在邮局/车站/银行（之内或之外）
+例: We're going to meet at the station.
+（我们将在车站碰面。）
+
+## 注意
+
+a. 城市、国家等则与介词 in 连用。
+in the city / my hometown / the United States
+在城市里/我的故乡/美国
+例: There's a famous temple in my hometown.
+(我的故乡有一座有名的寺庙。)
+
+b. 若强调“在某建筑物内”则介词仍须使用 in。
+in the post office / station / bank 在邮局/车站/银行里
+例: My husband works in this office building.
+(我先生在这栋办公大楼上班。)
+
+2. at + 人 对某人（尤指近距离，常与 yell、point、shout、laugh 等动词连用。
+
+此处 at 表 “朝向”)
+
+yell / shout at 人 对某人吼叫/咆哮
+
+laugh at 人 嘲笑某人
+
+point at 人 指着某人
+
+例: The man always shouts at his wife when he is angry.
+
+(那个男人生气时总是对他的太太咆哮。)
+
+Don't laugh at the poor beggar, Johnny.
+
+(约翰尼，不要嘲笑那个可怜的乞丐。)
+
+The teacher pointed at him and said, "I saw you cheat on the test."
+
+(老师指着他说：“我看到你考试时作弊。”)
+
+比较:
+point to... 指着远处的……
+
+
+例: He pointed to the house on the hilltop and said, "It's my house." （他指着山顶上的房子说：“那是我的家。”）
+
+## 3. at 与下列名词连用，表“从事某活动”：
+
+be at work 上班, 做事
+be at church 做礼拜
+be at school 上学
+be at rest 休息
+
+## : Selena is at work now; don't bother her.
+
+（赛琳娜正在工作，不要打扰她。）
+A: Where's Jack?
+B: He's at church.
+(A: 杰克在哪里？)
+(B: 他去做礼拜。)
+A: Is Frank at home?
+B: No, he's at school.
+(A: 弗兰克在家吗？)
+(B: 不在，他在学校。)
+You can go ask the manager now; he's at rest in the lobby.
+(你现在可以去问经理；他正在大厅里休息。)
+
+
+## 4. at 亦与度数/程度/价格/年龄等与数词有关的名词连用：
+
+at the price / cost / expense of + 数词 以……的价格
+at the age of + 年龄 在……的岁数时
+at the speed of + 速度 以……的速度
+
+
+例: I bought the portable CD player at the price of $450.
+(我以 450 美元的价格买了这台 CD 随身听。)
+Sandy had her first child at the age of 32.
+(珊蒂在 32 岁时生了第一个小孩。)
+She drove at the speed of 28 miles an hour.
+(她当时以时速 28 英里的速度开车。)
+
+## 第二节 by
+
+## 1. 表 “在……之旁”，相当于 beside:
+
+by the window 在窗边
+by the door 在门边
+by my side 在我旁边
+
+例: The woman always sat by the window and stared into the distance.
+(那位女士总是坐在窗边，凝视着远方。)
+He came over and stood by my side.
+(他走过来站在我旁边。)
+
+## 2. 表“凭借”
+
+judge A by B 借由 B 来评鉴、判断 A
+tell A by B 借由 B 知道是 A
+
+例: Don't judge a person by his or her looks.
+(不要以貌取人。)
+I can tell by his action that he is a naughty boy.
+(从他的行为我可以判断他是一个调皮的男孩。)
+
+## 3. by 与下列表 “抓” 有关的动词连用，仍表 “借由”：
+
+catch / grab / grasp / hold / seize / take + 人 + by the + 身体部位或衣物的部分抓住某人的……
+例: The man seized him by the collar and told him to shut up.
+(那个男人抓住他的衣领叫他闭嘴。)
+
+## 注意
+
+此句型中 by 之后只可接 the，不可接所有格。
+I caught him by the hand.
+
+(我抓住了他的手。)
+不可说 I caught him by his hand. (×)
+
+## 4. by 亦表 “经过” 之意：
+
+pass by my house 经过我家
+drive by my house 开车经过我家
+walk by my house 走路经过我家
+
+例: I passed by my house and didn't walk in.
+(我经过家门而没有走进去。)
+
+5. by 亦表“差距”之意，尤用于下列用法：
+be older than + 人 + by two years 比某人大两岁
+be younger than + 人 + by two years 比某人小两岁
+
+例: She is older than I by five years.
+(她比我大5岁。)
+We beat the other team by two points.
+(我们以两分之差赢了另一队。)
+
+6. by 亦表“按照”：
+例: They sell eggs by the dozen.
+(他们论打卖鸡蛋，)
+*上句中，by之后置the，再置度量单位名词，如by the box（论盒）、by the yard（论码）。
+It is five twenty by my watch.
+(我的表现在是5点20。)
+
+7. by 亦表“取道”：
+come back by way of Hong Kong 取道香港回来
+= come back via Hong Kong
+
+例: We went to Beijing by way of Hong Kong.
+(我们取道香港前往北京。)
+
+8. by 亦表“乘坐（交通工具）”：
+come back by bus / train / ship / air / bicycle / motorcycle
+乘公交车/火车/船/飞机/(骑)自行车/(骑)摩托车回来
+
+例: He goes to work by taxi every day.
+(他每天乘出租车上班。)
+
+注意
+a. 以上句型中交通工具不可与冠词或所有格连用。
+*不可说by the train、by a car、by my taxi。
+b. 表“步行”时则应使用“on foot”。
+例: He came back on foot.
+(他是走路回来的。)
+
+
+9. by 亦用于被动语态，表“被……”
+be + 过去分词 + by...
+例: He was killed by a car.
+(他被车撞死了。)
+
+10. by 亦可用于主动语态.
+by + 动名词 用/通过……
+例: He succeeded by working hard.
+(他通过努力而成功。)
+The old woman makes a living by selling fruit.
+(那个老太太以卖水果为生。)
+
+11. by + 时间 最迟不超过某时间
+例: Come back by ten.
+= Come back no later than ten.
+(10 点以前要回来。)
+
+## 第三节 for
+
+## 1. 与表“动身”之意的动词连用，表“前往（某地）”
+
+set out / set off / depart for + 地点
+动身前往某地
+head for / to + 地点
+朝某地前进
+leave A 地 for B 地
+离开 A 地前往 B 地
+
+She set out for America last night.
+(她昨晚动身前往美国。)
+We headed for / to the pub after the movie.
+(看完电影后我们就前往酒吧。)
+He left Australia for New Zealand yesterday.
+(他昨天离开澳大利亚前往新西兰。)
+
+## 2. 表“为……的目的”
+
+do it for you 为了你做这件事
+for the sake of... 为了……的缘故
+
+例: Don't blame him. After all, he did it for you.
+(不要责怪他。毕竟，他这件事是为你做的。)
+He does everything for the sake of money.
+(他做每件事都是为了钱。)
+
+## 3. 表“赞成”：
+
+be for + 事 赞成某事
+
+= be in favor of + 事
+
+例: Are you for his idea?
+
+## 4. 表 “为了……的原因”：
+
+reward + 人 + for + 事 因为某事而奖励某人
+例: The villagers rewarded him for saving the girl.
+(村民报答他救了那位小女孩。)
+
+## 5. 表 “当作……”
+
+use A for B 把 A 当作 B 使用 take A for B （误）把 A 当作 B
+例: The natives use some insects for food.
+（那些原住民以一些昆虫为食。）
+I took John for a girl because he wears long hair.
+（我把约翰误当作女孩子，因为他留长发。）
+
+be hard pressed for time 时间不够用（而须寻找时间）
+look for... 寻找……
+例: The lady wears many hats. She is always hard pressed for time.
+(那位女士扮演多重角色。她的时间总是不够用。)
+
+
+## 6. 表“找寻”：
+
+## 7. 表“持续（一段时间）”.
+
+例: I have learned Japanese for three years.
+(我已经学了3年的日语了。)
+I haven't seen John for a long time / for ages.
+(我好长一段时间没见到约翰了。)
+
+
+## 8. for 亦用于下列句型中：
+
+It is + 非表人之本性或气质的形容词 + for sb to + 原形动词...
+对某人来说（做）……是……的。
+例: It is necessary for you to study English.
+(学英语对你来说是有必要的。)
+比较:
+It is + 表人之本性或气质的形容词（如 kind、cruel、stupid）+ of sb to + 原形动词...
+某人做某事实在很……。
+例: It is very kind of you to help me.
+(你能帮我真是太好了。)
+
+## 9. 表 “开往（某地点）（的交通工具）”
+
+例: The flight for Chicago will depart at two thirty.
+(往芝加哥的班机将在 2 点30 分起飞。)
+
+## 10. 表 “以……价格”：
+
+例: I bought the book for only $10.
+(这本书我 10 元就买到了。)
+
+## 第四节 from
+
+## 1. 表 “从……”：
+
+from A to B 从 A 到 B
+from Macao to Hong Kong 从澳门到香港
+from what he said 从他所说的话
+go from bad to worse 每况愈下
+
+例: It takes more than an hour to fly from Shanghai to Hong Kong.
+(从上海飞往香港要花一个多小时。)
+
+I couldn't figure out what he meant from his words. (从他的话中我无法了解他的意思。)
+
+例: This wine is made from grapes.
+(这酒是葡萄酿造的。)→酒不能还原成葡萄
+
+比较：
+
+例: This table is made of wood.
+(这张桌子是木头打造的。)→木头制成桌子后本质仍不变
+
+2. 表 “戒除”：
+refrain from + 动名词 戒除/控制……
+例: Jeff could not refrain from laughing.
+= Jeff could not help laughing.
+(杰夫忍不住大笑。)
+
+3. from 亦可与表“禁止、阻止、保护”有关的动词连用。此处 from 表“免于”
+ban / prohibit / restrict / restrain sb from + 动名词 禁止某人（做）……
+prevent / stop / keep sb from + 动名词 阻止某人（做）……
+protect sb from + 动名词 保护某人免于……
+例: He was prohibited from smoking in the lobby.
+(他被禁止在大厅里抽烟。)
+
+The woman came in time to prevent her son from killing himself. (那位女士及时赶来阻止了她的儿子自杀。)
+
+The prince protected the princess from being attacked by the bandit. (王子保护公主免受盗匪攻击。)
+
+比较：
+
+forbid sb to + 原形动词 禁止某人（做）……
+
+例: Our teacher forbids us to bring comic books to school.
+
+（我们老师禁止我们带漫画书到学校。）
+
+不过亦有将 forbid 与 from 连用，形成下列的用法：
+
+Our teachers forbids us from bringing comic books to school.
+
+（我们老师禁止我们带漫画书到学校。）
+
+*考试时，仍以“forbid sb to + 原形动词”为准。
+
+## 第五节 in
+
+1. 表 “在……之内”，如建筑物、空间、书、文件、公司等：
+
+in the house 在房子里
+in the park 在公园里
+in the magazine 在杂志里
+in this company 在这间公司里
+
+例: Your dog is in the house, not in the backyard.
+(你的狗在房子里，不在后院。)
+The kids are playing in the park.
+(孩子们正在公园里玩。)
+There's a report about this superstar in the current issue of Time.
+(这一期的《时代》杂志中有一篇关于这位超级巨星的报导。)
+Eighty percent of the workers in this company are female.
+(这家公司有80%的员工是女性。)
+
+## 2. 表 “穿/戴着……”
+
+例: Who is the girl that is dressed in red?
+
+= Who is the girl that is wearing a red dress?
+
+(那个穿着红衣服的女孩是谁？)
+
+比较：
+
+例: She put on her coat before going out.
+
+3. “in + 一段时间” 表 “在一段时间之后”，相当于 “一段时间 + later”，亦可表 “在一段时间之内”，此时 in 相当于 within：
+例: I'll be back in two minutes.
+= I'll be back two minutes later.
+（我两分钟后就会回来。）
+I think I can finish the work in two minutes.
+
+= I think I can finish the work within two minutes.
+(我想我在两分钟内就可以完成这份工作。)
+
+4. 表 “以……（颜料、工具等）”：
+write the letter in ink / pencil 用墨水/铅笔写信
+write the word in chalk 用粉笔写字
+
+
+## 注意
+
+pencil 当不可数名词，指 “铅笔的颜料”，若当可数名词，则指 “铅笔” 要用 “with a pencil”（用一支铅笔）。chalk 原指 “滑石粉”，亦是粉笔的原料，是不可数名词，表 “用一支粉笔” 要用 “with a piece of chalk”（非 with a chalk）来表示。
+
+5. 表 “按……次序”：
+in alphabetical order 按字母顺序
+keep... in order 将……整理好/整齐
+例: He put the papers in the folders in alphabetical order.
+(他把文件按照字母顺序放入档案夹中。)
+Keep your room in order before the guests come.
+(客人来之前把你的房间整理好。)
+
+
+6. 表 “以……语言/声音”：
+write in Chinese 用中文写
+speak in a low voice 低声说话
+talk in a bitter tone 以尖刻的语调说话
+例: It's surprising that the foreigner can write in Chinese.
+(这老外会写中文，真令人惊讶。)
+
+
+Kate is speaking to her friend in a low voice.
+
+(凯特正低声在和她的朋友说话。)
+
+My mother stared at Tim and talked in a bitter tone. (我母亲凝视着提姆，并以尖刻的语调说话。)
+
+比较：
+
+with a heavy Japanese accent 带有浓重的日本口音
+
+☐: The man spoke with a heavy Japanese accent.
+
+(那个男子说话带有浓重的日本口音。)
+
+## 第六节 on
+
+## 1. 表“接触在某物体的表面上”：
+
+on the table 在桌上
+on the roof 在屋顶上
+例: The maid put the dishes on the dining table.
+(女仆把碗盘放在餐桌上。)
+There are two cats on the roof.
+(屋顶上有两只猫。)
+
+## 2. 与表“距离”的名词连用：
+
+go on a trip / journey 去旅行
+go on an expedition 去探险/远征
+go on an excursion （尤指团体）去远足
+
+例: My husband likes to go on a trip to Japan at this time of the year.
+(我先生喜欢在每年的这个时候去日本旅行。)
+Those explorers went on an expedition to the Sahara.
+(那些探险家去撒哈拉沙漠探险。)
+The students in the sixth grade are going on an excursion today.
+(六年级的学生今天要去远足。)
+
+## 3. 与表“差遣”的名词连用：
+
+be on an errand 跑腿，办差事
+be on a mission 身负使命
+
+例: A: Where's Johnny?
+B: He's out on an errand.
+(A: 约翰尼在哪里？)
+(B: 他出去办点差事。)
+The soldiers were sent to the front on a mission.
+(那些军人被派往前线作战。)
+
+4. 与表“约会”的名词连用：
+be on a date with sb 跟某人约会
+例: Were you on a date with the man over there last night?
+(你昨晚和那边那位男士约会吗？)
+
+5. 与表“特别饮食”的名词连用：
+be on a diet 节食
+Cindy won't eat these cakes. She's on a diet.
+(辛蒂不会吃这些蛋糕的。她正在节食。)
+
+6. 与 run、go 等名词连用，表“持续的动作”：
+be on the run 到处流窜
+be on the go 忙碌（= be busy）
+The three wanted men have been on the run for six months.
+（那三名通缉犯已经逃亡六个月了。）
+My eldest sister is always on the go.
+（我大姐总是忙个不停。）
+
+## 7. 与表“平地”或“大陆”的名词连用：
+
+on campus 在校园内
+on the mainland 在大陆
+on the farm / ranch 在农场/牧场上
+
+例: The club held many activities on campus this week.
+(该社团这星期在校园里举办了许多活动。)
+Life on Hainan is different in many ways from life on the mainland.
+(海南岛居民的生活和大陆的居民在很多方面不同。)
+They rear cattle and sheep on the ranch.
+(他们在牧场上饲养牛羊。)
+
+比较:
+off campus 在校外
+☑: Students should behave themselves even off campus.
+(学生即使在校外也应该守规矩。)
+
+live on that street 住在那条街上
+walk on the beach 在海滩散步（海滩为线状）
+on the coast 在海岸上
+on the brim / edge / verge of... 在……的边缘
+on the frontier 在边境
+
+
+例: The Green family live on that street.
+(格林家住在那条街上。)
+I like to walk on the beach with my boyfriend.
+(我喜欢和男友在海滩散步。)
+The village is located on the coast.
+(那个村子位于海岸上。)
+The entrepreneur is on the verge of bankruptcy.
+(那位企业家正濒临破产边缘。)
+Many rare animals are on the edge of extinction.
+(很多稀有动物濒临绝种。)
+There are few people living on the frontier.
+(边境地区很少人居住。)
+
+
+9. 表 “凭，靠” 之意：
+on foot 步行（非 by foot）
+例: Do you go to school on foot every morning?
+(你每天早上都是走路上学吗？)
+
+10. 表 “根据、遵照”：
+act on one's advice 按照某人的建议行事
+act on one's order 遵照某人的命令行事
+例: I'll act on your advice and try to achieve the goal.
+(我会按照你的建议行事，试着去达成目标。)
+Don't ask too much. Just act on my order.
+(不要问太多。只要遵照我的命令行事就对了。)
+
+
+## 11. 与表有关“无线电器材”之名词连用：
+
+on / over the telephone 在打电话
+on television 在电视屏幕上（非 on the television）
+on / over the radio 在广播中
+
+Steven is talking on the telephone.
+(史蒂芬正在通电话。)
+I saw your daughter perform on television last night.
+(我昨晚看到你女儿在电视上表演。)
+We heard the news on the radio this afternoon.
+(今天下午我们在广播中听到这个消息。)
+
+12. 与表 “赞美、恭贺” 的名词连用，表 “为了/因为……”：congratulate sb on（代）名词/动名词 因……而恭贺某人
+His family congratulated him on passing the exam.
+（他的家人恭喜他通过了考试。）
+
+## 13. 与“日子”连用：
+
+on Sunday 在星期天
+on December 11 在12月11日
+
+Emile goes to church on Sundays.
+(埃米尔星期天都上教堂。)
+We're going to celebrate Leon's birthday on December 11.
+(我们将在12月11日庆祝利昂的生日。)
+
+## 1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16. 17. 18. 19. 20. 21. 22. 23. 24. 25. 26. 27. 28. 29. 30. 31. 32. 33. 34. 35. 36. 37. 38. 39. 40. 41. 42. 43. 44. 45. 46. 47. 48. 49. 50. 51. 52. 53. 54. 55. 56. 57. 58. 59. 60. 61. 62. 63. 64. 65. 66. 67. 68. 69. 70. 71. 72. 73. 74. 75. 76. 77. 78. 79. 80. 81. 82. 83. 84. 85. 86. 87. 88. 89. 90. 91. 92. 93. 94. 95. 96. 97. 98. 99.
+
+in the morning / afternoon / evening 在早上/下午/傍晚
+at night 在晚上
+
+但 morning / afternoon / evening 如与日子连用时，介词用 on。
+on the afternoon of August 16 在8月16日下午
+on Monday morning 在星期一早上
+on Saturday night 在星期六晚上
+
+例: The famous singer got together with his fans on the afternoon of August 16.
+(那位名歌手在8月16日下午和他的歌迷聚会。)
+We always have a meeting on Monday morning.
+(我们总是在星期一早晨开会。)
+
+## 14. 表“请客”：
+
+例: Everything is on me.
+(一切我请客。)
+*但 be on the house 表“主人请客”之意。
+We had a drink on the house last Saturday.
+(上星期六主人招待我们喝酒。)
+
+## 15. on 的其他重要用法：
+
+on call 随时待命
+
+on duty 值班/上班时间中
+
+例: The firefighters are on call for emergencies.
+(消防队员随时为紧急情况待命。)
+The guard is on duty from 7:00 a.m. to 9:00 p.m.
+(警卫的值班时间是从早上7点到晚上9点。)
+
+## 第七节 to
+
+## 1. 通常表“到达、往”之意：
+
+go to the station 到车站去
+turn to the right 右转
+
+=turn right（非 turn to right，因为 right 之前无 the 时，是副词）
+be moved to tears 感动得落泪
+up to + 数词 多达（若干数词）
+
+例: What time are you going to the station?
+(你几点要去车站？)
+Turn to the right at the next crossroads.
+= Turn right at the next crossroads.
+(在下一个十字路口右转。)
+He was moved to tears by the movie Titanic.
+(他被《泰坦尼克号》这部电影感动得落泪。)
+He makes up to $50,000 per month.
+(他每个月赚将近5万美元。)
+
+2. 与 “人” 连用，表 “对某人而言”：
+be everything to sb 是某人的一切
+: Her children are everything to her.
+(她的子女是她的一切。)
+
+3. 与下列名词连用，形成固定用法，表“针对”之意：
+
+the key to success 成功的关键
+(非 the key of success)
+the answer to the question 问题的答案
+(非 the answer of the question)
+the solution to the problem 解决问题之道
+(非 the solution of the problem)
+
+The key to success is diligence.
+(成功的关键就是勤劳。)
+The answer to this question is unknown.
+(这个问题的答案没人知道。)
+
+She brought forward a solution to the problem. (她提出了一个解决这个问题的方法。)
+
+4. 表 “附加” 之意：
+the annex to the building 这栋大楼的附属建筑物
+the amendment to the constitution 宪法修正案
+
+例: The old man lives in the annex to the building.
+(那个老人住在这栋大楼的附属建筑物里。)
+The amendment to the constitution is still under discussion in the parliament.
+(这项宪法修正案仍在国会讨论中。)
+
+5. to 亦与情绪名词连用，形成 “To one's + 情绪名词，……” （令某人……的是，……），通常置于句首：
+To one's surprise,... 令某人惊讶的是，……
+To one's joy,... 令某人高兴的是，……
+To one's satisfaction,... 令某人满意的是，……
+To one's dismay,... 令某人沮丧的是，……
+To one's astonishment,... 令某人惊奇的是，……
+
+例: To my surprise, he left without saying anything.
+(令我惊讶的是，他什么也没说就离开了。)
+To our joy, he passed the entrance exam and entered a good university.
+(令我们高兴的是，他通过了人学考试，进入一所好大学就读。)
+To their satisfaction, this new product sells well.
+(令他们满意的是，这项新产品卖得很好。)
+To his dismay, he found his car was gone.
+(令他沮丧的是，他发现他的车不见了。)
+To the audience's astonishment, the magician appeared again after the fire disappeared.
+(令观众惊奇的是，火焰消失后魔术师再度出现。)
+
+## 1
+
+表“就某人所知”亦与介词to连用。
+
+例: To my understanding / knowledge, John moved to Hong Kong early this month.
+(就我所知，这个月初约翰已经移居香港了。)
+
+6. 表 “配合（音乐、曲调、节拍等）”：
+dance to the music 随着音乐跳舞
+* 不可说 dance with the music 抱着音乐一起跳舞 (×)
+dance to the melody 随着旋律跳舞
+
+例: The teacher had the music on and everyone started to dance to the music.
+(老师放音乐后，大家便开始随着音乐跳舞。)
+
+比较:
+dance with sb 与某人跳舞
+
+例: I'd like to dance with you.
+(我想和你跳舞。)
+
+7. “be up to + 事” 表 “从事某事”，通常指令人怀疑或不好的事，常用于问句：
+
+例: What are you up to?
+(你在搞什么鬼？)
+但 “It's up to sb.” 则表 “由某人做决定。”
+
+例: A: Should I do it?
+B: It's up to you!
+(A: 要不要由我来做这件事？)
+(B: 由你决定吧！)
+
+## 第八节 with
+
+1. 表 “使用（某物）” 之意：
+cut it with a knife 用刀切它
+do it with care 以谨慎的心做这件事
+例: Mom cut the potato with a knife.
+(妈用刀子切马铃薯。)
+She does everything with care.
+(她谨慎地做每一件事。)
+
+2. 与 “人” 连用，表 “跟随（某人），和（某人）”：
+do it with me 跟我一起做这件事
+例: Come with me. I'll show you something.
+(跟我来。我给你看一样东西。)
+
+## 3. with 亦可放句首，表 “有……；随着……”：
+
+例: With your help, I have nothing to worry about.
+= Having your help, I have nothing to worry about.
+(有你的帮忙，我没什么好担心的。)
+With the passing of time, he's getting older.
+(随着时间的流逝，他的年纪愈来愈大。)
+
+## 注意
+
+with 表上述之意时不一定要置于句首，亦可置于名词之后。
+a girl with big eyes 一个（有）大眼睛的女孩
+rise with the sun 随着太阳升起而起床
+
+例: He is a man with a big nose.
+(他是个有大鼻子的人。)
+Abigail Van Buren, the writer of the column Dear Abby, rose with the sun every day.
+(《艾比信箱》专栏的作者艾比盖尔·凡·布伦每天在太阳升起的同时便起床。)
+
+4. with 也可形成复合结构，通常为大动作附带小动作时，大动作以本动词表示，小动作则使用 with 复合结构。其结构为：
+with + 宾语 + 形容词 / 介词短语 / 分词 / 副词（作宾语补语）
+
+(当时他双臂交叉着坐在那里。)
+
+
+What with his laziness and illness, he was fired.
+
+
+例: He was sitting there with his arms folded.
+
+*上句中“坐”为主要动词，“双臂交叉”为附带动作，故后者使用“with his arms folded”。
+
+He was talking to me with a pipe in his mouth.
+
+(当时他嘴里含着烟斗跟我说话。)
+
+*上句中“讲话”为主要动词，“嘴里含烟斗”为附带动作。
+
+在该结构中，若为 “with + 宾语 + 介词短语” 时，可将该结构中的 with、冠词及所有格予以省略，保留名词，故上句亦可写成 “He was talking to me pipe in mouth.”。
+
+5. with 亦可与表 “疾病” 之意的名词连用：
+
+with + 疾病    因某疾病而病倒了
+be ill with + 疾病    生了某疾病
+come down with + 疾病    患了/得了某疾病
+be infected with + 疾病    感染某疾病
+= contract + 疾病
+be attacked with + 疾病    因某疾病而病倒了
+例: Her father fell ill with lung cancer last month.
+(她父亲上个月因肺癌病倒了。)
+Many students in the class were infected with the flu.
+(这班有很多学生得了流行性感冒。)
+
+
+6. with 亦表 “因为”，与 what 连用：
+
+
+= Partly because of his laziness and partly because of his illness, he was fired.
+(一方面因为懒惰，另一方面因为生病，所以他被开除了。)
+
+7. with 的其他常态用法：
+
+leave sth with sb 将某物留给某人
+compare A with B 将 A 与 B 作比较
+be popular with + 一群人 受某一群人欢迎
+be wrong with sb 某人出了差错
+
+
+= be the matter with sb
+
+例: His parents left a fortune with him after they died.
+(他的父母死后留给他一笔财富。)
+
+Most parents like to compare their kids with other kids.
+
+(大多数的父母喜欢拿他们的孩子和别的小孩比较。)
+
+The humorous professor is popular with his students.
+
+(这位幽默的教授很受他学生的欢迎。)
+
+Something's wrong with her.
+
+(她有点不对劲。)
+
+What's the matter with you?
+
+(你怎么了？)
+
+sit about the campfire 坐在营火边
+=sit around the campfire
+turn about 向后转（= turn around）
+beat about / around the bush 讲话兜圈子
+Stop beating about the bush and get to the point.
+(讲话别再兜圈子了，快说重点。)
+When she heard someone calling her, she turned about to see who it was.
+(她听到有人在叫她时，便转过头去看是谁。)
+
+
+## 第九节 about
+
+1. 表 “环绕” 之意，相当于 around:
+
+2. 表 “有关”，相当于 on / concerning / regarding:
+
+write an article about air pollution 写一篇有关空气污染的文章
+
+= write an article on / concerning / regarding air pollution
+
+例: He wrote an article about astrology.
+
+(他写了一篇有关占星术的文章。)
+
+We'll have a meeting about environmental protection.
+
+= We'll have a meeting on / concerning / regarding environmental protection. (我们将开一个有关环保问题的会议。)
+
+但 about 多为口语用法，on 则在文字中使用，通常与书或文章题目连用。
+a book on the Renaissance 一本有关文艺复兴的书
+
+(警方仍在追缉这名小偷。)
+
+
+## 第十节 after
+
+## 1. 表 “在（一段时间）之后”
+
+after three years 3年后
+
+
+The man came back to his hometown after three years.
+
+(那名男子3年后回到了他的故乡。)
+
+## 2. 表“追逐”，通常与动词连用：
+
+be after 人 追逐/追捕某人
+
+
+= run after 人
+
+= chase (after) 人
+
+例: The police are still after the thief.
+
+= The police are still running after the thief.
+
+= The police are still chasing (after) the thief.
+
+但 chase (after) 亦可指 “追求异性”。
+
+
+例: He is chasing (after) Mary.
+
+(他正在追求玛丽。)
+
+## 3. 表“像，模仿”
+
+take after... 像……
+
+
+= resemble...
+
+= look like...
+
+例: He takes after his father.
+
+= He resembles his father.
+
+= He looks like his father.
+
+(他长得像他爸爸。)
+
+This is a picture after van Gogh.
+
+(这是一张模仿梵高画风的画。)
+
+## 第十一节 toward
+
+## 1. 表“朝向”：
+
+toward sb 朝某人的方向
+toward the station 朝车站的方向
+toward evening 快傍晚时
+
+The girl ran toward him with a bright smile. （那个女孩带着灿烂的笑容跑向他。）
+
+比较:
+
+forward 往前 (adv.)
+
+backward 往后，倒退 (adv.)
+
+wayward 任性的；四面八方的 (adj.)
+
+例: The little child is toddling forward.
+(那个小孩正摇摇晃晃地向前走。)
+The students were asked to run backward.
+(学生们被要求倒退着跑。)
+She is a wayward girl, who never thinks about others.
+(她是个任性的女孩，从不会为别人着想。)
+
+## 2. 表 “对于”
+
+one's attitude toward / to... 某人对……的态度
+
+例: What's your attitude toward mercy killing?
+(你对于安乐死的看法如何？)
+
+## 第十二节 except
+
+1. 表 “除了……之外”，通常与涵盖性完全的形容词（all、every、any、no）连用，并可以 save 取代 except，但 save 为古老用法：
+
+例: All except him will go.
+
+= All save him will go.
+
+（除了他之外，所有的人都会去。）
+
+* 不可说 “Most people except him will go.”，因为 most 不是涵盖性完全的形容词。
+
+I like any kind of fruit except guavas.
+
+（除了番石榴之外，任何水果我都喜欢。）
+
+Everybody can do it except Peter.
+
+（除了彼得之外，每个人都可以做这件事。）
+
+* 不可说 “Many people can do it except Peter.”，因为 many 不是涵盖性完全形容词。
+
+He enjoys nothing except music.
+
+(除了音乐之外，他什么都不喜欢。)
+
+*但“nothing except”亦可用“nothing but”取代，故上句亦可写成“He enjoys nothing but music.”。
+
+2. except 之后亦可接 that 从句或 “for + 名词”，表示 “只可惜……” 或 “只不过是……”
+
+例: He is quite nice except that he is bad-tempered.
+
+= He is quite nice except for his bad temper.
+
+（他人蛮不错，只不过是脾气不好。）
+
+## 第十三节 behind
+
+## 1. 表 “在……之后”：
+
+behind 表此意时与 after 用法不同，after 通常与动词连用，表动态的 “追逐” 之意，尤与动词 run 连用，形成 “run after...” （追逐……）的固定短语。behind 则为静态。
+
+例: There is a tree behind the house.
+(房子后面有一棵树。)
+* 上句不可说 “There is a tree after the house.”。
+He is sitting behind me.
+(他正坐在我后面。)
+She is standing behind the door.
+(她正站在门后面。)
+
+## 2. 表“落后”：
+
+behind schedule 比预定时间落后
+
+例: He always finishes his work behind schedule.
+(他总是比预定时间落后完成工作。)
+
+比较:
+on schedule 按预定时间
+ahead of schedule 比预定时间提前
+
+例: We'll try to keep everything running on schedule.
+(我们会尽量使每件事按预定时间进行。)
+The train arrived ahead of schedule.
+(火车比预定时间提前到达。)
+
+## 第十四节 into
+
+1. 通常与动态动词连用，表“进入”：
+
+walk into the classroom 走进教室
+run into the room 跑进房间
+
+例: As soon as the teacher walked into the classroom, the class became quiet.
+(老师一走进教室，全班立刻变得很安静。)
+
+My sister ran into the room and told me the good news. (我妹妹跑进房间告诉我这个好消息。)
+
+## 注意
+
+“run into + 人”表“与某人巧遇”，等于“bump into + 人”。
+
+例: I ran into an old friend on the street yesterday.
+
+= I bumped into an old friend on the street yesterday.
+(我昨天在街上巧遇一位老朋友。)
+
+## 2. 表 “转变成”：
+
+change / transform / turn A into B 将 A 转变成 B
+translate A into B 将 A 翻译成 B
+
+例: The witch transformed herself into a little girl.
+(那个女巫把自己变成一个小女孩。)
+
+Our homework today is to translate a Chinese article into English. (我们今天的作业就是把一篇中文文章翻译成英语。)
+
+3. 与 be 动词连用，形成 “be into” 的短语，表 “热衷于……”：
+
+例: He is into classical music.
+(他热衷于古典音乐。)
+
+= in an hour
+
+
+## 第十五节 within
+
+## 1. 表 “在……之内”，尤指在某空间或某时间之内，相当于 in:
+
+图: There's no desert within the country.
+
+例: He finished the work in an hour.
+
+(他在一个小时之后完成了工作。)
+
+## 2. 亦可指范围，表“在……范围内”：
+
+act within the law 在法律范围内行事
+
+例: A law-abiding citizen should act within the law.
+
+（守法的公民应该依法行事。）
+
+## 第十六节 without
+
+## 1. 表 “没有/无……”：
+
+coffee without sugar 无糖的咖啡
+without his help 没有他的帮助
+
+例: Robert likes to drink coffee without sugar.
+(罗伯特喜欢喝无糖的咖啡。)
+
+I couldn't have succeeded without his help. (若没有他的帮助，我当时就无法成功。)
+
+## 2. 与 without 有关的短语：
+
+can do without...
+
+cannot do without...
+
+没有……也行
+
+没有……就不行
+
+It goes without saying + that 从句
+
+不用说，……。
+
+例: I can do without money, but I can't do without your love.
+(我可以没有钱，但不能没有你的爱。)
+It goes without saying that money can't buy everything.
+(不用说，金钱不能买到每一样东西。)
+
+## 第十七节 above
+
+1. 表 “在……之上”，通常指空间、离开地面或某物体表面之上，相当于 over:
+
+■: Some birds are flying above the city.
+= Some birds are flying over the city.
+(有几只鸟正在城市上空飞翔。)
+
+2. 表 “地理位置在……的上方”：
+
+: Keelung is located above Taipei on the map.
+(在地图上基隆位于台北的上方。)
+
+3. 表 “超过/超越”，与数词连用：
+
+: No one above the age of twenty-six can stay in the youth hostel.
+(年龄超过26岁的人不能入住这家青年旅社。)
+
+4. 在下列短语中, above 表 “不屑” 之意:
+
+be above + 动名词 不屑/不愿（做）……
+
+■: He is above cheating.
+
+(他不屑于诈骗别人。)
+
+但 be not above + 动名词 愿意（做）……
+
+■: He is not above asking questions.
+(他总是不耻下问。)
+
+## 第十八节 over
+
+1. 表 “在……之上”，但通常为悬空的状态，相当于 above:
+be over the city 在城市上空
+= be above the city
+例: An eagle is flying over the mountaintop.
+(有一只老鹰正在山顶上空飞。)
+
+
+2. 表 “覆盖在……之上”，为有接触物体的状态：
+put one's hands over one's face 把某人的手放在某人的脸上
+例: He put his hands over her face, telling her not to worry.
+（他把手放在她的脸上，告诉她不要担心。）
+
+
+3. 表 “（悬空）略过”，尤与动词 jump 连用：
+jump over the wall 跳过这座墙
+例: The thief jumped over the wall and ran down the street.
+(那名窃贼跳过墙跑到街上去了。)
+
+
+4. 与地方名词连用，表“在某地方的另一头”：somewhere over there 在那儿的某处例: I live over the road.
+(我住在马路那头。)
+
+
+over + 数词 超过某数词
+= more than + 数词
+例: Over twenty people were seriously injured in the traffic accident.
+= More than twenty people were seriously injured in the traffic accident.
+(在这场车祸中有超过 20 个人受到重伤。)
+
+
+6. 与表 “驾驭” 同义之名词或动词连用：
+have authority / control / power over... 有支配、指挥……的权力
+rule over... 统治……
+例: The president has authority over the army.
+(总统有权指挥军队。)
+
+
+The king has ruled over the people for ten years. (这个国王已经统治人民10年了。)
+
+7. 与咖啡、茶、三餐等连用，表“吃/喝……了一段时间”，常与 talk 连用：
+
+: We talked over a cup of tea.
+(我们谈了一杯茶的光景。)
+They talked over dinner.
+(他们聊了一顿晚饭的时间。)
+
+
+## 词辨
+
+a. 当描述某物的位置高于另一物时，above 与 over 均可使用。
+F: There is an attic above the house.
+= There is an attic over the house.
+(房子上方有一个阁楼。)
+
+b. 但若表“从某物的一边移动到另一边”之动态动作，则只可用 over。
+The child threw the ball over the wall.
+(那个小孩把球丢到墙外。)
+
+c. 另外 above 与 over 均可表 “超越”，但 above 多与表示最小等级或一固定点之名词连用，over 则与数词、时间、年龄、金钱等连用。
+注: Mt. Jade is 3952 meters above sea level.
+(玉山的高度为海拔 3952 米。)
+The boy is above average height for his age.
+(这个男孩身高超过同年龄其他小孩。)
+The man is over thirty.
+(这个男人 30 多岁了。)
+I spent over five hundred dollars buying this book.
+(我花了 500 多元买这本书。)
+
+## 第十九节 below
+
+1. 表 “在（某物体）的下方”：
+write below the line 写在横线下方
+例: There is a supermarket below the department store.
+(这家百货商店下面有一家超市。)
+There is a waterfall far below the bridge.
+(离桥下远处有个瀑布。)
+
+## 2. 表 “（数量等）少于……；（地位等）低于……”：
+
+例: He is a man below fifty.
+(他是个不到 50 岁的男子。)
+A lieutenant is below a captain.
+(上尉的军衔低于上校。)
+
+## 第二十节 beneath
+
+1. 表 “在（某空间）之正下方”：
+例: They live beneath the same roof.
+(他们住在同一个屋檐下。)
+
+2. 表 “（身份、地位、智力等）低于……”，相当于 below:
+例: Frank is far beneath Daniel in intelligence.
+(弗兰克的智力远不及丹尼尔。)
+
+3. 表 “与……不相称；不值得”：
+It is beneath sb to + 原形动词... 从事……有失某人的身份。
+marry beneath oneself 与身份或社会地位比自己低的人结婚
+例: It is beneath you to do this kind of thing.
+(做这种事有失你的身份。)
+She doesn't mind marrying beneath herself.
+(她不介意与一个社会地位比自己低的人结婚。)
+
+under the heavy pressure of work 在沉重的工作压力下
+under any circumstances 在任何情况下
+under construction 施工中
+
+
+## 第二十一节 under
+
+## 1. 表 “在（某物体）的下面”：
+
+The high school student sat under the tree with his girlfriend. (那名高中生和他的女友坐在树下。) I found my turtle under the bed. (我在床底下找到我的乌龟。)
+
+2. 表 “低于……：少于……”；
+under seven years old 7 岁以下
+■: People under twenty-one are not allowed to buy alcohol in America.
+(在美国，21岁以下的人不可以买酒。)
+He is an officer under a commander.
+(他是一名军衔低于中校的军官。)
+
+
+## 3. 表 “在……支配/控制/影响下”：
+
+under the president 由总统统治
+under the influence of drugs 在药物的影响下
+The country is now under a benevolent queen.
+(这个国家现在由一位仁慈的女王所统治。)
+He told the truth under the influence of wine.
+(他在酒醉后吐露了实情。)
+
+## 4. 表 “承受着（重担、压力等）；在……的情况/状态下”：
+
+She collapsed under the burden of debts.
+(她在背负债务的重担下崩溃了。) Don't tell others the secret under any circumstances.
+(在任何情况下都不要告诉别人这个秘密。)
+
+The bridge is still under construction. (这座桥仍在施工中。)
+
+5. 表 “接受（考验、刑罚、手术等）”：
+under an eye operation 接受眼部手术
+under penalty 受到处罚
+例: He is under an eye operation at that hospital.
+(他在那家医院接受眼部手术。)
+People who disobey the regulations will be under penalty.
+(凡是违反规定的人就会受到处罚。)
+
+
+6. 表 “以……的名义/形式；假惜……”：
+under a false name / a pseudonym  以假名
+under the guise of a woman    假扮成女人
+
+例: She writes novels under the pseudonym of George Eliot.
+(她以乔治·艾略特作为笔名来写小说。)
+The man always steals cosmetics under the guise of a woman.
+(那名男子总是假扮成女性去偷化妆品。)
+
+
+8. 表 “属于……项目”：
+例: Novels come under literature.
+(小说属于文学类。)
+
+## 第二十二节 underneath
+
+## 表 “在……之下”，相当于 under 或 beneath:
+
+underneath the table 在桌子下
+
+=under the table
+
+= beneath the table
+
+☐: The cat is sleeping underneath the table.
+
+= The cat is sleeping under the table.
+
+= The cat is sleeping beneath the table.
+
+(那只猫正在桌子底下睡觉。)
+
+## 第二十三节 against
+
+## 1. 表“对抗、抵制、反对”：
+
+be against a plan 反对一个计划
+
+☐: All members were against the plan he brought forward.
+
+(所有的成员都反对他提出的计划。)
+
+## 2. 表“顶着”：
+
+lean against the wall 靠墙站
+
+☐: Be careful of the man leaning against the wall.
+
+(小心那个靠墙站着的男子。)
+
+## 3. 表 “以……为背景”：
+
+: That color looks good against your skin.
+
+(那个颜色在你皮肤的衬托下看起来不错。)
+
+## 第二十四节 along
+
+1. 表 “沿着……”：
+walk along the river 沿着河走
+例: Walk along the street and you'll see many bookstores.
+（沿着街走，你会看到很多书店。）
+
+2. 表 “顺畅”:
+get along with 人 与某人相处得很好
+例: Cynthia gets along with her classmates.
+(辛西亚和她的同学们相处得很好。)
+
+3. 与介词 with 连用，形成 along with，表“以及”之意，相当于 together with:
+例: He, along with me, enjoys music.
+= He, together with me, enjoys music.
+（他和我都喜欢音乐。）
+
+## 第二十五节 before
+
+表“在……之前”，之后可接表空间或时间的名词：
+
+stand before the car    站在车前
+before June    在6月之前
+
+例: The boy standing before the black car is my brother.
+(站在那辆黑色汽车前的男孩是我哥哥。)
+Elly will come back from Japan before December.
+(艾莉在12月之前会从日本回来。)
+
+## 第二十六节 beyond
+
+## 表“超越”之意：
+
+be beautiful beyond description 美得难以形容
+
+beyond one's imagination
+
+超乎某人的想象
+
+beyond one's expectation
+
+出乎某人意料之外
+
+The scenery there is beautiful beyond description.
+
+（那里的风景美得难以形容。）
+
+He is so smart beyond our imagination.
+
+(他的聪明超乎我们的想象。)
+
+Jenny won the competition beyond everyone's expectation.
+
+（珍妮出人意料地赢得了比赛。）
+
+## 第二十七节 during
+
+表“在（一段时间）期间”：
+
+during his stay here 在他待在这里期间
+
+during the two months 在这两个月中
+
+■: Rebecca went shopping in Causeway Bay every weekend during her stay in Hong Kong.
+
+（瑞贝卡待在香港期间每个周末都去铜锣湾逛街。）
+
+I won't be here during the two months.
+
+(这两个月期间我都不会在这里。)
+
+## 第二十八节 through
+
+1. 表 “经过”：
+walk through the crowd 走过人群
+例: The singer walked through the crowd and left.
+(那位歌手穿过人群离开了。)
+
+2. 表 “取道/通过”：
+travel through Hong Kong 取道香港去旅游
+例: We went to Canada through Hong Kong.
+(我们取道香港去加拿大。)
+
+3. 表 “凭借”：
+through one's help 凭借某人的帮助
+through the magazine 透过这本杂志
+例: Gina got the job through Linda's help.
+(吉娜凭借琳达的帮忙而获得这份工作。)
+I knew Tom through the magazine.
+(我是透过这本杂志认识汤姆的。)
+
+4. 表 “从（活动、场合等）开始到结束”：
+through the whole meeting 从会议开始到结束
+例: The manager didn't say a word through the whole meeting.
+(从会议开始到结束经理一句话都没说。)
+
+5. 表 “整段时间”：
+through the day 一整个白天
+through the night 一整个晚上
+例: He wandered around on the street through the day.
+(他白天一整天都在街上游荡。)
+Did you cram for the test through the night?
+(你一整个晚上都在为考试临时抱佛脚吗？)
+
+## 第二十九节 besides
+
+表“除了……之外”，相当于“in addition to”：
+besides +（代）名词/动名词    除了……之外
+= in addition to +（代）名词/动名词
+例: Besides basketball, he also enjoys tennis.
+= In addition to basketball, he also enjoys tennis.
+(除了篮球，他也喜欢网球。)
+Besides swimming, he can also roller-skate.
+= In addition to swimming, he can also roller-skate.
+(除了游泳，他也会溜冰。)
+
+
+## 第三十节 till / until
+
+表“直到……”：
+till 与 until 可互通使用，不过 until 较 till 正式。
+stay here till ten 在这里待到 10 点
+= stay here until ten
+until 另常与 not 连用，形成：
+not...until... 直到……才……
+例: He didn't come until nine o'clock.
+= Not until nine o'clock did he come.
+（他直到 9 点才来。）
+till 有时与 from 连用，形成：
+from...till... 从……到……
+= from...to...
+例: We watched the movie from eight till ten.
+= We watched the movie from eight to ten.
+（那场电影我们从 8 点看到 10 点。）
+
+
+## 第三十一节 since
+
+表“自从……”，通常与完成时连用：
+
+since + 时间名词/动名词 自从……
+
+例: He has been ill since Tuesday.
+
+(他从星期二就开始生病了。)
+
+Since graduating from college, she has been working in this company.
+
+(自从大学毕业之后，她就一直在这家公司工作。)
+
+## 第三十二节 beside
+
+1. 表 “在……之旁”，相当于 by 之意：
+
+sit beside me 坐在我旁边
+
+=sit by my side
+
+例: Come and sit beside me, Karen.
+
+= Come and sit by my side, Karen.
+
+（凯伦，过来坐在我旁边。）
+
+2. 表 “与……相较”，相当于 “compared with” 或 “in comparison with”
+
+例: Beside him, I'm nothing.
+
+= Compared with him, I'm nothing.
+
+= In comparison with him, I'm nothing.
+
+（跟他相比，我便微不足道了。）
+
+# EXERCISE
+
+## 请选出一个正确的答案:
+
+1. She would by no means marry ____ herself.
+(A) before (B) after (C) beneath (D) below
+
+2. Stop yelling ____ him. He didn't do anything wrong.
+(A) to (B) for (C) at (D) against
+
+3. John is attentive whenever he is ____ work.
+(A) on    (B) in    (C) over    (D) at
+
+4. John left home ____ the age of 18 and didn't come back until he was fifty.
+(A) at (B) for (C) in (D) on
+
+5. Never judge a book ____ its cover.
+(A) to (B) by (C) on (D) at
+
+6. He took me ____ the hand and said, "I love you."
+(A) by (B) on (C) in (D) with
+
+7. We beat the team ____ five points.
+(A) with (B) for (C) over (D) by
+
+8. When did they set out ____ Hawaii?
+(A) to (B) for (C) on (D) over
+
+9. Quit smoking now ____ the sake of your health.
+(A) with (B) for (C) at (D) by
+
+10. John wears his hair long, so people often take him ____ a girl.
+(A) as (B) for (C) with (D) by
+
+11. It's very nice ____ you to say so.
+(A) with (B) for (C) of (D) by
+
+12. The watch is really a bargain. I bought it ____ only NT$200.
+(A) in (B) with (C) at (D) for
+
+13. It's not a good idea to buy your child toys made ____ plastic. Plastic can be poisonous, you know.
+(A) of (B) from (C) in (D) with
+
+14. We should do something to prevent him ____ drugs.
+(A) to take (B) of taking (C) from taking (D) not to take
+
+15. Who is that lady ____ green?
+(A) dressing in (B) dressing on (C) dressed in (D) dressed on
+
+16. The room is a mess. Keep it ____ order.
+(A) in (B) at (C) on (D) with
+
+17. He talked to me ____ a low voice for fear someone else might hear us.
+(A) with (B) in (C) on (D) under
+
+18. We're planning to go ____ an expedition to the Sahara.
+(A) in (B) for (C) on (D) over
+
+19. You're too fat. You need to go ____ a diet immediately.
+(A) on (B) in (C) for (D) at
+
+20. Why is it that you are always ____ the go?
+(A) in (B) on (C) for (D) along
+
+21. I was born ____ the morning of July fourth, the same day the United States was founded.
+(A) in (B) on (C) for (D) at
+
+22. Dad won't be home until nine. He is ____ duty today.
+(A) at (B) with (C) on (D) over
+
+23. Peter came up with a good solution ____ the problem.
+(A) for (B) of (C) on (D) to
+
+24. Much ____ my surprise, the man turned out to be a woman.
+(A) in (B) against (C) at (D) to
+
+25. Let's dance ____ this song; it's so beautiful.
+(A) with (B) to (C) on (D) by
+
+26. ____ everything done, I closed the door and left for the station.
+(A) On    (B) With    (C) For    (D) By
+
+27. Stop beating ____ the bush and tell me exactly what you want.
+(A) at (B) down (C) around (D) over
+
+28. Don't you think that the baby boy really takes ____ his father, especially when he smiles?
+(A) on (B) for (C) after (D) over
+
+29. I don't like his attitude ____ life. He is a little too pessimistic.
+(A) in (B) toward (C) of (D) for
+
+30. Generally speaking, he is not bad ____ that he is a little too lazy.
+(A) except (B) in (C) so (D) for
+
+31. Thanks to your timely help, we finished our project right ____ schedule.
+(A) on (B) with (C) along (D) at
+
+32. Being ____ music, I go to concerts quite often.
+(A) by (B) into (C) over (D) under
+
+33. We should all act ____ the law, or we could be in trouble.
+(A) along (B) for (C) within (D) over
+
+34. It goes ____ saying that honesty is the best policy.
+(A) by (B) for (C) without (D) before
+
+35. John is inquisitive and is never ____ asking questions.
+(A) under (B) above (C) over (D) beneath
+
+36. We talked ____ a cup of tea and came up with many good ideas as to what we should do next.
+(A) in (B) at (C) over (D) for
+
+37.What did you have ____ breakfast this morning?
+(A) for    (B) at    (C) in    (D) as
+
+38. The view of the valley is really beautiful ____ description.
+(A) b beyond (B) within (C) by (D) for
+
+39. This letter was written in Chinese. Can you translate it ____ English?
+(A) to (B) into (C) for (D) as
+
+40. All the doctors and nurses are ____ call for rescue missions.
+(A) in (B) by (C) for (D) on
+
+![](https://gitee.com/shencanlong/englishism/raw/main/assets/lai/f04bbbab0c67f66bfc26324491a6f9fda82084529c93782f7427da9ec15b2b6f.jpg)
+
+
+## 标准答案
+
+<table><tr><td>1.(C)</td><td>2.(C)</td><td>3.(D)</td><td>4.(A)</td><td>5.(B)</td><td>6.(A)</td><td>7.(D)</td><td>8.(B)</td><td>9.(B)</td><td>10.(B)</td></tr><tr><td>11.(C)</td><td>12.(D)</td><td>13.(A)</td><td>14.(C)</td><td>15.(C)</td><td>16.(A)</td><td>17.(B)</td><td>18.(C)</td><td>19.(A)</td><td>20.(B)</td></tr><tr><td>21.(B)</td><td>22.(C)</td><td>23.(D)</td><td>24.(D)</td><td>25.(B)</td><td>26.(B)</td><td>27.(C)</td><td>28.(C)</td><td>29.(B)</td><td>30.(A)</td></tr><tr><td>31.(A)</td><td>32.(B)</td><td>33.(C)</td><td>34.(C)</td><td>35.(B)</td><td>36.(C)</td><td>37.(A)</td><td>38.(A)</td><td>39.(B)</td><td>40.(D)</td></tr></table>
+
+## A Quick Note

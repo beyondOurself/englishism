@@ -1,0 +1,1701 @@
+[← 第2章](chapter-02-两句的连接方法.md) · [目录](00-目录.md) · [第4章 →](chapter-04-非谓语动词.md)
+
+---
+
+# 第三章 关系词
+
+## 第三章 关系词
+
+## 概说
+
+![](https://gitee.com/shencanlong/englishism/raw/main/assets/lai/16d9ba12cd10c48885ca37b9d47aa52246666c23bb0baf5f85be6b5895707fc1.jpg)
+
+
+本章原属于上一章的最后一节，因为关系词也是起连接的作用，但关系词种类繁多，使用时又相当复杂，为让同学们清楚了解关系词的各种用法，赖老师决定另辟本章专讲关系词，以使同学们更加深入了解句子的连接方法。
+
+关系词一共分为下列数种：
+a. 关系代词
+b. 关系代词所有格
+c. 关系副词
+d. 关系指示代词
+e. 复合关系代词
+f. 复合关系副词
+g. 准关系代词
+
+以上 a 至 e 项的关系词均引导定语从句，f、g 两项则具有副词的功能，兹分项说明如下页。
+
+## 第一节 关系代词
+
+## 1. 关系代词引导定语从句：
+
+关系代词（简称“关代”）有连词的功能，用以引导定语从句。
+
+例: He is a man who always means what he says.
+
+关代 who 引导的定语从句
+
+(他是个说话算话的人。)
+
+That's the book which I like.
+
+关代 which 引导的定语从句
+
+(那是我所喜欢的书。)
+
+He works hard, which is a fact that we all know.
+
+关代 which 引导的定语从句 关代 that (= which) 引导的定语从句（他努力工作是我们都知道的事实。）
+
+在上列三个例句中，赖老师用了关系代词 who、which、that 分别代替人、物或整个句子。
+
+第一例中，who 代替 a man；
+
+第二例中，which 代替 the book；
+
+第三例中，which 代替 He works hard 整个句子，而 that 则等于 which，代替 a fact。
+
+## 2. 关系代词的种类及其功能：
+
+a. 代替人时，主格用 who（在所引导的定语从句中作主语），宾格用 whom（在所引导的定语从句中作宾语）；
+
+b. 代替事物时，主格或宾格均用 which；
+
+c. 代替整个句子时，主格或宾格均用 which。
+
+请参看下列表格：
+
+<table><tr><td>关系代词</td><td>主格</td><td>宾格</td></tr><tr><td>代替人</td><td>who</td><td>whom</td></tr><tr><td>代替事物</td><td>which</td><td>which</td></tr><tr><td>代替整个句子</td><td>which</td><td>which</td></tr></table>
+
+## 3. 关系代词使用三原则：
+
+a. 关系代词之前要有先行词（即表人或事物的名词）；
+
+b. 关系代词在所引导的定语从句中要作主语、宾语或表语；
+
+c. 否则关系代词之前一定要有介词。
+
+我们先用代替人的关系代词 who、whom 加以解说。
+例: He is a good student who studies hard. (√)
+(他是个用功的好学生。)
+
+注意
+
+在本例中，who 之前有先行词 a good student，who 在所引导的定语从句中作主语，其后有动词 studies，故属正确的用法。
+
+例: He is a boy whom everyone loves. (√) (他是个大家都喜欢的男孩。)
+
+注意
+
+在本例中，whom 之前有先行词 a boy，whom 在所引导的定语从句中作及物动词 loves 的宾语，故属正确的用法。
+
+例: He is a man whom I enjoy working. (×)
+(他是个我喜欢工作的人。——无此中文说法)
+
+注意
+
+在本例中，whom 之前有先行词 a man，但在所引导的定语从句中，已有主语 I，而 working（工作）乃不及物动词变成的动名词，之后不能接宾语。因此 whom 既无法作主语，又无法作宾语，使得该定语从句形成错误的结构。此时关系代词之前应置介词。
+
+改正：
+
+He is a man for whom I enjoy working.
+
+(他是个我很乐意为他效力的人。)
+
+或：
+
+He is a man with whom I enjoy working.
+
+(他是个我很喜欢与之共事的人。)
+
+我们再以代替事物的关系代词 which 加以解说。
+
+☐: This is a problem which we should solve right away. (√)
+
+(这是个我们应该马上解决的问题。)
+
+B
+
+在本例中，which 之前有先行词 a problem，在所引导的定语从句中，which 作及物动词 solve 的宾语，故结构正确。
+
+例: He has a car which was made in Germany. (√) (他有一辆德国生产的汽车。)
+
+## 注意
+
+在本例中，which 之前有先行词 a car，在所引导的定语从句中，which 作主语，其后有及物动词 make 的被动语态 was made，故结构正确。
+
+例: The house which we live is very large. (×)
+
+## 注意
+
+在本例中，which 之前有先行词 a house，但在所引导的定语从句中，已有主语 we，且 live（住）为不及物动词（我们不能说：“We live the house.”，而要说“We live in the house.”），故 which 无法作主语或宾语，而属于错误的结构。此时 which 之前就应置介词。
+
+改正：
+
+The house in which we live is very large. (√)
+
+(我们住的房子很大。)
+
+## 4. 介词与关系代词：
+
+关系代词之前有介词时，介词可移至所引导的定语从句句尾，此时可省略关系代词。
+
+例: He is a man with whom I enjoy working.
+
+= He is a man whom I enjoy working with.
+
+
+= He is a man I enjoy working with.
+
+
+The house in which we live is very large.
+
+= The house which we live in is very large.
+
+= The house we live in is very large.
+
+## 注意
+
+有些固定的短语动词（即两个或三个词形成的短语，视作一个完整的动词，如：“动词 + 介词”、“动词 + 名词 + 介词”），在定语从句中出现时，不宜将介词置于关系代词之前，以保持该动词的完整性。
+
+例: pay attention to... 注意……
+call on... 拜访……
+take over... 接管……
+get rid of... 摆脱……
+
+
+此类短语动词在英语中比比皆是，赖老师只是列举三四个短语供同学们参例: This is a question to which you should pay attention. (劣)
+→ This is a question (which) you should pay attention to. (佳)
+(这是你应注意的问题。)
+The man on whom I called yesterday is my teacher. (×)
+→ The man (whom) I called on yesterday is my teacher. (√)
+(我昨天拜访的人是我的老师。)
+
+5. which 可代表之前的整个主句：
+关系代词 which 若用以代替整个句子时，which 之前一定要有逗号。
+例: John, who was lazy, scored quite high marks on the exam, which somewhat
+整个句子
+surprised me.
+(约翰很懒却考了相当高的分，这点使我有些惊讶。)
+
+6. which 亦可代表前句中的部分概念：
+
+例: He smokes three packs of cigarettes a day, which definitely does harm to his health.
+(他每天抽三包烟，这对他的健康一定有害。)
+
+注意
+本例中，which 代替 smokes three packs of cigarettes a day 这件事。
+
+7. 限制性定语从句与非限制性定语从句的区别：
+
+a. 非限制性定语从句：
+
+先行词为专有名词（如 Tom、John、Africa）及独一性名词，如 father（爸爸只有一个）、mother（妈妈只有一个），之后若接关系代词所引导的定语从句时，该关系代词之前一定要置逗号。此时该定语从句就称为非限制性定语从句。换言之，专有名词或独一性名词本身就具有特殊性，不必再用定语从句加以限定。翻译成中文时，按顺序译出来。
+
+（我遇到约翰，他是我的同班同学们。）
+He has just come back from New York, which is a very big city in the
+专有名词
+United States.
+（他刚从纽约回来，那是美国的一座大城市。）
+
+Here comes my father, who is an English teacher.
+独一性名词
+
+That's my only son, who is attending college now.
+独一性名词
+
+（那是我的独子，他正在念大学。）
+I went to the train station this morning, which was crowded with passengers.
+(我今早去火车站，车站里挤满了旅客。)
+
+## 注意
+
+此处的 the train station 指的是说者或听者都知道的那个火车站，故视为独一性名词，之后的从句采用非限制性定语从句。
+
+## b. 限制性定语从句：
+
+先行词为一般名词且本身并未具特殊性，可用定语从句加以限制，以加强其特殊性。限制性定语从句，将之译成“……的”，其关系代词前不置逗号。翻译时，先译定语从句，再译先行词。
+
+本例中，who之前无逗号，故为限制性定语从句，先译定语从句 who works hard（用功的），再译先行词 boy，而成：
+他是个用功的男孩。
+
+例: I like the book which he bought yesterday.
+(我喜欢他昨天买的那本书。)
+
+但若一般名词之前已有形容词加以修饰而具有特殊性，或该名词本身就具有特殊性（如 a good student 好学生、a gentleman 绅士），该名词之后的定语从句，可依作者的喜好用限制性从句或非限制性从句均可。
+
+例: He is a good boy who studies hard.
+
+限制性定语从句
+（他是个用功的好孩子。）
+或: He is a good boy, who studies hard.
+非限制性定语从句
+（他是个好孩子，很用功。）
+
+I like that good book which he bought yesterday.
+限制性定语从句
+（我喜欢他昨天买的那本好书。）
+或: I like that good book, which he bought yesterday.
+非限制性定语从句
+（我喜欢那本好书，那是他昨天买的。）
+
+
+我们由上得知，限制性定语从句与非限制性定语从句之别，在口语中听不出来，但在书写时就有显著的差异，同学们使用时不可不谨慎，以免闹出笑话。
+
+例: This is my mother who loves me very much. (×)
+    独一性名词
+（这是我那位很爱我的妈妈。——本句暗示还有一位或数位妈妈不是那么爱我。）
+→ This is my mother, who loves me very much. (√)
+（这是我妈妈，她很爱我。）
+He is a man, who never breaks his word. (×)
+（他是男人，他从不食言。——本句暗示读者是白痴，分辨不出他是个男人。）
+→ He is a man who never breaks his word. (√)
+（他是个从不食言的人。）
+或: He is a gentleman, who never breaks his word. (√)
+    名词本身就具有特殊性
+（他是个君子，从不食言。）
+或: He is a gentleman who never breaks his word. (√)
+（他是个从不食言的君子。）
+
+## 8. 关系代词的省略：
+
+限制性（即关系代词之前无逗号）定语从句中，若关系代词为及物动词的宾语，则该关系代词可省略。若关系代词为介词的宾语，介词移至定语从句的句尾时，该关系代词亦可省略。
+
+例: This is the boy whom I saw yesterday.
+o. vt.
+= This is the boy I saw yesterday.
+(这是我昨天看见的男孩。)
+I enjoy reading the book which I bought yesterday.
+o. vt.
+= I enjoy reading the book I bought yesterday.
+(我喜欢看我昨天买的书。)
+
+
+This is a question which you should pay attention to.
+
+This is a question which you should pay attention to.
+    o. prep.
+= This is a question you should pay attention to.
+(这是一个你应该注意的问题。)
+This is the house in which he lives.
+prep. o.
+= This is the house which he lives in.
+    o. prep.
+= This is the house he lives in.
+(这是他住的房子。)
+
+
+## 9. that 亦可作关系代词：
+
+that 亦可当作关系代词，取代 who、whom 或 which，但使用时有两个条件：a. that 之前不准有逗号，换言之，that 仅出现在限制性定语从句中。
+
+b. that 之前亦不可有介词。
+例: I like the girl | that | is sitting there. (√)
+    who
+(我喜欢坐在那里的女孩。)
+I like the pretty girl, that comes here every Monday. (×)
+→ I like the pretty girl, who comes here every Monday. (√)
+(我喜欢那个漂亮女孩，她每星期一来这里。)
+He is a man | that | we all respect. (√)
+    whom
+(他是个我们都尊敬的人。)
+This is the knife with that he killed Mary. (×)
+→ This is the knife with which he killed Mary. (√)
+prep.
+但: This is the knife | which | he killed Mary with. (√)
+    that    prep.
+(他就是用这把刀杀了玛丽。)
+
+
+10. 只能使用 that 的情况：
+在下列情况中，只能用 that 作关系代词，绝不可使用 which、who 或 whom。
+a. 序数词后：
+
+<table><tr><td rowspan="5">序数词:the</td><td>first</td><td rowspan="5"></td><td>第一</td></tr><tr><td>second</td><td>第二</td></tr><tr><td><eq>\vdots</eq></td><td><eq>\vdots</eq></td></tr><tr><td><eq>\vdots</eq></td><td><eq>\vdots</eq></td></tr><tr><td>last</td><td>最后</td></tr></table>
+
+例: Gambling is the last thing which I would do. (×)
+
+→ Gambling is the last thing that I would do. (√)
+(赌博是我最不愿做的一件事。)
+
+He was the first man who came up with such an idea. (劣) → He was the first man that came up with such an idea. (佳) (他是第一个想出这个点子的人。)
+
+## b. 最高级之后：
+
+例: He is the best student whom I've ever taught. (×)
+
+→ He is the best student that I've ever taught. (√)
+
+The most beautiful scene which I've ever seen is Guilin. (×)
+
+→ The most beautiful scene that I've ever seen is Guilin. (√) （我所见过最漂亮的风景是桂林。）
+
+c. "the very + 名词" 中的 very 为形容词，是一种强调用法，之前一定置定冠词 the。翻译时 very 一词不必译出。
+
+例: He is the very man that I met yesterday.
+
+= He is just the man that I met yesterday.
+(他正是我昨天遇见的人。)
+
+## d. all 之后
+
+例: All the students that are studying here are hardworking. (勿使用 who 取代 that)
+
+(所有在此学习的学生都很用功。)
+
+= Everything that he said is true. (勿使用 which 取代 that)
+(他所说的都是实话。)
+
+注意
+all 之后的关系代词 that 在所引导的定语从句中作宾语时，that 通常均予省略。
+故: All (that) he said is true.
+All (that) you have to do is (to) wait.
+(你所要做的就是等待。)
+e. “the only + 名词”之后:
+例: He is the only friend that I have.
+(他是我唯一的朋友。)
+f. 句中若有两个相同关系代词引导的定语从句出现时，为避免重复，第二个关系代词通常改用 that 取代。
+例: He works hard, which is a fact which is known to us. (劣)
+→ He works hard, which is a fact that is known to us. (佳)
+(他很用功，这是我们皆知的事实。)
+g. 关系代词若在 be 动词后作表语，表示某人的身份时，要使用 that，不可使用 who 或 which。
+例: He is not the man who he once was. (×)
+→ He is not the man that he once was. (√)
+(他已不是当年的他了。)
+h. 两个名词性质不一，但却共用一个关系代词时，该关系代词要用 that 取代。
+例: Look at the boy and the dog that are coming this way.
+(注意看正朝这边走来的男孩和狗。)
+i. 在下列句中，宜用 that 取代 who 或 which，以避免与疑问词重复：
+例: Who who lies can win our trust? (劣)
+疑问词 关系代词
+上列问句中第一个 Who 是疑问词，作主语，第二个 who 则为关系代词，但两词外形重复，故应改为：
+Who that lies can win our trust? (佳)
+(说谎的人有谁会赢得我们的信任呢？)
+如此，使 Who 形成问句中的主语，can win our trust 则为其谓语部分；而 that lies 则为定语从句，修饰 who。
+
+
+## 例: What is it which you want? (劣)
+
+上列句中 what 是疑问词，which 为关系代词，外形均有疑问词的样子，故 which 宜该用 that 取代，即：
+
+What is it that you want? (佳)
+
+(你要的是什么？)
+
+如此，使 What is it（那是什么）作问句，而 that you want（你要的）则为定语从句，修饰 What。
+
+## 11. 限制性定语从句可化简为分词短语：
+
+限制性定语从句中，若关系代词为主语时，该定语从句可化简为分词短语。法则如下：
+
+a. 删除该关系代词；
+
+b. 之后的动词变成现在分词；
+
+c. 若动词为 be 动词，变成现在分词 being 之后，可将 being 省略。
+
+例: The girl who danced here yesterday is my sister.
+限制性定语从句
+→ The girl who danced here yesterday is my sister.
+dancing (现在分词)
+= The girl dancing here yesterday is my sister.
+(昨天在此跳舞的女孩是我妹妹。)
+Who is that boy that is standing over there?
+限制性定语从句
+
+→ Who is that boy that is standing over there?
+(being)
+
+= Who is that boy standing over there?
+(站在那边的男孩是谁？)
+I like the car which is parked in front of the post office.
+限制性定语从句
+
+→ I like the car which is parked in front of the post office.
+(being).
+
+= I like the car parked in front of the post office.
+(我喜欢停在邮局前面的那辆车子。)
+
+## 12. 非限制性定语从句不能化简为分词短语：
+
+例: I met John, who said that he loved Mary very much. (√)
+非限制性定语从句
+
+*本例若化简成分词短语会造成误导，而成为修饰主语Ⅰ的分词短语，译成：“我一方面见到约翰，一方面又说他很爱玛丽。”句意与原句不合，故非限制性的定语从句不可化简为分词短语。
+
+13. 非限制性定语从句可化简为先行词的同位语：
+| who | + be + n.
+which
+此时就可化简为先行词的同位语，即：
+a. 删除 who 或 which;
+b. 之后的 be 动词变成现在分词 being;
+c. 再将 being 省略，形成同位语。
+例：I met John, who is a good friend of mine.
+→ I met John, who is a good friend of mine.
+(being)
+= I met John, a good friend of mine.
+同位语
+（我遇到约翰，他是我的好朋友。）
+He works hard, which is a fact that is known to all of us.
+→ He works hard, which is a fact that is known to all of us.
+(being) (being)
+= He works hard, a fact known to all of us.
+同位语
+（他很用功，这是我们都知道的事实。）
+
+## 注意
+
+主语同位语可置于主语前后位置。
+
+例: John, a good friend of mine, came to see me yesterday.
+主语 主语同位语
+
+= A good friend of mine, John came to see me yesterday.
+主语同位语 主语
+（我的好友约翰昨天来看我。）
+
+## 14. 注意定语从句与插入语的关系：
+
+定语从句中的关系代词不受插入语的影响。
+
+a. 插入语的形成方式：“主语 + 表认知的动词”，如：
+
+I believe （我相信）
+I think （我认为）
+I feel （我觉得）
+I know （我知道）
+I consider （我认为）
+I find （我发现）
+
+## b. 定语从句置入插入语的方法：
+
+1) 先造一个含有限制性从句的定语从句。
+例: He is a man who never breaks his word.
+限制性从句
+(他是个从不食言的人。)
+He is the man whom I met yesterday.
+限制性从句
+(他就是我昨天遇见的人。)
+
+## 2) 再将插入语置于关系代词之后。
+
+## S 插入语
+
+(我认为他是个从不食言的人。)
+
+本例中，who 原本就作定语从句中的主语，并未因添加插入语 I think 而变成 whom。
+例: He is the man whom I believe I met yesterday.
+
+## 0. 插入语
+
+（我相信他就是我昨天遇见的那个人。）
+
+本例中，whom原本就作定语从句中及物动词met的宾语。
+例:He is a man whom I think never breaks his word. (×)
+本例中，whom之后有动词breaks，且已有宾语his word，故whom应改为主格who，以作为定语从句中的主语。
+
+c. 我们曾在第一章谈到 think、believe、feel、consider、find 等动词可作完全及物动词或不完全及物动词。赖老师再给同学们复习一下：
+I think that he is nice.
+find 名词性从句
+believe
+:
+上列句中的 think、find、believe...为完全及物动词，分别译成“认为……”、“发现……”、“相信……”之后 that 引导的名词性从句作其宾语。
+= I think him to be nice.
+find 宾语 宾语补语
+believe
+:
+上列句中的 think、find、believe...为不完全及物动词，分别译成“认为……是……”、“发现……是……”、“相信……是……”，之后的 him 作其宾语，to be nice 则为宾语补语。
+因此，此类动词在“who + be + 表语”的定语从句中亦有两种句型变化。
+1) 作完全及物动词时：此类动词属于插入语。
+例: He is a man who | I think | is nice. (√)
+S | I find |
+I believe
+（他是个我认为/发现/相信很善良的人。）
+2) 作不完全及物动词时：此类动词不再是插入语。
+例: He is a man | I think | him to be nice. (×)
+I find
+I believe
+*He is a man 是句子，I think him to be nice 亦是句子，两句无连词连接，故属错误，应将 him 改为关系代词 whom，以引导定语从句。
+→ He is a man | I think | whom to be nice. (×)
+I find
+I believe
+*whom 虽已是关系代词，但应置于先行词 a man 之后。
+→ He is a man whom | I think | to be nice. (√)
+宾语 | I find | 宾语补语
+I believe
+（我认为/发现/相信他是个很善良的人。）
+
+
+换言之，以后见到这样的结构，表认知的动词之后有 is、are、was、were 等 be 动词时，要用关系代词的主格 who；表认知的动词之后有 to be 时，则用关系代词的宾格 whom。
+
+## 15. 定语从句可化简为不定式短语：
+
+关系代词所引导的定语从句中，若该关系代词之前有介词时，可将该从句变换成不定式短语。
+
+例: He has no house in which he can live.
+prep.
+
+= He has no house in which to live.
+
+= He has no house to live in.
+
+He has no house which to live in. (×)
+
+(他没有房子住。)
+
+Lend me your pen with which I can write my address.
+
+= Lend me your pen with which to write my address.
+
+= Lend me your pen to write my address with.
+Lend me your pen which to write my address with. (×)
+(把你的笔借我，我好写我的住址。)
+
+# 第二节 关系代词所有格
+
+## 1. 关系代词所有格的功能：
+
+关系代词所有格乃人称代词所有格（his、your、their、our、its...）变化而成，和关系代词一样，引导定语从句，修饰前面的名词。请参阅下列例句，注意关系代词所有格的功能。
+
+例: She has an uncle. His name is Peter.
+
+= She has an uncle whose name is Peter.
+
+(她有一个名叫彼得的叔叔。)
+
+* 上句 whose name is Peter 是定语从句，修饰先行词 an uncle。
+
+I like that house. Its location looks good to me.
+
+= I like that house, whose location looks good to me.
+
+(我喜欢那栋房子，它的地点看起来不错。)
+
+*上句 whose location looks good to me 是定语从句，修饰先行词 that house。
+
+## 2. 关系代词所有格使用三原则：
+
+由上例可以看出，whose 可以代替人或物，引导定语从句，修饰前面的名词。和关系代词一样，我们若想正确使用关系代词所有格，一定要遵循下列三原则：
+
+a. 关系代词所有格之前要有先行词（即名词或代词）；
+
+b. 该关系代词所有格之后的名词要作定语从句中的主语或宾语；
+
+C. 否则该关系代词所有格之前一定要有介词，该介词亦可移至定语从句句尾。
+
+例: I hate John, whose words are seldom true.
+
+S
+
+（我讨厌约翰，他的话很少是老实话。）
+
+本例中，whose words 之前有名词 John，whose words 本身亦作定语从句中的主语，其后有动词 are，故结构正确。
+
+例: I hate John, whose words I don't believe.
+
+（我讨厌约翰，他的话我都不相信。）
+
+本例中，whose words 之前有名词 John，whose words 本身亦作定语从句中及物动词 believe 的宾语，故结构正确。
+
+## 例: I hate John, whose words I have no trust. (×)
+
+本例中，whose words 之前虽有名词 John，但在其所引导的定语从句中已有主语 I，及物动词 have 之后亦有宾语 no trust，故 whose words 无法作主语或宾语，结构错误，因此 whose words 之前要置介词 in。即：
+
+I hate John, in whose words I have no trust. (可) = I hate John, whose words I have no trust in. (佳)
+
+## 3. 取代 whose 的结构：
+
+稍早赖老师提到 whose 除可代替人以外，亦可代替物。只是代替物时，“whose + n.”亦可被“the + n. + of which”或“of which + the + n.”所取代。即：whose + n.
+
+## = the + n. + of which
+
+= of which + the + n.
+
+例: I like to study in this school, whose faculty and facilities are top-notch.
+
+= I like to study in this school, the faculty and facilities of which are top-notch.
+
+= I like to study in this school, of which the faculty and facilities are top-notch.
+(我喜欢在这所学校念书，它的师资及设备均是一流的。)
+
+本例的 the faculty and facilities of which 部分，其中 which 原为 it，代替 this school，即：the faculty and facilities of it (= this school) are top-notch。但 it 应改为关系代词 which，以便形成定语从句，达到连接的目的。
+
+例: This is a fancy car, whose color I like very much.
+
+= This is a fancy car, the color of which I like very much.
+
+= This is a fancy car, of which the color I like very much.
+(这是一辆漂亮的车，我非常喜欢它的颜色。)
+
+## 4. 限制性定语从句与非限制性定语从句：
+
+与关系代词一样，关系代词所有格之前若无逗号，即为限制性定语从句；若有逗号，即为非限制性定语从句。
+
+例: This is Tom, whose father is an English teacher. ——非限制性定语从句（这位是汤姆，他父亲是英语老师。）
+
+I met a boy whose father is an English teacher. ——限制性定语从句（我遇到一位父亲是英语老师的男孩。）
+
+## 第三节 关系副词
+
+## 1. 关系副词的种类：
+
+关系副词一共有四种，均由“介词+关系代词which”变化而成：
+
+where (= in which, on which, at which)
+when (= in which, on which, at which)
+why (= for which)
+how (= in which)
+
+
+This is the city where I met Mary.
+(这就是我与玛丽相遇的城市。)
+He came on Friday, when it was raining very hard.
+(他星期五来这儿，那天雨下得很大。)
+I don't know the reason why he cried.
+(我不知道他哭的原因。)
+That's how the way he handled the thing.
+(那就是他处理这件事情的方式。)
+
+
+## 2. 关系副词的功能：
+
+where 用以修饰表地方的名词；
+when 用以修饰表时间的名词；
+why 用以修饰 the reason；
+但 how 和 the way 只能用其中之一。
+为使同学们有清楚的概念，赖老师特别分项说明如下。
+
+
+## 3.where的用法：
+
+where 引导的定语从句只用来修饰表地方的名词。我们在初中时已学到，表大地方（如城市、国家、区域）时，介词要用 in；表建筑物（如车站、商店、银行等）时，介词要用 at；表内部（在……之内）时，介词要用 in；表外在（在……上面）时，介词要用 on。因此，关系副词 where 可等于 in which、on which、at which。
+例: This is the city in which I met Mary.
+大地方
+= This is the city where I met Mary.
+I met him at the station, at which there were many passengers.
+建筑物
+
+
+= I met him at the station, where there were many passengers.
+
+（我在车站遇见他，那里有许多旅客。）
+
+I bought a cabinet in which I could store books.
+
+= I bought a cabinet where I could store books.
+
+（我买了一个柜子，我可以把书放在里面。）
+
+Do you see the desk on which there is a book?
+
+= Do you see the desk where there is a book?
+(你看见那张上面有一本书的桌子了吗？)
+
+## 4. when 的用法：
+
+when 所引导的定语从句只用以修饰表时间的名词。我们已知，表日子时，介词要用 on（如 on Sunday, on Dec. 21）；表年、月或一段时间时，介词要用 in（如 in July、in 1981、in those days）；表几时几刻时，介词要用 at（如 at 8 o'clock）。
+
+因此，关系副词 when 可等于 at which、on which、in which。
+
+例: He came on Friday, on which it was raining hard.
+
+= He came on Friday, when it was raining hard.
+(他星期五来这儿，那天雨下得很大。)
+That's the year in which he graduated.
+年
+
+= That's the year when he graduated.
+
+(就在那年他毕业了。)
+
+The sun rose at 5:30, at which most people were still in their dreams.
+时刻
+
+= The sun rose at 5:30, when most people were still in their dreams.
+(太阳五点半升起，那时许多人还在睡梦中。)
+
+## 5. why 的用法：
+
+why 只用以修饰 the reason（理由），系由 for which 变化而成。
+例: I don't know the reason for which he cried.
+= I don't know the reason why he cried.
+(我不知道他为什么哭。)
+
+That's the reason for which he committed suicide.
+
+= That's the reason why he committed suicide.
+
+(那就是他自杀的原因。)
+
+## 6. how 的用法：
+
+how 只用以修饰 the way，系由 in which 变化而成。
+
+例: That's the way in which he handled the problem. (可)
+
+= That's how he handled the problem. (佳)
+
+= That's the way he handled the problem. (佳)
+
+(那就是他处理这个问题的方法。)
+
+* 在前面第 2 要点曾提及，the way 与 how 不能并存，只能择其一。故下列说法是错误的：
+
+That's the way how he handled the problem. (×)
+
+I am sick of the way in which he looks at me. (可)
+
+= I am sick of the way he looks at me. (佳)
+
+(我讨厌他看我的样子。)
+
+## 7. 关系副词使用要点：
+
+a. 在限定修饰的定语从句中，除 where 以外，when 及 why 均可省略，而 how 则一定予以省略。
+
+例: That's the place he was born. (×)
+
+→ That's the place where he was born. (√)
+
+(那就是他出生的地方。)
+
+I shall never forget the day when he came.
+
+= I shall never forget the day he came. (√)
+
+(我永远也不会忘记他来的那天。)
+
+That's the reason why he left. (√)
+
+= That's the reason he left.
+
+(那就是他离开的原因。)
+
+I am sick of the way how he looks at me. (×)
+
+→ I am sick of the way he looks at me. (√)
+
+## b. 不过 where、when、why、how 所修饰的名词若置于 be 动词之后作表语时，我们亦可省略该名词，而保留关系副词。
+
+例: That is the place where he was born.
+
+= That's where he was born.
+
+(他就是在那儿出生的。)
+
+That is the day when he'll come.
+= That's when he'll come.
+(那就是他要来的日子。)
+That is the reason why he left.
+= That's why he left.
+(那就是他离开的原因。)
+That is the way he did it.
+= That's how he did it.
+(那就是他处理的方式。)
+
+
+c. where、when、why、how 亦可视为疑问代词，引导名词性从句。此时可作及物动词的宾语（见第一章）。
+
+例: I know where he is.
+vt. 名词性从句
+(我知道他在哪里。)
+I don't know when he'll come.
+vt. 名词性从句
+(我不知道他何时会来。)
+I wonder why he left.
+vt. 名词性从句
+(我不知道他为何离去。)
+I don't know how he'll do it.
+vt. 名词性从句
+(我不知道他将如何做此事。)
+
+
+例: Put it where you found it.
+= Put it in the place where you found it.
+= in which
+(把它放在你发现它的地方。)
+Where there is smoke, there is fire.
+= In the place where there is smoke, there is fire.
+= in which
+(有烟的地方就有火——无风不起浪。——谚语)
+
+
+e. the moment (when)... —……就……
+
+
+Where he lives, life is busy.
+= In the place where he lives, life is busy.
+= in which
+(在他住的地方，生活很忙碌。)
+
+
+以上三个短语均视为副词连词，之后的 when 均予省略，等于 as soon as 的意思，引导状语从句，修饰主句。
+
+The time (when) he came, I was sleeping.
+= When he came, I was sleeping.
+(他来的时候，我正在睡觉。)
+The day (when) he left, it was raining.
+= When he left, it was raining.
+(他离开的那一天，正下着雨。)
+Every time (when) she cries, I lose my temper.
+= Whenever she cries, I lose my temper.
+(每次她哭，我就会发脾气。)
+
+
+f. 偶尔在口语或文章中，我们会听到或见到有些人用 that 取代 when、why 当关系副词使用，只是这并非常态用法，仅列数例，供同学们参考。记住，严谨的写作不可用 that 当作关系副词使用。
+
+I remember the day that he came. = when （我记得他来的那天。）Probably that's the reason that he left. = why （那很有可能就是他离开的原因。）
+
+# 第四节 关系指示代词
+
+## 1. 关系指示代词由指示代词变化而成：
+
+which 也可作关系指示代词。顾名思义，关系指示代词就是由指示代词变化过来的关系词，亦引导定语从句修饰前面的名词。
+
+指示代词： that （那个……）
+this （这个……）
+those （那些……）
+these （这些……）
+
+例: He speaks German, this language I don't understand. (×)
+
+理由
+本句无连词。
+可将 this 改为关系指示代词，以连接两句。
+→ He speaks German, which language I don't understand. (√，罕)
+定语从句
+
+## 2. 关系指示代词的功能：
+
+和关系代词一样，“关系指示代词 + n.”可代表先行词或前面句中的部分概念，在所引导的定语从句中要作主语或宾语。
+
+例: He is arrogant, this attitude I am sick of. (×)
+
+→ He is arrogant, which attitude I am sick of. (√，罕)
+(他很自大，那种态度我很讨厌。)
+His car is blue, that color I like very much. (×)
+
+→ His car is blue, which color I like very much. (√，罕)
+(他的车是蓝色的，那种颜色我很喜欢。)
+He stayed there for a week, during this time he did nothing. (×)
+
+→ He stayed there for a week, during which time he did nothing. (√，罕)
+(他在那里待了一个星期，在这段时间里他什么都没做。)
+
+## 第五节 复合关系代词
+
+## 1. 复合关系代词的种类：
+
+代替人：
+whoever （凡……的人）
+= anybody who
+whomever （凡……的人）
+= anybody whom
+
+
+代替人或物：
+
+whichever （三者以上）
+= any one | which | （同一类的任何一个……）
+who
+whichever （二者）
+= either | which | （同一类的任何一个……）
+who
+
+
+## 代替物：
+
+what = the thing(s) which (所……的东西)
+whatever = anything which (……的任何东西)
+
+
+由上得知，复合关系代词系由两个词类复合而成：一方面含有先行词（如 anybody、the thing、anything），一方面又含有关系代词（如 who、whom、which）。
+
+## 2. whoever 的用法：
+
+同学们在使用 whoever 作复合关系代词时，一定要注意下列步骤：
+
+a. 先视 whoever 为两个词，即：anybody who。
+
+b. anybody 是代词，可在主句中当作主语或宾语；who 为关系代词，引导定语从句，并在该从句中作主语。
+
+1) 我们可先用 anybody 作主语造一个句子：
+例: Anybody should be punished.
+主语
+（任何人都应受处罚。）
+再造一个以 who 为主语的定语从句：
+例: who makes such a mistake
+然后将 who makes such a mistake 置于 anybody 之后，即成：
+
+
+Anybody who makes such a mistake should be punished.
+主语 定语从句 及物动词的被动语态
+= Whoever makes such a mistake should be punished.
+(凡犯此错的人都应受罚。)
+
+2) 我们再用 anybody 作宾语造一个主句：
+例: I hate anybody.
+宾语
+（我讨厌任何人。）
+再造一个以 who 为主语的定语从句：
+例: who tells lies
+然后将 who tells lies 置于 anybody 之后，即成：
+I hate anybody who tells lies.
+宾语 定语从句
+= I hate whoever tells lies.
+（我讨厌任何说谎的人。）
+千万不可写成：
+I hate whomever tells lies. (×)
+
+
+## 理由
+
+whomever 等于 anybody whom，而 whom 只能作宾语，不可能作主语，故 whom 之后不可能有动词 tells。
+
+## 3. whomever 的用法：
+
+我们已知 whomever 等于 anybody whom。因 whom 在定语从句中只能作宾语，而且此处的 anybody，也只能在主句中作宾语，因此 whomever 绝不可作主语。造句的方法如下：
+
+a. 先造一个以 anybody 作宾语的主句：
+例: Give it to anybody.
+介词 宾语
+（把它给任何人。）
+
+b. 再造一个以 whom 为宾语的定语从句：
+例: whom you like
+
+例: What he said is true.
+(他所说的话是真的。)
+I am interested in what he is doing.
+(我对他目前所做的事很有兴趣。)
+
+
+c. 然后将 whom you like 置于 anybody 之后，即成：
+
+Give it to anybody whom you like.
+
+定语从句
+
+## 4. whichever 的用法：
+
+whichever 是指同一类的任何东西，如三本以上的书其中任何一本，或两本书的任何一本。其造句的方法则与 whoever 及 whomever 完全一样，故赖老师不再详述，只提供下例供同学们参考。
+
+例: There are many books here. You may take | any book which | you like.
+同类东西 | any one which
+
+= There are many books here. You may take whichever you like.
+(这里有许多书，你可以拿任何一本你所喜欢的。)
+
+## 5. what 的用法：
+
+what是最常见的复合关系代词，也是最容易使用的一种。
+
+a. 首先我们要了解，what 作复合关系代词时，可视为 the thing / things which，通常译成“所……的东西”。
+
+## b. 以 what 造句时，要注意下列原则：
+
+1）前面不可有先行词（名词）；
+
+2) 将 what 视为 the thing / things which;
+
+3) which 在所引导的定语从句中可作主语、宾语或在 be 动词后作表语。
+
+(让我困扰的是我没有时间。)
+
+本例中 what 之前无名词。what 变成 the thing which 之后，which 在所引导的定语从句中作主语，故结构正确。
+
+= Anything which he said is true.
+主语 定语从句
+
+
+例: I don't believe the words what he said. (×)
+
+本例中，what 之前多了先行词 the words。
+
+→ I don't believe what he said. (√)
+
+= I don't believe the words (which) he said.
+
+## 6. whatever 的用法：
+
+a. whatever 与 whichever 很类似，不同之处为：whichever 则指同一类的任何一项，而 whatever 指不同类的任何东西。例如：三辆汽车中的任何一辆要用 whichever 表示；他有汽车、房子，还收藏了许多名画，这些东西的任何一项则要用 whatever 表示。
+
+b. what 等于 the thing / things which，译成“所……的东西”；whatever 等于 anything that（即 anything which），译成“所……的任何东西”，语气要比 what 更强。由于 whatever 的造句法与 what 完全相同，在此我们不再赘述。仅举下列数例，供同学们参考。
+
+例: Whatever he said is true.
+
+（他所说的任何话都是真的。）
+
+I am interested in whatever he is doing.
+
+= I am interested in anything that he is doing.
+
+(我对他所做的任何事情都感兴趣。)
+
+## 7. 加油站：
+
+到目前为止，赖老师已为同学们介绍了所有复合关系代词的用法，法则略嫌繁多，希望同学们要耐心地阅读，你若是放弃的话，赖老师会难过的。记住，当年赖老师发愤学英语时，所吃的苦头非你所能想象。在学习英语的道路上让我们一起互勉吧！
+
+## 8. whatever 及 whoever 亦可作副词连词：
+
+whatever 及 whoever 亦可作副词连词，此时就不等于 anything which 或 anybody who，而分别等于 no matter what（不论什么）或 no matter who（不论谁）。
+
+Whoever does it, he should finish it by ten.
+
+例: He is nice; however, I don't like him.
+= He is nice. However, I don't like him.
+= He is nice. I, however, don't like him.
+(他人很好，然而我却不喜欢他。)
+
+
+= No matter who does it, he should finish it by ten.
+(不论谁去做，都应该在10点前完成。)
+
+同学们要注意的是 whatever 或 whoever 作副词连词时，所引导的状语从句与主句中间有逗号相隔。而作复合关系代词时，则无逗号相隔。
+
+## a. 复合关系代词
+
+例: \begin{array}{c}\text { Whatever } \\ \text { Anything that }\end{array} he says is a lie. （他所说的任何话都是谎言。）Whoever makes the mistake should be punished.Anybody who （任何犯下这样错误的人都应受处罚。）
+
+## b.副词连词
+
+例: | Whatever | he says, it is a lie.
+No matter what
+(不论他说什么，那都是谎话。)
+Whoever | makes the mistake, he should be punished.
+No matter who
+(不论谁犯这样的错，都应受处罚。)
+
+
+## 9. however 有两种词性：
+
+一为连接性副词，译成“然而”；一为副词连词，译成“无论如何”，用法如下：
+
+## a. 连接性副词
+
+由于在本书第二章中，我们已叙述其用法，因此在此仅举例让同学们复习一下。
+
+## b. 副词连词
+
+此时 however 等于 no matter how。
+使用 however 造句时，注意下列步骤：
+1) 先将 however 转换为 no matter how；
+
+2) 由于 how 为副词，可修饰形容词或副词，故预先造一个含有形容词或副词的句子，以便稍后由 how 修饰：
+例: He is nice.
+adj.
+He works hard.
+adv.
+
+
+3) 再将上例置于 no matter how 之后，即成：
+No matter how he is nice...
+adv. adj.
+No matter how he works hard...
+adv. adv.
+
+4) 最后将句中的形容词或副词移位在 how 之后，形成状语从句，再接主句，即完成整个句子。
+例: No matter how nice he is, I don't like him.
+adv. adj.
+= However nice he is, I don't like him.
+(不论他有多好，我都不喜欢他。)
+No matter how hard he works, I don't respect him.
+adv. adv.
+= However hard he works, I don't respect him.
+(不论他工作有多努力，我都不会尊敬他。)
+
+## 注意
+
+however 或 no matter how 亦可修饰动词，此时 however 或 no matter how 之后直接接主语即可。
+
+## 10. whether 的用法：
+
+表 “不论是否” 时，只需 whether 即可，不可使用 no matter whether。whether 本身就可作副词连词，引导状语从句，以逗号与主句相隔。
+
+→ Whether he is rich (or not), Jane will marry him. (√) （不论他是否富有，简都将嫁给他。）
+别忘了，whether 亦可用以引导名词性从句（参阅第一章）。比较下列之不同：
+
+## a. 引导状语从句
+
+例: Whether he is rich (or not), it doesn't matter. (有逗号相隔)
+状语从句    主句
+(他是否富有，那都没关系。)
+
+## b. 引导名词性从句
+
+例: Whether he is rich (or not) doesn't matter. (无逗号相隔)
+名词性从句作主语 动词
+
+= It doesn't matter whether he is rich (or not).
+(他是否富有都没关系。)
+
+## 11. however 的特殊句型：
+
+however 作副词连词所引导的状语从句中，主语之后若含有 “be 动词 + 形容词” 时，同学们要特别注意下列结构变化：
+
+例: However poor he is, he doesn't want anyone to help him.
+adj.
+
+= However poor he may be, he doesn't want...
+
+= Be he ever so poor, he doesn't want... (罕)
+(不论多穷，他都不会要求别人的帮助。)
+
+# 第六节 准关系代词
+
+## 1. 准关系代词的种类：
+
+准关系代词只有三个：than、as、but。
+
+例: I have more money than you (do).
+(我比你有钱。)
+
+He has as much money as I (do).
+
+(他的钱和我的一样多。)
+
+There is nothing but he knows.
+
+(没有他不知道的事情。)
+
+同学们在看到上列三个例子之后，一定感到一头雾水，不知赖老师在说什么。别急，且听赖老师慢慢道来。
+
+## 2. 准关系代词形成的条件：
+
+than、as、but 作准关系代词时，前面必须有个先行词（名词）。在上例中，我们见到 than 之前有名词 money，as 之前亦有名词 money，而 but 之前则有代词 nothing。这就告诉我们一个重要的概念：than、as、but 之前若有名词，就可形成准关系代词。
+
+## 3. than 作准关系代词的用法：
+
+than 之前若有名词时，than 就等于：“than + the + 前面的名词 + 关系代词（who、whom、which）”。换言之，我们可将 than 视为关系代词，在所引导的从句中要作主语、宾语或 be 动词后的表语。
+
+a. 主语：
+
+例: I have more money than is needed.
+n. 准关代
+
+（我现有的钱比所需的要多。）
+*此处 than 等于 than the money which, which 作主语，之后有动词 is needed。
+More guests than were invited came.
+n. 准关代 动词
+
+(来的客人比受邀请的多。)
+
+* 此处 than 等于 than the guests who, who 作主语，之后有动词 were invited。整句中 More guests 是主语，came 是其动词，中间的 than were invited 可视作定语从句，修饰 More guests。
+There are more books than are needed.
+
+## 复数名词 复数动词
+
+（这里的书超过需求量。）
+
+*此处 than 等于 than the books which, which 作主语，之后有动词 are needed。
+
+明白了这个道理之后，我们以后千万不要再造这样的句子：
+I have more money than it is needed. (×)
+本例中多了主语 it，使得 than 无法再作主语，故应将 it 删除，此句方正确。
+
+## b. 宾语：
+
+than 作宾语的用法，是我们常见的一种句型。只是我们已习以为常，而未注意 than 是个准关系代词。
+例: I have more money than he needs.
+n. 准关代 vt.
+
+（我现有的钱比他所需要的多。）
+*本句中的 than 即等于 than the money which, which 作 needs 的宾语。
+I have more books than you have. (劣)
+n. 准关代 vt.
+
+(我的书比你的多。)
+*本句中的 than 即等于 than the books which, which 作 have 的宾语。但 than you have 中的 have 与前面的 I have 中的 have 动词相同，故为避免重复，第二个 have 就改成 do，并可省略，而成：
+I have more books than you do. (佳)
+或将 do 省略，改写如下：
+I have more books than you.
+
+## c. be 动词后的表语：
+
+例: He is a better student than you are.
+n. 准关代 be 动词
+
+*than 即等于 than the student that, that 实际是 be 动词 are 后之表语。此处的 that 原应为 who，但关系代词作 be 动词之后的表语时，均用 that 取代。
+且上句中的 are 与句首主语 He 之后的 is 同属 be 动词，亦可省略，故上句亦可改写成：
+He is a better student than you.
+
+## 4.as作准关系代词的用法：
+
+如同 than 一样，as 之前若有名词时，as 就等于 “as + the + 前面的名词 + 关系代词（who、whom、which）”。换言之，我们可将 as 视为关系代词，在所引导的从句中要作主语、宾语或 be 动词后的表语。只是 as 若作准关系代词时，只用于下列短语中：
+
+such + n. + as...
+the same + n. + as...
+as + adj. + n. + as...
+
+(像……那样的……)
+(和……相同的……)
+(和……一样的……)
+
+## a. such + n. + as...
+
+## 1) 主语：
+
+例: I don't like such a man as tells lies.
+n. 准关代
+
+（我不喜欢那种会说谎的人。）
+*本句中的as即等于as the man who，关系代词who在其后的定语从句中作主语，之后有动词tells lies。
+
+## 2) 宾语：
+
+例: I respect such an honest man as you described.
+n. 准关代 vt.
+
+（我尊敬像你描述的这样诚实的人。）
+*此处的as即等于as the man whom，关系代词whom作及物动词described之宾语。
+
+## 3) be 动词后的表语（通常省略 be 动词）：
+
+例: In our company there is not such a man as David (is).
+n. 准关代
+
+（我们公司里没有像大卫这样的人。）
+*本句中 as 即等于 as the man that, that 作 be 动词 (is) 后之表语。
+Such a lazy student as John (is) will get nowhere.
+
+## n. 准关代
+
+（像约翰这么懒的学生不会有什么成就的。）
+*本句中as即等于as the student that，that作be动词(is)后之表语。
+
+## b. the same + n. + as...
+
+## 1) 主语：
+
+例: I have the same book as is laid on the desk.
+n. 准关代
+
+（我有一本书，和放在桌上那本一样。）
+*此处as即等于as the book which，关系代词which作主语。
+
+## 2) 宾语：
+
+例: I have the same dictionary as you bought yesterday.
+n. 准关代
+
+（我有一本词典，和你昨天买的一样。）
+*本句中 as 即等于 as the dictionary which，关系代词 which 作及物动词 bought 之宾语。
+
+3) be 动词后的表语（通常省略 be 动词）：
+例: I have the same dictionary as this one (is).
+n. 准关代
+
+（我有一本词典，和这本一样。）
+*本句中as即等于as the dictionary that，关系代词that作（is）后之表语。
+
+## c. as + adj. + n. + as...
+
+1) 主语：
+例: He is as diligent a man as ever lived.
+n. 准关代
+
+（他是有史以来最勤勉的人。）
+*此处的as即等于as any man that，关系代词that作主语，ever lived为动词。
+
+2) 宾语：
+例: I have as good a dictionary as you (do).
+n. 准关代
+
+（我有一本和你的一样好的词典。）
+*此处的as即等于as the dictionary which，关系代词作(do)之宾语；此处的do等于及物动词have（有）。
+
+（他是个和约翰一样好的人。）*as即等于as the man that，关系代词that作(is)后之表语。
+
+5. “such + n.” 之后绝不可用 like（像）加以修饰：
+例: Such a man like him is bad. (×)
+→ Such a man as he (is) is bad. (√)
+（像他这样的人不好。）
+
+6. 比较 “the same...as...” 与 “the same...that...” 的不同：
+the same...as... 和……相同的……（两个人或物）
+准关代
+the same...that... 就是同一个……（一个人或物）
+关代
+
+
+理由
+I have the same book as he is reading. (两本书)
+(我有一本书，与他正在看的那一本相同。)
+I borrowed the same book which he did last week. (×)
+→I borrowed the same book that he borrowed last week. (√) (同一本书)
+(我借了一本书，就是他上周借的那一本。)
+
+
+## 7. as 可代替主句：
+
+单独使用 as 时，as 亦可作关系代词，等于 which，用以代替整个主句。
+
+例: He is nice, which is known to us.
+= He is nice, as is known to us.
+(他人很好，我们都知道。)
+He works hard, which we all know.
+= He works hard, as we all know.
+(他很用功，我们都知道。)
+
+
+但使用 as 取代 which 时，要注意下列要点：
+
+a. as 引导的从句可置于主句的前后，而 which 引导的从句则只能置于主句之后。
+
+例: He is nice, which we all know.
+主句
+= He is nice, as we all know.
+= As we all know, he is nice.
+→ Which we all know, he is nice. (×)
+
+
+b. as + be + p.p. 时，be 动词可以省略。
+例: He is nice, which was mentioned before.
+p.p.
+= He is nice, as was mentioned before.
+p.p.
+= He is nice, as mentioned before.
+(如前所述，他人很好。)
+
+
+## C. 注意下列特殊例子：
+
+本句实由下列句子化简而成：
+His conditions are as what follows.
+
+
+第二例中，不管前面的名词是单数或复数、动词是何种时态，as后的动词一定要用follows。
+
+例: He listed the names as follows.
+(他列出的名单如下。)
+
+
+## 8. 只能与单数可数名词使用的结构：
+
+在第四项中，赖老师造了下列几个短语：as good a student as...
+as diligent a man as...
+
+
+这两个短语告诉我们一个重要的讯息，即：
+下列四组短语之中，若置名词时，只能置单数可数名词。
+so...that... （如此……以致……）
+as...as... （和……一样地……；第一个 as 为副词，译成“一样地”，第二个 as 为连词，译成“和”）
+too...to... （太……而不……）
+how... （多么地……）
+例: He is so good a boy that I like him.
+（他是个这么好的男孩，因此我喜欢他。）
+
+
+He is as handsome a man as Peter (is).
+(他是个英俊的人，和彼得一样。)
+He is too old a man to do it.
+(他太老了，不能做这事。)
+How great a man he is!
+(他这个人真伟大！)
+
+
+a. 如果同学们不太容易记这四组短语的话，赖老师发明了一个口诀，帮你来记：书呆子（so...that...）、阿西（as...as...）和土土（too...to...）一块儿说一声“好”（how...）。
+
+例: He is a so good student that I like him. (×)
+He is an as handsome man as Peter. (×)
+He is a too old man to do it. (×)
+How a great man he is! (×)
+
+
+so（如此地）、as（一样地）、too（太）、how（多么地）均为副词，故之后应置形容词以供修饰，然后再置不定冠词（a 或 an）及单数名词。
+
+c. 此类 “书呆子”、“阿西” 和 “土土” 一块儿说声 “好” 四种结构中，不可置复数名词或不可数名词：
+1) so...that...
+例: This is so good music that I love it. (×)
+不可数名词
+They are so good students that I like them. (×)
+复数名词
+
+注意
+但使用 “such...that...” 时则可置任何名词。
+
+例: This is such good music that I love it. (√)
+不可数名词
+(这音乐那么动听，因此我很喜欢它。)
+They are such good students that I like them. (√)
+复数名词
+(他们是那么好的学生，因此我很喜欢他们。)
+
+He is such a good student that I like him. (√)
+单数可数名词
+(他是那么好的学生，因此我很喜欢他。)
+
+2) as...as...
+例: This is as good music as that. (×)
+不可数名词
+They are as good students as those. (×)
+复数名词
+改正：
+This music is as good as that. (√)
+(这音乐和那音乐同样动听。)
+These students are as good as those. (√)
+(这些学生和那些学生一样好。)
+
+3) too...to...
+例: This is too difficult work to do. (×)
+不可数名词
+They are too difficult problems to handle. (×)
+复数名词
+改正：
+This work is too difficult to do. (√)
+= This is too difficult a job to do. (√)
+单数可数名词
+(这工作太难而无法做。)
+These problems are too difficult to handle. (√)
+(这些问题困难得无法处理。)
+
+4) how...
+例: How good music it is! (×)
+不可数名词
+How good students they are! (×)
+复数名词
+
+注意
+但 what 之后则可接任何名词。
+
+例: What good music it is! (√)
+不可数名词
+(这音乐棒极了！)
+What good students they are! (√)
+复数名词
+(他们真是好学生！)
+What a good student he is! (√)
+单数可数名词
+(他真是好学生！)
+
+## 9. 数量词不受限：
+
+只有“so...that.../ as...as.../ too...to.../ how...”与下列表数量的形容词连用时，可不必与单数可数名词连用。
+many（许多的） + 复数名词
+few（少量的）
+much（许多的） + 不可数名词
+little（少量的）
+
+例: He has so many things to do that he can't go picnicking with us.
+(他有这么多事情要做，因此不能和我们一起去野餐。)
+There is so much work to do that I don't think I can go to bed early.
+(有这么多工作要做，我想我无法早睡。)
+He has too little money left to buy a car.
+(他剩下的钱太少，无法买车。)
+I have as much money as he (does).
+(我的钱和他的一样多。)
+I don't know how much time you can give me for that job.
+(我不知道你能给我多少时间做那件工作。)
+
+10. 准关系代词 but 的用法：
+but 作准关系代词时，只用于 “no + 名词” 之后；此时 but 等于 who（whom、which）...not。
+句型如下：
+There is no + 名词 + | who | ...not
+| whom
+| which
+(that)
+= There is no + 名词 + but...
+
+a. 定语从句中有 be 动词时，保留该 be 动词。
+
+例: There is no one who is not interested in it.
+= There is no one but is interested in it.
+(没有人不对它感兴趣。)
+There is nothing which he is not fond of.
+= There is nothing but he is fond of.
+(没有什么东西是他不喜欢的。)
+
+
+b. 定语从句中有一般助动词（can、will、may、should...）时，保留该助动词。
+
+例: There is nothing that he cannot do.
+
+c. 定语从句中有 do、does、did 等助动词时，要先去掉 do、does、did，再依时态、人称将之后的动词还原。
+
+例: There is no book which he doesn't like to read.
+
+# EXERCISE
+
+## 1. 请选出一个正确的答案：
+
+1. 1.The road ____ leads to the house is steep.
+(A) that (B) who (C) where (D) whose
+
+2. The artist ____ picture won the award is my uncle.
+(A) that (B) who (C) which (D) whose
+
+3. We visited the place ____ Lincoln was born.
+(A) which (B) that (C) where (D) when
+
+4. The house ____ is located on top of the hill belongs to me.
+(A) which (B) when (C) where (D) whose
+
+5. This is the year ____ our sales will reach the highest point.
+(A) which (B) when (C) how (D) whose
+
+6. Can you tell me the reason ____ you are always late?
+(A) which (B) that (C) why (D) how
+
+7. He is the man ____ factory I purchased.
+(A) that (B) who (C) where (D) whose
+
+8. This is ____ I recommend you to do.
+(A) what (B) that (C) which (D) whatever
+
+9. Where can I buy the same dictionary ____ you have?
+(A) that (B) as (C) which (D) what
+
+10. Give the book to ____ needs it.
+(A) who (B) whom (C) whoever (D) whomever
+
+11. The book ____ the cover is broken is mine.
+(A) whose (B) that (C) of which (D) which
+
+12. I like ____ you do for me.
+(A) who (B) which (C) that (D) whatever
+
+13. John is not such a man ____ would kill anyone.
+(A) that (B) as (C) who (D) whom
+
+14. There is nobody ____ has his faults.
+(A) who (B) that doesn't (C) but (D) not
+
+15. He has a larger vocabulary ____ I do.
+(A) as (B) like (C) that (D) than
+
+16. It is education that makes us ____ we are.
+(A) who (B) whom (C) what (D) where
+
+17. Was it you or the wind ____ shut the door?
+(A) which (B) who (C) that (D) what
+
+18. The retiring teacher made a speech ____ she thanked the class for the gift.
+(A) which (B) what (C) that (D) in which
+
+19. That is the most beautiful music ____ I have ever heard.
+(A) that (B) which (C) what (D) as
+
+20. On the bus I saw a student ____ I thought was your brother.
+(A) whom (B) who (C) what (D) whomever
+
+21. President Reagan greeted Carl Lewis ____ four gold medals at the Summer Olympics.
+(A) who was the winner of (B) by winning
+(C), who was the winner of (D) though he was the winner of
+
+22. Although he was listening, he didn't hear ____ because there was so much noise.
+(A) what said (B) what did she say
+(C) what she was saying (D) what said she
+
+23. We are given just so much food ____ will keep us alive.
+(A) as (B) that (C) what (D) but
+
+24. The rich woman offered a reward to ____ find her lost car.
+(A) who could (B) who would
+(C) whoever could (D) whomever might
+
+25. The boy ____ I believed to be honest deceived me.
+(A) whom (B) what (C) who (D) which
+
+II. 请选出错误的画线部分：
+
+26. The electronics industry requires skills and technology that has been developing for decades in the industrially advanced countries.
+(A)
+(B)
+(C)
+(D)
+
+27. The detectives were finally able to arrest the man who his finger prints
+(A) (B) (C)
+had been found on the table.
+(D)
+
+28. Edgar Allan Poe is the classic example of a man of genius which never managed to adjust to the world.
+(A) (B)
+(C) (D)
+
+29. The biggest single hobby in America, the one that Americans spend most time, energy and money, is gardening.
+(A) (B) (C)
+(D)
+
+30. The show must win the approval of the critics and audience in New York, which it opens tonight at the Palace Theater.
+(A) (B)
+(C) (D)
+
+## 标准答案
+
+1. (A) 2. (D) 3. (C) 4. (A) 5. (B) 6. (C) 7. (D) 8. (A) 9. (B) 10. (C)
+11. (C) 12. (D) 13. (B) 14. (C) 15. (D) 16. (C) 17. (C) 18. (D) 19. (A) 20. (B)
+21. (C) 22. (C) 23. (A) 24. (C) 25. (A) 26. (B) 27. (C) 28. (B) 29. (B) 30. (C)
+
+![](https://gitee.com/shencanlong/englishism/raw/main/assets/lai/f7e825d6ec3685ead5a46e6d1d97afbd28ccf5465b82be4e2c89fe515ae9a9ad.jpg)
+
+
+## 习题解说
+
+1. that 作关系代词，为定语从句中的主语。
+
+2. whose 为关系代词的所有格，之后可接名词 picture。
+
+3. where 为关系副词，引导定语从句，修饰 place。
+
+4. which 为关系代词，表事物。
+
+5. when 为关系副词，引导定语从句，修饰 the year。
+
+6. why 为关系副词，引导定语从句，修饰 the reason。
+
+7. whose 为关系代词的所有格，之后可接名词 factory。
+
+8. what = the thing that，为复合关系代词。
+
+9. 空格前有 the same，故空格内应置人准关系代词 as，as 同时作句尾及物动词 have 的宾语。
+
+10. whoever 和 whomever 均为复合关系代词，但在本句中因为作 needs 的主语，故用主格 whoever，不可用 whomever; whoever = anyone who。
+
+11. of which the cover = whose cover
+
+12. whatever 为复合关系代词，相当于 anything that。
+
+13. 空格前有 such，故空格内应置人准关系代词 as，此处 as 等于 as the man who。
+
+14. There is nobody but has his faults.
+
+= There is nobody that does not have his faults.
+
+15. 空格前有比较级形容词，故空格内应置人 than。
+
+16. what = the thing that，为复合关系代词。
+
+17. 当先行词包括人与物时，关系代词用 that。
+
+18. 关系代词无法作该定语从句中的主语或宾语时，之前必须加介词。
+
+19. 先行词之前有最高级形容词时，关系代词必须用 that。
+
+20. 本题的关系代词为 was 的主语，I thought 只是插入语，故选 (B) who。
+
+21. Carl Lewis 为专有名词，故不可用限定的定语从句修饰。
+
+22. what she was saying 为名词性从句，作 hear 的宾语。
+
+23. so much...as 中的 as 为准关系代词，作 keep 的主语，as 等于 as the food which。
+
+24. whoever could 等于 anyone who could。
+
+25. whom 在本题中为 believed 的宾语，之后的 to be honest 为宾语补语。
+
+26. 本题中 that 的先行词为 skills and technology，故从句中的 has been 应改为 have been。
+
+27. who his 应改为关系代词所有格 whose。
+
+28. which 表示事物，应改为 who，才可代替 a man of genius。
+
+29. 本题中的 that 无法在定语从句中作主语或宾语，故须改为 on which。
+
+spend 时间 + on sth
+金钱
+精力
+
+30. which 应改为关系副词 where，引导定语从句，修饰 New York。
+
+A Quick Note

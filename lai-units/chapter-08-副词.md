@@ -1,0 +1,1535 @@
+[← 第7章](chapter-07-虚拟语气.md) · [目录](00-目录.md) · [第9章 →](chapter-09-倒装结构.md)
+
+---
+
+# 第八章 副词
+
+## 第八章 副词
+
+## 概说
+
+![](https://gitee.com/shencanlong/englishism/raw/main/assets/lai/7ff2072a60924fe0678ee5ad3a99467a671896de8a18e3f7ffe9a89277424f04.jpg)
+
+
+1. -ly 形成的副词：
+
+如：
+形容词
+slow（慢的） → slowly（慢慢地）
+quick（快的） → quickly（很快地）
+easy（容易的） → easily（容易地）
+main（主要的） → mainly（主要地）
+
+
+如：
+very（非常地）    ago（以前）
+hard（努力地）    enough（充分地）
+never（从不）    somewhat（有点儿）
+somehow（不知怎地）
+
+有的甚至用现在分词作副词用，专门修饰形容词。
+
+例: It's biting cold today.
+adv. adj.
+(今天天气冷死了——冷得会咬人一样。)
+= It's freezing cold today.
+adv. adj.
+(今天天气冷死了——冷得要把人冻僵一样。)
+It's boiling hot today.
+adv. adj.
+(今天天气热死了——热得要把水都煮沸了。)
+
+
+2. 有些形容词本身亦可当副词用：
+
+例: awful:
+His writing is awful.
+adj.
+(他的文章糟透了。)
+
+更绝的是，good 与 and 合在一起，竟然也成了副词，译成“非常”（等于 very）或“完全”（等于 completely），只置于 be 动词之后，修饰形容词。
+例: It's good and hot today.
+adv. adj.
+(今天热死了。)
+
+
+*此处awful是形容词，表“差劲的”。
+He is awful mad. adv. adj.
+(他气坏了。)
+*此处awful是副词，表“非常地”，相当于very或awfully。
+fine: The dress is fine. adj.
+(这件连衣裙挺不错的。)
+*此处fine是形容词，表“不错的”。
+The dress suits me fine. vt. adv.
+(这件连衣裙挺适合我的。)
+*此处fine是副词，表“令人满意地”或“很棒地”，相当于well。
+
+
+## 3. good and 可作副词：
+
+同学们看到这里，不禁会叫道：“惨了，副词有那么多奇怪的形态，叫我不知如何是好？”赖老师认为，你无需害怕，也不必一一死记所有的副词形态及其用法。只要你多看文章，多查词典，每天读上三四个小时英语（我有10年时间几乎每天花16个小时学英语），自然就会熟悉副词的形态及其用法。
+
+## 第一节 副词的功能
+
+## 1. 修饰动词：
+
+修饰动词（包括动词转化的不定式、动名词、分词），此时副词通常置于动词之后：
+
+例: He studies hard. (动词)
+
+(他很用功。)
+
+(我非常爱你。)
+
+You have to study diligently. (不定式)
+
+(你必须努力用功。)
+
+Rising early is good for your health. (动名词) adv.
+
+(早起有益你的健康。)
+
+比较:
+He speaks English good. (×，形容词不可用以修饰动词)
+
+→ He speaks English well. (√)
+vt.
+adv.
+(他英语说得很好。)
+
+## 2. 修饰形容词：
+
+此时副词通常置于该形容词之前：
+
+(他心地善良。)
+
+It is extremely dangerous to swim alone.
+adv. adj.
+(单独游泳极为危险。)
+比较:
+This is probable true. (×, 形容词不得修饰形容词)
+adj. adj.
+→ This is probably true. (√)
+adv. adj.
+(这很可能是真的。)
+
+3. 修饰副词：
+此时副词通常置于该副词之前：
+例: He studies very diligently.
+adv. adv.
+（他非常努力用功。）
+He does things too carefully.
+adv. adv.
+（他做事过于谨慎。）
+
+## 4. 修饰全句：
+
+此时副词通常置于句首：
+例: Fortunately, he did not die.
+adv. 全句
+（所幸他没死。）
+
+Evidently, this answer is right.
+adv. 全句
+(这答案显然是对的。)
+
+## 注意
+
+修饰全句的副词一定是置于句首，若置于句尾，则会修饰句中的动词，而造成语意的偏差。
+
+例: Happily, he did not die.
+adv. 全句
+
+(令人高兴地是，他没死。)
+He did not die happily.
+vi. adv.
+
+（他没有快乐地过世。——他死时不快乐。）
+
+## 第二节 副词的位置
+
+## 1. 一般规则：
+
+在含有 be 动词（如 are、is、am、were、was）、助动词（如 can、shall、may、should、ought to、must）、完成时助动词（have、has、had）及一般动词的结构中，副词的位置有下列惯例：
+
+a. 遇有 be 动词时，副词置于该 be 动词之后。
+
+例: He is always kind.
+(他为人一直都很好。)
+They are really able to do it.
+(他们确实有能力做这件事。)
+
+
+b. 遇有助动词时，副词置于该助动词之后。
+
+例: He can hardly walk.
+(他几乎走不动了。)
+He has never been to the United States before.
+(他以前从未去过美国。)
+
+
+C. 遇有一般动词时，副词置于该动词之前。
+
+例: They often go fishing.
+adv. vi.
+(他们常去钓鱼。)
+He really cares about you.
+adv. vi.
+(他真的很在乎你。)
+
+
+同学们看到这里，一定会问道：“在本章第一节中，赖老师曾说修饰动词时，副词应置于动词之后，为何此时又说副词应置于动词之前？”答案很简单：
+
+1) 如果修饰动词的副词表示某种状态，则副词要置于动词之后。
+
+beautifully 乃表示跳舞的样子很美（表示状态），故 beautifully 应置于 dances 之后。
+
+同理：He drove (his car) fast.
+vi. & vt. adv.
+(他车开得很快。)
+fast 乃表示开车的速度很快，故 fast 应置于 drove (his car) 之后。
+
+
+2) 如果修饰动词的副词表示肯定、否定或频率的意味，则此类副词多置于动词之前。
+有肯定意味的副词：
+surely（确定地）、certainly（确定地）、absolutely（绝对地）、probably（可能）、really（真正地）。
+
+同学们看到上面的解释大概仍然不能完全了解赖老师想要表达的意思。没关系，赖老师换下列方式来讲解。我们可用中英语句型作比较：
+
+中文：他跑得快。
+英语：He ran fast. (√, fast 为状态副词)
+vi. adv.
+He fast ran. (×)
+
+中文：他真的爱你。
+英语：He really loves you. (√, really 为肯定意味的副词)
+adv. vt.
+He loves you really. (×)
+
+
+中文：他常常上学迟到。
+英语：He often comes to school late.
+(√, often 为频率副词, late 则为状态副词)
+
+由此可知，中英语有很多结构是互通的。但这种借中英语比较来了解英语中副词的位置，并不一定很准，同学们唯有通过博览文章才能学得习惯的用法，切记，切记！
+
+## 2. 简化结构中副词位置的变化：
+
+a. be 动词
+简化前：He is really nice.
+(他人真好。)
+简化后：He is really. (×)
+He really is. (√)
+简化前：They are always eager to learn English.
+(他们总是迫切想学英语。)
+简化后：They are always. (×)
+They always are. (√)
+
+b. 助动词
+简化前：He can hardly do it.
+(他几乎做不了此事。)
+简化后：He can hardly. (×)
+He hardly can. (√)
+简化前：He has never done it before.
+(他从未做过此事。)
+简化后：He has never. (×)
+He never has. (√)
+
+3. 状态副词在被动语态中的位置：
+表示状态的副词在被动语态中，要置于过去分词前。
+主动语态：He did the job well.
+vt. adv.
+（他把工作做得很好。）
+被动语态：The job was well done. (√)
+adv. p.p.
+The job was done well. (劣)
+
+主动语态：They decorated the room beautifully.
+
+被动语态：The room was beautifully decorated. (√)
+adv. p.p.
+The room was decorated beautifully. (劣)
+
+## 4. 否定副词的位置：
+
+否定副词 never（从不）、seldom（很少）、hardly ever（几乎不曾 = scarcely ever）、rarely（很少）修饰动词时，可直接置于该动词之前，无须另加助动词 do、does 或 did。但 not 不可直接置于动词之前，须另加 do、does 或 did，且之后的动词一律改为原形。
+
+例: He never cheats. (√)
+vi.
+(他从不骗人。)
+They seldom do what the teacher has told them to do.
+vt.
+(他们很少去做老师要他们做的事。)
+He hardly ever remained quiet.
+vi.
+(他几乎从未安静过。)
+但: He not cheats. (×)
+vi.
+→ He does not cheat. (√)
+原形 vi.
+(他不会骗人。)
+They not enjoy singing. (×)
+vt.
+→ They do not enjoy singing. (√)
+原形 vt.
+(他们不喜欢唱歌。)
+
+5. can 与 not 连用习惯上写成 cannot:
+例: He can not meet the requirements. (劣)
+→ He cannot meet the requirements. (√)
+(他达不到要求。)
+
+## 6. 时间副词的位置：
+
+时间副词，如 yesterday、today、tomorrow、this year、at five（5点钟）、in 2000，可置于句首或句尾。习惯的用法为：句子短时，时间副词置于句尾，句子长时，则置于句首。
+长句：Yesterday I saw him chatting very pleasantly with a blonde girl in the park.
+（昨天我在公园里看到他和一位金发女郎聊得很开心。）
+短句：I saw him in the park yesterday.
+（昨天我在公园里看到他。）
+长句：In 1914, war broke out in the small town close to the border.
+（1914年，战争在这座邻近边境的小城爆发。）
+短句：War broke out in 1914.
+（战争爆发于1914年。）
+
+## 7. 地点副词的位置：
+
+地点副词，如 here、there、home、downtown、upstairs、downstairs，以及表场所的介副词，如 in、out、up、down 等，均置于动词之后。
+
+here.
+home.
+in.
+up.
+
+(他来这里/回家/进来/上来。)
+
+## 注意
+
+介副词与介词的分别如下：
+a. in、out、up、down 之后有宾语时，就称为介词。
+例: He sat in the corner.
+介 o.
+(他坐在角落里。)
+He looked out (of) the window.
+介 o.
+(他望向窗外。)
+
+b. in、out、up、down 之后若无宾语，则为介词变成的副词，简称介副词，视为地点副词。
+例: He came in.
+介副词
+(他进来。)
+
+He rushed out crying.
+介副词
+(他哭着冲了出去。)
+He stepped down after the power struggle.
+介副词
+(他在权力斗争之后下台。)
+
+8. 副词对等语及其在句中的位置：
+
+副词对等语即指由两个以上的单词构成的短语或从句，具有副词的功能，用以修饰句中的动词或整个主句。
+
+a. 副词短语：
+
+包括介词短语及不定式短语两类。
+
+1）介词短语当副词用：
+
+通常置于句尾，修饰句中的动词。
+
+例: He loves her with all his heart.
+
+(他全心全意地爱她。)
+
+He achieved the goal by working hard.
+
+(他经过努力达成了目标。)
+
+(他坐公交车来的。)
+
+## 注意
+
+有时介词短语亦出现在句首，此时该短语仍被视为副词，修饰整个主句。但亦有形容词的功能，修饰主语。此类介词短语多半由 in、by 或 on 加动名词形成。
+
+例: In doing the work, you must be careful.
+
+= When you do the work, you must be careful. 或: In doing the work, you must be careful.
+
+介词短语作形容词 主语
+
+（做这工作时，你必须要谨慎。）
+
+By working hard, he achieved the goal.
+
+= Because he worked hard, he achieved the goal.
+
+或:By working hard, he achieved the goal.
+
+介词短语作形容词 主语
+
+（他努力工作达成目标。）
+
+On / Upon seeing her, he ran away.
+
+= As soon as he saw her, he ran away.
+
+或: On / Upon seeing her, he ran away.
+
+介词短语作形容词 主语
+
+(一看到她，他就跑开了。)
+
+注意
+
+in、by 或 on 加动名词所形成的介词短语，置于句首时，要合理地修饰 主语，也就是被修饰 的主语要有行使动名词所表示 的动作能力。通常此类 主语一定是人或动物，否则易形成不连接修饰（dangling modification）的错误结构。
+
+例: On seeing her, he ran away. (√)
+
+(一见到她，他就跑开了。)
+
+## 理臣：
+
+he 为人，故可以做出 seeing her 所表示的动作。
+
+![](https://gitee.com/shencanlong/englishism/raw/main/assets/lai/394484081c31c49ab5b34b46683b18aa317076db26cc9210bcacf2716b8c096f.jpg)
+
+
+例: On seeing her, tears came into his eyes. (×)
+
+## 理由：
+
+tears 为眼泪，不能做出 seeing her 的动作。本句译成：眼泪看见她后，就涌入他的眼眶中。
+（他的眼泪怎会看见人？可见此句不合逻辑。）
+
+例: In doing the work, he must be careful. (√)
+
+![](https://gitee.com/shencanlong/englishism/raw/main/assets/lai/2c12a9d45e9399ad73bcc6e255d135912e79cbddfd9442c0941c5298cf639a42.jpg)
+
+
+（做这工作时，他必须小心谨慎。）
+
+理由:
+he 为人，故可做出 doing the work 所表示的动作。
+例: In doing the work, care must be taken. (×)
+
+![](https://gitee.com/shencanlong/englishism/raw/main/assets/lai/48fe64a4c1c92f1224e1f34b27ca2caffa2eb2912bec8cf6d78bdff2603f903e.jpg)
+
+
+## 理由：
+
+care 为抽象名词，表 “谨慎”，显然 “谨慎” 不能自己去做工作，故本句犯了不连接修饰的错误。
+
+## 2) 不定式短语当副词用：
+
+不定式短语当副词用，除可修饰动词外，亦可置于形容词或副词之后，修饰该形容词或副词。
+
+例: You will soon come to realize that you are mistaken.
+
+(你很快便会了解自己错了。)
+
+She went to Italy in order to study music. vi. so as
+
+(她去意大利学音乐。)
+
+I am sorry to have kept you waiting.
+
+(我很抱歉让你久等了。)
+
+He is rich enough to buy a car.
+
+（他有足够的钱可以买车。）
+
+## 注意
+
+表示“目的”的不定式短语置于句首时，亦同时有副词及形容词的功能。作副词用时，不定式短语修饰整个主句；作形容词用时，则修饰主句中的主语，而该主语亦要有行使不定式短语中动词所表动作的能力，故该主语亦通常为人或动物，否则易造成不连接修饰的错误结构。
+
+例: To achieve the goal, you must work hard.
+
+To achieve the goal, you must work hard.
+
+![](https://gitee.com/shencanlong/englishism/raw/main/assets/lai/45e9cba7abebeb0781ae1c567951dc080e6e5084d74f719b9b287cca0cabb2e8.jpg)
+
+
+（要达成目标，你就必须努力。）
+
+To achieve the goal, hard work is necessary. (×)
+抽象名词
+
+## 理虫：
+
+hard work（努力）为抽象名词，不可能自行 achieve the goal，故形成错误的不连接修饰。
+
+但有些不定式短语已成了固定的独立副词短语，称为独立不定式短语，置于句首时，只作副词用，修饰整个主句。此时就不必顾虑主句的主语。
+
+例: To do him justice, he is qualified for the position.
+
+![](https://gitee.com/shencanlong/englishism/raw/main/assets/lai/bf056f4f34b6df8f77099b82de85e603c945f75a51c40080c9e0bd9d180b5be0.jpg)
+
+
+To be frank with you, the trip wasn't interesting.
+
+（老实跟你说，这次旅行并不好玩。）
+
+To sum up, one can't do without friends.
+
+(总而言之，一个人不能没有朋友。)
+
+## b. 状语从句：
+
+状语从句多用来修饰整个主句，可置于主句前后。但置于主句之前时，状语从句之后要加逗号。
+
+例: Because he is nice, I like him.
+状语从句 主句
+= I like him because he is nice.
+主句 状语从句
+(我喜欢他，因为他人很好。)
+If you have time, will you do it?
+状语从句 主句 (问句型)
+= Will you do it if you have time?
+主句 状语从句
+(如果有空的话，你会不会做这件事？)
+
+
+注意
+这种原则亦适用于副词短语。
+例: To achieve the goal, you must work hard.
+副词短语    主句
+= You must work hard to achieve the goal.
+主句    副词短语
+（要达成目标，你就必须努力。）
+By working hard, he achieved the goal.
+副词短语    主句
+= He achieved the goal by working hard.
+主句    副词短语
+（他经过努力达成了目标。）
+
+
+## 9.副词应尽量靠近被修饰的动词：
+
+句中若含有两组以上的动词（包括由动词变成的分词及动名词），副词应尽量靠近被修饰的动词，以免造成句意的混淆。
+
+例: Yesterday he mentioned seeing her.
+adv. vt.
+(他昨天提到曾经见到她。)
+He mentioned seeing her yesterday.
+动名词 adv.
+(他提到昨天曾经见到她。)
+
+理由:
+yesterday 所放的位置不同，造成不同的句意。
+例: You should handle the question with care that he raised yesterday. (劣)
+vt.
+(你应用那个昨天他提出来的谨慎来处理这个问题。)
+
+## 理由：
+
+本来 with care（以谨慎的态度）是副词，明确修饰动词 handle。而定语从句 that he raised yesterday 本应修饰 the question，但却因置于名词 care 之后，造成句意的偏差。
+
+改正：
+
+You should handle with care the question that he raised yesterday.
+vt. adv. o. 定语从句，修饰 the question （你应该小心处理他昨天提出的问题。）
+
+## 10.名词性从句修饰形容词：
+
+名词性从句（由 that、whether 以及疑问词 where、when、how 等构成）具有名词的功能，在句中要作主语、宾语或在 be 动词之后作表语。但名词性从句亦可置于形容词之后，修饰该形容词。
+
+例: I am sorry that I cannot attend your party.
+adj.
+(我很抱歉无法参加你的派对。)
+I am not sure whether he'll come.
+adj.
+(我不确定他是否会来。)
+
+## 第三节 重要的副词用法
+
+1. very、much 很、非常
+
+a. very 不可单独修饰动词，而 very much 则可，多用于肯定句中，其位置应在句尾。
+
+(我很喜欢你。)
+
+b. much 亦可修饰动词，但多限于问句或否定句中。若在问句中，much 应置于句尾；若在否定句中，much 可置于动词前或句尾。
+
+例: Do you go to Sydney much? (罕)
+
+= Do you go to Sydney often? (常用)
+
+(你常去悉尼吗？)
+
+I don't much like living in the country.
+
+= I don't like living in the country much.
+vt.
+
+(我很不喜欢住在乡下。)
+
+c. very 可修饰一般形容词或副词，但形容词或副词变成比较级时，则只能用 much 修饰。
+
+例: He walked very slowly. (√)
+adv.
+(他走得很慢。)
+I'm very happy to be of service. (√)
+adj.
+(我很高兴能帮得上忙。)
+
+He walked very more slowly than I. (×)
+→ He walked much more slowly than I. (√)
+(他走得比我慢多了。)
+He is very happier than Peter. (×)
+→ He is much happier than Peter. (√)
+(他比彼得快乐多了。)
+
+
+d. 修饰 too 时只能用 much，不能用 very。
+例: He is very too young. (×)
+→ He is much too young. (√)
+(他太年轻了。)
+
+## 注意
+
+修饰比较级或 too 的副词通常有六个：
+much、far、a lot、a great deal、still、even。
+
+e. 凡现在分词若可作形容词用，且可译成“令人……的”时，均使用 very 修饰。常用的此类现在分词如下：
+interesting（令人觉得有趣的） boring（令人无聊的）
+confusing（令人迷惑的） charming（令人着迷的）
+tiring（令人累的） annoying（令人懊恼的）
+
+例: She is indeed a very charming girl.
+(她实在是个非常迷人的女孩。)
+He raised a very interesting question.
+(他提出一个非常有趣的问题。)
+
+f. 凡过去分词若可作形容词用，且可译成“感到……的”时，此类过去分词均与情绪或心境有关，亦可用 very 或 very much 修饰。常用的此类过去分词如下：
+
+interested（感到有兴趣的） bored（感到无聊的）
+confused（感到迷惑的） charmed（感到着迷的）
+tired（感到累的） annoyed（感到懊恼的）
+例: I was |very| annoyed with her son.
+(我对她儿子感到很烦。)
+He was |very| interested in that book.
+(他对那本书很有兴趣。)
+
+
+g. very 亦可当形容词以修饰名词，表 “正是那个”，放在定冠词 the 之后。此时名词之后若有定语从句修饰，其关系代词必须用 that 取代 who、whom 或 which。
+
+例: He is | the very man | that came here yesterday.
+just the man
+the same man
+(他就是昨天来的那位老兄。)
+
+
+## 2. little、a little:
+
+a. little 作副词时，视为否定副词，译成 “一点儿都不”，等于 no（一点儿都不）之意。
+
+c. little 作否定副词时，通常修饰动词 think、dream、expect（期待）。
+
+## i
+
+然而，实际使用时，little应置于句首，其后采用倒装结构，即：
+
+3. no longer 不再
+
+= no more
+
+= not...any longer
+
+= not...anymore
+
+例: He is no longer here.
+
+= He is here no more. (少用)
+
+= No longer is he here.
+
+= No more is he here. (少用)
+
+= He is not here any longer.
+
+= He is not here anymore.
+
+(他不再在这儿了。)
+
+## 注意
+
+no more 虽等于 no longer，但仅见于诗歌中，使用时，多置于句尾，或置于句首采用倒装结构，不可置于句中。
+
+例: You can no longer see him.
+
+No longer can you see him.
+
+(你再也见不到他了。)
+
+He loves the girl no more. (少用)
+
+No more does he love the girl. (少用)
+
+(他不再爱这女孩子了。)
+
+He no more loves the girl. (×, no more 不可置于句中)
+
+→ He no longer loves the girl. (√)
+
+(他不再爱这女孩子了。)
+
+4. sometimes、sometime、some time、some times:
+
+a. sometimes 有时候
+
+此为频率副词（如 often、never、seldom 等），使用时通常置于句首，亦可置于句尾。
+
+例: Sometimes he comes here for a visit.
+= He comes here for a visit | sometimes / every now and then. once in a while.
+(他有时候会来这儿走一下。)
+
+
+理由:
+ago 非明确的时间副词，故无 sometime ago 的用法。
+
+
+d. some times 有几次
+= a few times
+= several times
+例: I have been to Thailand some times. (劣)
+→ I have been to Thailand | a few times. (佳)
+several
+(我曾去过泰国几次。)
+
+
+表有几次时，理论上可使用 some times，但实际使用时仍以 a few times 和 several times 为佳。
+
+ago 不能单独使用，而 before 却可以。即 before 可单独作副词，修饰句中的动词，通常与现在完成时、过去完成时以及一般过去时连用。
+例: I met him ago. (×)
+→ I met him two hours ago. (√)
+一般过去时
+(我两个钟头前遇见他。)
+I met him before. (√)
+一般过去时
+(我以前遇见过他。)
+I have met him before. (√)
+现在完成时
+(我以前曾遇见过他。)
+
+
+5. ago、before、since、after:
+a. ago 表 “距现在若干时间以前”，时态用一般过去时。
+例: He came here a few days ago.
+(他几天之前来过这儿。)
+How long ago did he come?
+(他多久之前来的？)
+比较:
+He had finished the work two hours ago. (×)
+过去完成时
+→ He finished the work two hours ago. (√)
+一般过去时
+(他两小时前做完工作。)
+
+
+b. before 表 “距过去某时若干时间以前”，时态用过去完成时。
+
+例: When I met Jim last Monday, he told me he had just gotten back from a trip to Lake Placid two days before. (√)
+
+## 注意
+
+I told him that I had met him before. (√)
+
+过去完成时
+
+(我告诉他我以前曾遇见过他。)
+
+c. since 自从……
+
+
+1) since 可作副词连词，引导一般过去时的状语从句，修饰时态为现在完成（进行）时或过去完成（进行）时之主句。
+
+例: I have studied English since I moved here in 2001.
+
+现在完成时 一般过去时
+
+（自从 2001 年搬来这里后，我便一直学习英语。）
+
+He told me that he had written two books since he moved here in 2001.
+过去完成时    一般过去时
+
+（他告诉我自从 2001 年搬来这里后，他已经写了两本书。）
+
+2) since 可作副词用，修饰现在完成（进行）时或过去完成（进行）时之主句。since 译成“之后”，可置于句尾或句中完成时助动词 have、has、had 之后。
+
+例: I moved here in 2001 and have studied English since.
+一般过去时 现在完成时
+
+= I moved here in 2001 and have since studied English.
+(我于 2001 年迁到此处，之后就一直学习英语。)
+
+注意
+since 作副词时，句型结构一定为：
+主语 + 一般过去时动词 + 明确的时间副词短语 + and + 主语 + have (has、had) + since + 过去分词
+过去分词 + since
+例: He left town in 2002 and I haven't seen him since.
+主语 一般过去时 明确时间副词 现在完成时
+(2002 年他离城后，我便没再看见过他了。)
+
+
+3) 作介词用，之后加明确的时间名词作宾语，亦可用动名词作宾语。
+
+例: I have been studying English since 2002.
+介 Friday.
+明确的时间名词
+
+（自从 2002 年/星期五以后，我便一直学习英语。）
+
+比较:
+I have been studying English since ten years. (×, ten years 不是确定的时间名词)
+改正:
+I have been studying English for ten years. (√)
+(我已学了 10 年英语了。)
+= I have been studying English since ten years ago.
+(我自 10 年前起就一直在学习英语。)
+I have been studying English since moving here in 2002.
+现在完成进行时 介 动名词
+(2002 年搬到这里后，我便一直在学习英语。)
+
+
+注意
+since 之前亦可用副词 ever 修饰。
+例: Ever since he came here, he has been arguing with Mary.
+(自从他来到此地，便一直和玛丽争吵。)
+He has been learning English ever since he was five years old.
+(自5岁时起，他就一直在学习英语。)
+He failed the exam two weeks ago and has felt discouraged ever since.
+(他两周前考试没通过，此后便很沮丧。)
+
+
+## d. after 之后
+
+after 作副词时亦译成“之后”，但与 since 作副词时不同的是：since 修饰完成时，而 after 则修饰过去时，此时等于 later 或 afterwards。
+
+例: He fell ill on Monday and died three days after.
+(他星期一生病，3 天后就死了。)
+Soon after, he moved to the United States.
+(不久之后，他便搬去美国。)
+The war ended in 1945, and they lived happily ever after.
+(战争于 1945 年结束，从此他们便过着快乐的日子。)
+
+
+6. quite、rather
+quite 十分地
+rather 相当地
+这两个词可修饰原级之副词或形容词。
+
+
+例: He is quite old.
+(他相当老了。——quite修饰形容词old)
+He is rather old.
+(他蛮老了。——rather修饰形容词old)
+He studies quite hard.
+(他相当用功。——quite修饰副词hard)
+
+
+注词
+但 quite 修饰 “形容词 + 单数名词” 时，应在 a 或 an 之前：
+例: He is a quite good student. (×)
+→ He is quite a good student. (√)
+（他是个相当不错的学生。）
+They are quite good students. (√)
+（他们是相当好的学生。）
+
+
+7. someday、one day、the other day、some other day:
+
+a. someday 将来有一天（用于将来时）
+例: Keep on working hard, and someday you'll be successful.
+（要不断用功，那么将来总有一天你会成功。）
+
+
+b. one day 某日（表前几天时，可等于 the other day，也可指几年前的某一天，两者均用过去时）；将来总有一天（等于 someday，用于将来时）
+例: I saw him downtown one day.
+一般过去时
+= I saw him downtown the other day.
+（有一天我在城里看到他。）
+One day you'll be sorry.
+一般将来时
+= Someday you'll be sorry.
+（总有一天你会后悔的。）
+
+
+c. the other day 前些时候（用于一般过去时）
+例: I went to the National Park for a visit the other day.
+一般过去时
+（前几天我到国家公园玩了一趟。）
+
+
+d. some other day 改天（用于一般将来时）
+例: I'm busy now. I will visit you some other day.
+一般将来时
+(我现在很忙，改天再去拜访你。)
+
+8. so much so that... 如此……以致……
+
+谈这个结构之前，赖老师先请同学们看这个句子：He is angry—so angry that he wants to kill the rival that has stolen his girlfriend's heart.
+
+(他很火大——火大得要杀掉抢走他女友的情敌。)
+
+这个句子语法是对的，但美中不足的是 angry 用了两次，就修辞的眼光来看，本句犯了重复使用的毛病，为补救这个缺点，我们可用 much so 代替 angry，而形成下列的标准结构：
+He is angry—so much so that he wants to kill the rival that has stolen his girlfriend's heart.
+
+于是，我们得到这样的概念：
+
+much so 可在 “so...that” 结构中代替前面已提及的副词或形容词，以避免重复。
+
+## 例: 代替副词：
+
+He studies hard—so much so (原为 hard) that he is sure to pass the exam.
+adv.
+
+（他很用功——用功得一定会考及格。）
+
+代替形容词：
+
+She is beautiful—so much so (原为 beautiful) that I'm crazy about her.
+adv.
+▲
+
+（她很美——美得令我为她发狂。）
+
+9. somewhat、somehow、anyhow:
+
+a. somewhat 有一点儿
+该词为一般副词，使用时通常置于形容词或副词之前，以修饰该形容词或副词。
+例: It's somewhat cold today.
+adv. adj.
+= It's | a little | cold today.
+a bit
+
+He did the job somewhat carelessly.
+
+（他这件事做得有些粗心。）
+
+b. somehow 不知怎的（= for some unknown reason）；设法（= by some means）
+
+1) 表示 “不知怎的” 时，作独立副词，通常置于句首，修饰全句。
+
+例: He is nice; but somehow I don't like him.
+
+![](https://gitee.com/shencanlong/englishism/raw/main/assets/lai/374139da7b2377748b351f2f295eaf6b24bc2ea8962b3f501421812e3aa8f1d0.jpg)
+
+
+（他人不错，但不知怎的，我就是不喜欢他。）
+
+2) 表示 “设法” 时，作一般副词，修饰句中动词，通常置于句尾。
+
+例: We must find the money somehow.
+
+![](https://gitee.com/shencanlong/englishism/raw/main/assets/lai/849acf345e5324f2be7e0d70e258c4a71dd7593accef2e424a6ea4e6b584167e.jpg)
+
+
+（我们必须设法找到那笔钱。）
+
+## c. anyhow
+
+例: I don't have time to go to the movies; they're too expensive anyhow. （我没有时间去看电影，况且电影也太贵了。）
+
+## 注意
+
+表 “不管如何” 时，anyhow 为独立副词，通常置于句首，之后有逗号，修饰逗号之后整个主句。
+
+## 10. enough:
+
+enough 可作形容词，表示 “足够/充分的”、“足以”。enough 不论作形容词或副词，其后通常接不定式短语（即 “to + 原形动词”）或 “for + 名词”。
+
+a. 形容词：
+
+此时 enough 表 “足够/充分的”，修饰名词，通常置于该名词前，亦可置于其后。
+
+例: He has enough money | to buy | a fancy car. (常用)
+adj. n. for
+= He has money enough | to buy | a fancy car. (罕)
+for
+(他有足够的钱买一辆拉风的车。)
+
+## b. 副词：
+
+此时 enough 表 “足以”，修饰形容词或副词，应置于该副词或形容词之后，不可置于其前。
+
+11. likely、probably、possibly 可能地
+以可能性之高低而言，likely 和 probably 表示“很可能”，而 possibly 则表示“有可能但不确定”。
+例: He will (very / most) likely come.
+（很有可能他会来。）
+* likely 作副词时，之前可用 very 或 most 加以修饰。
+She will probably leave.
+（她很可能将要离开。）
+They will possibly help him.
+（他们说不定会帮他。）
+但 likely 亦可作形容词，其用法如下：
+He is likely to come.
+= It is likely that he will come.
+（他很可能会来。）
+
+
+但：
+He is probable to come. (×, probable 不能修饰人)
+He is possible to come. (×, 理由同上)
+改正：
+It is probable that he will come. (√)
+(他很可能会来。)
+It is possible that he will come. (√)
+(他说不定会来。)
+
+
+## 12. Short Response（简应句）：
+
+a. 肯定句用 so（使用时，采倒装结构）或 too。此处 so 是副词，表示“同样地”，并非连词，故之前应有连词 and 连接两句。
+
+1) be 动词：
+主语与 be 动词倒装。
+例: He is nice, | and so is she.
+and she is, too.
+（他人很好，她也很好。）
+He was going home, | and so was she.
+and she was, too.
+（他即将回家，她也是。）
+
+2) 助动词：
+主语与助动词倒装。
+例: He will come, | and so will she.
+and she will, too.
+(他要来，她也要来。)
+He has gone, | and so has she.
+and she has, too.
+(他走了，她也走了。)
+
+He has a book, and so does she.
+and she does, too.
+(他有一本书，她也有。)
+
+注意
+在对话中，两句指的是同一人时，不论句子是肯定句或否定句，均用 so 引导，且句子不倒装。此时 so 亦为副词，相当于 indeed（的确）。
+例: A: He is stupid.
+B: So he is. (= Indeed he is.)
+(A:他很蠢。)
+(B:他的确很蠢。)
+A: You can't do it.
+B: So I can't. (= Indeed I can't.)
+(A:你不会做这事。)
+(B:我的确不会。)
+
+
+b. 否定句用 neither（或 nor，使用 neither 或 nor 时须采用倒装结构）或 either。neither 为副词，故 and 不可省略，但 nor 为连词，前面不必置 and。
+
+1) be 动词：
+主语与 be 动词倒装。
+例: He isn't nice, and neither is she.
+nor is she.
+and she isn't, either.
+（他不好，她也不好。）
+He wasn't going home, and neither was she.
+nor was she.
+and she wasn't, either.
+（他没回家，她也没回家。）
+
+
+2) 助动词：
+主语与助动词倒装。
+例: He won't come, and neither will she.
+nor will she.
+and she won't, either.
+(他不来，她也不来。)
+
+He hasn't gone, and neither has she. nor has she. and she hasn't, either. (他没去，她也没去。)
+
+3) 一般动词：
+主语与 do、does、did 倒装。
+例: He never tells a lie, and neither does she.
+nor does she.
+and she doesn't, either.
+(他绝不说谎，她也绝不说谎。)
+He has no book, and neither does she.
+nor does she.
+and she doesn't, either.
+(他没有书，她也没有。)
+
+注意
+also 只能用在肯定句中，置于 be 动词之后，或一般动词之前。
+例: He is kind, and she is also kind.
+（他很亲切，她也是。）
+He has a pen, and she also has one.
+（他有一支笔，她也有一支。）
+
+## 13. 常见的“名词 + 介词 + 名词”副词短语：
+
+hand in hand 手拉着手
+side by side 肩并肩地
+shoulder to shoulder 肩并肩地
+arm in arm 臂挽着臂
+word for word 逐字地
+day by day 一天天
+night after night 每夜
+little by little 渐渐地
+one by one 一个一个地
+one after another 陆续地
+face to face 面对面地
+
+例: They walked hand in hand down the road.
+(他们手牵手沿着那条路走下去。)
+They came in one after another.
+(他们陆续地走进来。)
+
+14. not 要置于不定式短语、分词、动名词之前：
+例: Since I have a lot of work to do, I decided not to go on a trip. (√)
+(由于有很多事要办，我决定不去旅行。)
+He pretended to not know me. (×)
+→ He pretended not to know me. (√)
+(他假装不认识我。)
+Having not finished the work, I decided to stay. (×)
+→ Not having finished the work, I decided to stay. (√)
+(工作没完成，我决定留下来。)
+He was disappointed at not having finished the work. (√)
+(他很失望没把工作完成。)
+
+15. 助动词 + 副词 + 本动词：
+例: I can always count on you for advice.
+(我总是可以指望你给我忠告。)
+I never have seen him before. (劣)
+→ I have never seen him before. (√)
+(我以前从没见过他。)
+
+16. 副词修饰被动语态时，通常置于过去分词之前：
+例: His speech was well presented.
+(他演说得很好。)
+That case was finally settled.
+(那件事终于解决了。)
+That project had been checked very carefully before it was presented to the boss. (可)
+= That project had been very carefully checked before it was presented to the boss. (佳)
+(那份策划书在交给老板之前已很仔细地检查过。)
+
+17. more than 与倍数的关系：
+
+
+more than 应置于倍数之前。造句法则如下：
+a. 先造一个含有“倍数词 + as...as...”的句子：
+例: He has three times as much money as you do.
+(他的钱是你的三倍。)
+
+b. 再于“倍数词 + as...as...”的结构前置人 more than，即告完成。
+例: He has three times more than as much money as you do. (×)
+→ He has more than three times as much money as you do. (√)
+(他的钱超过你的三倍。)
+
+c. more than 亦可置于动词 double（增加一倍）之前。
+例: Our income has more than doubled in one year.
+(一年之内我们的收入增加了一倍多。)
+
+18. more than 与 over 的关系：
+over 作介词表“超过”时，可用 more than 代替。
+例: He has stayed here over a year.
+= He has stayed here more than a year.
+(他已待在此地一年多。)
+He has stayed here more than over a year. (×)
+He has stayed here much over a year. (×, much 应删除)
+Over five students are here.
+= More than five students are here.
+(这里的学生超过 5 人。)
+
+19. 避免双重比较：
+即 more richer、more better 等等。
+例: She is more beautiful than Mary. (√)
+(她比玛丽还美。)
+She is better than Mary. (√)
+(她比玛丽好。)
+She is more better than Mary. (×，因 better 已经是比较级，不可再被比较级副词
+more 修饰)
+→ She is much better than Mary. (√)
+(她比玛丽好很多。)
+
+
+People in Japan lead a more richer life than those in many other countries. (×) → People in Japan lead a much richer life than those in many other countries. (√) （日本的百姓比很多其他国家人民的生活富裕得多。）
+
+## 20. 避免双重否定：
+
+例: He hasn't never been to Japan before. (×)
+→ He has never been to Japan before. (√)
+= He hasn't ever been to Japan before.
+(他从来没去过日本。)
+* not ever = never
+You'll have to hurry up; we have hardly no time left. (×)
+→ You'll have to hurry up; we have hardly any time left. (√)
+(你必须快点，我们快没时间了。)
+
+
+注意
+scarcely = hardly = almost not，为否定副词，不可再与 no 或 not 连用，但可与 any 连用；scarely any = hardly any = almost not any。
+例: He cannot scarcely do this work. (×)
+→ He can scarcely do this work. (√)
+（他几乎不会做这工作。）
+He has hardly no money. (×)
+→ He has hardly any money. (√)
+（他几乎没有钱。）
+
+
+## 21. 关系副词 when、why、how、where:
+
+例: This is the time when we should set out.
+(= at which)
+（这就是我们该出发的时候。）
+This is the reason why he was late.
+(= for which)
+（这就是他为何迟到的理由。）
+
+
+This is | the way | he succeeded.
+how
+
+
+(这就是他成功的方法。)
+
+* how 虽是 the way 的关系副词，却不能同时使用，换言之，无 the way how 的用法。
+
+That is the place where I was born.
+
+(= in which)
+
+
+(那是我出生的地方。)
+
+That is the city how he lives. (×, city 为地方，故 how 应改为 where)
+
+注意
+关系副词亦可作复合关系副词，代替前面的名词（先行词），故上述例句亦可改为：
+This is when we should set out.
+(= the time when)
+This is why he succeeded.
+(= the reason why)
+This is how he'll do it.
+(= the way)
+This is where I was born.
+(= the place in which)
+
+
+## 22. 指示代词 that 及 this 可作副词用：
+
+分别译成“那样”、“这样”。例: The destination is too far away; I can't walk | that far. so far. （目的地太远了；我走不到那么远。）
+A: How big is the bear?
+B: It is about this big.
+（A：那只熊有多大？）
+（B：大概有这么大。）
+
+
+23. "I think so.":
+think、hope、believe、be afraid、imagine 等动词之后加 so，可代替肯定句，加 not 则代替否定句。
+例: A: Is he nice?
+B: Yes, I think so. (so = that he is nice)
+No, I think not. (not = that he is not nice)
+(A: 他人好吗？)
+(B: 我想他是好人。
+我看他不是好人。)
+A: Will he come?
+B: I'm afraid not. (not = that he will not come)
+I'm afraid so. (so = that he will come)
+(A: 他会来吗？)
+(B: 恐怕他不会来。
+恐怕他会来吧。)
+
+24. 副词 + 独立分词：
+独立分词 speaking 应用副词修饰，如 strictly speaking（严格地说）、frankly speaking（坦白地说）、generally speaking（概括地说）。
+例: Strict speaking, he is wrong. (×)
+→ Strictly speaking, he is wrong. (√)
+（严格地说，他是不对的。）
+
+
+25. all（三人以上一起）、both（两人一起）：
+例: John, Paul, and Peter will all come here tomorrow to celebrate Jack's birthday.
+（约翰、保罗和彼得明天都要来这里庆祝杰克的生日。）
+These five students are all good.
+（这五位都是好学生。）
+The two candidates are both qualified for this job.
+（这两位人选都有资格做此工作。）
+He and I will all go to America tomorrow. (×, all 应改为 both)
+→ He and I will both go to America tomorrow. (√)
+（他和我明天都要去美国。）
+
+26. 容易混淆的副词：
+a. close（近）、closely（仔细地，严密地）
+
+例: I live close to his house.
+= I live near his house.
+(我住在他家附近。)
+Watch him closely.
+(好好盯着他。)
+
+b. most（最）、mostly（大部分，大都）
+例: Of all the books here, this one is the most interesting.
+(在这些书中，这本最有趣。)
+These books are mostly out of date.
+(这些书大部分都过时了。)
+
+c. near（近）、nearly（= almost，几乎）
+例: He lives near, not far.
+(他住附近，不在远处。)
+He was nearly drowned.
+(他差点淹死了。)
+
+
+注意
+near 虽可作介词，但在下列短语中，near 之后仍应置入 to，形成固定短语：
+come near to + V-ing 差一点就……
+例: He came near to being drowned.
+= He came close to being drowned.
+= He was nearly drowned.
+（他差点淹死了。）
+
+
+high 表实际空间（可以用尺量）的 高
+deep
+wide
+highly 表程度而不指空间的 高
+deeply
+widely
+深
+宽
+图：The plane flew highly in the sky. (×)
+→ The plane flew high in the sky. (√)
+(飞机高高地在天上飞着。)
+
+
+He was high praised. (×)
+→ He was highly praised. (√)
+(他大大地受到赞扬。)
+We spoke high of him. (×)
+→ We spoke highly of him. (√)
+(我们赞扬他。)
+We think high of him. (×)
+→ We think highly of him. (√)
+(我们很看重他。)
+He dove deeply into the river. (×)
+→ He dove deep into the river. (√)
+(他潜入河中深处。)
+He was deep hurt. (×)
+→ He was deeply hurt. (√)
+(他伤得很重。)
+
+27. greatly 与 highly 之区别：
+a. greatly 表 “大量地，大大地”。
+例: He was greatly surprised.
+(他大大地吃了一惊。)
+The number of traffic accidents has increased greatly.
+(车祸次数大幅增加。)
+
+b. highly 表 “高高地”，通常与 “表扬”、“奖励”、“推荐” 等动词（如praise、recommend）连用。
+例: We think highly of him.
+(我们很看重他。)
+
+
+# EXERCISE
+
+## 1. 请选出一个正确的答案：
+
+1. Anna didn't like our new roommate, and _. (A) I don't too (B) neither I did (C) neither did I (D) I didn't also
+
+2. The population of many Alaskan towns has ____ doubled during the past three years.
+(A) much than (B) as more as than
+(C) as more than (D) more than
+
+3. ____ he began working in the chemical plant, he experienced pain when he breathed.
+(A) Shortly before (B) Not long after
+(C) No sooner than (D) No longer
+
+4. How many brand-new cars there are! Automobile production in the last ten years has increased ____. (A) highly (B) infinitely (C) in the large scale (D) greatly
+
+5. Bill wasn't happy about the delay, and _. (A) I was neither (B) I wasn't, either (C) neither I was (D) either was I
+
+6. The second hurricane struck the coastal states ____ three days after the first one.
+(A) during (B) just
+(C) not as much as (D) not as little as
+
+7. Who's that good-looking girl Frank is dancing with? I ____ her before.
+(A) never had seen (B) had never seen
+(C) saw never (D) have never seen
+
+8. When Arthur applied for a job, Professor Adams was able to recommend him ____. (A) very highly (B) with superb notices (C) greatly (D) with high regard
+
+9. Children learn very quickly. When they learn about a new subject, they often ____. (A) become too interested in it (B) very much are interested in it (C) become very interested in it (D) are interested very much in it
+
+10. The price of unleaded gasoline is ____ a dollar a gallon.
+(A) larger than (B) over
+(C) as great as (D) as many as
+
+11. John is very diligent. But his pay is not ____ for his work.
+(A) enough good (B) good enough
+(C) as good enough (D) good as enough
+
+12. You didn't hear us come in last night. That's good. We tried ____ noisy.
+(A) to be not (B) not to be
+(C) not be (D) be not
+
+13. This old desk isn't ____ to sell, but maybe we could give it to someone.
+(A) goodly enough
+(B) good enough
+(C) good as enough
+(D) enough good
+
+14. She overslept and was ____ late that she missed the bus.
+(A) so (B) too (C) much (D) very
+
+15. Eric nearly always wins the science award. That's because his projects are ____. (A) extremely presented well (B) well presented extremely (C) presented well extremely (D) extremely well presented
+
+16. Betty got married last week. ____ that she would get married so young.
+(A) I never dream
+(B) Never do I have dreamed
+(C) Do I never dream
+(D) I never dreamed
+
+17. My brother never does his homework in the morning. ____. (A) So does John (B) John is too (C) John doesn't too (D) Nor does John
+
+18. Take an umbrella when you go to Seattle, for it rains ____ there.
+(A) frequently (B) as frequent
+(C) most of times (D) much time
+
+19. I walked 8 miles today. I never guessed that I could walk ____ far.
+(A) that (B) this (C) such (D) as
+
+20. Prices for bikes at that store can run ____ $250.
+(A) as high as
+(B) so high to
+(C) as high to
+(D) so high as
+
+## II. 请选出错误的画线部分：
+
+21. Many of the observations made by Leonardo a little greater than 400 years (A) (B) ago about the movement of birds' wings have been verified by modern (C) (D) photos.
+
+22. The state legislature has approved the construction of a completely (A) (B) self-contained paper-recycling plant that will produce hardly no harmful (C) (D) waste materials.
+
+23. Of all the Christmas toys the boy saw in the window, the thing he wanted (A)(B) (C) more was a new bicycle. (D)
+
+24. Rain clouds and smoke caused by pollution look so much alike that one (A) cannot hardly tell the difference between the two of them. (B) (C) (D)
+
+25. The large ship sailed very good in any weather, never requiring more than (A) (B) (C) (D) one man at the wheel.
+
+26. A carefully trained observer can discover details very easy although others
+(A) (B) (C)
+never see them.
+(D)
+
+27. She spoke so indistinct that we did not know whether we were to precede or follow the procession.
+
+28. A Cezanne painting was recently sold at an auction for much over the (A)(B) (C) initially announced price. (D)
+
+29. Interest in automatic data processing has grown rapid since the first large (A) (B) (C) (D) calculators were introduced in 1950.
+
+30. Today divorce is not longer regarded as a disgrace nor a tragedy, not even a failure.
+(A) (B) (C) (D)
+
+## 标准答案
+
+![](https://gitee.com/shencanlong/englishism/raw/main/assets/lai/f8030d119291c02bba6569b45ba447939a28ba2773f74bb3b7d57cb35c88054b.jpg)
+
+
+1. (C) 2. (D) 3. (B) 4. (D) 5. (B) 6. (B) 7. (D) 8. (A) 9. (C) 10. (B)
+11. (B) 12. (B) 13. (B) 14. (A) 15. (D) 16. (D) 17. (D) 18. (A) 19. (A) 20. (A)
+21. (B) 22. (D) 23. (D) 24. (B) 25. (B) 26. (C) 27. (A) 28. (C) 29. (C) 30. (A)
+
+## 习题解说
+
+1. and neither did I.
+
+= nor did I.
+
+= and I didn't, either.
+
+2. more than 在此作副词用，修饰动词 doubled。
+
+3. shortly before... 就在……之前
+not long after... 在……之后没有多久
+
+4. greatly 大幅地
+in the large scale 应改为 on a large scale。
+
+5. 与第1题同理。
+
+6. (A) during 要接限定的时间，例如 during those three days、during that period。
+
+(B) just three days after the first one 就在第一个台风之后三天
+
+(C) (D) not as much as 及 not as little as 只能修饰不可数名词，但 three days 是可数名词，不能被 much 或 little 修饰。
+
+7. 过去完成时不能单独存在，一定要配合另一一般过去时从句。
+
+I had finished my job. (×)
+
+I had finished my job before you came. (√)
+
+(你来以前我工作就做好了。)
+
+8. (B) 无此短语
+
+(C) recommend（推荐）并非表“量”的概念，故不能用 greatly。
+
+(D) with high regard 为副词短语，表 “尊敬地”，此处与语意不合。
+
+9. (A) become too interested （变得太有趣而不能……）
+
+(B) very much 应置于 interested 之前。
+
+(C) very 可修饰作形容词用的过去分词，如 tired（感到累的）、interested（感到有趣的）。
+
+(D) very much 应置于 interested 之前。
+
+10. over + 数词 = more than + 数词（超过……）
+
+11. enough 作副词时，一定要置于其所修饰之形容词或副词之后。
+
+12. 不定式短语与 not 合用时，not 一定要置于不定式之前。
+
+13. 与第11题同理。
+
+14. so...that... 如此……以致……
+
+15. 副词修饰被动语态时，一定要置于过去分词之前。
+
+16. 本句应用一般过去时 I never dreamed... 表现在已知，但当时未想到。
+如使用现在完成时时应为 I have never dreamed... 或 Never have I dreamed...
+
+17. 与第1题同理
+
+18. 动词应用副词修饰。
+
+(B) 为形容词。
+
+(C) 若改为 most of the time（大部分时间）就对了。
+
+(D) much time “不少时间”通常作 spend、have 的宾语，用于否定句中。I don't spend much time practicing English every day.
+
+(我每天没有花很多时间练习英语。)
+We don't have much time left.
+
+(我们没剩多少时间了。)
+
+19. that far 那么远
+
+= so far
+
+20. as high as 高达……
+
+本短语中的 as 不可用 so 来代换，因为 “so...as” 只用于否定句中，而 “as...as” 则可用于肯定句或否定句中。
+
+21. (B) greater 应改为 more，表时间。
+
+22. (D) hardly no 应改为 hardly any = almost not any = almost no
+
+23. (D) more 应为 most，三者以上的比较。
+
+24. (B) cannot hardly 应改为 can hardly。
+
+25. (B) very good 应改为 very well，以修饰动词 sailed。
+
+26. (C) easy 应改为 easily，以修饰动词 discover。
+
+27. (A) indistinct 应改为 indistinctly（不清楚地）以修饰动词 spoke。
+
+28. (C) much over 应改为 over 或 more than。
+
+29. (C) rapid 应改为 rapidly，以修饰 grown。
+
+30. (A) not longer 应改为 no longer。

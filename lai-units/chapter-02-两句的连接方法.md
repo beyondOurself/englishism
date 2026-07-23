@@ -1,0 +1,981 @@
+[← 第1章](chapter-01-句子的形成.md) · [目录](00-目录.md) · [第3章 →](chapter-03-关系词.md)
+
+---
+
+# 第二章 两句的连接方法
+
+## 第二章 两句的连接方法
+
+## 概说
+
+我们从事英语写作时，总希望能用更多的单词、短语或句子来表示我们心中的意思，而我们从事英语阅读时，往往亦因复杂的修饰语弄得头昏脑胀看不下去。因此，我们得先熟悉单句的造句法，然后再精通两句或两句以上的连接方法，以克服这些障碍。
+
+我们在第一章既已详细讨论了单句的形成，故在本章中我们将研究两句的连接方法。赖老师建议同学们此时不妨洗把脸，深呼吸三次，以便有清醒的头脑正式与赖老师一块儿研究下去。（赖老师现在等你5分钟以便让你有时间去洗澡——哦，不，洗脸。）
+
+注意
+
+我们现在开始正式的讨论：
+
+两句连接的方法不外下列六种方式：
+
+第一种：破折号（一）
+
+例: He is versatile—he speaks five different languages and plays the piano very well.
+(他多才多艺——他会讲五种语言且钢琴弹得很好。)
+
+第二种：冒号（:）
+
+例: He has finally made his goal known to us: he wants to be a scientist.
+(他终于让我们知道他的目标：他要当科学家。)
+
+第三种：分号（;）
+
+例: He is nice; quite often he is seen helping others.
+(他人很好；常有人看见他在帮助别人。)
+
+第四种：并列连词
+
+例: He enjoys taking pictures, and he has decided to pursue the art as his life career.
+(他喜欢摄影，并且决定要追求此种艺术作为他的终身事业。)
+
+第五种：副词连词
+
+例: He deserves our respect because he is honest.
+
+（他值得我们尊敬，因为他诚实。）
+
+第六种：关系词
+
+例: He is a man who never tells lies.
+
+(他是个从不说谎的人。)
+
+由于这些连接符号或连词牵涉甚广，我们必须逐项讨论于后。
+
+# 第一节 连接符号
+
+通常用来连接两句的标点符号只有三个，即破折号（一）、冒号（:）、分号（;）。兹将此类连接符号介绍如下：
+
+## 1. 破折号：
+
+a. 此类符号有别于连字符（-）。前者用于连接句子或同位语，而后者则用以连接单词，形成复合词。
+
+例: 连字符：
+Water-skiing is my hobby.
+单词 单词
+(滑水是我的爱好。)
+The tiger is a man-eating animal.
+单词 单词
+(老虎是一种会吃人的动物。)
+
+b. 破折号连接句子时，用来强调第一个句子，以补充意思的不足。此时破折号有“也就是说”，或“换句话说”的意思。
+例: He is trash—he is good for nothing.
+（他是废物——他什么都不行。）
+= He is trash. That is to say, he is good for nothing.
+（他是废物。换句话说，他什么都不行。）
+*trash 原意为“垃圾”，是集合名词，不可数，故其前不置冠词 a。
+
+C. 破折号亦可用来连接同位语。
+
+例: He finally made his purpose known to us—to chase Susan.
+不定式短语，作同位语
+
+（他终于让我们知道了他的目的——追求苏珊。）
+His hobby—taking pictures—is far more interesting than mine.
+动名词短语，作同位语
+
+（他的爱好——摄影——比我的爱好有趣多了。）
+
+![](https://gitee.com/shencanlong/englishism/raw/main/assets/lai/c6f756a2024d2a4aee61a5bddb82b1d490aadcca7be002ae95b816883ce0502b.jpg)
+
+
+## 2. 冒号：
+
+此类符号亦可用以连接句子，来强调前面句中的名词。
+
+例: He has made his goal known: he wants to be a scientist.
+
+（他已经让大家知道他的目标了：他要当科学家。）
+
+## 3. 分号：
+
+a. 此类符号在文章中较常出现，等于“逗号 + 连词（and、so、but...）”。
+
+例: He is a man of principle; we all respect him.
+
+= He is a man of principle, so we all respect him.
+
+He is a photographer; quite often he travels abroad to take pictures.
+
+= He is a photographer, and quite often he travels abroad to take pictures.
+
+（他是个摄影家，常常出国摄影。）
+
+He is nice; no one likes him, though.
+
+= He is nice, but no one likes him.
+
+（他人很好，然而没人喜欢他。）
+
+b. 句中的对等语原本用逗号相隔，再以并列连词相连，但若某对等语中间有插入语时，会多出一些逗号。为了句意清楚起见，可用分号取代逗号。
+
+同学们看了上面这一段话后，一定会说：“哇！赖老师语无伦次！”别急，我们且先看下面的例子：
+
+He said that he had no money, that he had no friends to count on, and that he expected me to help him.
+
+上列句中有三个 that 从句，以 and 连接，共作 said 的宾语，因此这三个句子称为对等语或对等句，用逗号相隔。
+
+现在赖老师要在句中加入插入语，请注意标点符号的变化：
+
+图: He said that he had no money; that, because of his ill temper, he had no 插入语
+
+friends to count on; and that he expected me to help him.
+
+(他说他没钱，又说因脾气不好而没有朋友可投靠，所以希望我能帮助他。)
+
+本句用分号置于对等 that 从句之前，使读者很容易看出三个从句的对等关系。
+
+同理：
+
+He enjoys dancing, swimming and jogging.
+
+置人插入语之后：
+
+He enjoys dancing, which is his hobby; swimming, 插人语
+
+which he often does on Sundays; and jogging.
+插入语
+
+（他喜欢跳舞，那是他的爱好；也喜欢去游泳，而且周日常去；还喜欢慢跑。）
+
+## 第二节 并列连词
+
+## 1. 单一连词：
+
+基本的并列连词一共只有三个：and、or、but。此种连词可用以连接对等的单词，短语或句子，故称为并列连词。
+
+## a. 单词
+
+例: He and I enjoy singing.
+对等的主语
+(他和我都喜欢唱歌。)
+He is kind and handsome.
+对等的形容词作表语
+(他心地好，人又帅。)
+Is he sad or happy?
+对等的形容词作表语
+(他是伤心还是高兴？)
+He doesn't like her but hates her.
+对等的动词
+(他不是喜欢她，而是恨她。)
+
+## b. 短语
+
+例: I came to see him and (to) tell him the truth.
+对等的不定式短语
+(我来是要见他并告诉他实情。)
+Does he work in Taipei or in Shanghai?
+对等的介词短语
+(他是在台北还是在上海工作？)
+He is not good at English but poor at it.
+对等的形容词短语作表语
+(他英语不是很好，而是很差。)
+
+## c. 句子
+
+例: He works hard, and his father is proud of him.
+对等的分句
+(他很努力，而他父亲以他为荣。)
+
+He doesn't study, but his teacher likes him.
+对等的分句
+(他不学习，但他老师却喜欢他。)
+Did he fail because he was lazy or because he was careless?
+对等的状语从句
+(他失败是因他懒惰还是因他粗心呢？)
+I like John, who is easy to get along with but whose brother is too
+对等的定语从句（分别由 who 及 whose 引导）
+arrogant to associate with.
+(我喜欢约翰，他很容易相处，而他弟弟却很自大，难以相处。)
+
+## 2. and、or、but 衍生的其他连词：
+
+虽然基本的并列连词只有 and、or、but 三个，但亦可由此三个变化成下列数个连词：
+and → both...and... （一方面……同时也……）
+or → either...or... （要不就是……要不就是……）
+neither...nor... （既非……亦非……）
+but → not...but... （并非……而是……）
+not only...but also... （不仅……而且……）
+
+这些连词亦可连接对等的单词、短语或句子。
+
+## a. 单词
+
+例: Both Peter and Mary work hard.
+对等的主语
+(彼得与玛丽都努力工作。)
+He is not kind but cruel.
+对等的形容词作表语
+(他非但不仁慈，反而很残忍。)
+He will either stay or leave.
+对等的动词
+(他不是走就是留。)
+
+## b. 短语
+
+例: He went to the United States not only to learn English but (also) to know more about American culture.
+(他去美国不仅去学英语，也是去了解美国文化。)
+
+( “not only...but also...” 连接对等的不定式短语)
+He succeeded both because of his intelligence and because of his hard work.
+(他成功既因他的聪明，亦因他的努力。)
+(“both...and...”连接对等的副词短语)
+
+## C. 句子
+
+例: He succeeded both because he was intelligent and because he worked hard.
+(他成功既因为他聪明，亦因他努力。)
+(“both...and...”连接对等的状语从句)
+Not only can she sing, but she can (also) dance.
+(她不仅会唱歌，她也会跳舞。)
+(“Not only...but (also)...”连接对等的分句)
+
+## 3. as well as 与 rather than 作并列连词：
+
+下列连词亦视为并列连词，可连接对等的单词、短语或句子。
+as well as... 以及……
+rather than... 而非……
+
+## a. 单词
+
+例: We as well as John like it.
+对等的主语
+(我们和约翰都喜欢它。)
+He is happy rather than sad.
+对等的形容词
+(他很快乐，而不是伤心。)
+
+## b. 短语
+
+例: He is interested in music rather than in painting.
+(他对音乐有兴趣，而非对绘画有兴趣。)
+(rather than 连接对等的介词短语)
+He came here to learn English as well as to know more about life.
+(他来此地学英语并了解更多有关生活的事情。)
+(as well as 连接对等的不定式短语)
+
+## C. 句子
+
+He failed because he was lazy rather than because he was not intelligent.
+(他失败是因为懒惰，并非是因为他不聪明。)
+(as well as 连接对等的状语从句)
+I love her because she is intelligent as well as because she is considerate.
+(我爱她是因为她聪明，也因为她体贴。)
+(as well as 连接对等的状语从句)
+
+注言
+as well as 或 rather than 连接主语时，该句动词始终要随第一个主语做变化。
+
+例: He as well as I is interested in music.
+= He no less than I is interested in music.
+= He together with me is interested in music.
+= He along with me is interested in music.
+(他和我都对音乐有兴趣。)
+
+上列句中，由于 as well as（以及）与 no less than（以及）为并列连词，故之后接主格形态 I，以与 He 对等。而 together with（以及）或 along with（以及）则为介词，故之后接宾格形态 me，以作为 with 之宾语。
+
+例: He rather than I is interested in music.
+= He instead of me is interested in music.
+= He, not I, is interested in music.
+(他对音乐有兴趣，而我则不。)
+
+上列句中，由于 rather than 为并列连词，故之后接主格形态 I，以与 He 对等。而 instead of 则为介词，故之后接宾格形态 me，以作为 of 之宾语。not 亦可视为并列连词，等于 rather than，唯使用时，not 之前恒加逗号。
+
+例: I like this book, not that one.
+= I like this book rather than that one.
+(我喜欢这本书，而不喜欢那本。)
+
+使用 “both...and...” 等连词应注意事项：
+使用 both...and.../either...or.../neither...nor.../not...but.../not only...but also...等连词时，要注意下列事项：
+a. 连接主语时，“both...and...”之后始终接复数动词；其余连词连接主语时，动词则要随最近的主语做单复数变化。
+
+例: Both he and I are happy about it.
+(他与我对此事都高兴。)
+
+
+Either he or I am wrong.
+(不是他就是我错。)
+Neither you nor he is to blame.
+(既不是你也不是他该负责。)
+*be to blame = should be responsible 应负责
+Not he but I am to be responsible for it.
+(不是他而是我应对此事负责。)
+Not only they but (also) John has passed the exam.
+(不仅他们考试及格，连约翰也考及格了。)
+
+
+b. both...and... / neither...nor... / not...but...等三组连词通常不用来连接句子，而“not only...but also...”则可用来连接句子，唯 not only 引导的句子要采用倒装结构。赖老师相信此刻同学们又不知所云了。没关系，请你耐心看下面的解说，就会明白了。
+
+1) 句子是可以单独存在的，两个句子可以通过连词形成并列句，也可以与状语从句、定语从句并存形成主从复合句。
+
+例: He is good. 句子
+主语
+John seems to like it. 句子
+主语
+Peter is a man who never lies. (句子)
+主句 定语从句
+He said that he liked it.
+主语 vt. 名词性从句作宾语
+When he came, I was studying.
+状语从句 主句
+
+2) Both he is good at English, and he is good at math. (×)
+分句    分句
+
+→ He is good at both English and math. (√)
+(他擅长英语和数学。)
+Either you should listen to me, or you should get out of my sight. (可)
+分句    分句
+= You should either listen to me or get out of my sight. (佳)
+动词短语    动词短语
+(你要不就听我的话，要不就给我滚。)
+
+Neither you can talk here, nor you can eat here. (×)
+
+→ Not he but you are wrong. (佳)
+(错不在他，而在你。)
+但: Not only can she sing, but she can also dance. (√)
+分句    分句
+
+c. not only 由于是否定副词的关系，若置于第一个分句之前，该主句要采用倒装结构。而 but also 则为连词，所连接的第二个分句不须倒装。倒装原则依动词形式之不同，可分为下列三种情况：
+
+## 1) be 动词与主语倒装：
+
+2）助动词与主语倒装：
+
+例: Not only she can sing, but she can (also) dance. (×)
+
+(她不但能唱歌而且能跳舞。)
+
+Not only he has learned a lot from his teacher, but he has (also) done quite well in his studies. (×)
+
+→ Not only has he learned a lot from his teacher, but he has done quite well in his studies. (√)
+
+（他不仅从老师那儿学到很多，而且他的学习也很优异。）
+
+## 3）一般动词：
+
+倒装时要按主语人称与动词时态另加 do、does 或 did 于主语前，原有的动词一律改为原形动词。
+
+例: Not only she sings well, but she (also) dances beautifully. (×)
+
+Not only I hate him, but I (also) feel like killing him. (×)
+
+→ Not only do I hate him, but I feel like killing him. (√)
+
+(我不仅恨他，也想杀了他。)
+
+Not only he wrote good poems, but he could compose music. (×)
+
+→ Not only did he write good poems, but he could compose music. (√) （他不仅诗写得好，也能作曲。）
+
+d. “not only...but also...” 之中的 also 通常可以省略。若不省略，则连接单词或短语时 but also 不可分开，但连接句子时，but also一定要分开，也就是将 also 置于句中：
+
+## 1) 连接单词或短语：
+
+例: She is not only beautiful but (also) kind.
+
+(她不但美丽而且心地也很好。)
+
+She is interested not only in music but (also) in art.
+
+（她不仅对音乐有兴趣，对艺术也有兴趣。）
+
+He came here not only to learn English but (also) to know more about life.
+
+（他来此不仅要学英语，也要多了解人生。）
+
+2) 连接句子：
+
+例: Not only can she dance, but also she can sing. (×)
+
+→ Not only can she dance, but she can (also) sing. (√)
+
+e. not only...but also...
+
+= not only...but...as well
+
+例: She is not only beautiful but (also) kind.
+
+= She is not only beautiful but kind as well.
+
+Not only can she sing, but she can (also) dance.
+
+= Not only can she sing, but she can dance as well.
+
+f. not only... but also...
+
+= not merely...but also...
+
+= not just...but also...
+
+例: He enjoys not only dancing but (also) singing.
+
+= He enjoys \left|\begin{array}{c}not just \\ not merely\end{array}\right| dancing but singing as well.
+
+（他不仅喜欢跳舞，也喜欢唱歌。）
+
+## 5. 单一连词的独立用法：
+
+and、or、but 通常置于两个对等的句子之间，以发挥连词的功能。但有时，我们亦可见到 and、or、but 变成大写，置于单句句首，形成独立的用法。只是此类用法必须要有上下文才能成立。
+
+无上下文：
+
+And he took my advice. (×)
+
+有上下文：
+
+He was not sure how to handle the problem, but I told him not to worry about it until his father came. And he took my advice. (√)
+
+（他不能确定如何处理这个问题，但是我告诉他在他父亲来以前不用担心，而他接受了我的劝告。）
+
+无上下文：
+
+But he left just the same. (×)
+
+有上下文：
+
+Since it was raining hard, I asked him to stay lest he should catch a cold walking in the rain. But he left just the same. (√)
+
+( 因为雨下得很大，我要他留下来以免走在雨中着凉，但他还是走了。)
+
+*just the same = still 仍然
+
+## 第三节 副词连词
+
+在主从复合句中，because、if 等连词引导的从句充当状语，类似副词的功能，所以我们把这类连词叫做副词连词。
+
+## 1. 副词连词只能连接从句：
+
+I like him because he is easy to get along with.
+(我喜欢他是因为他很容易相处。)
+When he came, I was writing a letter.
+(当他来时，我正在写信。)
+上列句中，because 及 when 就是副词连词，用以连接主句和从句。
+
+
+## 2. 常用的的副词连词：
+
+because（因为）、though（虽然）、if（如果）、unless（除非）、as soon as（一旦）、once（一旦）等。
+
+## 3. 副词连词引导状语从句：
+
+副词连词冠于任何一个从句前面，该从句就成为状语从句，而状语从句绝不可能单独存在，一定要与主句共存。整个状语从句可视为副词，用来修饰主句。
+
+例: He is nice. 句子
+because he is nice 状语从句
+I like him. Because he is nice. (×)
+
+
+理由
+because he is nice 乃状语从句，不可单独存在。
+兹改正如下：
+I like him because he is nice. (√)
+主句 状语从句
+或：
+Because he is nice, I like him. (√)
+状语从句 主句
+
+
+## 4. 状语从句的位置：
+
+同学们应注意到，在上列改正过的结构中，because 引导的状语从句若置于主句之后，because 之前就不必加逗号。但 because 从句若置于主句之前，则两句之间就应置逗号。由此我们得知一个惯用的法则：任何一个副词连词所引导的从句若置于主句之后，两句之间通常不置逗号。但若该状语从句置于主句之前，则两句之间通常置逗号。
+例: Though he did poorly on the test, his father didn't scold him.
+
+状语从句 主句
+
+
+(他一听到这个消息就哭了。)
+
+
+(我有空的话，就会写信给你。)
+
+
+As soon as he heard the news, he cried.
+状语从句 主句
+
+
+（虽然他考试考得不好，他父亲并未责备他。）
+
+If I am free, I'll write you.
+状语从句 主句
+= I'll write you if I am free.
+主句 状语从句
+
+
+= He cried as soon as he heard the news.
+主句 状语从句
+
+
+以上只是一个通则，英美人士的写作中亦偶见有人将状语从句置于主句之后时，两句之间仍置逗号。
+
+## 5. 避免双重连接：
+
+此类情形尤其常发生在下列情况中：
+
+a. Because...so... (×)
+b. Though...but... (×)
+
+
+例: Because she is nice, so I like her very much. (×)
+
+理由
+Because 与 so 均为连词，造成双重连接，这是错误的结构。
+故: Because she is nice, I like her very much. (√)
+或: She is very nice, so I like her very much. (√)
+（因为她人很好，所以我很喜欢她。）
+
+
+<table><tr><td>Though</td><td>she is nice, but I don't like her. (×)</td></tr><tr><td>Although</td><td></td></tr><tr><td>Even if</td><td></td></tr><tr><td>Even though</td><td></td></tr></table>
+
+## 理由
+
+though（或 although、even if、even though）与 but 均为连词，故形成双重连接，这亦是错误的结构。
+
+故：
+例: Though she is nice, I don't like her. (√)
+Although
+Even if
+Even though
+或: She is nice, but I don't like her. (√)
+(她人很好，但我不喜欢她。)
+
+
+## 6. 条件句与主句的时态：
+
+when（当）、if（如果）、once（一旦）、as soon as（一旦 = once）、unless（除非）等副词连词所引导的从句，亦可表示一种条件，形成所谓的条件句。若用来表示将来的状况时，该条件句的时态要采用一般现在时（或现在完成时），而主句的时态则用一般将来时。即：
+
+If + 一般现在时（或现在完成时）动词, 主语 + will + 原形动词
+Once
+As soon as
+Unless
+When
+
+
+→ When I am rich, I will buy a car. (√)
+(我有钱时，就会买辆车。)
+If he will have time, he'll come here. (×)
+
+
+## → Once I am free, I will take a trip abroad. (√)
+
+→ It will be another two years before he graduates. (√)
+
+主句    条件句
+(他还要两年才毕业。)
+How long is it before he will come? (×)
+→ How long will it be before he comes? (√)
+主句形成的问句    条件句
+(他还要多久才来？)
+
+
+## 7. 连接性副词
+
+有些副词有连接的意味，但却不能作连词用，此类副词就称为连接性副词。此类副词前面要有分号，用以连接两句。
+
+a. however、nevertheless（然而）——有连词 but 的意味。
+
+例: He is nice; | however, | I don't like him.
+nevertheless,
+= He is nice, but I don't like him.
+= He is nice. | However, | I don't like him.
+Nevertheless,
+(他人很好，然而我却不喜欢他。)
+
+
+## 注意
+
+however 或 nevertheless 之后通常要加逗号。however 亦可插人在句中，两旁以逗号相隔。
+
+: He is nice; I, however, don't like him.
+= He is nice. I, however, don't like him.
+
+b. therefore、thus（因此）——有连词 so 的意味。
+例: He is kind; | therefore, | we all like him.
+| thus |
+= He is kind, so we all like him.
+= He is kind. | Therefore, | we all like him.
+| Thus
+（他很仁慈，因此我们全都喜欢他。）
+
+
+## 注意
+
+therefore 之后通常要加逗号，thus 则不加逗号。
+therefore 亦可插人在句中，两旁以逗号相隔。
+
+例: He is kind; we, therefore, like him.
+
+= He is kind. We, therefore, like him.
+
+c. moreover、furthermore、in addition（此外）——有连词 and 的意味。
+
+例: She dances well;
+
+= She dances well.
+
+furthermore,
+moreover,
+in addition,
+
+Furthermore,
+Moreover,
+In addition,
+
+= She dances well, and she is good at singing.
+(她舞跳得好，而且也擅长唱歌。)
+
+d. besides（此外）
+
+besides 与 in addition 均表 “此外”，不过前者多用于有否定或消极意味的句中，而 in addition 则用于肯定句或积极意味的句中（如上例）。
+
+例: I don't think I will go to the movies with you, John. I'm too tired; besides, I have no money.
+
+（我想我不会跟你去看电影了，约翰。我太累了；此外，我也没钱。）
+
+注意
+
+furthermore、moreover、besides、in addition 通常只置于主语前，而不插入句中。
+
+8. while 作副词连词及并列连词的用法：
+
+a. 表 “当……” 时，while 视为副词连词，引导状语从句。
+
+例: While I was writing a letter, she was doing the dishes.
+状语从句    主句
+
+（当我在写信时，她正在洗盘子。）
+
+b. where (= in the place where = in the place in which) (在……的地方)
+
+
+b. 表 “而……” 时，while 视为并列连词，连接并列句。
+
+例: He is nice, while his brother is bad.
+分句 whereas 分句
+= While he is nice, his brother is bad.
+分句 分句
+（他很好，而他弟弟却很坏。）
+
+
+## 9. 其他重要的副词连词：
+
+a. as（当；虽然；因为）
+1) as 作 “当” 解时，相当于 when 之意。
+例: As I was young, I was quite happy.
+(我年轻时很快乐。)
+
+
+2) as 作 “虽然” 解时，等于 though；though 引导的状语从句有下列句型变化：
+例: Though he is rich, he isn't happy.
+adj.
+= Rich as he is, he isn't happy.
+= As rich as he is, he isn't happy.
+（虽然他有钱，却并不快乐。）
+* 上句句首的 As 视作虚词，无意义，第二个 as 则视为连词，译成“虽然”。
+
+
+3) as 作 “因为” 解时，相当于 because 之意。
+例 As he has apologized to me, I'm going to forgive him.
+= Because he has apologized to me, I'm going to forgive him.
+(由于他已向我道歉，因此我会原谅他。)
+
+
+例: Where I live, people are very nice.
+= In the place where I live, people are very nice.
+(在我住的地方，大家都很友善。)
+Put the book where I can see it.
+= Put the book in the place where I can see it.
+(把书放在我可以看到的地方。)
+
+
+Where there is a will, there is a way.
+= In the place where there is a will, there is a way.
+(在有意志力的地方，就有一条道路——有志者事竟成。——谚语)
+
+c. once (一旦)
+: Once you hear any good news, let me know.
+= As soon as you hear any good news, let me know.
+(一旦听到什么好消息，立刻让我知道。)
+
+d. or（否则）
+F: You must work hard, or I'll fire you.
+= You must work hard; otherwise I'll fire you.
+（你要努力工作，否则我就炒你鱿鱼。）
+*or 是连词，用以连接两个否定的句子；otherwise 是连接性副词，并非连词，故之前置分号，以连接两句。
+
+
+## e. nor (也不)
+
+nor 是连词，用以连接两个否定的句子；nor 之后的分句要采用类似问句结构的倒装句型。
+
+图: She can't sing, nor can she dance.
+(她不会唱歌，也不会跳舞。)
+He isn't clever, nor is he diligent.
+(他既不聪明，也不勤劳。)
+He never lies, nor does he bully other kids.
+(他从不说谎，也不欺负其他孩子。)
+
+
+## f. so that（这样的话；以便）
+
+so that 引导的状语从句句中应有助动词 may、will、can 等。
+例: I got up early so that I could get to school on time.
+= I got up early in order that I could get to school on time.
+(我早起，这样我就可以准时上学。)
+
+## 注意
+
+英美人士也有人习惯用 so 取代 so that，此时 so 不得译成 “因此”，仍应译成 “这样的话” 或 “以便”，故上句亦可改写成：
+I got up early so I could get to school on time.
+
+g. so...that...（如此……以致于……）
+例: He is so nice that we all like him.
+（他人这么好，因此我们都很喜欢他。）
+
+注意
+英美人士也有人习惯将 that 省略，改以逗号取代，故上句亦可改写成：He is so nice, we all like him.
+
+## h. in that (因为)
+
+in that 相当于 because，只是 in that 引导的状语从句多置于主句之后，而 because 引导的状语从句可置于主句之前或之后。
+
+例: He is great in that he speaks five different languages.
+主句
+
+（他很了不起，因为他能说五种语言。）
+
+i. except that (只可惜，只不过是)
+例: He is nice except that he is a little shy.
+(他人不错，只不过有点儿害羞。)
+
+## j. since（因为：自从）
+
+since 表 “因为” 时，相当于 because 之意；表 “自从” 时，所引导的状语从句采一般过去时，主句则为现在完成时或现在完成进行时。
+
+Since you've finished the work, you may leave anytime.
+(由于你工作做完了，因此可以随时离开。)
+He has been studying quite hard (ever) since he went to college.
+(他自从上大学后，就一直很用功。)
+
+# EXERCISE
+
+## 1. 请选出一个正确的答案：
+
+1. Strike ____ the iron is hot.
+(A) before (B) after (C) while (D) during
+
+2. The chairman introduced the speaker ____ then he left the hall.
+(A): (B). (C), (D);
+
+3. We do not necessarily grow wiser ____ we grow older.
+(A) as (B) than (C) that (D) which
+
+4. The lecturer will come, ____ he will send a substitute.
+(A) or (B) and (C) otherwise (D) but
+
+5. I cannot afford a new car ____, I have an old Ford.
+(A), besides (B); besides (C), beside (D); beside
+
+6. I will not accept the position, ____ do I want you to take it.
+(A) neither (B) either (C) nor (D) or
+
+7. You will not be able to keep your appointment ____ you hurry.
+(A) for (B) because (C) unless (D) if
+
+8. Put the manuscript ____ the editor can find it.
+(A) when (B) where (C) which (D) how
+
+9. I do the work ____ he gets the credit!
+(A) then (B); (C) for (D) so
+
+10. We were so late ____ we missed the concert.
+(A) that (B) and (C) because (D) before
+
+11. You have broken the law; ____, you must be punished.
+(A) so (B) since (C) therefore (D) because
+
+12. Although he is rich, ____ he is not happy.
+(A) × (B) but (C) however (D) because
+
+13. It will not be long ____ I come back.
+(A) when (B) after (C) before (D) if
+
+14. You must not waste time ____ life is short.
+(A) so (B) though (C) in that (D) because of
+
+15. ____ you insist, I will reconsider the matter.
+(A) Since (B) But (C) When (D) For
+
+16. ____ I know, he is very honest.
+(A) As soon as (B) As well as (C) As far as (D) As long as
+
+17. ____ to New York, her father has not heard from her.
+(A) Because she went
+(B) After she went
+(C) When she went
+(D) Since she went
+
+18. She is going to buy a hat after she ____ a check.
+(A) will cash (B) cashes (C) would cash (D) should cash
+
+19. Go ____ me some ice cream.
+(A) for get
+(B) and get
+(C) to getting
+(D) as well as getting
+
+20. It is ____ day that travel advisories have been issued for most of the major highways.
+(A) such snowy (B) so snowy (C) such a snowy (D) such snowy a
+
+21. The concert will ____ commence until the conductor arrives.
+(A) soon (B) not (C) immediately (D) now
+
+22. Either you or he ____ wrong.
+(A) are (B) am (C) be (D) is
+
+23. The sentence "In spite of his wealth, he is not happy." is equal to "____"
+(A) Rich as he is, he is not happy.
+(B) Although he is wealth, he is not happy.
+(C) Although he is rich, but he is not happy.
+(D) Although he is not happy, but he is rich.
+
+24. Smith wrote his first poem ____. (A) while he worked a porter in a saloon in New York (B) while he was working as a porter in a saloon in New York (C) while worked as a porter in a saloon in New York (D) while he was worked as a porter in a saloon in New York
+
+25. It is not safe to get out a car _. (A) unless it is in motion (B) until it has come to a stop (C) after you have opened the window (D) before the traffic light turns red
+
+## II. 请选出画线部分的错误：
+
+26. Few-of the gold seekers who flocked to California were experienced miners,
+(A) (B)
+neither did they feel that they had to be.
+(C) (D)
+
+27. Even although Juan is studying physics now, he is planning to spend (A) (B) (C) next year studying biology and paleontology. (D)
+
+28. John, a versatile young man, is skilled in either drawing and singing.
+(A) (B) (C) (D)
+
+29. Nothing is such hard that it will not become easy by practice.
+(A) (B) (C) (D)
+
+30. I went to see the zoo during I stayed in Bangkok.
+(A) (B) (C) (D)
+
+## 标准答案
+
+![](https://gitee.com/shencanlong/englishism/raw/main/assets/lai/d62254b6968417201809dc1663029bfbecff9f07937c68074f149fa722268360.jpg)
+
+
+1. (C) 2. (D) 3. (A) 4. (A) 5. (B) 6. (C) 7. (C) 8. (B) 9. (B) 10. (A)
+
+11. (C) 12. (A) 13. (C) 14. (C) 15. (A) 16. (C) 17. (D) 18. (B) 19. (B) 20. (C)
+
+21. (B) 22. (D) 23. (A) 24. (B) 25. (B) 26. (C) 27. (A) 28. (C) 29. (B) 30. (C)
+
+![](https://gitee.com/shencanlong/englishism/raw/main/assets/lai/f33e56033c23c57b7eacb5aed9d92fa310039fdc18a3669264b2eba84a90db4f.jpg)
+
+
+## 习题解说
+
+1. 本句的中译为“打铁趁热。”，while 是副词连词，指在某一段时间内，相当于 during the time 之意。
+
+2. then 为副词，之前须加分号，以连接两个对等的句子。
+
+3. 此处的副词连词 as 表 “当”。
+
+4. or 和 otherwise 均表 “否则”，但前者为连词，后者为副词，故此处须选 or。
+
+5. besides 为连接性副词，连接两句时，前面须加分号。
+
+6. nor 是连词，neither 是副词，故此处用 nor 连接两句。
+
+7. unless 和 if 均可引导条件句，但前者表 “除非”，后者表 “如果”，语意相反。
+
+8. where 可作副词连词，等于 in the place where（在……的地方）引导状语从句，表示地方。
+
+There are many trees where I live.
+
+(我住的地方有许多树。)
+
+9. 没有并列连词连接的两个句子之间可用分号或破折号连接。
+
+10. so + | 形容词 + that 从句 如此……以致于……
+副词
+
+11. so 和 therefore 均表 “因此”，但前者为连词，后者为副词，本题的空格前已有分号，故空格中应填入 therefore。
+
+12. Although 和 but 均为连词，二者不可同时出现，以免造成双重连接。
+
+13. it will not be long before... 再过不久就……
+
+14. in that 由于
+
+= because
+
+15. since 既然
+
+= now that
+
+16. as far as one knows 就某人所知
+
+= to one's knowledge
+
+= to one's understanding
+
+17. since 引导的状语从句用一般过去时，其所修饰的主句则用现在完成时。
+She has | studied | since she came home.
+been studying
+
+(她从回家后就一直在学习。)
+
+18. 表时间或条件的状语从句中，必须用一般现在时代替一般将来时。
+
+19. Go and get me some ice cream.
+
+= Go to get me some ice cream.
+(去帮我弄点冰淇淋来。)
+
+20. such a(n) + 形容词 + 单数名词 + that 从句
+She is | such a charming girl | that every boy is pursuing her.
+so charming a girl
+
+（她是如此迷人的一位女孩，每个男孩都在追她。）
+
+21. not...until... 直到……才……
+
+22. either...or... 连接两个主语时，动词的单复数须以靠近的主语做变化。
+
+23. although + 主语 + be 动词 + 形容词
+= 形容词 + as + 主语 + be 动词
+Although he is fat, he runs fast.
+= Fat as he is, he runs fast.
+(他虽然胖，但跑得很快。)
+
+24. ...while he worked as a porter...
+
+= ...while working as a porter...
+
+25. 与 21 题同理。
+
+26. neither 为副词，不可作连词，故 (C) 应改为 nor。
+
+27. Even although 应改为 Even though。
+
+28. either 无法与 and 形成连词短语，必须改成 both。
+both...and... 两者都……
+either...or... 不是……就是……
+
+29. such 是形容词，表 “这样的”，之后只能接名词，如 such a man（这样的人）；so 是副词，表 “如此地”，之后应接形容词，原句 hard（困难的）是形容词，故之前的 such 应改为 so。
+
+30. during 为介词，无法连接从句，应改为 while。
